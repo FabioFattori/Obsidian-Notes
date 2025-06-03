@@ -77,3 +77,4 @@ Una funzione kernel è una funzione che misura la somiglianza tra due dati, perm
 Ne esistono diversi tipi, RBG (Gaussian Radial Basis Function) è uno fra questi.
 #### RBF (Usata nel progetto per SVM)
 ![[RBFKernel.png]]
+Ricordiamo che $(x-\mu^i)^2$ è la distanza euclidea.
