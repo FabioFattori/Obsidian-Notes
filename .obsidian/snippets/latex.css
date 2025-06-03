@@ -1,0 +1,18 @@
+mjx-container { % works for live preview and reading mode
+	line-height: 0px;
+	font-size: calc(1.5 * var(--editor-font-size));
+}
+
+/* reading mode */
+.markdown-preview-view {
+  font-family: 'CMU Serif Bold' !important;
+}
+
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-scroller {
+    font-family: 'CMU Serif Bold' !important;
+}
+
+mjx-math[display="true"] {
+    font-size: 115% !important;
+}

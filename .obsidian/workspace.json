@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "5d19c9f3f537370e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e966a5454ba7410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d521519e477d28b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applicazioni Data Intensive"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de87ff6043e2ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b0a49a6c70b1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "236d99eeb2bf1ece",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "0a701b24c16b6039",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "6758cb9dbefd28c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88847ce415c059b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cffb387111320d69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379fdf104cd9949a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AmbrogioAI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a AmbrogioAI"
+            }
+          },
+          {
+            "id": "dbb49bdf972d6937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AmbrogioAI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da AmbrogioAI"
+            }
+          },
+          {
+            "id": "9317ead2d61bd298",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "a2edb2b57b7c4526",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Applicazioni Data Intensive"
+            }
+          },
+          {
+            "id": "6ceab9df1fe4b4b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6ceab9df1fe4b4b8",
+  "lastOpenFiles": [
+    "Data Intensive Notes/images/RegLineareMultivariata.png",
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
+    "Pasted image 20250602170214.png",
+    "Data Intensive Notes/images/GradientDescent.png",
+    "Data Intensive Notes/images/errorCurve.png",
+    "Data Intensive Notes/images/regLineareUnivariata.png",
+    "Data Intensive Notes/images",
+    "Tesi Shit/AmbrogioAI.md",
+    "Data Intensive Notes",
+    "Tesi Shit",
+    "AmbrogioAI.pdf",
+    "Tesi Shit/Images/ConnectionsMapForPrototype.png",
+    "Tesi Shit/Images/ResNet50Architecture.png",
+    "Tesi Shit/Images",
+    "classes/AmbrogioResNet50.py.md",
+    "classes",
+    "crea un collegamento.md"
+  ]
+}
