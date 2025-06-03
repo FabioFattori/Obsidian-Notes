@@ -161,7 +161,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d521519e477d28b4",
+  "active": "6ceab9df1fe4b4b8",
   "lastOpenFiles": [
     "Data Intensive Notes/images/RegLineareMultivariata.png",
     "Data Intensive Notes/Applicazioni Data Intensive.md",

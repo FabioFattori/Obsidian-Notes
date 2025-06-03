@@ -68,3 +68,9 @@ $$CI = R^2 +- t * \sqrt{VR}$$ dove:
 La regressione polinomiale è una generalizzazione di quella lineare con altri termini di grado superiore, usata per ottenere modelli capaci di descrivere dataset più complessi.
 Regressione Polinomiale Univariata di grado 3: $$h(x)=\theta_0+\theta_1x+\theta_2x^2+\theta_3x^3$$
 Regressione Polinomiale multivariata di grado 2:$$h(a,b)= \theta_0+\theta_1a_1+\theta_2a^2+\theta_3b+\theta_4ab+\theta_5b^2$$
+### Regolarizzazione => Ridge Regression
+Il grado della regressione polinomiale misura la complessità del modello di learning, il vero problema è che i coefficienti del polinomio provocano una forte oscillazione peggiorando l'accuratezza.
+Quindi la <strong>regolarizzazione</strong> punta a ridurre il valore dei coefficienti nel seguente modo:
+Viene aggiunto alla funzione d'errore da minimizzare anche $\lambda*\theta$ dove $\lambda$ è un iperparametro $-0<= \lambda<\infty$  
+### RBF => Funzione Kernel
+Una funzione kernel
