@@ -64,3 +64,7 @@ $$CI = R^2 +- t * \sqrt{VR}$$ dove:
 - $VR$ è la Varianza data da: $$\frac{4*R^2*(1-R^2)^2 *(n-k-1)^2 }{(n^2-1)*(n+3)}$$
 	Dove $n$ è il numero di istanze del test set e $k$ il numero di variabili di input.
 - e $\sqrt{VR}$ rappresenta l'errore standard, anche chiamata deviazione standard.
+## Regressione Non Lineare (Polinomiale)
+La regressione polinomiale è una generalizzazione di quella lineare con altri termini di grado superiore, usata per ottenere modelli capaci di descrivere dataset più complessi.
+Regressione Polinomiale Univariata di grado 3: $$h(x)=\theta_0+\theta_1x+\theta_2x^2+\theta_3x^3$$
+Regressione Polinomiale multivariata di grado 2:$$h(a,b)= \theta_0+\theta_1a_1+\theta_2a^2+\theta_3b+\theta_4ab+\theta_5b^2$$

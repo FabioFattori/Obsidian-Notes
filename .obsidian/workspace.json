@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AmbrogioAI.md",
+                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a AmbrogioAI"
+              "title": "Riferimenti a Applicazioni Data Intensive"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AmbrogioAI.md",
+                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da AmbrogioAI"
+              "title": "Collegamenti in uscita da Applicazioni Data Intensive"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ceab9df1fe4b4b8",
+  "active": "d521519e477d28b4",
   "lastOpenFiles": [
     "Data Intensive Notes/images/RegLineareMultivariata.png",
     "Data Intensive Notes/Applicazioni Data Intensive.md",
