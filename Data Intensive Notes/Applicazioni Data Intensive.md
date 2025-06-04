@@ -94,5 +94,10 @@ Basta potare quando:
 Caso in cui l'albero fa delle classificazioni:
 - Basta potare quando tutte le istanze di una foglia hanno la stessa label.
 ##### T-Test Student
-è il test statistico di cui sopra, e serve per testare a livello statistico se le differenze fra due foglie siano date dal caso oppure siano significative, sono date dal caso solamente quando $t\\-value < soglia$, la soglia è scelta arbitrariamente.
-Possiamo definire anche p-value, che è la probabilità che la differenza tra i due gruppi sia frutto del caso
+è il test statistico di cui sopra, e serve per testare a livello statistico se le differenze fra due foglie siano date dal caso oppure siano significative, sono date dal caso solamente quando $t\\-value > soglia$, la soglia è scelta arbitrariamente.
+Possiamo definire anche p-value, che è la probabilità che la differenza tra i due gruppi sia frutto del caso.
+Quindi possiamo dire che t-value e p-value siano inversamente proporzionali.
+Medie delle foglia sinistra ($<$) e destra ($\geq$): 
+$$\overline{y}_< = \frac{\sum_{i\in{S_{j,<}}}y_i}{|S_{j,<}|} , \overline{y}_\geq = \frac{\sum_{i\in{S_{j,\geq}}}y_i}{|S_{j,\geq}|}$$
+Varianza:$$\sigma^2_{\overline{y}_<} = \frac{\sum_{i\in S_{j,<}}(y_i-\overline{y}_<)^2}{|S_{j,<}|-1} , \sigma^2_{\overline{y}_\geq} = \frac{\sum_{i\in S_{j,\geq}}(y_i-\overline{y}_\geq)^2}{|S_{j,\geq}|-1}$$ 
+$$t-score = \frac{\overline{y}_< - \overline{y}_\geq}{\sqrt{\frac{\sigma^2_{\overline{y}_<}}{|S_{j,<}|}-\frac{\sigma^2_{\overline{y}_\geq}}{|S_{j,\geq}|}}}$$
