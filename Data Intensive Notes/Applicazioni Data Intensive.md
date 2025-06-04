@@ -80,3 +80,9 @@ Ne esistono diversi tipi, RBG (Gaussian Radial Basis Function) è uno fra questi
 Ricordiamo che $(x-\mu^i)^2$ è la distanza euclidea.
 ## Alberi di Regressione
 ![[RegressionTree.png]]
+![[RegressionTree2.png]]
+La complessità del modello in questo caso è direttamente proporzionale alla profondità dell'albero, però più è profondo, quindi complesso, e più possiamo avere dell'overfitting.
+Per evitarlo possiamo utilizzare la regolarizzazione vista nella Regressione lineare.
+#### Strategie per creare l'albero
+1. lasciare crescere l'albero fino a che la loss function aumenta
+2. lasciare crescere completamente l'albero, quindi renderlo il più complesso possibile, per poi andarlo a potare fino a quando la loss torna ad aumentare
