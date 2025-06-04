@@ -135,4 +135,4 @@ Che volendo possiamo anche fare che $$-y(b+wx)<0 <==> max(0,-y(b+wx)) = 0$$
 dove la seconda restituisce 0 se la classe viene predetta correttamente, altrimenti il valore è positivo.
 Quindi per minimizzare l'errore, rispetto a $b$ e $w$, avremo che la somma della espressione sulle $m$ istanze di training  è come segue:$$minimize_{b,w} \sum_{i=1}^m{max(0,-y_i*h_w(x_i))} \ \ \ \ \ \ \ dove \ h_w(x_i) = b+wx_i$$
 ##### PROBLEMA
-La funzione è continua e convessa ma NON derivabile quindi il gradient descent sappiamo tutti quanti dove ce lo possiamo infilare $\prod$ 
+La funzione è continua e convessa ma NON derivabile quindi il gradient descent sappiamo tutti quanti dove ce lo possiamo infilare!
