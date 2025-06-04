@@ -71,7 +71,7 @@ Regressione Polinomiale multivariata di grado 2:$$h(a,b)= \theta_0+\theta_1a_1+\
 ### Regolarizzazione => Ridge Regression
 Il grado della regressione polinomiale misura la complessità del modello di learning, il vero problema è che i coefficienti del polinomio provocano una forte oscillazione peggiorando l'accuratezza.
 Quindi la <strong>regolarizzazione</strong> punta a ridurre il valore dei coefficienti nel seguente modo:
-Viene aggiunto alla funzione d'errore da minimizzare anche $\lambda*\theta$ dove $\lambda$ è un iperparametro $-0<= \lambda<\infty$  
+Viene aggiunto alla funzione d'errore da minimizzare anche $\lambda*\theta$ dove $\lambda$ è un iperparametro $-0\leq \lambda<\infty$   
 ### Funzione Kernel
 Una funzione kernel è una funzione che misura la somiglianza tra due dati, permettendo di calcolare il prodotto scalare in uno spazio ad alta (infinita) dimensione senza dover esplicitamente trasformare quei dati e memorizzarli.
 Ne esistono diversi tipi, RBG (Gaussian Radial Basis Function) è uno fra questi.
@@ -105,4 +105,7 @@ $$t-score = \frac{\overline{y}_< - \overline{y}_\geq}{\sqrt{\frac{\sigma^2_{\ove
 Normalmente l'errore diminuisce combinando diversi alberi semplici, creati sullo stesso dataset (Ensemble Learning):
 - vengono utilizzati per ciascun albero un sottoinsieme casuale non disgiunto, bagging o boostrap aggregating, e sottoinsiemi casuali di variabili di input (RANDOM FOREST)
 	![[RandomForestBaseSystem.png]]
--  
+- alberi in sequenza da errori residui del precedente: gradient boostring, xgboost ...
+	Il funzionamento base è quello di un Training Additivo di modelli, perchè:
+	![[SequenceTrees.png]]
+	
