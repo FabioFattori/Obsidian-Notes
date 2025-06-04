@@ -101,3 +101,8 @@ Medie delle foglia sinistra ($<$) e destra ($\geq$):
 $$\overline{y}_< = \frac{\sum_{i\in{S_{j,<}}}y_i}{|S_{j,<}|} , \overline{y}_\geq = \frac{\sum_{i\in{S_{j,\geq}}}y_i}{|S_{j,\geq}|}$$
 Varianza:$$\sigma^2_{\overline{y}_<} = \frac{\sum_{i\in S_{j,<}}(y_i-\overline{y}_<)^2}{|S_{j,<}|-1} , \sigma^2_{\overline{y}_\geq} = \frac{\sum_{i\in S_{j,\geq}}(y_i-\overline{y}_\geq)^2}{|S_{j,\geq}|-1}$$ 
 $$t-score = \frac{\overline{y}_< - \overline{y}_\geq}{\sqrt{\frac{\sigma^2_{\overline{y}_<}}{|S_{j,<}|}-\frac{\sigma^2_{\overline{y}_\geq}}{|S_{j,\geq}|}}}$$
+## Foreste di Regressione
+Normalmente l'errore diminuisce combinando diversi alberi semplici, creati sullo stesso dataset (Ensemble Learning):
+- vengono utilizzati per ciascun albero un sottoinsieme casuale non disgiunto, bagging o boostrap aggregating, e sottoinsiemi casuali di variabili di input (RANDOM FOREST)
+	![[RandomForestBaseSystem.png]]
+-  
