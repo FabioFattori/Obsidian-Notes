@@ -86,3 +86,13 @@ Per evitarlo possiamo utilizzare la regolarizzazione vista nella Regressione lin
 #### Strategie per creare l'albero
 1. lasciare crescere l'albero fino a che la loss function aumenta
 2. lasciare crescere completamente l'albero, quindi renderlo il più complesso possibile, per poi andarlo a potare fino a quando la loss torna ad aumentare
+#### Regole di Potatura
+Basta potare quando:
+- ogni foglia contiene una sola istanza o un numero di istanze inferiore ad una soglia (iperparametro).
+- il numero di foglie è inferiore ad una soglia o quando l'errore nella foglia è inferiore ad una soglia.
+- il p-value della differenza tra le due regressioni ottenute nella divisione di un nodo in 2 foglie è maggiore di una soglia in base ad un test statistico (t-test Student).
+Caso in cui l'albero fa delle classificazioni:
+- Basta potare quando tutte le istanze di una foglia hanno la stessa label.
+##### T-Test Student
+è il test statistico di cui sopra, e serve per testare a livello statistico se le differenze fra due foglie siano date dal caso oppure siano significative, sono date dal caso solamente quando $t\\-value < soglia$, la soglia è scelta arbitrariamente.
+Possiamo definire anche p-value, che è la probabilità che la differenza tra i due gruppi sia frutto del caso
