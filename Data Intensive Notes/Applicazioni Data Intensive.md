@@ -79,3 +79,4 @@ Ne esistono diversi tipi, RBG (Gaussian Radial Basis Function) è uno fra questi
 ![[RBFKernel.png]]
 Ricordiamo che $(x-\mu^i)^2$ è la distanza euclidea.
 ## Alberi di Regressione
+![[RegressionTree.png]]
