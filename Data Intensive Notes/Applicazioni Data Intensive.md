@@ -115,4 +115,17 @@ Dove $w$ è il vettore colonna $n \times 1$ dei coefficienti delle variabili di 
 $b$ invece è il bias o intercetta, quindi è il valore di default quando $x=0$.
 La distanza da l'iperpiano, ovvero la retta formata da $w^Tx+b=0$, di un qualsiasi punto viene calcolata così:$$d = \frac{w^Tx+b}{||w||}$$
 #### Come i classificatori trovano l'iperpiano
-Perceptron, Regressione Logistica e Regressione 
+- Perceptron, Regressione Logistica e Regressione Lineare con soglia (e altri) trovano un iperpiano di separazione non ottimale, la ricerca di questo iperpiano viene influenzata da tutti i punti sul piano.
+- SVM invece trova un iperpiano di separazione ottimale utilizzando per la ricerca solo i "punti difficili" ovvero quelli vicini al decision boundart. 
+### Classificatori Non Lineari
+ci sono due scuole di pensiero:
+- Soluzioni che trasformano lo spazio dei dati in modo che le classi diventino separabili linearmente => SMV, Reti Neurali ...
+- Soluzioni intrinsecamente non lineari => Decision Tree, RandomForest, Gradient Boosting, XGboost.
+In generale più variabili hanno i dati e più sono separabili linearmente.
+### Classificatori Lineari
+#### Perceptron 
+Antenato delle Reti Neurali.
+Il Perceptron di default lavora con 2 classi, quindi è un classificatore binario, proprio per questo possiamo dire che: $$y = \begin{cases}
+x = 0 \\ y=0
+\
+$$
