@@ -108,4 +108,11 @@ Normalmente l'errore diminuisce combinando diversi alberi semplici, creati sullo
 - alberi in sequenza da errori residui del precedente: gradient boostring, xgboost ...
 	Il funzionamento base è quello di un Training Additivo di modelli, perchè:
 	![[SequenceTrees.png]]
-	
+# Classificare
+Significa trovare una funzione che massimizzi la separazione tra le classi.
+![[ClassifierIperpiano.png]]
+Dove $w$ è il vettore colonna $n \times 1$ dei coefficienti delle variabili di input, $n$ è il numero di variabili di input, $w$ prende anche il nome di vettore dei pesi.
+$b$ invece è il bias o intercetta, quindi è il valore di default quando $x=0$.
+La distanza da l'iperpiano, ovvero la retta formata da $w^Tx+b=0$, di un qualsiasi punto viene calcolata così:$$d = \frac{w^Tx+b}{||w||}$$
+#### Come i classificatori trovano l'iperpiano
+Perceptron, Regressione Logistica e Regressione 
