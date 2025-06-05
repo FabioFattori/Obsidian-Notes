@@ -124,10 +124,7 @@ In generale più variabili hanno i dati e più sono separabili linearmente.
 Antenato delle Reti Neurali.
 Il Perceptron di default lavora con 2 classi, quindi è un classificatore binario, proprio per questo possiamo dire che: $$y = \begin{cases}
 -1 \ if\ class\ A  \\ +1\ if\ class\ B 
-\end{cases}
-$$
-
-^c86fb7
+\end{cases}$$
 
 dove $y$ è l'etichetta.
 La forma compatta è la seguente => $-y(b+wx)<0$ 
@@ -162,4 +159,6 @@ l’iperpiano individuato da Perceptron e Regressione Logistica è uno dei tanti
 ![[miglioreSuperpiano.png]]
 ![[svmDefinitionP.png]]
 $p$ viene trovato summando le due distanze dei support vectors $s_1,s_2$ quindi:$$\frac{|w^Ts_1+b|}{||w||}+\frac{|w^Ts_2+b|}{||w||} = \frac{1}{||w||}+\frac{1}{||w||} = \frac{2}{||w||} = p$$
-le prime due formule sono le formule delle distanze da $s_1$ e $s_2$ come spiegato [[#^c86fb7]].
+le prime due formule sono le formule delle distanze da $s_1$ e $s_2$ come spiegato [[#Classificare]].
+Inoltre bisogna dire che b (bias, intercetta) descrive quanto l'iperpiano $w^Tx+b=0$ sia distanze dall'origine del piano cartesiano perchè il punto dell'origine $(0,0)$ sottintende che $w^Tx=0, x=0$ e quindi $d=\frac{b}{||w||}$.
+![[finalSVMClassifierFunction.png]]
