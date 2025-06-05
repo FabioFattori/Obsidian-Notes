@@ -165,3 +165,13 @@ Inoltre bisogna dire che b (bias, intercetta) descrive quanto l'iperpiano $w^Tx+
 ![[multiclassSVM.png]]
 ![[softMargin.png]]
 ### SVM non Lineare
+SVM prima riusciva a dividere linearmente i dati perchè erano separabili, ma con dati non separabili linearmente dobbiamo mapparli in uno spazio con maggiori dimensioni dove diventano divisibili linearmente.
+Il mapping viene fatto tramite una funzione non lineare:
+![[SVM non lineari.png]]
+![[OttimizationSvmNonLinear.png]]
+dove $C\sum_i\xi_i$ è la somma delle variabili di slack ($\xi \geq 0 , per \ ogni \ i$)
+#### PROBLEMA => Maledizione della Dimensionalità
+![[Maledizione.png]]
+Perchè si ottiene che $nOperazioni =O(\frac{1}{2}n(n+1))$ dove $n =$ dimensione dello spazio iniziale.
+Quindi in generale trasformazioni con polinomi di grado $g$ costano $\cong O(\frac{n^g}{g!})$  
+![[BigProblemMyGuy.png]]
