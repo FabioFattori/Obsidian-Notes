@@ -157,3 +157,7 @@ Ad ogni istanza $x$ si assegna la classe $y$ corrispondente al piano $j$ che mas
 ![[MultimodalClassifier.png]]
 ### Problema Classi Sbilanciate
 ![[SbilanciateCLasses.png]]
+## Stabilire l'iperpiano migliore
+l’iperpiano individuato da Perceptron e Regressione Logistica è uno dei tanti possibili iperpiani di separazione.
+![[miglioreSuperpiano.png]]
+![[]]
