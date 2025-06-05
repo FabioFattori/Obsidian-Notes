@@ -145,4 +145,11 @@ funzione nota come <strong>Logisti Loss</strong> alla quale possiamo aggiungere 
 Viene fatta la derivata della logistic loss con norma L2(quella sopra) e poi al risultato vengono determinati die parametri w migliori con discesa del gradiente ottenendo$$\tilde{w}=\tilde{w}-\eta(\sum^m_{i=1}-\frac{y_i\tilde{x}}{1+e^{y_i*h_w(\tilde x_i)}}+\lambda\tilde{w})$$
 dove le $\sim$ stanno ad indicare dei vettori regolarizzati.
 Fatta sta roba abbiamo la <strong>sigmoid</strong>:$\sigma(h_\tilde{w}(\tilde{x})) = \frac{1}{1+e^{-(b+wx)}} \ \ \ \ \ \ \ dove \ b+xw$ è l'iperpiano individuato.
-#### PAGE 8
+### Classificazione Multiclasse con iperpiani 
+2 metodi:
+- One-Versus-All 
+- Multinomial
+#### One-Versus-All
+Viene individuato un iperpiano per classe:$$b_c+x^Tw_c = 0,\ c=1 ... C$$
+Dove $C$ è il numero di iperpiani, quindi il numero di classi.
+
