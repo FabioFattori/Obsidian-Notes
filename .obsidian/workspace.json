@@ -11,14 +11,10 @@
             "id": "be712d8101f501eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tesi Shit/Senza nome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Senza nome"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -180,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be712d8101f501eb",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
     "Tesi Shit/Senza nome.md",
     "Tesi Shit/AmbrogioAI.md",
