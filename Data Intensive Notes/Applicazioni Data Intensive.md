@@ -164,3 +164,4 @@ Inoltre bisogna dire che b (bias, intercetta) descrive quanto l'iperpiano $w^Tx+
 ![[finalSVMClassifierFunction.png]]
 ![[multiclassSVM.png]]
 ![[softMargin.png]]
+### SVM non Lineare
