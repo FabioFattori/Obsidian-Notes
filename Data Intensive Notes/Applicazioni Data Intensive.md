@@ -136,3 +136,10 @@ dove la seconda restituisce 0 se la classe viene predetta correttamente, altrime
 Quindi per minimizzare l'errore, rispetto a $b$ e $w$, avremo che la somma della espressione sulle $m$ istanze di training  è come segue:$$minimize_{b,w} \sum_{i=1}^m{max(0,-y_i*h_w(x_i))} \ \ \ \ \ \ \ dove \ h_w(x_i) = b+wx_i$$
 ##### PROBLEMA
 La funzione è continua e convessa ma NON derivabile quindi il gradient descent sappiamo tutti quanti dove ce lo possiamo infilare!
+##### Soluzione
+fanculo sostituiamo la funzione con una sua approssimazione che è anche derivabile
+$$softmax(0,S) = log(1+e^S)$$
+ed ora dobbiamo minimizzare $$minimize_{b,w} \sum_{i=1}^m{log(1+e^{-y_i*h_w(x_i)})}$$
+funzione nota come <strong>Logisti Loss</strong> alla quale possiamo aggiungere il membro della regolarizzazione   $$minimize_{b,w} \sum_{i=1}^m{log(1+e^{-y_i*h_w(x_i)})}+\frac{\lambda}{2}||w||^2_2$$
+### Regressione Logistica
+Viene fatta la derivata della logistic loss con norma L2(quella sopra) 
