@@ -142,4 +142,7 @@ $$softmax(0,S) = log(1+e^S)$$
 ed ora dobbiamo minimizzare $$minimize_{b,w} \sum_{i=1}^m{log(1+e^{-y_i*h_w(x_i)})}$$
 funzione nota come <strong>Logisti Loss</strong> alla quale possiamo aggiungere il membro della regolarizzazione   $$minimize_{b,w} \sum_{i=1}^m{log(1+e^{-y_i*h_w(x_i)})}+\frac{\lambda}{2}||w||^2_2$$
 ### Regressione Logistica
-Viene fatta la derivata della logistic loss con norma L2(quella sopra) 
+Viene fatta la derivata della logistic loss con norma L2(quella sopra) e poi al risultato vengono determinati die parametri w migliori con discesa del gradiente ottenendo$$\tilde{w}=\tilde{w}-\eta(\sum^m_{i=1}-\frac{y_i\tilde{x}}{1+e^{y_i*h_w(\tilde x_i)}}+\lambda\tilde{w})$$
+dove le $\sim$ stanno ad indicare dei vettori regolarizzati.
+Fatta sta roba abbiamo la <strong>sigmoid</strong>:$\sigma(h_\tilde{w}(\tilde{x})) = \frac{1}{1+e^{-(b+wx)}} \ \ \ \ \ \ \ dove \ b+xw$ è l'iperpiano individuato.
+#### PAGE 8
