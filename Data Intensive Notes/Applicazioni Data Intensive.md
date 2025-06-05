@@ -27,13 +27,10 @@ il punto 3 di fatto esegue questa formula: $$x_{k+1} = - \eta\ * \nabla{f}{(x_k)
 Il Modello generale è il seguente:$$h_{\theta}(x_1,...,x_n) = \theta_0+\theta_1*x_1 + ... +\theta_n*x_n  $$
 Dove $\theta$ corrisponde hai pesi delle singole variabili sulla predizione, $\theta_0$ è il valore da restituire quando $x=0$, detto anche intercetta.
 In forma vettoriale è così $h_\theta(x) = \theta_0 +\theta*x$ con $x = [x_1 ... x_n]$ oppure anche così che è più compatto:$$
-\begin{equation}
     \begin{cases}
       h_\theta(x) = \theta * x\\
       x = [1,x_1 ...x_n]
-    \end{cases}\,
-\end{equation}
-$$
+    \end{cases}$$
 #### Errore Quadratico Medio (Reg Lineare Multivariata)
 In forma vettoriale è come segue:$$E(\theta) = \frac{1}{m}\sum_{i=1}^m{(\theta*x_i-y_i)^2}$$
 che rappresenta l'equivalente di quello per la Reg Lineare Univariata solo fatto su tutte le singole equazioni di tutte le $n$ variabili.
@@ -129,6 +126,9 @@ Il Perceptron di default lavora con 2 classi, quindi è un classificatore binari
 -1 \ if\ class\ A  \\ +1\ if\ class\ B 
 \end{cases}
 $$
+
+^c86fb7
+
 dove $y$ è l'etichetta.
 La forma compatta è la seguente => $-y(b+wx)<0$ 
 Che volendo possiamo anche fare che $$-y(b+wx)<0 <==> max(0,-y(b+wx)) = 0$$
@@ -160,4 +160,6 @@ Ad ogni istanza $x$ si assegna la classe $y$ corrispondente al piano $j$ che mas
 ## Stabilire l'iperpiano migliore
 l’iperpiano individuato da Perceptron e Regressione Logistica è uno dei tanti possibili iperpiani di separazione.
 ![[miglioreSuperpiano.png]]
-![[]]
+![[svmDefinitionP.png]]
+$p$ viene trovato summando le due distanze dei support vectors $s_1,s_2$ quindi:$$\frac{|w^Ts_1+b|}{||w||}+\frac{|w^Ts_2+b|}{||w||} = \frac{1}{||w||}+\frac{1}{||w||} = \frac{2}{||w||} = p$$
+le prime due formule sono le formule delle distanze da $s_1$ e $s_2$ come spiegato [[#^c86fb7]].
