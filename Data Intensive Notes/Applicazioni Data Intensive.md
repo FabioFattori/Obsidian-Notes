@@ -175,3 +175,42 @@ dove $C\sum_i\xi_i$ è la somma delle variabili di slack ($\xi \geq 0 , per \ og
 Perchè si ottiene che $nOperazioni =O(\frac{1}{2}n(n+1))$ dove $n =$ dimensione dello spazio iniziale.
 Quindi in generale trasformazioni con polinomi di grado $g$ costano $\cong O(\frac{n^g}{g!})$  
 ![[BigProblemMyGuy.png]]
+### Soluzione => Kernel Trick
+Kernel Polinomiali $K(x,z) = (x*z)^g$ , per non usare $\phi(x) * \phi(z)$ che comporta un enorme costo computazionale per via delle operazioni con i vettori trasformati($\phi$).
+![[kernel.png]]
+![[teorema.png]]
+![[kernelsss.png]]
+#### Iperparametri C e $\gamma$ 
+`C` è il **parametro di penalizzazione degli errori di classificazione**.    
+Bilancia il **margine massimale** (quanto grande è la separazione tra classi) con **gli errori di classificazione** (quanto bene si adattano i dati):
+- **`C` grande** (es: 1000):
+    
+    - Il modello cerca di **classificare tutto correttamente** → margine più piccolo.
+        
+    - **Overfitting** possibile: si adatta molto ai dati di training.
+        
+- **`C` piccolo** (es: 0.01):
+    
+    - Il modello **accetta alcuni errori** → margine più grande.
+        
+    - **Generalizza meglio**, ma potrebbe fare errori sui dati di training.
+---
+### Gamma si usa **solo con kernel non lineari** (es: RBF, polinomiale).
+
+- È un parametro interno del **kernel RBF (Gaussiano)**:
+    
+    K(x,x′)=exp⁡(−γ∥x−x′∥2)K(x, x') = \exp\left(-\gamma \|x - x'\|^2\right)K(x,x′)=exp(−γ∥x−x′∥2)
+
+### ➤ Cosa succede se:
+
+- **`gamma` grande** (es: 10):
+    
+    - Ogni punto ha un'influenza molto **locale** (piccola "bolla").
+        
+    - Il modello può diventare **molto complesso** → **overfitting**.
+        
+- **`gamma` piccolo** (es: 0.01):
+    
+    - Ogni punto ha un’influenza più **globale** (grande "bolla").
+        
+    - Il modello è più **liscio**, meno sensibile → **underfitting** possibile.
