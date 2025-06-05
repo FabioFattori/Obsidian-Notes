@@ -155,3 +155,5 @@ Dove $C$ è il numero di iperpiani, quindi il numero di classi.
 Ad ogni istanza $x$ si assegna la classe $y$ corrispondente al piano $j$ che massimizza:$$y=argmax_{j=1 ... C} \ b_j+x^Tw_j$$
 #### Multimodal
 ![[MultimodalClassifier.png]]
+### Problema Classi Sbilanciate
+![[SbilanciateCLasses.png]]
