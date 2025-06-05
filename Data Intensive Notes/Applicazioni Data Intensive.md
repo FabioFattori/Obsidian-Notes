@@ -184,33 +184,18 @@ Kernel Polinomiali $K(x,z) = (x*z)^g$ , per non usare $\phi(x) * \phi(z)$ che co
 `C` è il **parametro di penalizzazione degli errori di classificazione**.    
 Bilancia il **margine massimale** (quanto grande è la separazione tra classi) con **gli errori di classificazione** (quanto bene si adattano i dati):
 - **`C` grande** (es: 1000):
-    
     - Il modello cerca di **classificare tutto correttamente** → margine più piccolo.
-        
     - **Overfitting** possibile: si adatta molto ai dati di training.
-        
 - **`C` piccolo** (es: 0.01):
-    
     - Il modello **accetta alcuni errori** → margine più grande.
-        
     - **Generalizza meglio**, ma potrebbe fare errori sui dati di training.
 ---
-### Gamma si usa **solo con kernel non lineari** (es: RBF, polinomiale).
-
-- È un parametro interno del **kernel RBF (Gaussiano)**:
-    
-    K(x,x′)=exp⁡(−γ∥x−x′∥2)K(x, x') = \exp\left(-\gamma \|x - x'\|^2\right)K(x,x′)=exp(−γ∥x−x′∥2)
-
-### ➤ Cosa succede se:
-
+Gamma si usa **solo con kernel non lineari** (es: RBF, polinomiale).
+È un parametro interno del **kernel RBF (Gaussiano)**:$$K(x, x') = \exp\left(-\gamma \|x - x'\|^2\right)$$
+Cosa succede se:
 - **`gamma` grande** (es: 10):
-    
     - Ogni punto ha un'influenza molto **locale** (piccola "bolla").
-        
     - Il modello può diventare **molto complesso** → **overfitting**.
-        
 - **`gamma` piccolo** (es: 0.01):
-    
     - Ogni punto ha un’influenza più **globale** (grande "bolla").
-        
-    - Il modello è più **liscio**, meno sensibile → **underfitting** possibile.
+    - Il modello è più **liscio**, meno sensibile → **underfitting** possibile. 
