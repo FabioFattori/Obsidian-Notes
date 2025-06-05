@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e966a5454ba7410",
+        "id": "4ff356949b9f6a98",
         "type": "tabs",
         "children": [
           {
-            "id": "d521519e477d28b4",
+            "id": "920b0e5f0f948223",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "920b0e5f0f948223",
   "lastOpenFiles": [
+    "Data Intensive Notes/images/MultimodalClassifier.png",
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Data Intensive Notes/images/ClassifierIperpiano.png",
     "Data Intensive Notes/images/SequenceTrees.png",
     "Data Intensive Notes/images/RandomForestBaseSystem.png",
@@ -188,11 +190,7 @@
     "Data Intensive Notes/images/RegressionTree.png",
     "Data Intensive Notes/images/RBFKernel.png",
     "Data Intensive Notes/images/RegLineareMultivariata.png",
-    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Pasted image 20250602170214.png",
-    "Data Intensive Notes/images/GradientDescent.png",
-    "Data Intensive Notes/images/errorCurve.png",
-    "Data Intensive Notes/images/regLineareUnivariata.png",
     "Data Intensive Notes/images",
     "Tesi Shit/AmbrogioAI.md",
     "Data Intensive Notes",
