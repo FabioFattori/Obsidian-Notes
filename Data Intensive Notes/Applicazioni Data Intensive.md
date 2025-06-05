@@ -162,3 +162,5 @@ $p$ viene trovato summando le due distanze dei support vectors $s_1,s_2$ quindi:
 le prime due formule sono le formule delle distanze da $s_1$ e $s_2$ come spiegato [[#Classificare]].
 Inoltre bisogna dire che b (bias, intercetta) descrive quanto l'iperpiano $w^Tx+b=0$ sia distanze dall'origine del piano cartesiano perchè il punto dell'origine $(0,0)$ sottintende che $w^Tx=0, x=0$ e quindi $d=\frac{b}{||w||}$.
 ![[finalSVMClassifierFunction.png]]
+![[multiclassSVM.png]]
+![[softMargin.png]]
