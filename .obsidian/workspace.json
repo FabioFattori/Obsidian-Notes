@@ -153,8 +153,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
             }
           }
         ],
@@ -172,8 +172,7 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Apri riquadro comandi": false
     }
   },
   "active": "236d99eeb2bf1ece",
