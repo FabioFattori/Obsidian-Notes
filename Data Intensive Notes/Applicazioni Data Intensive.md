@@ -199,3 +199,7 @@ Cosa succede se:
 - **`gamma` piccolo** (es: 0.01):
     - Ogni punto ha un’influenza più **globale** (grande "bolla").
     - Il modello è più **liscio**, meno sensibile → **underfitting** possibile. 
+
+---
+
+## Valutazione dei modelli di classificazione
