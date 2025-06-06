@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10160ade08c88cf3",
+        "id": "e03f49fe52a874cb",
         "type": "tabs",
         "children": [
           {
-            "id": "be712d8101f501eb",
+            "id": "a8a0f48f6a7a7a13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Applicazioni Data Intensive"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -153,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin non più attivo"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -162,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,14 +175,15 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "a8a0f48f6a7a7a13",
   "lastOpenFiles": [
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Tesi Shit/Senza nome.md",
     "Tesi Shit/AmbrogioAI.md",
-    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Ottimi.md",
     "Data Intensive Notes/images/kernelsss.png",
     "Data Intensive Notes/images/teorema.png",
