@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -181,6 +182,7 @@
   },
   "active": "a8a0f48f6a7a7a13",
   "lastOpenFiles": [
+    "Data Intensive Notes/images/ConfusionMatrix.png",
     "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Tesi Shit/Senza nome.md",
     "Tesi Shit/AmbrogioAI.md",
