@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e03f49fe52a874cb",
+        "id": "10160ade08c88cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a0f48f6a7a7a13",
+            "id": "be712d8101f501eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -179,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be712d8101f501eb",
+  "active": "6ceab9df1fe4b4b8",
   "lastOpenFiles": [
     "Data Intensive Notes/images/StatisticShit.png",
     "Data Intensive Notes/images/ConfusionMatrix.png",
-    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Tesi Shit/Senza nome.md",
     "Tesi Shit/AmbrogioAI.md",
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Ottimi.md",
     "Data Intensive Notes/images/kernelsss.png",
     "Data Intensive Notes/images/teorema.png",

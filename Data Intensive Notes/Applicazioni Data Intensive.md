@@ -13,7 +13,7 @@
 - <font size=4>Metodo Diretto => soluzione ottima ma richiede delle operazioni di costo </font>$O(N^3)$<font size=4> il che lo rende inadeguato per grandi bacini di dati ed impossibile da mettere in pratica per big data, inoltre è una soluzione ideale solo per problemi convessi.</font>
 - <font size=4>Metodo Numerico => discesa del gradiente, non garantisce soluzioni ottime, ma è parallelizzabile, incrementale e usabile anche per problemi non convessi.</font>
 ### MSE => Mean Squared Error (Reg Lineare Univariata) 
-<font size=4>Misura Standard per l'errore della regressione :</font>$$errore = \frac{1}{m}\sum_{i=1}^{m}{(\hat{y_i}-y_i)^2}$$La funzione del MSE viene usata come la funzione dei parametri del modelli (funzione usata per trovare i valori dei parametri), in questo modo se tracciamo la dunzione dell'errore $E$ su $n$ parametri si ottiene una curva in $n+1$ dimensioni come quella che segue:
+<font size=4>Misura Standard per l'errore della regressione :</font>$$errore = \frac{1}{m}\sum_{i=1}^{m}{(\hat{y_i}-y_i)^2}$$La funzione del MSE viene usata come la funzione dei parametri del modelli (funzione usata per trovare i valori dei parametri), in questo modo se tracciamo la funzione dell'errore $E$ su $n$ parametri si ottiene una curva in $n+1$ dimensioni come quella che segue:
 ![[errorCurve.png]]
 ### L'obbiettivo della Regressione 
 L'obbiettivo è quindi trovare i parametri nei quali l'errore calcolato è il minimo, il vertice della parabola quindi.
@@ -27,10 +27,7 @@ il punto 3 di fatto esegue questa formula: $$x_{k+1} = - \eta\ * \nabla{f}{(x_k)
 Il Modello generale è il seguente:$$h_{\theta}(x_1,...,x_n) = \theta_0+\theta_1*x_1 + ... +\theta_n*x_n  $$
 Dove $\theta$ corrisponde hai pesi delle singole variabili sulla predizione, $\theta_0$ è il valore da restituire quando $x=0$, detto anche intercetta.
 In forma vettoriale è così $h_\theta(x) = \theta_0 +\theta*x$ con $x = [x_1 ... x_n]$ oppure anche così che è più compatto:$$
-    \begin{cases}
-      h_\theta(x) = \theta * x\\
-      x = [1,x_1 ...x_n]
-    \end{cases}$$
+      h_\theta(x) = \theta * x\ \ \ \ \ \ \ \  x = [1,x_1 ...x_n]$$
 #### Errore Quadratico Medio (Reg Lineare Multivariata)
 In forma vettoriale è come segue:$$E(\theta) = \frac{1}{m}\sum_{i=1}^m{(\theta*x_i-y_i)^2}$$
 che rappresenta l'equivalente di quello per la Reg Lineare Univariata solo fatto su tutte le singole equazioni di tutte le $n$ variabili.
