@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10160ade08c88cf3",
+        "id": "e03f49fe52a874cb",
         "type": "tabs",
         "children": [
           {
-            "id": "be712d8101f501eb",
+            "id": "a8a0f48f6a7a7a13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Applicazioni Data Intensive"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -162,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +181,11 @@
   },
   "active": "be712d8101f501eb",
   "lastOpenFiles": [
+    "Data Intensive Notes/images/StatisticShit.png",
+    "Data Intensive Notes/images/ConfusionMatrix.png",
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Tesi Shit/Senza nome.md",
     "Tesi Shit/AmbrogioAI.md",
-    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Ottimi.md",
     "Data Intensive Notes/images/kernelsss.png",
     "Data Intensive Notes/images/teorema.png",
@@ -191,7 +196,6 @@
     "Data Intensive Notes/images/SVM non lineari.png",
     "Data Intensive Notes/images/softMargin.png",
     "Data Intensive Notes/images/multiclassSVM.png",
-    "Data Intensive Notes/images/finalSVMClassifierFunction.png",
     "Data Intensive Notes/images",
     "Data Intensive Notes",
     "Tesi Shit",

@@ -199,3 +199,18 @@ Cosa succede se:
 - **`gamma` piccolo** (es: 0.01):
     - Ogni punto ha un’influenza più **globale** (grande "bolla").
     - Il modello è più **liscio**, meno sensibile → **underfitting** possibile. 
+
+---
+
+## Valutazione dei modelli di classificazione
+![[ConfusionMatrix.png]]
+### Intervallo di Confidenza 
+L'intervallo di confidenza dipende dalla dimensione del test set (subset del dataset sul quale si dovrebbe fare la confusion matrix di cui sopra).
+##### Modellazione della classificazione come processo di Bernoulli
+La classificazione di N istanze è modellabile come un processo di N variabili binarie indipendenti(di Bernoulli), 1 => successo, 0 => errore.
+Quindi possiamo dire che:
+Definendo $N$ come il numero delle istanze e come $S$ il numero dei successi possiamo dire che $$f = \frac{S}{N}$$
+$f$ è difatto la nostra `Accuratezza` ed ora definiamo come $p$ il nostro intervallo di confidenza:
+$f$ ha distribuzione binomiale $Bin(N,p)$ con media $p$ e varianza $\frac{p(1-p)}{N}$.
+Per $N$ grande ($N>30$) la distribuzione di $f$ è approssimabile con la distribuzione $z$ (distribuzione normale standardizzata).
+![[StatisticShit.png]]
