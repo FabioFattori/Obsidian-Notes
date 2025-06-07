@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10160ade08c88cf3",
+        "id": "780ca713f4644ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "be712d8101f501eb",
+            "id": "fc1dedf6fed9c0c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ceab9df1fe4b4b8",
+  "active": "fc1dedf6fed9c0c9",
   "lastOpenFiles": [
     "Data Intensive Notes/images/StatisticShit.png",
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Data Intensive Notes/images/ConfusionMatrix.png",
     "Tesi Shit/Senza nome.md",
     "Tesi Shit/AmbrogioAI.md",
-    "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Ottimi.md",
     "Data Intensive Notes/images/kernelsss.png",
     "Data Intensive Notes/images/teorema.png",
@@ -195,7 +195,6 @@
     "Data Intensive Notes/images/OttimizationSvmNonLinear.png",
     "Data Intensive Notes/images/SVM non lineari.png",
     "Data Intensive Notes/images/softMargin.png",
-    "Data Intensive Notes/images/multiclassSVM.png",
     "Data Intensive Notes/images",
     "Data Intensive Notes",
     "Tesi Shit",
