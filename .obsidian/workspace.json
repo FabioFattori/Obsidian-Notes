@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesi Shit/Discorso.md",
+                "file": "Tesi Shit/Bozza Discorso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discorso"
+              "title": "Bozza Discorso"
             }
           }
         ]
@@ -179,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "e149296ec09f5858",
   "lastOpenFiles": [
     "Data Intensive Notes/Applicazioni Data Intensive.md",
-    "Tesi Shit/Discorso.md",
+    "Tesi Shit/Bozza Discorso.md",
     "Data Intensive Notes/images/StatisticShit.png",
     "Data Intensive Notes/images/ConfusionMatrix.png",
-    "Tesi Shit/Discorso.md",
+    "Tesi Shit/Bozza Discorso.md",
     "Tesi Shit/AmbrogioAI.md",
     "Ottimi.md",
     "Data Intensive Notes/images/kernelsss.png",
