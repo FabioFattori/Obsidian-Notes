@@ -39,3 +39,4 @@ sulla destra abbiamo i risultati ottenuti dalle due implementazioni, per prima l
 Oltre al test set i modelli sono stati valutati anche su immagini che non hanno mai visto, nelle seguente tabella infatti vediamo le due implementazioni a confronto, con una variante che ci mostra quanto il preprocessing sia stato funzionale sul risultato finale.
 I modelli con il suffisso NoBg sono stati addestrati con le immagini senza il background mentre con WithBg sono stati addestrati con le stesse immagini, con la differenza che le immagini avevano lo sfondo; possiamo vedere che per ogni classe di immagine senza background i risultati empirici ottenuti sono di gran lunga meglio.
 ### Quindicesima slide 
+Discussione veloce del video
