@@ -1,2 +1,6 @@
 ### Prima Slide - Titolo 
-Buongiorno a tutti, sono Fabio Fattori e oggi vi presenterò il mio lavoro di tesi dal titolo: 'AmbrogioAI: un classificatore automatico di outfit', 
+Buongiorno a tutti, sono Fabio Fattori e oggi vi presenterò il mio lavoro di tesi dal titolo: 'AmbrogioAI: un classificatore automatico di outfit'
+### Seconda Slide - cambio da prima a seconda mentre dico la frase sopra
+Questo progetto nasce dall'idea di unire due mondi apparentemente distanti fra loro, la computer vision nasce per permettere alle macchine di prendere visione del mondo circostante attraverso tecniche di elaborazione delle singole immagini, mentre la moda esiste per valorizzare a livello visivo le persone attraverso singoli capi di abbigliamento che messi in comunione fra loro portano ad un risultato diverso in base alla persona.
+### Terza Slide - cambio appena finisco la frase
+Al giorno d'oggi il tema è stato già esplorato ampiamente da diversi ricercatori, producendo diversi elaborati come Fashion++ creato da meta e presentato alla International Conference on Computer Vision (ICCV) del 2019, il quale misura la fashionability di un outfit suggerendo eventuali piccoli migliorie, come l'aggiunta di un accessorio.
