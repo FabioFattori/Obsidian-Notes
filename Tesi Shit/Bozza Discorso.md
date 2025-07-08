@@ -19,4 +19,7 @@ Elegante, secondo il fashion, è più un atteggiamento che un look. Ma per il mo
 Infine, sportivo include abbigliamento tecnico: maglie traspiranti, pantaloncini, scarpe da ginnastica, capi da palestra o calcio.
 Per creare il dataset ho cominciato con la raccolta manuale e annotazione delle immagini, ma è un processo lentissimo: dopo 150 immagini, ho sviluppato uno script per generarle automaticamente.
 Ho installato Stable Diffusion 3 Medium in locale, e in circa 20 giorni ho generato 840 immagini, rendendo il processo molto più efficiente.
-Per bilanciare le differenze tra immagini reali e sintetiche (soprattutto per quanto riguarda luce, rumore, contesto), ho integrato altre immagini reali, arrivando a un totale di circa 360 reali su 1344.
+Per bilanciare le differenze tra immagini reali e sintetiche (soprattutto per quanto riguarda luce, rumore, contesto), ho integrato altre immagini reali, arrivando a un totale di circa 360 reali su 1200.
+### Settima - Ottava - Nona 
+Di fatti ecco alcuni esempi di immagini reali paragonate a immagini sintetiche appartenenti alla stessa classe, come si può vedere la luce gioca un grande ruolo nelle immagini sintetiche paragonabile solo alle immagini reali fatte da modelli e fotografi professionisti che sono state prese da siti come Nike e Adidas.
+### Decima Slide 
