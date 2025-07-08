@@ -1,11 +1,12 @@
 ### Prima Slide - Titolo 
 Buongiorno a tutti, sono Fabio Fattori e oggi vi presento il mio lavoro di tesi: 'AmbrogioAI – un classificatore automatico di outfit'.
 ### Seconda Slide - cambio da prima a seconda mentre dico la frase sopra
-Questo progetto nasce dall'idea di unire due mondi apparentemente distanti fra loro, la computer vision nasce per permettere alle macchine di prendere visione del mondo circostante attraverso tecniche di elaborazione delle singole immagini, mentre la moda esiste per valorizzare a livello visivo le persone attraverso singoli capi di abbigliamento che messi in comunione fra loro portano ad un risultato diverso in base alla persona.
+Questo progetto nasce dall’idea di unire due mondi che sembrano lontani: la computer vision, che permette alle macchine di ‘vedere’ e interpretare immagini, e la moda, che esprime la personalità e l’identità di chi la indossa. L'obiettivo è proprio quello di applicare tecniche visive automatiche per leggere e classificare ciò che, fino a poco tempo fa, era considerato troppo soggettivo: lo stile.
 ### Terza Slide - cambio appena finisco la frase
-Al giorno d'oggi il tema è stato già esplorato ampiamente da diversi ricercatori, producendo diversi elaborati come Fashion++ creato da meta e presentato alla International Conference on Computer Vision del 2019, il quale misura la fashionability di un outfit suggerendo eventuali piccoli migliorie, come l'aggiunta di un accessorio.
-Oppure sono presenti anche delle alternative per gli ecommerce come l'Item Retrival, meccanismo grazie al quale, data una immagine, si va a ricercare i singoli capi identificati nell'immagine stessa in un database, con la possibilità di condurre l'utente finale al capo stesso o a simili indicando dove poter comprare tale capo; l'Item Retrival per identificare i capi utilizza egli stesso un altra tecnica denominata Fashion Parsing, la quale, segmentando l'immagine di input, permette di classificare gli indumenti presenti nella foto evidenziandoli.
+Il tema non è nuovo: diversi studi hanno esplorato il rapporto tra moda e intelligenza artificiale. Ad esempio, Fashion++, sviluppato da Meta, cerca di migliorare un outfit suggerendo piccole modifiche, come l’aggiunta di un accessorio.
+Altre soluzioni si concentrano sul commercio: l’Item Retrieval, per esempio, consente di identificare capi presenti in un’immagine e suggerirne di simili acquistabili online. Questi sistemi si basano su tecniche come il fashion parsing, che segmenta visivamente l’outfit per riconoscere e classificare i singoli indumenti.
 ### Quarta Slide - cambio appena finisco la frase
-E adesso arriviamo al problema affrontato, come viene scritto anche nel lucido, è possibile classificare lo stile di un outfit? ovvero è possibile comunicare all'utente finale se, come si è vestito, è o meno consono ad una occasione che richieda un abbigliamento adeguato, come un met gala, un'uscita tra amici o una partita di calcio?
-E se sì, si può creare un prodotto da poter consegnare all'utente finale?
+Il progetto che vi presento oggi parte da una domanda semplice ma ambiziosa: è possibile classificare lo stile di un outfit?
+Cioè: possiamo dire a un utente se ciò che indossa è elegante, sportivo o casual, e quindi se è adatto a un certo contesto — che sia una serata di gala, un’uscita con amici, o una partita di calcetto?
+E soprattutto: si può realizzare un sistema che lo faccia in modo automatico e accessibile all’utente finale?
 ### Quinta Slide - cambio appena finisco la frase
