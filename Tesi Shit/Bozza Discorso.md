@@ -10,3 +10,5 @@ Il progetto che vi presento oggi parte da una domanda semplice ma ambiziosa: è 
 Cioè: possiamo dire a un utente se ciò che indossa è elegante, sportivo o casual, e quindi se è adatto a un certo contesto — che sia una serata di gala, un’uscita con amici, o una partita di calcetto?
 E soprattutto: si può realizzare un sistema che lo faccia in modo automatico e accessibile all’utente finale?
 ### Quinta Slide - cambio appena finisco la frase
+Per risolvere tale problema è necessario realizzare una architettura appropriata a tale problema, a livello di costo computazionale è attualmente impensabile rilasciare l'AI nel dispositivo consegnato all'utente, quindi sarà necessario realizzare un server che rende disponibili delle API che consentano ad un client l'interazioni con il modello.
+Quello che possiamo vedere sulla sinistra è il workflow delle chiamate Api dal dispositivo in loco, in questo caso un Raspberry Pi 4 con una telecamera, fino al mio computer fisso di casa il quale, all'avvio del server, apre un tunnel 
