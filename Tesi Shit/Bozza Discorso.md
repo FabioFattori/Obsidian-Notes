@@ -10,12 +10,13 @@ Il progetto che vi presento oggi parte da una domanda semplice ma ambiziosa: è 
 Cioè: possiamo dire a un utente se ciò che indossa è elegante, sportivo o casual, e quindi se è adatto a un certo contesto — che sia una serata di gala, un’uscita con amici, o una partita di calcetto?
 E soprattutto: si può realizzare un sistema che lo faccia in modo automatico e accessibile all’utente finale?
 ### Quinta Slide - cambio appena finisco la frase
-Per risolvere tale problema è necessario realizzare una architettura appropriata, a livello di costo computazionale è attualmente impensabile rilasciare l'AI nel dispositivo consegnato all'utente, quindi sarà necessario realizzare un server che rende disponibili delle API che consentano ad un client l'interazioni con il modello.
-Quello che possiamo vedere sulla sinistra è il workflow delle chiamate Api dal dispositivo in loco, in questo caso un Raspberry Pi 4 con una telecamera, fino al mio computer fisso di casa il quale, all'avvio del server, apre un tunnel bidirezionale verso cloudflare permettendo al Front di accedere alle Api.
+Per affrontare il problema, ho progettato un’architettura adatta anche a contesti con risorse limitate. L’idea è che il modello non venga eseguito sul dispositivo dell’utente, perché troppo pesante a livello computazionale, ma su un server esterno.
+Il backend espone una serie di API che permettono al client di comunicare col modello. Nello schema a sinistra vedete il flusso: un Raspberry Pi con una camera scatta la foto e la invia tramite internet al mio server di casa, che apre un tunnel Cloudflare per rendere accessibili le API al frontend.
 ### Sesta Slide
-Avendo chiara in mente l'architettura, possiamo passare alla formazione del dataset con cui allenare l'AI.
-Per prima bisogna identificare cosa vuol dire per la moda i termini casual, elegante e sportivo:
-Per Casual si intende un abbigliamento da tutti i giorni, in realtà è un termine molto ambio che dentro di se contiene diverse sottocategorie come lo streetweare, quindi polo, jeans, magliette e felpe compongono un abbigliamento di questa categoria.
-Il fashion identifica come elegante una persona non in base all'abbigliamento ma al suo portamento ed espressioni, quindi usando il buon senso possiamo definire come elegante una persona vestita con camicia, cravatta, un completo e simili; mentre per quanto riguarda lo sportivo si fa riferimento ad abiti tecnici e traspiranti ideati per fare sport, come shorts, scarpe da ginnastica, scarpini, magliette a maniche corte ecc.
-
-Per la sua formazione ho provato diverse tecniche, per prima cosa ho raccolto a mano 
+Chiarita l’architettura, passo alla costruzione del dataset. Prima di tutto, ho dovuto stabilire cosa intendiamo per casual, elegante e sportivo.
+Casual è un concetto ampio, che include abbigliamento da tutti i giorni: jeans, polo, t-shirt, felpe ... in generale tutto ciò che è informale ma curato.
+Elegante, secondo il fashion, è più un atteggiamento che un look. Ma per il modello ho deciso di associare questa etichetta a completi, camicie, cravatte e abiti sobri.
+Infine, sportivo include abbigliamento tecnico: maglie traspiranti, pantaloncini, scarpe da ginnastica, capi da palestra o calcio.
+Per creare il dataset ho cominciato con la raccolta manuale e annotazione delle immagini, ma è un processo lentissimo: dopo 150 immagini, ho sviluppato uno script per generarle automaticamente.
+Ho installato Stable Diffusion 3 Medium in locale, e in circa 20 giorni ho generato 840 immagini, rendendo il processo molto più efficiente.
+Per bilanciare le differenze tra immagini reali e sintetiche (soprattutto per quanto riguarda luce, rumore, contesto), ho integrato altre immagini reali, arrivando a un totale di circa 360 reali su 1344.
