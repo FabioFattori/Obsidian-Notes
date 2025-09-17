@@ -6,7 +6,7 @@
       {
         "id": "dc59053557a8e459",
         "type": "tabs",
-        "dimension": 47.85100286532951,
+        "dimension": 52.72206303724928,
         "children": [
           {
             "id": "a2ba953d1a2dab91",
@@ -25,7 +25,7 @@
       {
         "id": "5262ce709c86d4f3",
         "type": "tabs",
-        "dimension": 52.14899713467048,
+        "dimension": 47.277936962750715,
         "children": [
           {
             "id": "56e845ab3906755f",
@@ -201,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e845ab3906755f",
+  "active": "a2ba953d1a2dab91",
   "lastOpenFiles": [
-    "Machine Learning Notes/slides/1_ML_Introduzione.pdf",
     "Machine Learning Notes/Machine Learning.md",
+    "Machine Learning Notes/slides/1_ML_Introduzione.pdf",
     "Machine Learning Notes/imgs/4.jpeg",
     "Machine Learning Notes/imgs/3.jpeg",
     "Machine Learning Notes/imgs/2.jpeg",

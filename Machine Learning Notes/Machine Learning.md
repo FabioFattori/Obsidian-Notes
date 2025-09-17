@@ -18,4 +18,9 @@ Termini ombrello che ricoprono diverse discipline:
 #### Machine Learning
 Un modello di Machine Learning (apprendimento automatico) durante la fase di training apprende a partire da esempi. Successivamente è in grado di generalizzare e gestire nuovi dati nello stesso dominio applicativo.![[4.jpeg]]
 #### AI e Brute force
-- Brute force (ricerca esaustiva): in alcuni domini applica
+- Brute force (ricerca esaustiva): in alcuni domini applicativi un calcolatore può andare a calcolare e valutare tutte le possibili soluzioni.
+  Nella maggior parte dei casi però non sono gestibili a livello computazionale.
+Talvolta si utilizza il termine **Weak AI** per descrivere sistemi capaci di risolvere problemi complessi senza però capacità di ragionamento e comprensione.
+#### Benchmarks Prestazioni LLM
+BIG-bench (Beyond the Imitation Game) è un benchmark recente introdotto da ricercatori di 132 istituzioni internazionali per misurare le prestazioni di LLM.
+Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l’AI non raggiunge (ancora) prestazioni comparabili.
