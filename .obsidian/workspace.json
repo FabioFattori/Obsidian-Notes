@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5262ce709c86d4f3",
+        "id": "dc59053557a8e459",
         "type": "tabs",
+        "dimension": 47.85100286532951,
         "children": [
           {
             "id": "a2ba953d1a2dab91",
@@ -18,7 +19,14 @@
               "icon": "lucide-file-text",
               "title": "1_ML_Introduzione"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5262ce709c86d4f3",
+        "type": "tabs",
+        "dimension": 52.14899713467048,
+        "children": [
           {
             "id": "56e845ab3906755f",
             "type": "leaf",
@@ -33,8 +41,7 @@
               "title": "Machine Learning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
+    "width": 282.5,
     "collapsed": true
   },
   "right": {
@@ -198,6 +205,8 @@
   "lastOpenFiles": [
     "Machine Learning Notes/slides/1_ML_Introduzione.pdf",
     "Machine Learning Notes/Machine Learning.md",
+    "Machine Learning Notes/imgs/1.jpeg",
+    "Machine Learning Notes/imgs",
     "Machine Learning Notes/1_ML_Introduzione.pdf",
     "Machine Learning Notes/slides",
     "Tesi Shit/Bozza Discorso.md",
@@ -216,14 +225,12 @@
     "Data Intensive Notes/images/BigProblemMyGuy.png",
     "Data Intensive Notes/images/Maledizione.png",
     "Data Intensive Notes/images/OttimizationSvmNonLinear.png",
-    "Data Intensive Notes/images/SVM non lineari.png",
     "Data Intensive Notes/images",
     "Data Intensive Notes",
     "Tesi Shit",
     "AmbrogioAI.pdf",
     "Tesi Shit/Images",
     "classes/AmbrogioResNet50.py.md",
-    "classes",
     "crea un collegamento.md"
   ]
 }
