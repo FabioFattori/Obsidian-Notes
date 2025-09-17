@@ -5,7 +5,7 @@
   "autoSaveInterval": 15,
   "autoPushInterval": 15,
   "autoPullInterval": 16,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
