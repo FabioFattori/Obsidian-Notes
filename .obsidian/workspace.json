@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ba953d1a2dab91",
+  "active": "56e845ab3906755f",
   "lastOpenFiles": [
-    "Machine Learning Notes/Machine Learning.md",
     "Machine Learning Notes/slides/1_ML_Introduzione.pdf",
+    "Machine Learning Notes/Machine Learning.md",
     "Machine Learning Notes/imgs/4.jpeg",
     "Machine Learning Notes/imgs/3.jpeg",
     "Machine Learning Notes/imgs/2.jpeg",

@@ -1,4 +1,4 @@
-## 17/09/2025
+## 17/09/2025 - primo pdf fino a pag 19
 Machine Learning => ragionamento di tipo induttivo dato che parte da degli esempi (dati) per portare un risultato
 #### Ragionamenti:
 - Deduttivo: 
