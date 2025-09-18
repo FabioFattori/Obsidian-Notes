@@ -41,3 +41,18 @@ L’informatica assume quindi una duplice veste:
 ---
 ##### Classificazione dei sistemi informativi
 ###### SI e Aziende
+![[Sistemi Informativi/imgs/4.jpeg]]
+- SI operativi: 
+	Informatizzano processi volti all’esecuzione di attività o alla loro programmazione, dove per programmazione si intende pianificazione di basso livello.
+	L’importanza dei SI operativi in una azienda dipende dall’intensità informativa del settore ossia del contenuto informativo del settore.
+	Le seguenti matrici mettono in confronto l'intensità informativa del prodotto e del processo:
+	![[5.jpeg]]
+- SI direzionali:
+	Supportano il processo decisionale fornendo informazioni ai manager per aiutarli a decidere, quindi da una parte ho degli obbiettivi e delle scadenze alle quali devo fare fronte e prendere delle decisioni che impattano sulle attività operative:
+	![[6.jpeg]]
+	Quello riportato sopra è il modello primario di questi sistemi deriva dal modello del ciclo di controllo.
+- SI analitici:
+	analizzare dei processi esterni all'azienda, quindi si va ad analizzare i competitor, il mercato in se per poter fare anche dei paragoni della propria azienda rispetto agli altri.
+	Sono focalizzati su prodotti, clienti e processi.
+	Anche qui, come per i SI direzionali, si tende ad analizzare dei dati di input per decidere, con la differenza che qui si analizzano dati non miei (la mia azienda) ma dati di input esterni.
+	

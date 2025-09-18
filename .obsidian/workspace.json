@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -204,6 +203,9 @@
   "lastOpenFiles": [
     "Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Sistemi Informativi/imgs/6.jpeg",
+    "Sistemi Informativi/imgs/5.jpeg",
+    "Sistemi Informativi/imgs/4.jpeg",
     "Sistemi Informativi/slides/Introduzione.pdf",
     "Sistemi Informativi/slides/Introduzione-2 1.pdf",
     "Sistemi Informativi/imgs/3.jpeg",
@@ -225,10 +227,7 @@
     "Tesi Shit/Bozza Discorso.md",
     "conflict-files-obsidian-git.md",
     "Data Intensive Notes/Applicazioni Data Intensive.md",
-    "Data Intensive Notes/images/ClassifierIperpiano.png",
     "Tesi Shit/AmbrogioAI.md",
-    "Data Intensive Notes/images/StatisticShit.png",
-    "Data Intensive Notes/images/ConfusionMatrix.png",
     "Tesi Shit/Senza nome.md",
     "Ottimi.md",
     "classes/AmbrogioResNet50.py.md",
