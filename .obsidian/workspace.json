@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dc59053557a8e459",
+        "id": "a000e40008bae199",
         "type": "tabs",
-        "dimension": 52.72206303724928,
         "children": [
           {
-            "id": "a2ba953d1a2dab91",
+            "id": "bf98d73ebf31b9ee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Machine Learning Notes/slides/1_ML_Introduzione.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1_ML_Introduzione"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5262ce709c86d4f3",
-        "type": "tabs",
-        "dimension": 47.277936962750715,
-        "children": [
-          {
-            "id": "56e845ab3906755f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning Notes/Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -187,10 +163,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -200,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e845ab3906755f",
+  "active": "bf98d73ebf31b9ee",
   "lastOpenFiles": [
     "Machine Learning Notes/slides/1_ML_Introduzione.pdf",
     "Machine Learning Notes/Machine Learning.md",
