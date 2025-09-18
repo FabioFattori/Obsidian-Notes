@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74e41be78c93c5e4",
+        "id": "11944f6a1b6eb0a9",
         "type": "tabs",
         "children": [
           {
-            "id": "bfba10c0eeb92479",
+            "id": "057c05ed1148d587",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "11944f6a1b6eb0a9",
+        "id": "22add19ebfb3217e",
         "type": "tabs",
         "children": [
           {
-            "id": "057c05ed1148d587",
+            "id": "e2c25afcee41c1cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,10 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "057c05ed1148d587",
+  "active": "e2c25afcee41c1cb",
   "lastOpenFiles": [
     "Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Sistemi Informativi/imgs/8.jpeg",
+    "Sistemi Informativi/imgs/7.jpeg",
     "Sistemi Informativi/imgs/6.jpeg",
     "Sistemi Informativi/imgs/5.jpeg",
     "Sistemi Informativi/imgs/4.jpeg",
@@ -219,8 +221,6 @@
     "Machine Learning Notes/Machine Learning.md",
     "Machine Learning Notes/imgs/4.jpeg",
     "Machine Learning Notes/imgs/3.jpeg",
-    "Machine Learning Notes/imgs/2.jpeg",
-    "Machine Learning Notes/imgs/1.jpeg",
     "Machine Learning Notes/imgs",
     "Machine Learning Notes/1_ML_Introduzione.pdf",
     "Machine Learning Notes/slides",

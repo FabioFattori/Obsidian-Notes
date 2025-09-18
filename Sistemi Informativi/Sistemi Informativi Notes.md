@@ -55,4 +55,16 @@ L’informatica assume quindi una duplice veste:
 	analizzare dei processi esterni all'azienda, quindi si va ad analizzare i competitor, il mercato in se per poter fare anche dei paragoni della propria azienda rispetto agli altri.
 	Sono focalizzati su prodotti, clienti e processi.
 	Anche qui, come per i SI direzionali, si tende ad analizzare dei dati di input per decidere, con la differenza che qui si analizzano dati non miei (la mia azienda) ma dati di input esterni.
-	
+	- SI analitici per settori:
+		![[7.jpeg]]
+un altro modo per gestire i SI sarebbe il **mappare gli stessi SI aziendali**, scomporli in moduli a fini conoscitivi e di classificazione, Un modulo rappresenta un blocco di funzionalità software che supportano una fase di un processo aziendale, omogeneo per frequenza, attore e profilo di casi d’uso.
+Un modulo descrive un’esigenza informativa e quindi indica il potenziale impiego di tecnologia informatica, inoltre questa gestione in moduli può essere anche veduta come moduli proprio, nel senso di vendere dei pacchetti che soddisfano varie esigenze che rappresentano dei processi aziendali.
+
+###### MODO per costruire la mappa dei processi:
+##### Portafoglio applicativo aziendale
+DEFINIZIONE:
+è una mappa di esigenze informative, viene usato per memorizzare tali esigenze informative.
+Può essere considerato un’esplosione della catena del valore di Porter ottenuta incrociando le fasi del ciclo di trasformazione con la tipologia delle attività applicabili per la pianificazione ed esecuzione di ciascuna fase del ciclo. Ogni incrocio individua un modulo.
+La pianificazione ha lo scopo di determinare i piani e controllarne l’avanzamento. Le attività di pianificazione si distinguono per l’orizzonte temporale e il livello di dettaglio.
+Le attività di esecuzione attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi 
+![[8.jpeg]]
