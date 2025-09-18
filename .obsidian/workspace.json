@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -203,6 +204,7 @@
   "lastOpenFiles": [
     "Sistemi Informativi/slides/Introduzione-2.pdf",
     "Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Sistemi Informativi/imgs/3.jpeg",
     "Sistemi Informativi/imgs/2.jpeg",
     "Sistemi Informativi/imgs/1.jpeg",
     "Sistemi Informativi/slides",
@@ -228,7 +230,6 @@
     "Data Intensive Notes/images/ConfusionMatrix.png",
     "Tesi Shit/Senza nome.md",
     "Ottimi.md",
-    "Data Intensive Notes/images/kernelsss.png",
     "Data Intensive Notes/images",
     "classes/AmbrogioResNet50.py.md",
     "crea un collegamento.md"

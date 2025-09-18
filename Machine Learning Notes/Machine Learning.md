@@ -11,7 +11,7 @@ Machine Learning => ragionamento di tipo induttivo dato che parte da degli esemp
 - Abduttivo:
 	Ragionamento probabilistico, come gli altri, ma che ha di diverso che invece di generalizzare ci si muove in maniera laterale ipotizzando quindi che un'implicazione valga anche al contrario:
 	![[Machine Learning Notes/imgs/2.jpeg]]
-![[3.jpeg]]
+![[Machine Learning Notes/imgs/3.jpeg]]
 #### AI e Machine Learning
 Termini ombrello che ricoprono diverse discipline:
 ![[Machine Learning Notes/imgs/1.jpeg]]
