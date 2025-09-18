@@ -11,10 +11,14 @@
             "id": "bf98d73ebf31b9ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi Informativi/Sistemi Informativi Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Sistemi Informativi Notes"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -178,8 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf98d73ebf31b9ee",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Sistemi Informativi/slides",
+    "Sistemi Informativi/imgs",
+    "Senza nome.md",
+    "Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Sistemi Informativi",
     "Machine Learning Notes/slides/1_ML_Introduzione.pdf",
     "Machine Learning Notes/Machine Learning.md",
     "Machine Learning Notes/imgs/4.jpeg",
@@ -205,8 +213,6 @@
     "Data Intensive Notes/images",
     "Data Intensive Notes",
     "Tesi Shit",
-    "AmbrogioAI.pdf",
-    "Tesi Shit/Images",
     "classes/AmbrogioResNet50.py.md",
     "crea un collegamento.md"
   ]
