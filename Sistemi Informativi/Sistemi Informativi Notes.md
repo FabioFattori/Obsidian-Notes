@@ -37,3 +37,7 @@ L’informatica assume quindi una duplice veste:
 - dall’altro si trasforma in una disciplina organizzativa.
 --- 
 ![[Sistemi Informativi/imgs/3.jpeg]]
+## Finisci primo pdf 
+---
+##### Classificazione dei sistemi informativi
+###### SI e Aziende

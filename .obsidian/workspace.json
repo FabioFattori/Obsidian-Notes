@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a000e40008bae199",
+        "id": "74e41be78c93c5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "bf98d73ebf31b9ee",
+            "id": "bfba10c0eeb92479",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sistemi Informativi/slides/Introduzione-2.pdf"
+                "file": "Sistemi Informativi/slides/ClassificazioneSI.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduzione-2"
+              "title": "ClassificazioneSI"
             }
           }
         ]
       },
       {
-        "id": "a01adee326aecf88",
+        "id": "11944f6a1b6eb0a9",
         "type": "tabs",
         "children": [
           {
-            "id": "d9e39c9657555373",
+            "id": "057c05ed1148d587",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,10 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9e39c9657555373",
+  "active": "057c05ed1148d587",
   "lastOpenFiles": [
-    "Sistemi Informativi/slides/Introduzione-2.pdf",
+    "Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Sistemi Informativi/slides/Introduzione.pdf",
+    "Sistemi Informativi/slides/Introduzione-2 1.pdf",
     "Sistemi Informativi/imgs/3.jpeg",
     "Sistemi Informativi/imgs/2.jpeg",
     "Sistemi Informativi/imgs/1.jpeg",
@@ -225,12 +227,10 @@
     "Data Intensive Notes/Applicazioni Data Intensive.md",
     "Data Intensive Notes/images/ClassifierIperpiano.png",
     "Tesi Shit/AmbrogioAI.md",
-    "Machine Learning Notes",
     "Data Intensive Notes/images/StatisticShit.png",
     "Data Intensive Notes/images/ConfusionMatrix.png",
     "Tesi Shit/Senza nome.md",
     "Ottimi.md",
-    "Data Intensive Notes/images",
     "classes/AmbrogioResNet50.py.md",
     "crea un collegamento.md"
   ]
