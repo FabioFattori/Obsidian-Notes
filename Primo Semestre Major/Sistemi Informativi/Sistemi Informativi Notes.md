@@ -72,3 +72,4 @@ Le attività di esecuzione attuano le operazioni pianificate producendo così l�
 CRM => rapporto con i clienti
 ![[8.jpeg]]
 In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero non sono in maniera specifica in una parte della mappa, ma bensì sono dappertutto in questa mappa.
+#### 19/07/2025
