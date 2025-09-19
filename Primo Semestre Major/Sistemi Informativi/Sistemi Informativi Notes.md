@@ -86,8 +86,6 @@ Pro di questi sistemi:
 - aumento della produttività
 - riduzione dei costi di gestione
 - maggiore affidabilità degli impianti grazie alla cattura di anomalie 
-###### MES 
-famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ottenuti tramite sistemi SCADA.
 ##### Architettura dei sistemi SCADA
 ![[14.jpeg]]
 - History server => immagazzina i dati per avere uno storico dell'andamento
@@ -96,3 +94,6 @@ famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ot
 ##### Evoluzione dei sistemi SCADA
 ![[16.png]]
 IoT != Sistema SCADA perchè nell'IoT ogni edge (componente della rete) è una risorsa di rete, quindi l'intelligenza è distribuita, mentre nel sistema Scada è tutto centralizzato a forma di imbuto verso un server.
+###### MES 
+famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ottenuti tramite sistemi SCADA.
+Manufacturing Execution Systems - I MES permettono la gestione della fabbrica nel suo complesso - ricevono ordini dall'ERP, raccolgono informazioni dallo SCADA e forniscono informazioni aggiornate all'ERP.
