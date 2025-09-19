@@ -11,14 +11,12 @@
             "id": "c63f81cbed3ef19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sistemi Informativi Notes"
+              "icon": "lucide-file-text",
+              "title": "ClassificazioneSI"
             }
           }
         ]
@@ -180,14 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ceab9df1fe4b4b8",
+  "active": "c63f81cbed3ef19e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Terzo anno Triennale",
     "Primo Semestre Major",
     "Primo Semestre Major/Distributed System",
     "Primo Semestre Major/Sistemi Informativi/imgs/10.png",
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
-    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/9.jpeg",
     "Primo Semestre Major/Sistemi Informativi/imgs/8.jpeg",
     "Primo Semestre Major/Sistemi Informativi/imgs/7.jpeg",
@@ -205,7 +203,6 @@
     "Primo Semestre Major/Sistemi Informativi",
     "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
-    "Primo Semestre Major/Machine Learning/imgs",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "conflict-files-obsidian-git.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
