@@ -102,5 +102,9 @@ Manufacturing Execution Systems - I MES permettono la gestione della fabbrica ne
 Il termine ERP (Enterprise Resource Planning) è stato coniato agli inizi degli anni ’90 da Gartner Group per indicare una suite di moduli applicativi che supportano l’intera gamma dei processi aziendali.
 I moduli possono essere sia orizzontali sia verticali.
 Inizialmente è partita comprendo i processi più importanti di una azienda, per poi andare a coprirli tutti:
-
+![[18.png]]
 L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ovvero che il dato circola attraverso tutti i processi avendo queste principi:
+![[19.png]]
+###### Unicità dell'informazione
+![[20.png]]
+###### Estensione e Modularità
