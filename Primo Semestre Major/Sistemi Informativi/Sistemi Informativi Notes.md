@@ -108,3 +108,6 @@ L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ov
 ###### Unicità dell'informazione
 ![[20.png]]
 ###### Estensione e Modularità
+![[21.png]]
+Incrementale => compro da un unico provider e poi decido di prendere moduli in più durante il tempo.
+Best Of Breed => posso fare best of breed quando il fornitore mi garantisce che due moduli da due provider diversi si integrano perfettamente
