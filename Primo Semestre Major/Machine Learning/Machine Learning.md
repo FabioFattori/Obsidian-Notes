@@ -10,13 +10,13 @@ Machine Learning => ragionamento di tipo induttivo dato che parte da degli esemp
 	Esempi nell'AI => Prompt to Image, comporre musica ecc.
 - Abduttivo:
 	Ragionamento probabilistico, come gli altri, ma che ha di diverso che invece di generalizzare ci si muove in maniera laterale ipotizzando quindi che un'implicazione valga anche al contrario:
-	![[Primo Semestre Major/Machine Learning Notes/imgs/2.jpeg]]
-![[Primo Semestre Major/Machine Learning Notes/imgs/3.jpeg]]
+	![[Primo Semestre Major/Machine Learning/imgs/2.jpeg]]
+![[Primo Semestre Major/Machine Learning/imgs/3.jpeg]]
 #### AI e Machine Learning
 Termini ombrello che ricoprono diverse discipline:
-![[Primo Semestre Major/Machine Learning Notes/imgs/1.jpeg]]
+![[Primo Semestre Major/Machine Learning/imgs/1.jpeg]]
 #### Machine Learning
-Un modello di Machine Learning (apprendimento automatico) durante la fase di training apprende a partire da esempi. Successivamente è in grado di generalizzare e gestire nuovi dati nello stesso dominio applicativo.![[Primo Semestre Major/Machine Learning Notes/imgs/4.jpeg]]
+Un modello di Machine Learning (apprendimento automatico) durante la fase di training apprende a partire da esempi. Successivamente è in grado di generalizzare e gestire nuovi dati nello stesso dominio applicativo.![[Primo Semestre Major/Machine Learning/imgs/4.jpeg]]
 #### AI e Brute force
 - Brute force (ricerca esaustiva): in alcuni domini applicativi un calcolatore può andare a calcolare e valutare tutte le possibili soluzioni.
   Nella maggior parte dei casi però non sono gestibili a livello computazionale.

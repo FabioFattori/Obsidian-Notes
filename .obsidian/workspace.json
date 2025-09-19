@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -180,9 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "6ceab9df1fe4b4b8",
   "lastOpenFiles": [
-    "Senza nome",
+    "Terzo anno Triennale",
     "Primo Semestre Major",
     "Primo Semestre Major/Distributed System",
     "Primo Semestre Major/Sistemi Informativi/imgs/10.png",
@@ -203,13 +204,13 @@
     "Primo Semestre Major/Sistemi Informativi/imgs",
     "Senza nome.md",
     "Primo Semestre Major/Sistemi Informativi",
-    "Primo Semestre Major/Machine Learning Notes/slides/1_ML_Introduzione.pdf",
-    "Primo Semestre Major/Machine Learning Notes/Machine Learning.md",
-    "Primo Semestre Major/Machine Learning Notes/imgs",
-    "Tesi Shit/Bozza Discorso.md",
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Primo Semestre Major/Machine Learning/imgs",
+    "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "conflict-files-obsidian-git.md",
-    "Data Intensive Notes/Applicazioni Data Intensive.md",
-    "Tesi Shit/AmbrogioAI.md",
+    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
+    "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
     "Tesi Shit/Senza nome.md",
     "Ottimi.md",
     "classes/AmbrogioResNet50.py.md",
