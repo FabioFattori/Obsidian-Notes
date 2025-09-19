@@ -110,4 +110,12 @@ L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ov
 ###### Estensione e Modularità
 ![[21.png]]
 Incrementale => compro da un unico provider e poi decido di prendere moduli in più durante il tempo.
-Best Of Breed => posso fare best of breed quando il fornitore mi garantisce che due moduli da due provider diversi si integrano perfettamente
+Best Of Breed => posso fare best of breed quando il fornitore mi garantisce che due moduli da due provider diversi si integrano perfettamente.
+###### Prescrittività
+I Sistemi ERP sono dei sistemi già pronti from the get go come di esempio sotto:
+![[22.png]]
+Vantaggi:
+- forte standardizzazione
+- adozione di processi già ottimizzati se sono disposto ad adottarli => spesso comporta il cambiamento dei processi aziendali
+- Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso
+- ![[23.png]]
