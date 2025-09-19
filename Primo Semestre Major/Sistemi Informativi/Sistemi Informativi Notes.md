@@ -65,7 +65,7 @@ Un modulo descrive un’esigenza informativa e quindi indica il potenziale impie
 DEFINIZIONE:
 è una mappa di esigenze informative, viene usato per memorizzare tali esigenze informative.
 Può essere considerato un’esplosione della catena del valore di Porter ottenuta incrociando le fasi del ciclo di trasformazione con la tipologia delle attività applicabili per la pianificazione ed esecuzione di ciascuna fase del ciclo. Ogni incrocio individua un modulo.
-La pianificazione ha lo scopo di determinare i piani e controllarne l’avanzamento. Le attività di pianificazione si distinguono per l’orizzonte temporale e il livello di dettaglio.
+**La pianificazione** ha lo scopo di determinare i piani e controllarne l’avanzamento. Le attività di pianificazione si distinguono per l’orizzonte temporale e il livello di dettaglio.
 Le attività di esecuzione attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi.
 ![[9.jpeg]]
 ![[10.png]]
