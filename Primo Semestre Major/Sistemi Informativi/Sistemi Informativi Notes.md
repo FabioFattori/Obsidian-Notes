@@ -76,3 +76,6 @@ In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero n
 Quello che vediamo in giallo sono dei componenti dell'azienda sono indipendenti dal tipo di prodotto venduto dall'azienda.
 Mentre quello in verde cambia in base alle esigenze informative dell'azienda, quindi in base al tipo di prodotto venduto.
 Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.![[12.png]]
+##### Smart Manufactoring => CIM  
+Computer Interface Manufactoring, ovvero un'architettura multilivello (software) che collega diversi livelli di un sistema di produzione ed è finalizzata all'ottimizzazione dei processi e alla gestione delle risorse![[13.jpeg]]
+I Sistemi Scada => sistemi che permettono di prendere tutte le informazioni delle singole macchine collegate e centralizzare tali informazioni per permettere ad un operatore di controllare tutte le macchine
