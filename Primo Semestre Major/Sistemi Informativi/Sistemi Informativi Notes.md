@@ -78,4 +78,14 @@ Mentre quello in verde cambia in base alle esigenze informative dell'azienda, qu
 Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.![[12.png]]
 ##### Smart Manufactoring => CIM  
 Computer Interface Manufactoring, ovvero un'architettura multilivello (software) che collega diversi livelli di un sistema di produzione ed è finalizzata all'ottimizzazione dei processi e alla gestione delle risorse![[13.jpeg]]
-I Sistemi Scada => sistemi che permettono di prendere tutte le informazioni delle singole macchine collegate e centralizzare tali informazioni per permettere ad un operatore di controllare tutte le macchine
+###### Sistemi Scada (Supervisory Control and Data Acquisition)
+I Sistemi Scada => sistemi che permettono di prendere tutte le informazioni delle singole macchine/prodotti collegate e centralizzare tali informazioni per permettere ad un operatore di controllare tutte le macchine (gestionale).
+Usati per Grandi impianti industriali e processi industriali complessi.
+Pro di questi sistemi:
+- meno lavoratori necessari
+- aumento della produttività
+- riduzione dei costi di gestione
+- maggiore affidabilità degli impianti grazie alla cattura di anomalie 
+###### MES 
+famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ottenuti tramite sistemi SCADA.
+##### Architettura dei sistemi SCADA
