@@ -75,4 +75,4 @@ In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero n
 #### 19/07/2025 - continuo della mappa sopra
 Quello che vediamo in giallo sono dei componenti dell'azienda sono indipendenti dal tipo di prodotto venduto dall'azienda.
 Mentre quello in verde cambia in base alle esigenze informative dell'azienda, quindi in base al tipo di prodotto venduto.
-Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.
+Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.![[12.png]]
