@@ -117,5 +117,7 @@ I Sistemi ERP sono dei sistemi già pronti from the get go come di esempio sotto
 Vantaggi:
 - forte standardizzazione
 - adozione di processi già ottimizzati se sono disposto ad adottarli => spesso comporta il cambiamento dei processi aziendali
-- Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso
-- ![[23.png]]
+- Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso![[23.png]]
+##### I Sistemi ERP allargati
+gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
+![[24.png]]
