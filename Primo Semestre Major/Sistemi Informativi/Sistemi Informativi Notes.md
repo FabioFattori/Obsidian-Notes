@@ -66,10 +66,13 @@ DEFINIZIONE:
 è una mappa di esigenze informative, viene usato per memorizzare tali esigenze informative.
 Può essere considerato un’esplosione della catena del valore di Porter ottenuta incrociando le fasi del ciclo di trasformazione con la tipologia delle attività applicabili per la pianificazione ed esecuzione di ciascuna fase del ciclo. Ogni incrocio individua un modulo.
 **La pianificazione** ha lo scopo di determinare i piani e controllarne l’avanzamento. Le attività di pianificazione si distinguono per l’orizzonte temporale e il livello di dettaglio.
-Le attività di esecuzione attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi.
+**Le attività di esecuzione** attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi.
 ![[9.jpeg]]
 ![[10.png]]
-CRM => rapporto con i clienti
+![[11.png]]CRM => rapporto con i clienti
 ![[8.jpeg]]
 In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero non sono in maniera specifica in una parte della mappa, ma bensì sono dappertutto in questa mappa.
 #### 19/07/2025
+Quello che vediamo in giallo sono dei componenti dell'azienda sono indipendenti dal tipo di prodotto venduto dall'azienda.
+Mentre quello in verde cambia in base alle esigenze informative dell'azienda, quindi in base al tipo di prodotto venduto.
+Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.
