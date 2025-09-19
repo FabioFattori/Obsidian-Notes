@@ -89,3 +89,7 @@ Pro di questi sistemi:
 ###### MES 
 famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ottenuti tramite sistemi SCADA.
 ##### Architettura dei sistemi SCADA
+![[14.jpeg]]
+- History server => immagazzina i dati per avere uno storico dell'andamento
+- Front-end Server => funzione principale di interpolazione dei dati ottenuti dai vari gateway, Sono logicamente separati da quest’ultimo a garanzia di un tempo di acquisizione in real-time
+- Scada Server => implementano le funzionalità di monitoraggio e di gestione degli allarmi. Operano in tempo reale tipicamente utilizzando uno stream dati![[15.png]]
