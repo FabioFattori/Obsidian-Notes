@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66451061c75b7089",
+        "id": "253b2a9a5d00927d",
         "type": "tabs",
         "children": [
           {
-            "id": "c63f81cbed3ef19e",
+            "id": "7bb54afe5542b091",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf"
               },
+              "pinned": true,
               "icon": "lucide-file-text",
               "title": "ClassificazioneSI"
             }
@@ -22,12 +24,13 @@
         ]
       },
       {
-        "id": "253b2a9a5d00927d",
+        "id": "da4d15fa83a4c08a",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb54afe5542b091",
+            "id": "9c7b13723ee9d116",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,6 +38,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Sistemi Informativi Notes"
             }
@@ -200,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bb54afe5542b091",
+  "active": "9c7b13723ee9d116",
   "lastOpenFiles": [
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Primo Semestre Major/Sistemi Informativi/imgs/17.jpeg",
     "Primo Semestre Major/Sistemi Informativi/imgs/16.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/15.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/14.jpeg",
@@ -216,7 +221,6 @@
     "Primo Semestre Major/Sistemi Informativi/imgs/10.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/9.jpeg",
     "Primo Semestre Major/Sistemi Informativi/imgs/8.jpeg",
-    "Primo Semestre Major/Sistemi Informativi/imgs/7.jpeg",
     "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Sistemi Informativi/slides/Introduzione-2 1.pdf",
     "Primo Semestre Major/Sistemi Informativi/slides",

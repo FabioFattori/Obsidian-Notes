@@ -97,3 +97,4 @@ IoT != Sistema SCADA perchè nell'IoT ogni edge (componente della rete) è una r
 ###### MES 
 famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ottenuti tramite sistemi SCADA.
 Manufacturing Execution Systems - I MES permettono la gestione della fabbrica nel suo complesso - ricevono ordini dall'ERP, raccolgono informazioni dallo SCADA e forniscono informazioni aggiornate all'ERP.
+![[17.jpeg]]
