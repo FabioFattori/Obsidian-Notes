@@ -98,3 +98,9 @@ IoT != Sistema SCADA perchè nell'IoT ogni edge (componente della rete) è una r
 famiglia di software che mettono in atto delle ottimizzazioni in base ai dati ottenuti tramite sistemi SCADA.
 Manufacturing Execution Systems - I MES permettono la gestione della fabbrica nel suo complesso - ricevono ordini dall'ERP, raccolgono informazioni dallo SCADA e forniscono informazioni aggiornate all'ERP.
 ![[17.jpeg]]
+##### Sistemi ERP
+Il termine ERP (Enterprise Resource Planning) è stato coniato agli inizi degli anni ’90 da Gartner Group per indicare una suite di moduli applicativi che supportano l’intera gamma dei processi aziendali.
+I moduli possono essere sia orizzontali sia verticali.
+Inizialmente è partita comprendo i processi più importanti di una azienda, per poi andare a coprirli tutti:
+
+L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ovvero che il dato circola attraverso tutti i processi avendo queste principi:
