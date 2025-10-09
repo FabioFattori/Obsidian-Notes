@@ -30,4 +30,7 @@ Include pi√π di 200 task che gli umani non hanno problemi a risolvere ma dove l‚
 - 1940 - 1974  nascita e anni d'oro
 	- primi calcolatori elettronici
 	- teoria della computazione di Turing e Test di Turing
-	- 
+	- Teoria dell'informazione di Shannon
+	- Neuroni artificali
+	- Nascita ufficiale e conio del nome Intelligenza Artificiale
+	- Primi risultati nell'ambito del symbolic reasoning, del problem solving e del natual language processing 
