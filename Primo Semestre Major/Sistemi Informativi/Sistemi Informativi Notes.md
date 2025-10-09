@@ -127,7 +127,7 @@ gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio so
 - Studio di Fattibilità
 - La Pianificazione dei sistemi in formativi
 ### 9/10/2025 Esercizio del foglio fornito
-ci interessa:
+ci interessa individuare tramite la lettura del testo:
 - la struttura dei processi
 - la struttura organizzativa
-- la diagnosi della situazio
+- la diagnosi della situazione attuale => cosa va bene, cosa va male e come sia arrivati in questa situazione
