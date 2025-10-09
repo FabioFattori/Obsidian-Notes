@@ -121,3 +121,6 @@ Vantaggi:
 ##### I Sistemi ERP allargati
 gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
 ![[24.png]]
+
+
+### 9/10/2025 
