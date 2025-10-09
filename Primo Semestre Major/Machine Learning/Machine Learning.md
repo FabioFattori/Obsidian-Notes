@@ -46,3 +46,10 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 	- Risultati concreti dei sistemi esperti solo in campi specifici.
 	- Reti neurali non scalano a problemi complessi.
 - 1993 - 2011 Tempi Moderni
+	- Hardware sempre più potente.
+	- Bayesian Networks, Intelligent Agents.
+	- Classificatori robusti (SVM), Multi-classificatori (Random Forest, Adaboost)
+	- Hidden Markov Models (HMM).
+	- Maturità tecniche di feature extraction (hand-crafted) in diversi domini, (es. SIFT, Dictionaries & Bag of Words).
+	- Deep Blue, Watson, Darpa Grand Challenge (guida automatica). 
+	- Successi in numerose discipline: visione, sistemi biometrici, riconoscimento del parlato, robotica, guida automatica, diagnosi mediche, data mining, motori di ricerca, videogames.
