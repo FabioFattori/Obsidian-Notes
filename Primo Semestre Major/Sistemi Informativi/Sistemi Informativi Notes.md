@@ -131,3 +131,6 @@ ci interessa individuare tramite la lettura del testo:
 - la struttura dei processi
 - la struttura organizzativa
 - la diagnosi della situazione attuale => cosa va bene, cosa va male e come sia arrivati in questa situazione.
+Sono presenti 4 fasi che servono per capire i punti sopra.
+Le definizioni di queste fasi sono nel foglio.
+##### Fase 1
