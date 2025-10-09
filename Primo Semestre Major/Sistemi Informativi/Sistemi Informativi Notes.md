@@ -134,3 +134,4 @@ ci interessa individuare tramite la lettura del testo:
 Sono presenti 4 fasi che servono per capire i punti sopra.
 Le definizioni di queste fasi sono nel foglio.
 ##### Fase 1
+bisogna individuare l'organigramma dell'azienda, disegnato sul foglio (da mettere foto e riportare anche qui)
