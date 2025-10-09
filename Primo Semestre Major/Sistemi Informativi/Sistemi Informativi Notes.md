@@ -122,5 +122,12 @@ Vantaggi:
 gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
 ![[24.png]]
 
-
-### 9/10/2025 
+### SLIDES DA FARE:
+- Data Flow Diagram
+- Studio di Fattibilità
+- La Pianificazione dei sistemi in formativi
+### 9/10/2025 Esercizio del foglio fornito
+ci interessa:
+- la struttura dei processi
+- la struttura organizzativa
+- la diagnosi della situazio
