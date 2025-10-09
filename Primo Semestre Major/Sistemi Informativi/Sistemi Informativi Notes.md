@@ -130,4 +130,4 @@ gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio so
 ci interessa individuare tramite la lettura del testo:
 - la struttura dei processi
 - la struttura organizzativa
-- la diagnosi della situazione attuale => cosa va bene, cosa va male e come sia arrivati in questa situazione
+- la diagnosi della situazione attuale => cosa va bene, cosa va male e come sia arrivati in questa situazione.
