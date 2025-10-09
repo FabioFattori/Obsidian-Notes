@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "253b2a9a5d00927d",
+        "id": "3d13af7d2d98f7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb54afe5542b091",
+            "id": "b1378c777eb029ae",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf"
+                "file": "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "ClassificazioneSI"
+              "title": "1_ML_Introduzione"
             }
           }
         ]
       },
       {
-        "id": "da4d15fa83a4c08a",
+        "id": "25d0886cf6877e15",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7b13723ee9d116",
+            "id": "e3e214db3e5ce33f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sistemi Informativi Notes"
+              "title": "Machine Learning"
             }
           }
         ]
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -193,7 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -203,37 +202,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "e3e214db3e5ce33f",
   "lastOpenFiles": [
-    "Primo Semestre Major/Compilatori/slides",
-    "Primo Semestre Major/Compilatori/imgs",
-    "Primo Semestre Major/Compilatori",
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Tesi Shit/Bozza Discorso.md",
+    "Terzo anno Triennale/Tesi Shit/Images/ResNet50Architecture.png",
+    "Terzo anno Triennale/Tesi Shit/Images/ConnectionsMapForPrototype.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/teorema.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/svmDefinitionP.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/SVM non lineari.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/StatisticShit.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/softMargin.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/SequenceTrees.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/SbilanciateCLasses.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/RegressionTree2.png",
+    "Terzo anno Triennale/Tesi Shit/Images",
+    "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
+    "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
+    "Terzo anno Triennale/Data Intensive Notes/images",
+    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
+    "Terzo anno Triennale/Tesi Shit",
+    "Terzo anno Triennale/Data Intensive Notes",
+    "Terzo anno Triennale",
+    "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Primo Semestre Major/Sistemi Informativi/imgs/24.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/23.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/22.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/21.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/20.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/19.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/18.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/17.jpeg",
-    "Primo Semestre Major/Sistemi Informativi/imgs/16.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/15.png",
-    "Terzo anno Triennale",
-    "Primo Semestre Major",
-    "Primo Semestre Major/Distributed System",
-    "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
-    "Sistemi Informativi/slides/Introduzione-2 1.pdf",
     "Primo Semestre Major/Sistemi Informativi/slides",
     "Primo Semestre Major/Sistemi Informativi/imgs",
-    "Senza nome.md",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
-    "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
-    "conflict-files-obsidian-git.md",
-    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
-    "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
-    "Tesi Shit/Senza nome.md",
+    "Data Intensive Notes/Applicazioni Data Intensive.md",
+    "Tesi Shit/AmbrogioAI.md",
     "Ottimi.md",
     "classes/AmbrogioResNet50.py.md",
     "crea un collegamento.md"

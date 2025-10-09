@@ -24,3 +24,5 @@ Talvolta si utilizza il termine **Weak AI** per descrivere sistemi capaci di ris
 #### Benchmarks Prestazioni LLM
 BIG-bench (Beyond the Imitation Game) è un benchmark recente introdotto da ricercatori di 132 istituzioni internazionali per misurare le prestazioni di LLM.
 Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l’AI non raggiunge (ancora) prestazioni comparabili.
+
+----
