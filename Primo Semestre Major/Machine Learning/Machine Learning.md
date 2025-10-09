@@ -27,16 +27,16 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 
 ----
 ### Stagioni AI
-- 1940 - 1974  nascita e anni d'oro
+- 1940 - 1974  Nascita e Anni D'oro
 	- primi calcolatori elettronici
 	- teoria della computazione di Turing e Test di Turing
 	- Teoria dell'informazione di Shannon
 	- Neuroni artificali
 	- Nascita ufficiale e conio del nome Intelligenza Artificiale
 	- Primi risultati nell'ambito del symbolic reasoning, del problem solving e del natual language processing 
-- 1974 - 1980 primo inverno
+- 1974 - 1980 Primo Inverno
 	La scarsa capacità computazionale, esplosione combinatoria ,non trattabilità e piccoli dataset hanno portato a risultati non all'altezza delle aspettative e di conseguenza ad una drastica riduzione dei fondi.
-- 1980 - 1987 nuova primavera
+- 1980 - 1987 Nuova Primavera
 	- Nascita dei sistemi esperti: conoscenza + regole logiche.
 	- Nuova linfa alle reti neurali dall’algoritmo Backpropagation .
 	- Finanziamento governo Giapponese per la Quinta Generazione di Calcolatori: i calcolatori «intelligenti».
@@ -45,3 +45,4 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 	- Hardware specializzato non più competitivo con PC, calo business.
 	- Risultati concreti dei sistemi esperti solo in campi specifici.
 	- Reti neurali non scalano a problemi complessi.
+- 1993 - 2011 Tempi Moderni
