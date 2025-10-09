@@ -36,5 +36,8 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 	- Primi risultati nell'ambito del symbolic reasoning, del problem solving e del natual language processing 
 - 1974 - 1980 primo inverno
 	La scarsa capacità computazionale, esplosione combinatoria ,non trattabilità e piccoli dataset hanno portato a risultati non all'altezza delle aspettative e di conseguenza ad una drastica riduzione dei fondi.
-
-	
+- 1980 - 1987 nuova primavera
+	- Nascita dei sistemi esperti: conoscenza + regole logiche.
+	- Nuova linfa alle reti neurali dall’algoritmo Backpropagation .
+	- Finanziamento governo Giapponese per la Quinta Generazione di Calcolatori: i calcolatori «intelligenti».
+- 1987 - 1993 Secondo I
