@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAtom",
       "🌳",
       "LiInfo",
       "LiWashingMachine",
-      "LiGraduationCap",
-      "LiDatabase"
+      "LiGraduationCap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -56,5 +56,6 @@
   "Terzo anno Triennale/Data Intensive Notes": "LiDatabase",
   "Primo Semestre Major/Sistemi Informativi": "LiInfo",
   "Primo Semestre Major/Distributed System": "🌳",
-  "Primo Semestre Major/Machine Learning": "LiWashingMachine"
+  "Primo Semestre Major/Machine Learning": "LiWashingMachine",
+  "Primo Semestre Major/Compilatori": "LiAtom"
 }
