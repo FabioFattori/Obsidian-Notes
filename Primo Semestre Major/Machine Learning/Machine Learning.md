@@ -40,4 +40,8 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 	- Nascita dei sistemi esperti: conoscenza + regole logiche.
 	- Nuova linfa alle reti neurali dall’algoritmo Backpropagation .
 	- Finanziamento governo Giapponese per la Quinta Generazione di Calcolatori: i calcolatori «intelligenti».
-- 1987 - 1993 Secondo I
+- 1987 - 1993 Secondo Inverno 
+	- Flop «Quinta generazione». Nuovo stop finanziamenti.
+	- Hardware specializzato non più competitivo con PC, calo business.
+	- Risultati concreti dei sistemi esperti solo in campi specifici.
+	- Reti neurali non scalano a problemi complessi.
