@@ -26,3 +26,8 @@ BIG-bench (Beyond the Imitation Game) è un benchmark recente introdotto da rice
 Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l’AI non raggiunge (ancora) prestazioni comparabili.
 
 ----
+### Stagioni AI
+- 1940 - 1974  nascita e anni d'oro
+	- primi calcolatori elettronici
+	- teoria della computazione di Turing e Test di Turing
+	- 
