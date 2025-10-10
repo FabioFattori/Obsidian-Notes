@@ -10,6 +10,7 @@
           {
             "id": "13bf3be52e261b12",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Distributed Systems"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f69da6a51436cb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834ff60cd76d1a05",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "M3 – Replication  Consistency in Distributed Systems"
             }
           }
         ]
@@ -78,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -181,11 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "13bf3be52e261b12",
   "lastOpenFiles": [
+    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides",
     "Primo Semestre Major/Distributed System/imgs",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "conflict-files-obsidian-git.md",
@@ -206,8 +230,6 @@
     "Primo Semestre Major/Sistemi Informativi/imgs/15.png",
     "Terzo anno Triennale",
     "Primo Semestre Major",
-    "Primo Semestre Major/Distributed System",
-    "Sistemi Informativi/slides/Introduzione-2 1.pdf",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
