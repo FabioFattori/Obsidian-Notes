@@ -69,7 +69,7 @@ Può essere considerato un’esplosione della catena del valore di Porter ottenu
 **La pianificazione** ha lo scopo di determinare i piani e controllarne l’avanzamento. Le attività di pianificazione si distinguono per l’orizzonte temporale e il livello di dettaglio.
 **Le attività di esecuzione** attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi.
 ![[9.jpeg]]
-![[10.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/10.png]]
 ![[11.png]]CRM => rapporto con i clienti
 ![[8.jpeg]]
 In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero non sono in maniera specifica in una parte della mappa, ma bensì sono dappertutto in questa mappa.
