@@ -34,3 +34,5 @@ Placing copies of data close to the processes using them can improve performance
 	_trade-off_: keeping copies up to date may require more network bandwidth
 ![[5.png]]
 ![[6.png]]![[7.png]]
+![[8.png]]![[9.png]]
+## Consistency
