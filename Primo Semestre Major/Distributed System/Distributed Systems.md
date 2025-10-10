@@ -15,3 +15,11 @@ Replication for performance is important when a distributed system needs to scal
 	-  → performance as perceived by that process increases 
 	- ! keeping all replicas up to date may consume more network bandwidth 
 	- ? do we have a benefit overall?
+at a first glance, benefits of (data) replication 
+- reliability 
+- fault tolerance 
+- accessibility 
+- performance 
+- scalability
+##### Problems 
+![[1.png]]
