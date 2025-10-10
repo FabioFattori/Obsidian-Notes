@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9851095c4a1ac7ed",
+        "id": "18c6b4660cf7331f",
         "type": "tabs",
         "children": [
           {
-            "id": "13bf3be52e261b12",
+            "id": "9234e47fce383ce5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
+                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Distributed Systems"
+              "title": "Sistemi Informativi Notes"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -184,10 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13bf3be52e261b12",
+  "active": "9234e47fce383ce5",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/17.png",
     "Primo Semestre Major/Distributed System/imgs/16.png",
     "Primo Semestre Major/Distributed System/imgs/15.png",
