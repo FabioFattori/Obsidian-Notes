@@ -91,7 +91,7 @@ Pro di questi sistemi:
 ![[14.jpeg]]
 - History server => immagazzina i dati per avere uno storico dell'andamento
 - Front-end Server => funzione principale di interpolazione dei dati ottenuti dai vari gateway, Sono logicamente separati da quest’ultimo a garanzia di un tempo di acquisizione in real-time
-- Scada Server => implementano le funzionalità di monitoraggio e di gestione degli allarmi. Operano in tempo reale tipicamente utilizzando uno stream dati![[15.png]]
+- Scada Server => implementano le funzionalità di monitoraggio e di gestione degli allarmi. Operano in tempo reale tipicamente utilizzando uno stream dati![[Primo Semestre Major/Sistemi Informativi/imgs/15.png]]
 ## Evoluzione Dei Sistemi SCADA
 ![[16.png]]
 IoT != Sistema SCADA perchè nell'IoT ogni edge (componente della rete) è una risorsa di rete, quindi l'intelligenza è distribuita, mentre nel sistema Scada è tutto centralizzato a forma di imbuto verso un server.

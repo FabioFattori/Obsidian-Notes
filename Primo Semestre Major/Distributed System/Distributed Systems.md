@@ -45,5 +45,9 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/11.png]]
 #### Continuous Consistency
 ![[Primo Semestre Major/Distributed System/imgs/12.png]]
+![[13.png]]
+![[14.png]]
+##### Consistent Operations Ordering
+![[Primo Semestre Major/Distributed System/imgs/15.png]]
 
 ### Client-centric Consistency Models
