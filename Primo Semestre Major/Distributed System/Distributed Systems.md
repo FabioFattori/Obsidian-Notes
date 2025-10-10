@@ -8,3 +8,10 @@ If a file system has been replicated, system operation may continue after one re
 Maintaining multiple copies allows for better protection against corrupted data :
 	Example:
 	if we have three copies of a file, and perform every read and write operation on each copy, we could hide a single failing write operation by considering as correct the value returned by at least two copies.
+Replication for performance is important when a distributed system needs to scale in terms of (i) size or (ii) the geographical area covered
+	Example: 
+	Scaling regarding size occurs when an increasing number of processes needs to access data managed by a single server performance can be improved by (i) replicating the server, and (ii) subsequently dividing workload among the processes accessing the data.
+	When scaling over a geographical area, time to access data decreases by placing a copy of data near to the process using them
+	-  → performance as perceived by that process increases 
+	- ! keeping all replicas up to date may consume more network bandwidth 
+	- ? do we have a benefit overall?
