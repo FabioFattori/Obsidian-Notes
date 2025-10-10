@@ -41,4 +41,9 @@ So that engineers can fully explore the trade-off between the costs and the bene
 	by relaxing consistency requirements according to the specific application scenario at hand this has lea to the definition of different *consistency models*  which are then amenable of different implementations, based on different protocols, and whose features may affect the effectiveness of the model.
 ### Data-centric Consistency Models
 >more like a API way of thinking, the process and operations used are only the "API" like made possible by the system, ensuring the consistency
+![[Primo Semestre Major/Distributed System/imgs/10.png]]
+![[Primo Semestre Major/Distributed System/imgs/11.png]]
+#### Continuous Consistency
+![[Primo Semestre Major/Distributed System/imgs/12.png]]
+
 ### Client-centric Consistency Models

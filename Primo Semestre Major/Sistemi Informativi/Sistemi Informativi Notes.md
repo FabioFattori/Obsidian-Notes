@@ -70,13 +70,13 @@ Può essere considerato un’esplosione della catena del valore di Porter ottenu
 **Le attività di esecuzione** attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi.
 ![[9.jpeg]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/10.png]]
-![[11.png]]CRM => rapporto con i clienti
+![[Primo Semestre Major/Sistemi Informativi/imgs/11.png]]CRM => rapporto con i clienti
 ![[8.jpeg]]
 In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero non sono in maniera specifica in una parte della mappa, ma bensì sono dappertutto in questa mappa.
 # 19/07/2025 - Continuo Della Mappa Sopra
 Quello che vediamo in giallo sono dei componenti dell'azienda sono indipendenti dal tipo di prodotto venduto dall'azienda.
 Mentre quello in verde cambia in base alle esigenze informative dell'azienda, quindi in base al tipo di prodotto venduto.
-Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.![[12.png]]
+Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.![[Primo Semestre Major/Sistemi Informativi/imgs/12.png]]
 ## Smart Manufactoring => CIM
 Computer Interface Manufactoring, ovvero un'architettura multilivello (software) che collega diversi livelli di un sistema di produzione ed è finalizzata all'ottimizzazione dei processi e alla gestione delle risorse![[13.jpeg]]
 ### Sistemi Scada (Supervisory Control and Data Acquisition)
