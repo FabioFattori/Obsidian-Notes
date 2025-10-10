@@ -35,4 +35,6 @@ Placing copies of data close to the processes using them can improve performance
 ![[5.png]]
 ![[6.png]]![[7.png]]
 ![[8.png]]![[9.png]]
-## Consistency
+#### The Problem of Consistency
+instead of demanding a total consistency scenario, we might be good just with some degree of consistency and some other _acceptable_ degree of inconsistency, depending on the specific application we are dealing with.
+So that engineers can fully explore the trade-off between the costs and the benefits of consistency by relaxing consistency requirements according to the specific application scenario at hand this has lea to the definition of different consistency models… … which are then amenable of different implementations, based on different protocols, and whose features may affect the effectiveness of the model
