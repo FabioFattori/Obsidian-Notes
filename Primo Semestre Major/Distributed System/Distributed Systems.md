@@ -27,3 +27,8 @@ at a first glance, benefits of (data) replication
 ![[2.png]]
 ![[3.png]]
 Caching is a form of data replication.![[4.png]]
+### Replication as a Scaling Technique
+Scalability issues generally appear in the form of performance problems.
+Replication and caching for performance are widely applied as scaling techniques.
+Placing copies of data close to the processes using them can improve performance through reduction of access time, and thus solve scalability problems: 
+	_trade-off_: keeping copies up to date may require more network bandwidth
