@@ -1,5 +1,5 @@
 # Distributed Systems
-## 10/10/2025 Replication & Consistency
+## 10/10/2025 Replication & Consistency Pdf Fino a Pag
 Why Replication of Data? 
 - increasing the reliability of systems
 - improving performance
@@ -33,3 +33,4 @@ Replication and caching for performance are widely applied as scaling techniques
 Placing copies of data close to the processes using them can improve performance through reduction of access time, and thus solve scalability problems: 
 	_trade-off_: keeping copies up to date may require more network bandwidth
 ![[5.png]]
+![[6.png]]![[7.png]]
