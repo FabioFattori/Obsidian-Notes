@@ -1,9 +1,10 @@
-### 10/10/2025 Replication & Consistency
+# Distributed Systems
+## 10/10/2025 Replication & Consistency
 Why Replication of Data? 
 - increasing the reliability of systems
 - improving performance
 - scaling in numbers and geographical area
-#### Data replication for Reliability
+### Data Replication for Reliability
 If a file system has been replicated, system operation may continue after one replica crashes by simply switching to one of the other replicas.
 Maintaining multiple copies allows for better protection against corrupted data :
 	Example:
@@ -21,5 +22,5 @@ at a first glance, benefits of (data) replication
 - accessibility 
 - performance 
 - scalability
-##### Problems 
+#### Problems
 ![[1.png]]
