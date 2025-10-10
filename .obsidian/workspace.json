@@ -24,26 +24,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f69da6a51436cb00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "834ff60cd76d1a05",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "M3 – Replication  Consistency in Distributed Systems"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -188,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "834ff60cd76d1a05",
+  "active": "13bf3be52e261b12",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/17.png",
     "Primo Semestre Major/Distributed System/imgs/16.png",
     "Primo Semestre Major/Distributed System/imgs/15.png",
