@@ -1,5 +1,5 @@
 # Distributed Systems
-## 10/10/2025 Replication & Consistency Pdf Fino a Pag
+## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
 - increasing the reliability of systems
 - improving performance
@@ -53,5 +53,4 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/16.png]]
 ###### Causal Consistency
 ![[17.png]]
-
 ### Client-centric Consistency Models

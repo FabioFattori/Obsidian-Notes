@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13bf3be52e261b12",
+  "active": "834ff60cd76d1a05",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/17.png",
     "Primo Semestre Major/Distributed System/imgs/16.png",
     "Primo Semestre Major/Distributed System/imgs/15.png",
