@@ -60,4 +60,7 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 Fino ad approccio parametrici (fine):
 - 1_ML
 - 2_ML
-- 3_ML fino a pagina 20 - sembra aver skippato roba, o comunque 
+- 3_ML fino a pagina 20 - sembra aver skippato roba, o comunque aver sorvolato cose
+--- 
+#### Approcci non parametrici e stima della Densità
+- Curse of Dimensionality 
