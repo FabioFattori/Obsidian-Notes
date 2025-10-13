@@ -138,5 +138,5 @@ Le definizioni di queste fasi sono nel foglio.
 bisogna individuare l'organigramma dell'azienda, disegnato sul foglio (da mettere foto e riportare anche qui)
 ## Fase 2
 Realizzazione del Data Flow Diagram, individuazione dei processi, del numero di personale e delle sue competenze.
-# 10/10/2025 Continuo Esercizio del Foglio
+# 10/10/2025 Continuo Esercizio Del Foglio
 

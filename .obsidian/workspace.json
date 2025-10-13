@@ -8,19 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9234e47fce383ce5",
+            "id": "06b971f6aa8539cf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sistemi Informativi Notes"
+              "title": "Machine Learning"
+            }
+          }
+        ]
+      },
+      {
+        "id": "84539542d20a5e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75269704969ef81e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "3_ML_Classificazione"
             }
           }
         ]
@@ -183,8 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9234e47fce383ce5",
+  "active": "06b971f6aa8539cf",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
+    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/17.png",
@@ -200,15 +224,11 @@
     "Primo Semestre Major/Distributed System/slides",
     "Primo Semestre Major/Distributed System/imgs",
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Primo Semestre Major/Compilatori/slides",
     "Primo Semestre Major/Compilatori/imgs",
     "Primo Semestre Major/Compilatori",
-    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Terzo anno Triennale",
-    "Primo Semestre Major",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",

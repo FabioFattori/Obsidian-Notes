@@ -55,3 +55,9 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 	- Maturità tecniche di feature extraction (hand-crafted) in diversi domini, (es. SIFT, Dictionaries & Bag of Words).
 	- Deep Blue, Watson, Darpa Grand Challenge (guida automatica). 
 	- Successi in numerose discipline: visione, sistemi biometrici, riconoscimento del parlato, robotica, guida automatica, diagnosi mediche, data mining, motori di ricerca, videogames.
+---
+### PDF Da Recuperare
+Fino ad approccio parametrici (fine):
+- 1_ML
+- 2_ML
+- 3_ML fino a pagina 20 - sembra aver skippato roba, o comunque 
