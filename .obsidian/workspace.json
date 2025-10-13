@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +204,12 @@
   },
   "active": "06b971f6aa8539cf",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
+    "Primo Semestre Major/Compilatori/Compilatori.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/17.png",
     "Primo Semestre Major/Distributed System/imgs/16.png",

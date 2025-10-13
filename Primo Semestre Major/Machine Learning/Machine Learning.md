@@ -62,5 +62,5 @@ Fino ad approccio parametrici (fine):
 - 2_ML
 - 3_ML fino a pagina 20 - sembra aver skippato roba, o comunque aver sorvolato cose
 --- 
-#### Approcci non parametrici e stima della Densità
+#### Approcci Non Parametrici E Stima Della Densità
 - Curse of Dimensionality 
