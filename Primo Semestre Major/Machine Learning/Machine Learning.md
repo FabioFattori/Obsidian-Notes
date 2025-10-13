@@ -74,3 +74,8 @@ Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
 ![[Primo Semestre Major/Machine Learning/imgs/7.png]]
 #### k-Nearest-Neighbor (k-NN)
 ![[Primo Semestre Major/Machine Learning/imgs/8.png]]
+continua fino a pag 33.
+#### NN E Prototipi Di Classi
+![[Primo Semestre Major/Machine Learning/imgs/9.png]]
+Sta roba funziona bene o male in base ai dai che abbiamo, è una semplificazione stretta, perchè si da per scontato che i gruppi di dati siano fatti in maniera circolare, cosa che non corrisponde molto spesso alla realtà.
+
