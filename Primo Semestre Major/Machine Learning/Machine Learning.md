@@ -66,3 +66,6 @@ Fino ad approccio parametrici (fine):
 - Curse of Dimensionality 
 ##### Stima Della Densità
 ![[Primo Semestre Major/Machine Learning/imgs/5.png]]
+Da ricordare l'ultima formula.
+Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
+###### Parzen Window
