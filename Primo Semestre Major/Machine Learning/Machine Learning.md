@@ -70,3 +70,5 @@ Da ricordare l'ultima formula.
 Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
 ###### Parzen Window
 ![[Primo Semestre Major/Machine Learning/imgs/6.png]]
+#### Classificatore Nearest Neighbor (NN)
+![[Primo Semestre Major/Machine Learning/imgs/7.png]]
