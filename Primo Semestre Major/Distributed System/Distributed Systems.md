@@ -34,7 +34,7 @@ Placing copies of data close to the processes using them can improve performance
 	_trade-off_: keeping copies up to date may require more network bandwidth
 ![[Primo Semestre Major/Distributed System/imgs/5.png]]
 ![[Primo Semestre Major/Distributed System/imgs/6.png]]![[Primo Semestre Major/Distributed System/imgs/7.png]]
-![[8.png]]![[9.png]]
+![[Primo Semestre Major/Distributed System/imgs/8.png]]![[9.png]]
 #### The Problem of Consistency
 instead of demanding a total consistency scenario, we might be good just with some degree of consistency and some other _acceptable_ degree of inconsistency, depending on the specific application we are dealing with.
 So that engineers can fully explore the trade-off between the costs and the benefits of consistency:

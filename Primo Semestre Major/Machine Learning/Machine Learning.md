@@ -72,3 +72,5 @@ Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
 ![[Primo Semestre Major/Machine Learning/imgs/6.png]]
 #### Classificatore Nearest Neighbor (NN)
 ![[Primo Semestre Major/Machine Learning/imgs/7.png]]
+#### k-Nearest-Neighbor (k-NN)
+![[Primo Semestre Major/Machine Learning/imgs/8.png]]
