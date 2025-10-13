@@ -33,7 +33,7 @@ Replication and caching for performance are widely applied as scaling techniques
 Placing copies of data close to the processes using them can improve performance through reduction of access time, and thus solve scalability problems: 
 	_trade-off_: keeping copies up to date may require more network bandwidth
 ![[Primo Semestre Major/Distributed System/imgs/5.png]]
-![[6.png]]![[7.png]]
+![[Primo Semestre Major/Distributed System/imgs/6.png]]![[7.png]]
 ![[8.png]]![[9.png]]
 #### The Problem of Consistency
 instead of demanding a total consistency scenario, we might be good just with some degree of consistency and some other _acceptable_ degree of inconsistency, depending on the specific application we are dealing with.
