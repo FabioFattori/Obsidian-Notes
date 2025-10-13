@@ -69,3 +69,4 @@ Fino ad approccio parametrici (fine):
 Da ricordare l'ultima formula.
 Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
 ###### Parzen Window
+![[Primo Semestre Major/Machine Learning/imgs/6.png]]
