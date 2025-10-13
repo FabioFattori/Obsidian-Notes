@@ -64,3 +64,5 @@ Fino ad approccio parametrici (fine):
 --- 
 #### Approcci Non Parametrici E Stima Della Densità
 - Curse of Dimensionality 
+##### Stima Della Densità
+![[Primo Semestre Major/Machine Learning/imgs/5.png]]

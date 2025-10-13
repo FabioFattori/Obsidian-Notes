@@ -32,7 +32,7 @@ Scalability issues generally appear in the form of performance problems.
 Replication and caching for performance are widely applied as scaling techniques.
 Placing copies of data close to the processes using them can improve performance through reduction of access time, and thus solve scalability problems: 
 	_trade-off_: keeping copies up to date may require more network bandwidth
-![[5.png]]
+![[Primo Semestre Major/Distributed System/imgs/5.png]]
 ![[6.png]]![[7.png]]
 ![[8.png]]![[9.png]]
 #### The Problem of Consistency
