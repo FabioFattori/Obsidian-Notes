@@ -6,4 +6,8 @@ Esempio:
 $$\{a^n b^nc^md^m: n\geq 1,m\geq 1\} \cup \{a^n b^mc^md^m: n\geq 1,m\geq 1\}$$
 ![[Primo Semestre Major/Compilatori/imgs/1.png]]#### Automi a Pila (Push Down Automaton)
 Un automa a pila PDA è in pratica un automa a stati finiti ($\epsilon$-NFA che è la versione più estesa deli automi a stati finiti) con una pila (struttura dati).
-Non devono essere deterministici 
+Non devono essere deterministici.
+IMPORTANTE => è una pila perchè l'ultimo blocco che incontriamo è quello da cui dobbiamo partire, perchè funzioniona come un xml o comunque come una gestione a tag (html) quindi ha senso che sia una stack anzichè una queue.
+1. Consuma un simbolo di input o esegue una transizione $\epsilon$.
+2. Va in un nuovo stato (o rimane dove e’).
+3. Rimpiazza il top della pila con una stringa (consuma il carattere in cima, e mette al suo posto una stringa, eventualmente vuota o uguale al carattere consumato lasciando quindi la pila inalterata) $\rightarrow$ fa un pop ed una push per rimpiazzare con un carattere scelto da noi![[Primo Semestre Major/Compilatori/imgs/2.png]]
