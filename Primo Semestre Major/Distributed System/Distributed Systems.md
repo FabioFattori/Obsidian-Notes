@@ -52,5 +52,5 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ###### Sequential Consistency
 ![[Primo Semestre Major/Distributed System/imgs/16.png]]
 ###### Causal Consistency
-![[17.png]]
+![[Primo Semestre Major/Distributed System/imgs/17.png]]
 ### Client-centric Consistency Models

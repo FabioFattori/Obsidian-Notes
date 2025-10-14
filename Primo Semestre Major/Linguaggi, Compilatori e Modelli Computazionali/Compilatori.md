@@ -71,3 +71,4 @@ Qua invece si mettono delle transizioni ad ogni stato del PDA a stato finale che
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/16.png]]
 Left-Most.
 Lui considera la variabile più a sinistra e viene messa nello stack al next pop.
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/18.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19.png]]
