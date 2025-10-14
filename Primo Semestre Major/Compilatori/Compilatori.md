@@ -27,3 +27,7 @@ in cima alla pila, dove c'è scritto $0,Z_0 /0\ Z_0$ che rappresenta questo:
 	  - Posizione 1 (prossimo pop) $\rightarrow$ 0
 Queste transizioni non vanno a cambiare il contenuto ma anzi lo mantiene dallo stato $q_0$ allo stato $q_1$, in maniera tale da andare sempre avanti qualunque sia l'input, questa politica rimane fino al tratto da $q_1$ a $q_1$ nel quale avviene ad esempio:
 	se c'è zero nell'input, pop del valore 0 che deve essere in cima alla pila e continuo fino ad avere solo $Z_0$ che mi fa il tratto da $q_1$ a $q_2$, quindi in stato di accettazione, ma la stringa potrebbe non essere accetta se l'input a questo punto non è ancora finito.
+##### Significato di $\epsilon$
+$\epsilon$ in base a dove è vuol dire "qualsiasi valore" oppure "nulla":
+- se è nell'input ad esempio con $\epsilon$ , $Z_0 \ /Z_0$ mi sta a significare $\rightarrow$ "qualsiasi valore ci sia di input e con $Z_0$ nella cima della pila, non mangiare ".
+- mentre $0\ , \ 0 \ / \epsilon$ vuol dire "0 in input e 0 in cima alla pila, mangia l'input e non mettere niente nella pila"
