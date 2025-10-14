@@ -4,7 +4,8 @@
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
 Esempio:
 $$\{a^n b^nc^md^m: n\geq 1,m\geq 1\} \cup \{a^n b^mc^md^m: n\geq 1,m\geq 1\}$$
-![[Primo Semestre Major/Compilatori/imgs/1.png]]#### Automi a Pila (Push Down Automaton)
+![[Primo Semestre Major/Compilatori/imgs/1.png]]
+#### Automi a Pila (Push Down Automaton)
 Un automa a pila PDA è in pratica un automa a stati finiti ($\epsilon$-NFA che è la versione più estesa deli automi a stati finiti) con una pila (struttura dati).
 Non devono essere deterministici.
 IMPORTANTE => è una pila perchè l'ultimo blocco che incontriamo è quello da cui dobbiamo partire, perchè funzioniona come un xml o comunque come una gestione a tag (html) quindi ha senso che sia una stack anzichè una queue.
@@ -16,9 +17,8 @@ Esempio:
 $$L_{wwr} = \{ ww^r: w ∈ \{0,1\}^*\}$$
 ![[Primo Semestre Major/Compilatori/imgs/3.png]]
 Punto 2 $\rightarrow$ il PDA ad ogni carattere prende due strade, la prima per provare a capire se è in mezzo non deterministica va nello stato $q_1$ e prova a matchare $ww^r$ con il primo elemento dello stack, se c'è un mismatch si blocca.
-```
-UNA STRINGA è accettata quando sono in uno stato di accettazione e l'input è finito (è stato tutto "mangiato" dal PDA)
-```
+> UNA STRINGA è accettata quando sono in uno stato di accettazione e l'input è finito (è stato tutto "mangiato" dal PDA)
+
 ![[Primo Semestre Major/Compilatori/imgs/4.png]]
 in cima alla pila, dove c'è scritto $0,Z_0 /0\ Z_0$ che rappresenta questo:
 - il primo zero limita l'input => ci deve essere lo zero in input e ci deve essere lo $Z_0$ sulla cima della pila
@@ -45,5 +45,5 @@ ed infatti dopo la transizione si ha che l'automa può essere rappresentato dall
 ![[Primo Semestre Major/Compilatori/imgs/8.png]]
 [[14_10_2025]]
 ### Accettazione per Pila Vuota
-![[Primo Semestre Major/Compilatori/imgs/10.png]]
-Adesso chiedo che la pila sia vuota e q può essere uno stato non di accettazione 
+![[10.jpeg]]
+> Adesso chiedo che la pila sia vuota e $q$ può essere uno stato non di accettazione
