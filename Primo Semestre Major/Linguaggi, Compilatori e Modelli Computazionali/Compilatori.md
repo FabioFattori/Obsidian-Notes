@@ -1,6 +1,6 @@
 # Compilatori
 ## TODO Fino a Secondo Pdf a Pag 29
-### 14/10/2025 Ambiguità Inerente
+### 14/10/2025 Ambiguità Inerente fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
 Esempio:
 $$\{a^n b^nc^md^m: n\geq 1,m\geq 1\} \cup \{a^n b^mc^md^m: n\geq 1,m\geq 1\}$$
