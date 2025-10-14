@@ -40,6 +40,10 @@ uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli
 - $a \ \rightarrow$ primo simbolo dell'input
 - $X \ \rightarrow$ stringa che va nello stack
 ed infatti dopo la transizione si ha che l'automa può essere rappresentato dalla seguente tripla $(p,w,a\beta)$ dove:
-- $p \ \rightarrow$ è il nuovo stato dell'automa
+- $p \ \rightarrow$ è il nuovo stato dell'automa![[Primo Semestre Major/Compilatori/imgs/9.png]]
 #### Accettazione per Stato Finale
 ![[Primo Semestre Major/Compilatori/imgs/8.png]]
+[[14_10_2025]]
+### Accettazione per Pila Vuota
+![[Primo Semestre Major/Compilatori/imgs/10.png]]
+Adesso chiedo che la pila sia vuota e q può essere uno stato non di accettazione 
