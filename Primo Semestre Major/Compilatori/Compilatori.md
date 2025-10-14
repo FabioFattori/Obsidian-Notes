@@ -17,6 +17,7 @@ Esempio:
 $$L_{wwr} = \{ ww^r: w ∈ \{0,1\}^*\}$$
 ![[Primo Semestre Major/Compilatori/imgs/3.png]]
 Punto 2 $\rightarrow$ il PDA ad ogni carattere prende due strade, la prima per provare a capire se è in mezzo non deterministica va nello stato $q_1$ e prova a matchare $ww^r$ con il primo elemento dello stack, se c'è un mismatch si blocca.
+
 > UNA STRINGA è accettata quando sono in uno stato di accettazione e l'input è finito (è stato tutto "mangiato" dal PDA)
 
 ![[Primo Semestre Major/Compilatori/imgs/4.png]]
@@ -46,4 +47,13 @@ ed infatti dopo la transizione si ha che l'automa può essere rappresentato dall
 [[14_10_2025]]
 ### Accettazione per Pila Vuota
 ![[10.jpeg]]
+
 > Adesso chiedo che la pila sia vuota e $q$ può essere uno stato non di accettazione
+
+## Noi Vogliamo Arrivare a Questo
+![[Primo Semestre Major/Compilatori/imgs/13.png]]
+Sono equipotenti, e possiamo passare da uno all'altro attraverso l'applicazione di un algoritmo.
+### Da Pila Vuota a Stato Finale
+![[Primo Semestre Major/Compilatori/imgs/11.png]]
+### Da Stato Finale a Pila Vuota
+![[Primo Semestre Major/Compilatori/imgs/12.png]]
