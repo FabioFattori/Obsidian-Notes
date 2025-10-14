@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Compilatori/Compilatori.md",
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +36,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Compilatori/slides/linguaggi liberi.pdf"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
@@ -206,21 +206,21 @@
   },
   "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Primo Semestre Major/Compilatori/slides/linguaggi liberi.pdf",
-    "Primo Semestre Major/Compilatori/Compilatori.md",
-    "Primo Semestre Major/Compilatori/imgs/13.png",
-    "Primo Semestre Major/Compilatori/imgs/12.png",
-    "Primo Semestre Major/Compilatori/imgs/12.png",
-    "Primo Semestre Major/Compilatori/imgs/11.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/13.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png",
     "Primo Semestre Major/Compilatori/imgs/10.png",
     "8.png",
-    "Primo Semestre Major/Compilatori/imgs/10.jpeg",
-    "Primo Semestre Major/Compilatori/imgs/9.png",
-    "Primo Semestre Major/Compilatori/draws/14_10_2025.md",
-    "Primo Semestre Major/Compilatori/imgs/8.png",
-    "Primo Semestre Major/Compilatori/draws",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/10.jpeg",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/8.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
-    "Primo Semestre Major/Compilatori/imgs/7.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/7.png",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
@@ -232,7 +232,7 @@
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
-    "Primo Semestre Major/Compilatori/slides",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
