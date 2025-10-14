@@ -21,5 +21,7 @@ UNA STRINGA è accettata quando sono in uno stato di accettazione e l'input è f
 ```
 ![[Primo Semestre Major/Compilatori/imgs/4.png]]
 in cima alla pila, dove c'è scritto $0,Z_0 /0\ Z_0$ che rappresenta questo:
-- il primo zero limita l'input => ci deve essere lo zero e ci deve essere lo zero
-- mentre lo $/o \
+- il primo zero limita l'input => ci deve essere lo zero in input e ci deve essere lo $Z_0$ sulla cima della pila
+- mentre lo $/0 \ Z_0$ rapprenta la stringa da sostituire rendendo la pila in questo modo qui:
+	  - Posizione 0 $\rightarrow$ $Z_0$ 
+	  - Posizione 1 (prossimo pop) $\rightarrow$ 0
