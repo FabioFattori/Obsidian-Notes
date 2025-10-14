@@ -10,6 +10,7 @@
           {
             "id": "dd442458180ee5d9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Compilatori"
+            }
+          }
+        ]
+      },
+      {
+        "id": "adc93e0114cb16a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a750689f2a3e80fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Compilatori/slides/linguaggi liberi.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "linguaggi liberi"
             }
           }
         ]
@@ -183,6 +205,8 @@
   },
   "active": "dd442458180ee5d9",
   "lastOpenFiles": [
+    "Primo Semestre Major/Compilatori/slides/linguaggi liberi.pdf",
+    "Primo Semestre Major/Compilatori/Compilatori.md",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/imgs/10.png",
@@ -191,7 +215,6 @@
     "Primo Semestre Major/Machine Learning/imgs/7.png",
     "Primo Semestre Major/Machine Learning/imgs/6.png",
     "Primo Semestre Major/Machine Learning/imgs/5.png",
-    "Primo Semestre Major/Compilatori/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
@@ -207,7 +230,6 @@
     "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Primo Semestre Major/Compilatori/slides",
     "Primo Semestre Major/Compilatori/imgs",
-    "Primo Semestre Major/Compilatori",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
