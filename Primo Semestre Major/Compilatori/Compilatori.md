@@ -33,4 +33,5 @@ $\epsilon$ in base a dove è vuol dire "qualsiasi valore" oppure "nulla":
 - mentre $0\ , \ 0 \ / \epsilon$ vuol dire "0 in input e 0 in cima alla pila, *mangia l'input e non mettere niente nella pila*"
 ## Definizione Formale Di PDA
 ![[Primo Semestre Major/Compilatori/imgs/5.png]]
-uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli $\epsilon$-NFA va da triple a coppie
+uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli $\epsilon$-NFA va da triple a coppie, si parla della funzione $\delta$, in più c'è $\Gamma^*$ che rappresenta degli sottoinsiemi di stringhe perchè è non deterministico.
+![[Primo Semestre Major/Compilatori/imgs/6.png]]
