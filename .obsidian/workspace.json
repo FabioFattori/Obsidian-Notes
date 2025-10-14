@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Compilatori"
             }
+          },
+          {
+            "id": "228598f02547fb2f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Primo Semestre Major/Compilatori/draws/Drawing 2025-10-14 10.57.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-14 10.57.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "adc93e0114cb16a7",
@@ -204,10 +217,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd442458180ee5d9",
+  "active": "228598f02547fb2f",
   "lastOpenFiles": [
-    "Primo Semestre Major/Compilatori/slides/linguaggi liberi.pdf",
+    "8.png",
     "Primo Semestre Major/Compilatori/Compilatori.md",
+    "Primo Semestre Major/Compilatori/draws/Drawing 2025-10-14 10.57.56.excalidraw.md",
+    "Primo Semestre Major/Compilatori/imgs/8.png",
+    "Primo Semestre Major/Compilatori/slides/linguaggi liberi.pdf",
+    "Primo Semestre Major/Compilatori/draws",
+    "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
     "Primo Semestre Major/Compilatori/imgs/7.png",
     "Primo Semestre Major/Compilatori/imgs/6.png",
     "Primo Semestre Major/Compilatori/imgs/5.png",
@@ -219,7 +237,6 @@
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/imgs/10.png",
     "Primo Semestre Major/Machine Learning/imgs/9.png",
-    "Primo Semestre Major/Machine Learning/imgs/8.png",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
@@ -230,7 +247,6 @@
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Primo Semestre Major/Compilatori/slides",
-    "Primo Semestre Major/Compilatori/imgs",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",

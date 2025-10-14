@@ -41,6 +41,5 @@ uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli
 - $X \ \rightarrow$ stringa che va nello stack
 ed infatti dopo la transizione si ha che l'automa può essere rappresentato dalla seguente tripla $(p,w,a\beta)$ dove:
 - $p \ \rightarrow$ è il nuovo stato dell'automa
-
-###### Termini
-$(q,w,\gamma)$ è la relazione 
+#### Accettazione per Stato Finale
+![[Primo Semestre Major/Compilatori/imgs/8.png]]

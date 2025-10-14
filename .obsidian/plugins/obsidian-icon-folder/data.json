@@ -25,6 +25,12 @@
         "icon": "LiFileText",
         "for": "everything",
         "order": 1
+      },
+      {
+        "rule": "draws",
+        "icon": "LiPaintbrush2",
+        "for": "everything",
+        "order": 2
       }
     ],
     "extraMargin": {
