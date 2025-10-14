@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18c6b4660cf7331f",
+        "id": "ed6d9dec13da857b",
         "type": "tabs",
         "children": [
           {
-            "id": "06b971f6aa8539cf",
+            "id": "dd442458180ee5d9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
+                "file": "Primo Semestre Major/Compilatori/Compilatori.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Machine Learning"
-            }
-          }
-        ]
-      },
-      {
-        "id": "84539542d20a5e06",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75269704969ef81e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "3_ML_Classificazione"
+              "title": "Compilatori"
             }
           }
         ]
@@ -203,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06b971f6aa8539cf",
+  "active": "dd442458180ee5d9",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
