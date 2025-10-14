@@ -63,3 +63,4 @@ partire il PDA emulato, quando egli finisce ad ogni stato parto una transizione 
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/15.png]]
 ### Da Stato Finale a Pila Vuota
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png]]
+Qua invece si mettono delle transizioni ad ogni stato del PDA a stato finale che porta ad uno stato specifico (svuotatore) che cicla fino a quando la pila non è vuota, e per evitare che la pila si svuoti a caso (cosa che non vogliamo se no succede il delirio) facciamo come prima, quindi ci mettiamo 
