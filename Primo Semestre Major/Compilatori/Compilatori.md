@@ -35,3 +35,12 @@ $\epsilon$ in base a dove è vuol dire "qualsiasi valore" oppure "nulla":
 ![[Primo Semestre Major/Compilatori/imgs/5.png]]
 uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli $\epsilon$-NFA va da triple a coppie, si parla della funzione $\delta$, in più c'è $\Gamma^*$ che rappresenta degli sottoinsiemi di stringhe perchè è non deterministico.
 ![[Primo Semestre Major/Compilatori/imgs/6.png]]
+### Descrizioni Istantanee
+![[Primo Semestre Major/Compilatori/imgs/7.png]]
+- $a \ \rightarrow$ primo simbolo dell'input
+- $X \ \rightarrow$ stringa che va nello stack
+ed infatti dopo la transizione si ha che l'automa può essere rappresentato dalla seguente tripla $(p,w,a\beta)$ dove:
+- $p \ \rightarrow$ è il nuovo stato dell'automa
+
+###### Termini
+$(q,w,\gamma)$ è la relazione 
