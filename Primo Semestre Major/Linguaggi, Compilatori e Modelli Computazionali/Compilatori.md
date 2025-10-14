@@ -50,7 +50,7 @@ ed infatti dopo la transizione si ha che l'automa può essere rappresentato dall
 
 > Adesso chiedo che la pila sia vuota e $q$ può essere uno stato non di accettazione
 
-## Noi Vogliamo Arrivare a Questo
+## Noi Vogliamo Arrivare a Questo (Parte Destra Delle Frecce, Da PDA a PDA)
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/13.png]]
 Sono equipotenti, e possiamo passare da uno all'altro attraverso l'applicazione di un algoritmo.
 ### Da Pila Vuota a Stato Finale
@@ -63,4 +63,7 @@ partire il PDA emulato, quando egli finisce ad ogni stato parto una transizione 
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/15.png]]
 ### Da Stato Finale a Pila Vuota
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png]]
-Qua invece si mettono delle transizioni ad ogni stato del PDA a stato finale che porta ad uno stato specifico (svuotatore) che cicla fino a quando la pila non è vuota, e per evitare che la pila si svuoti a caso (cosa che non vogliamo se no succede il delirio) facciamo come prima, quindi ci mettiamo 
+Qua invece si mettono delle transizioni ad ogni stato del PDA a stato finale che porta ad uno stato specifico (svuotatore) che cicla fino a quando la pila non è vuota, e per evitare che la pila si svuoti a caso (cosa che non vogliamo se no succede il delirio) facciamo come prima, quindi ci mettiamo un $X_0$.
+## Adesso Faccio la Parte Sinistra Delle Frecce (Da PDA a Grammatica)
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/16.png]]
+Left-Most.
