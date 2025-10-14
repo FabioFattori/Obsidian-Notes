@@ -46,7 +46,7 @@ So that engineers can fully explore the trade-off between the costs and the bene
 #### Continuous Consistency
 ![[Primo Semestre Major/Distributed System/imgs/12.png]]
 ![[Primo Semestre Major/Distributed System/imgs/13.png]]
-![[14.png]]
+![[Primo Semestre Major/Distributed System/imgs/14.png]]
 ##### Consistent Operations Ordering
 ![[Primo Semestre Major/Distributed System/imgs/15.png]]
 ###### Sequential Consistency

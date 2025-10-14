@@ -55,10 +55,11 @@ ed infatti dopo la transizione si ha che l'automa può essere rappresentato dall
 Sono equipotenti, e possiamo passare da uno all'altro attraverso l'applicazione di un algoritmo.
 ### Da Pila Vuota a Stato Finale
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png]]
-Consiste in una emulazione di un PDA ad accettazione per Stato finale su un PDA ad accettazione per Pila vuota.
+Consiste in una emulazione di un PDA ad accettazione per Pila vuota su un PDA ad accettazione per Stato finale.
 Di fatto prima di far partire il PDA "emulato" si aggiunge una $X_0$ nuovo, poi si fa esegue $\epsilon X_0 /Z_0X_0$ che rende la pila così:
 - posizione 0 $\rightarrow$ $X_0$
-- posizione 0 $\rightarrow$ $X_0$
-partire il PDA emulato, quando egli finisce 
+- posizione 1 (next pop) $\rightarrow$ $Z_0$ 
+partire il PDA emulato, quando egli finisce ad ogni stato parto una transizione che chiede che ci sia $X_0$ nella pila e porta il PDA da pila vuota allo stato finale del PDA a stato finale(padre) ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/14.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/15.png]]
 ### Da Stato Finale a Pila Vuota
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png]]
