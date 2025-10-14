@@ -25,7 +25,7 @@ at a first glance, benefits of (data) replication
 #### Problems
 ![[Primo Semestre Major/Distributed System/imgs/1.png]]
 ![[Primo Semestre Major/Distributed System/imgs/2.png]]
-![[3.png]]
+![[Primo Semestre Major/Distributed System/imgs/3.png]]
 Caching is a form of data replication.![[4.png]]
 ### Replication as a Scaling Technique
 Scalability issues generally appear in the form of performance problems.
