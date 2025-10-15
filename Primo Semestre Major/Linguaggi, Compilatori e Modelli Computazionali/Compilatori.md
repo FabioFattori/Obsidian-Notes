@@ -85,3 +85,5 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[28.png]]
 ### DPDA Che Accettano per Pila Vuota
 ![[29.png]]
+### DPDA E Non Ambiguità
+![[30.png]]
