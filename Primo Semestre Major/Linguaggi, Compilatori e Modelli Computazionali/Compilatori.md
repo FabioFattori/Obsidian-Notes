@@ -87,3 +87,4 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[29.png]]
 ### DPDA E Non Ambiguità
 ![[30.png]]
+![[31.png]]
