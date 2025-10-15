@@ -107,7 +107,7 @@ Inizialmente è partita comprendo i processi più importanti di una azienda, per
 L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ovvero che il dato circola attraverso tutti i processi avendo queste principi:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/19.png]]
 ### Unicità Dell'informazione
-![[20.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/20.png]]
 ### Estensione E Modularità
 ![[21.png]]
 Incrementale => compro da un unico provider e poi decido di prendere moduli in più durante il tempo.

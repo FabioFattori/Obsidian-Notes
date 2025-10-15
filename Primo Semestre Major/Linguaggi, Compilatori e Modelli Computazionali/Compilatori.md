@@ -1,6 +1,6 @@
 # Compilatori
 ## TODO Fino a Secondo Pdf a Pag 29
-### 14/10/2025 Ambiguità Inerente fino a Pag 51
+### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
 Esempio:
 $$\{a^n b^nc^md^m: n\geq 1,m\geq 1\} \cup \{a^n b^mc^md^m: n\geq 1,m\geq 1\}$$
@@ -72,3 +72,6 @@ Qua invece si mettono delle transizioni ad ogni stato del PDA a stato finale che
 Left-Most.
 Lui considera la variabile più a sinistra e viene messa nello stack al next pop.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/18.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19.png]]
+## 15/10/2025 Fino a Pag
+### Da PDA a CFG
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/20.png]]
