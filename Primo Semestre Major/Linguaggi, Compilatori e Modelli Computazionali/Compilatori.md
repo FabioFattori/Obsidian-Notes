@@ -80,4 +80,8 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[25.png]]
 ### PDA Deterministici
 ![[26.png]]
-### DPDA che
+### DPDA Che Accettano per Stato Finale
+![[27.png]]
+![[28.png]]
+### DPDA Che Accettano per Pila Vuota
+![[29.png]]
