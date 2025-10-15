@@ -80,3 +80,4 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[25.png]]
 ### PDA Deterministici
 ![[26.png]]
+### DPDA che
