@@ -74,4 +74,5 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/18.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19.png]]
 ## 15/10/2025 Fino a Pag
 ### Da PDA a CFG
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/20.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/20.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/21.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/23.png]]

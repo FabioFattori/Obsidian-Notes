@@ -109,16 +109,16 @@ L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ov
 ### Unicità Dell'informazione
 ![[Primo Semestre Major/Sistemi Informativi/imgs/20.png]]
 ### Estensione E Modularità
-![[21.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/21.png]]
 Incrementale => compro da un unico provider e poi decido di prendere moduli in più durante il tempo.
 Best Of Breed => posso fare best of breed quando il fornitore mi garantisce che due moduli da due provider diversi si integrano perfettamente.
 ### Prescrittività
 I Sistemi ERP sono dei sistemi già pronti from the get go come di esempio sotto:
-![[22.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/22.png]]
 Vantaggi:
 - forte standardizzazione
 - adozione di processi già ottimizzati se sono disposto ad adottarli => spesso comporta il cambiamento dei processi aziendali
-- Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso![[23.png]]
+- Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso![[Primo Semestre Major/Sistemi Informativi/imgs/23.png]]
 ## I Sistemi ERP Allargati
 gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
 ![[24.png]]
