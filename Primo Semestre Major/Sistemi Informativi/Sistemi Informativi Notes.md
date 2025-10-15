@@ -121,7 +121,7 @@ Vantaggi:
 - Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso![[Primo Semestre Major/Sistemi Informativi/imgs/23.png]]
 ## I Sistemi ERP Allargati
 gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
-![[24.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/24.png]]
 
 # SLIDES DA FARE
 - Data Flow Diagram
