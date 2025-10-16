@@ -1,4 +1,6 @@
 # Distributed Systems
+## Recupero - 16/10/2025
+
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
 - increasing the reliability of systems

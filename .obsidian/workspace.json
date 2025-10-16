@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "46aaf172aced7b54",
+        "id": "69208a238726785d",
         "type": "tabs",
         "children": [
           {
-            "id": "8364d584e77910ca",
+            "id": "28b74dfe0aab8bbc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Compilatori"
+              "title": "Distributed Systems"
+            }
+          },
+          {
+            "id": "6853480f67d79ab9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Distributed System/slides/C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -183,8 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8364d584e77910ca",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Distributed System/slides/C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/13.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png",
@@ -195,25 +213,20 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png",
     "Primo Semestre Major/Machine Learning/imgs/8.png",
     "Primo Semestre Major/Machine Learning/imgs/7.png",
-    "Primo Semestre Major/Machine Learning/imgs/5.png",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/slides",
     "Primo Semestre Major/Distributed System/imgs",
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
