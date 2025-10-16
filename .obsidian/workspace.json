@@ -11,12 +11,14 @@
             "id": "8364d584e77910ca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "9"
+              "icon": "lucide-file",
+              "title": "Compilatori"
             }
           }
         ]
@@ -182,12 +184,12 @@
   },
   "active": "8364d584e77910ca",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/8.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/10.jpeg",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/13.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/10.jpeg",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/8.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/5.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png",
     "Primo Semestre Major/Machine Learning/imgs/8.png",
