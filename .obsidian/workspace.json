@@ -4,43 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed6d9dec13da857b",
+        "id": "46aaf172aced7b54",
         "type": "tabs",
         "children": [
           {
-            "id": "dd442458180ee5d9",
+            "id": "8364d584e77910ca",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
-                "mode": "source",
-                "source": false
+                "file": "Terzo anno Triennale/Data Intensive Notes/images/teorema.png"
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Compilatori"
-            }
-          }
-        ]
-      },
-      {
-        "id": "adc93e0114cb16a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a750689f2a3e80fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "linguaggi liberi"
+              "icon": "lucide-image",
+              "title": "teorema"
             }
           }
         ]
@@ -204,8 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "8364d584e77910ca",
   "lastOpenFiles": [
+    "Terzo anno Triennale/Data Intensive Notes/images/svmDefinitionP.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/SVM non lineari.png",
+    "Terzo anno Triennale/Data Intensive Notes/images/BigProblemMyGuy.png",
+    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/31.png",
@@ -216,8 +196,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/26.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/25.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/24.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/23.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
@@ -235,7 +213,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
-    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
     "Tesi Shit/Senza nome.md",
     "Ottimi.md",
