@@ -33,7 +33,11 @@ A consistent service is modelled as an atomic data object where:
 > _"consistency implies that all read operations over a distributed shared memory occurring after a write operation completes must return the value of either this write operation or a later one"_
 
 A system is **consistent** if we got _correct responses_.
+#### Network Partition
+> _"When a Network is partitioned, all messages sent from nodes of a component (partition) to nodes of a different component are lost"_
 
+
+---
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
 - increasing the reliability of systems
