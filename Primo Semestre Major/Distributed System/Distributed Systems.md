@@ -13,7 +13,12 @@ When a system can hide most of the failures, it is *highly available*.
 ### Tradeoff - CAP Theorem
 #### Informally
 According to the CAP theorem, it is only possible to simultaneously provide any two of the three following properties in distributed applications: 
-- consistency (C), availability (A), and partition tolerance (P).
+- **consistency (C)** $\rightarrow$ the replicated data is always consistent with each other.
+- **availability (A)** $\rightarrow$ the data is highly available to the users.
+- **partition tolerance (P)** $\rightarrow$ the system can continue providing services to its users even when the network partitions.
+#### Formally
+![[Primo Semestre Major/Distributed System/imgs/18.png]]
+
 
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
