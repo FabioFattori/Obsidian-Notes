@@ -6,11 +6,14 @@
 
 Assumption: distributed systems can be designed so that if a component of the system fails, disconnects ecc..., other components can replace it, which *Hides* the failure or at least mitigate the impact (perceived) of that failure.
 When a system can hide most of the failures, it is *highly available*.
-#### Expected Features of a distributed system
+### Expected Features of a Distributed System
 - consistency $\rightarrow$ correct behavior when queried
 - availability $\rightarrow$ the system is live
 - unreliable $\rightarrow$ we know that systems can experience so many things that make them go offline.
-#### Tradeoff - CAP Theorem
+### Tradeoff - CAP Theorem
+#### Informally
+According to the CAP theorem, it is only possible to simultaneously provide any two of the three following properties in distributed applications: 
+- consistency (C), availability (A), and partition tolerance (P).
 
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
