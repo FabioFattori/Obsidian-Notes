@@ -18,6 +18,10 @@ According to the CAP theorem, it is only possible to simultaneously provide any 
 - **partition tolerance (P)** $\rightarrow$ the system can continue providing services to its users even when the network partitions.
 #### Formally
 ![[Primo Semestre Major/Distributed System/imgs/18.png]]
+##### What of the 3 Do We Pick?
+>The three properties are not exactly of the same sort, both technically and conceptually consistency and availability range over a spectrum of options, whereas partition tolerance can somehow be seen more as an on/off feature. All of them are desirable, yet forfeiting partition tolerance is not really an option in real-world systems.
+![[Primo Semestre Major/Distributed System/imgs/19.png]]
+
 
 
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
