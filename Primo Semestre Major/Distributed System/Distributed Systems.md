@@ -36,6 +36,11 @@ A system is **consistent** if we got _correct responses_.
 #### Network Partition
 > _"When a Network is partitioned, all messages sent from nodes of a component (partition) to nodes of a different component are lost"_
 
+![[Primo Semestre Major/Distributed System/imgs/20.png]]
+## ACID Vs BASE
+The followings are two way to approach the creation of a distributed system by following each in their own way the CAP Theorem:
+![[Primo Semestre Major/Distributed System/imgs/21.png]]
+
 
 ---
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
