@@ -5,7 +5,13 @@
 > being able to keep on providing services in spite of failures is supposed to be one of the main benefit of distributed systems over centralised ones
 
 Assumption: distributed systems can be designed so that if a component of the system fails, disconnects ecc..., other components can replace it, which *Hides* the failure or at least mitigate the impact (perceived) of that failure.
-When a system can hide most of the failures, it is 
+When a system can hide most of the failures, it is *highly available*.
+#### Expected Features of a distributed system
+- consistency $\rightarrow$ correct behavior when queried
+- availability $\rightarrow$ the system is live
+- unreliable $\rightarrow$ we know that systems can experience so many things that make them go offline.
+#### Tradeoff - CAP Theorem
+
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
 - increasing the reliability of systems
