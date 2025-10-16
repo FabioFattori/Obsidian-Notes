@@ -22,7 +22,17 @@ According to the CAP theorem, it is only possible to simultaneously provide any 
 >The three properties are not exactly of the same sort, both technically and conceptually consistency and availability range over a spectrum of options, whereas partition tolerance can somehow be seen more as an on/off feature. All of them are desirable, yet forfeiting partition tolerance is not really an option in real-world systems.
 ![[Primo Semestre Major/Distributed System/imgs/19.png]]
 
+### Definitions
+#### Availability
+>_"For a distributed system to be continuously available, every request received by a non-failing node in the system must result in a response"_
 
+#### Consistency
+A consistent service is modelled as an atomic data object where:
+- operations are totally ordered
+- each operation occurs in a single instant of time
+> _"consistency implies that all read operations over a distributed shared memory occurring after a write operation completes must return the value of either this write operation or a later one"_
+
+A system is **consistent** if we got _correct responses_.
 
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
 Why Replication of Data? 
