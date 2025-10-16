@@ -22,7 +22,13 @@
               "icon": "lucide-file",
               "title": "Distributed Systems"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "18b6daedbf30a5ee",
+        "type": "tabs",
+        "children": [
           {
             "id": "6853480f67d79ab9",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +202,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "28b74dfe0aab8bbc",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png",
