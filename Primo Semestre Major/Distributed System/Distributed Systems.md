@@ -1,5 +1,5 @@
 # Distributed Systems
-## Recupero - 16/10/2025 Fine pri
+## Recupero - 16/10/2025 Fine primo pdf
 # Availability, Consistency and Failure
 ## Hiding Failure in Distributed Systems
 > being able to keep on providing services in spite of failures is supposed to be one of the main benefit of distributed systems over centralised ones
@@ -21,11 +21,9 @@ According to the CAP theorem, it is only possible to simultaneously provide any 
 ##### What of the 3 Do We Pick?
 >The three properties are not exactly of the same sort, both technically and conceptually consistency and availability range over a spectrum of options, whereas partition tolerance can somehow be seen more as an on/off feature. All of them are desirable, yet forfeiting partition tolerance is not really an option in real-world systems.
 ![[Primo Semestre Major/Distributed System/imgs/19.png]]
-
 ### Definitions
 #### Availability
 >_"For a distributed system to be continuously available, every request received by a non-failing node in the system must result in a response"_
-
 #### Consistency
 A consistent service is modelled as an atomic data object where:
 - operations are totally ordered
@@ -45,6 +43,7 @@ The followings are two way to approach the creation of a distributed system by f
 	- Soft State: generated at the expense of additional computation or file I/O, is exploited to improve performance; data is not durable
 	- Eventually Consistency: Stale data can be temporarily tolerated as long as all copies of data eventually reach consistency after a short time
 	In this approach the responses are _approximate_ but they are delivered quickly, which in some situations is more valuable than slow correct answers, which sometimes are also delivered by a system builded in this way.
+	The Big Tech Companies these days are using this type of approch
 
 
 ---

@@ -35,10 +35,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems.pdf"
+                "file": "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems"
+              "title": "1 - CAP"
             }
           }
         ]
@@ -202,9 +202,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28b74dfe0aab8bbc",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/slides/C1 – The CAP Theorem. Availability, Consistency, Failure in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/21.png",
     "Primo Semestre Major/Distributed System/imgs/20.png",
