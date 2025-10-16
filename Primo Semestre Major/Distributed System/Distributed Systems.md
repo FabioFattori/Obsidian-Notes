@@ -1,5 +1,5 @@
 # Distributed Systems
-## Recupero - 16/10/2025
+## Recupero - 16/10/2025 Fine pri
 # Availability, Consistency and Failure
 ## Hiding Failure in Distributed Systems
 > being able to keep on providing services in spite of failures is supposed to be one of the main benefit of distributed systems over centralised ones
@@ -39,7 +39,12 @@ A system is **consistent** if we got _correct responses_.
 ![[Primo Semestre Major/Distributed System/imgs/20.png]]
 ## ACID Vs BASE
 The followings are two way to approach the creation of a distributed system by following each in their own way the CAP Theorem:
-![[Primo Semestre Major/Distributed System/imgs/21.png]]
+- ![[Primo Semestre Major/Distributed System/imgs/21.png]]
+- BASE $\rightarrow$ 
+	- Basically Available
+	- Soft State: generated at the expense of additional computation or file I/O, is exploited to improve performance; data is not durable
+	- Eventually Consistency: Stale data can be temporarily tolerated as long as all copies of data eventually reach consistency after a short time
+	In this approach the responses are _approximate_ but they are delivered quickly, which in some situations is more valuable than slow correct answers, which sometimes are also delivered by a system builded in this way.
 
 
 ---
