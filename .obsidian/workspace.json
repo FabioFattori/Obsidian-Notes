@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69208a238726785d",
+        "id": "bc6535b1de6d3585",
         "type": "tabs",
         "children": [
           {
-            "id": "28b74dfe0aab8bbc",
+            "id": "4acb9ebfa9167572",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Distributed Systems"
-            }
-          }
-        ]
-      },
-      {
-        "id": "18b6daedbf30a5ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6853480f67d79ab9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1 - CAP"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -186,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +177,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "4acb9ebfa9167572",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Distributed System/imgs/22.png",
+    "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/imgs/21.png",
     "Primo Semestre Major/Distributed System/imgs/20.png",
     "Primo Semestre Major/Distributed System/imgs/19.png",
@@ -217,7 +193,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/10.jpeg",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/8.png",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",

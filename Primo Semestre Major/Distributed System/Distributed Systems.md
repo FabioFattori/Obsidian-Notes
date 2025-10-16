@@ -1,5 +1,5 @@
 # Distributed Systems
-## Recupero - 16/10/2025 Fine primo pdf
+## Recupero - 16/10/2025 Fine Primo Pdf
 # Availability, Consistency and Failure
 ## Hiding Failure in Distributed Systems
 > being able to keep on providing services in spite of failures is supposed to be one of the main benefit of distributed systems over centralised ones
@@ -43,8 +43,9 @@ The followings are two way to approach the creation of a distributed system by f
 	- Soft State: generated at the expense of additional computation or file I/O, is exploited to improve performance; data is not durable
 	- Eventually Consistency: Stale data can be temporarily tolerated as long as all copies of data eventually reach consistency after a short time
 	In this approach the responses are _approximate_ but they are delivered quickly, which in some situations is more valuable than slow correct answers, which sometimes are also delivered by a system builded in this way.
-	The Big Tech Companies these days are using this type of approch
-
+	The Big Tech Companies these days are using this type of approach.
+### Overall
+![[Primo Semestre Major/Distributed System/imgs/22.png]]
 
 ---
 ## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
