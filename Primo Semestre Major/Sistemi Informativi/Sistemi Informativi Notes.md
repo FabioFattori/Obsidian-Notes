@@ -171,8 +171,12 @@ Normalmente si danno in outsourcing dei _processi di supporto_.
 #### Multi Cloud
 si fa per evitare il vendo lock-in, ovvero ho tutto su un provider e mi ritrovo ad essere bloccato, oppure lo si fa per avere più possibilità offerte da diversi provider:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/29.png]]
-### Vantaggi delle soluzioni in cloud
+### Vantaggi Delle Soluzioni in Cloud
 OPEX se sono su cloud => i giorni che lo utilizzo come servizio lo pago
 CAPEX => Cerca su GOOOGLE
 ![[Primo Semestre Major/Sistemi Informativi/imgs/30.png]]
-### Svantaggi delle soluzioni in cloud
+### Svantaggi Delle Soluzioni in Cloud
+![[Primo Semestre Major/Sistemi Informativi/imgs/31.png]]
+## Cloud VS Appliance
+![[32.png]]
+Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovvero ridurre i costi di gestione.

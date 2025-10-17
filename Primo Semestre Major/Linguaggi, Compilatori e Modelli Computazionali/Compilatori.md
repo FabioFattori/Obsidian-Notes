@@ -87,4 +87,4 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29.png]]
 ### DPDA E Non Ambiguità
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/30.png]]
-![[31.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/31.png]]
