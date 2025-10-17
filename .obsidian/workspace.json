@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc6535b1de6d3585",
+        "id": "cc6f1c71ce62166b",
         "type": "tabs",
         "children": [
           {
-            "id": "4acb9ebfa9167572",
+            "id": "ab786183863b9f63",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf"
+                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1 - CAP"
+              "icon": "lucide-file",
+              "title": "Distributed Systems"
             }
           }
         ]
@@ -180,11 +182,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4acb9ebfa9167572",
+  "active": "ab786183863b9f63",
   "lastOpenFiles": [
+    "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/22.png",
-    "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/imgs/21.png",
     "Primo Semestre Major/Distributed System/imgs/20.png",
     "Primo Semestre Major/Distributed System/imgs/19.png",
