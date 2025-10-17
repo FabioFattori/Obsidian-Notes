@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +203,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "79b25110eba026ee",
   "lastOpenFiles": [
+    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Primo Semestre Major/Sistemi Informativi/imgs/35.png",
+    "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Semestre Major/Sistemi Informativi/imgs/34.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/33.png",
-    "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
-    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/32.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/30.png",
@@ -217,13 +217,11 @@
     "Primo Semestre Major/Sistemi Informativi/imgs/28.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/27.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/26.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/25.png",
     "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
     "Primo Semestre Major/Sistemi Informativi/draws",
     "Excalidraw",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
-    "Primo Semestre Major/Distributed System/imgs/22.png",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",

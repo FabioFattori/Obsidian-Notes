@@ -184,3 +184,5 @@ Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovve
 3 tipi di benefici:
 ![[33.png]]
 ![[34.png]]
+### Benefici Misurabili Nelle P.A
+![[35.png]]
