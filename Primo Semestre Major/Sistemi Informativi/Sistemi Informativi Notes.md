@@ -140,3 +140,5 @@ bisogna individuare l'organigramma dell'azienda, disegnato sul foglio (da metter
 Realizzazione del Data Flow Diagram, individuazione dei processi, del numero di personale e delle sue competenze.
 # 10/10/2025 Continuo Esercizio Del Foglio
 
+## TODO: Slides Studio Fattibilità, File Già Scaricato
+## 17/10/2025

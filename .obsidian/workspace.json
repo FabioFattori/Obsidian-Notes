@@ -10,11 +10,35 @@
           {
             "id": "b8f2dd42f2b5711e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Sistemi Informativi Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "09d3107f94c286aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fd6af61135262a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Studio di Fattibilità"
             }
           }
         ]
@@ -180,6 +204,8 @@
   },
   "active": "b8f2dd42f2b5711e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
+    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/imgs/22.png",
@@ -202,12 +228,10 @@
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
-    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/slides",
     "Primo Semestre Major/Distributed System/imgs",
     "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "conflict-files-obsidian-git.md",
-    "Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
