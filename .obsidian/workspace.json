@@ -24,6 +24,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "6dc9c5354b17192e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b25110eba026ee",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Studio di Fattibilità"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +206,12 @@
   },
   "active": "b8f2dd42f2b5711e",
   "lastOpenFiles": [
-    "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
+    "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Primo Semestre Major/Sistemi Informativi/imgs/25.png",
+    "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
     "Primo Semestre Major/Sistemi Informativi/draws",
     "Excalidraw",
-    "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/imgs/22.png",
@@ -204,7 +225,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/13.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/10.jpeg",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",

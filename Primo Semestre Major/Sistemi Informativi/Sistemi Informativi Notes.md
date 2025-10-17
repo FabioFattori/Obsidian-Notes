@@ -140,6 +140,21 @@ bisogna individuare l'organigramma dell'azienda, disegnato sul foglio (da metter
 Realizzazione del Data Flow Diagram, individuazione dei processi, del numero di personale e delle sue competenze.
 # 10/10/2025 Continuo Esercizio Del Foglio
 
-# TODO: Slides Studio Fattibilità, File Già Scaricato
-# 17/10/2025 
+# TODO: Slides Studio Fattibilità, File Già Scaricato Fino a Pagina 35 Non Compresa
+# 17/10/2025
 [[Ottimizzazione dei progetti]]
+## Analisi Costi-Benefici
+### Valutazione Dei Benefici Attesi
+Fornisce una valutazione dettagliata dei benefici attesi, limitatamente a quelli monetizzabili o comunque misurabili secondo criteri oggettivi.
+- Individuazione e descrizione dei benefici attesi
+- Individuazione ed esplicitazione delle metriche dei valori attesi
+- Correlazione obiettivi-benefici
+### Analisi dell'Investimento
+Fornisce una valutazione comparata dei benefici e dei costi che si presentano nelle diverse alternative tenendo conto che questi si concretizzeranno in istanti diversi. Essa deve indicare:
+- 
+### Stima Dei Costi
+- Individuazione delle principali voci di costo
+- Esplicitazione delle metriche utilizzate
+- Stima dei costi di impianto e di esercizio
+Due classificazioni diverse dei costi, quale adotto dipende dal progetto nello specifico.
+![[Primo Semestre Major/Sistemi Informativi/imgs/25.png]]
