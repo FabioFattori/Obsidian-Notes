@@ -167,4 +167,8 @@ Normalmente si danno in outsourcing dei _processi di supporto_.
 - IaaS (Hardware as a Service) - Con questo servizio l'utente acquista come servizio un’intera piattaforma hardware comprensiva di sistema operativo e suite di programmi on-the-shelf. - Ho solo la macchina -
 - SaaS (Software as a Service) - Consiste nell'utilizzo di programmi installati su un server remoto. Questo acronimo condivide in parte la filosofia di un termine oggi in disuso, ASP (Application service provider). - Utilizzo un software per avere la funzionalità e basta -
 ### Cloud Pubblici VS Cloud Privati
+![[Primo Semestre Major/Sistemi Informativi/imgs/28.png]]
 
+#### Multi Cloud
+si fa per evitare il vendo lock-in, ovvero ho tutto su un provider e mi ritrovo ad essere bloccato, oppure lo si fa per avere più possibilità offerte da diversi provider:
+![[Primo Semestre Major/Sistemi Informativi/imgs/29.png]]
