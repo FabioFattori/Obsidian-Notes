@@ -162,3 +162,9 @@ Due classificazioni diverse dei costi, quale adotto dipende dal progetto nello s
 #### Outsourcing
 Ha luogo quando un’organizzazione affida tramite un accordo contrattuale a un fornitore esterno la responsabilità di una o più funzioni o servizi specializzati precedentemente svolti internamente.![[Primo Semestre Major/Sistemi Informativi/imgs/27.png]]
 Normalmente si danno in outsourcing dei _processi di supporto_.
+### Cloud Computing
+- PaaS (Platform as a Service) - Con questo servizio viene messa a disposizione una piattaforma di sviluppo in cloud comprensiva di componenti di base specifici per il cloud in modo che il programmatore possa concentrarsi sulla logica applicativa. 
+- IaaS (Hardware as a Service) - Con questo servizio l'utente acquista come servizio un’intera piattaforma hardware comprensiva di sistema operativo e suite di programmi on-the-shelf. - Ho solo la macchina -
+- SaaS (Software as a Service) - Consiste nell'utilizzo di programmi installati su un server remoto. Questo acronimo condivide in parte la filosofia di un termine oggi in disuso, ASP (Application service provider). - Utilizzo un software per avere la funzionalità e basta -
+### Cloud Pubblici VS Cloud Privati
+
