@@ -142,3 +142,4 @@ Realizzazione del Data Flow Diagram, individuazione dei processi, del numero di 
 
 # TODO: Slides Studio Fattibilità, File Già Scaricato
 # 17/10/2025
+[[Ottimizzazione dei progetti]]

@@ -24,37 +24,19 @@
             }
           },
           {
-            "id": "c8e3d783acac5d0a",
+            "id": "33fd6af61135262a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-17 11.42.51.excalidraw.md"
+                "file": "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-17 11.42.51.excalidraw"
+              "title": "Ottimizzazione dei progetti"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "09d3107f94c286aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33fd6af61135262a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Studio di Fattibilità"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +197,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c8e3d783acac5d0a",
+  "active": "33fd6af61135262a",
   "lastOpenFiles": [
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Excalidraw/Drawing 2025-10-17 11.42.51.excalidraw.md",
+    "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
+    "Primo Semestre Major/Sistemi Informativi/draws",
     "Excalidraw",
     "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
@@ -244,7 +227,6 @@
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Distributed System/slides",
-    "Primo Semestre Major/Distributed System/imgs",
     "conflict-files-obsidian-git.md",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
