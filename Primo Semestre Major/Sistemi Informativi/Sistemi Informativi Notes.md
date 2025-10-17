@@ -159,3 +159,6 @@ Fornisce una valutazione comparata dei benefici e dei costi che si presentano ne
 - Stima dei costi di impianto e di esercizio
 Due classificazioni diverse dei costi, quale adotto dipende dal progetto nello specifico.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/25.png]]![[Primo Semestre Major/Sistemi Informativi/imgs/26.png]]
+#### Outsourcing
+Ha luogo quando un’organizzazione affida tramite un accordo contrattuale a un fornitore esterno la responsabilità di una o più funzioni o servizi specializzati precedentemente svolti internamente.![[Primo Semestre Major/Sistemi Informativi/imgs/27.png]]
+Normalmente si danno in outsourcing dei _processi di supporto_.
