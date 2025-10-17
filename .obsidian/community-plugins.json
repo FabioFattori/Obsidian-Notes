@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-linter",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "colored-text",
+  "obsidian-plugin-toc"
 ]

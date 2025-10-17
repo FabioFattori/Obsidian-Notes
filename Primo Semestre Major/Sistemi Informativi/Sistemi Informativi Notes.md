@@ -1,4 +1,5 @@
-# Sistemi Informativi Notes
+# Sistemi Informativi
+
 ## 18/07/2025
 ### Capire Le Aziende
 Ogni impresa o istituzione, sia pubblica sia privata, si struttura e si organizza secondo la propria missione e per conseguire gli obiettivi identificati.
