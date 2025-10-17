@@ -151,10 +151,11 @@ Fornisce una valutazione dettagliata dei benefici attesi, limitatamente a quelli
 - Correlazione obiettivi-benefici
 ### Analisi dell'Investimento
 Fornisce una valutazione comparata dei benefici e dei costi che si presentano nelle diverse alternative tenendo conto che questi si concretizzeranno in istanti diversi. Essa deve indicare:
-- 
+- Le giustificazioni economiche all’investimento
+- Gli elementi per la scelta nel caso in cui si comparino più alternative
 ### Stima Dei Costi
 - Individuazione delle principali voci di costo
 - Esplicitazione delle metriche utilizzate
 - Stima dei costi di impianto e di esercizio
 Due classificazioni diverse dei costi, quale adotto dipende dal progetto nello specifico.
-![[Primo Semestre Major/Sistemi Informativi/imgs/25.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/25.png]]![[Primo Semestre Major/Sistemi Informativi/imgs/26.png]]

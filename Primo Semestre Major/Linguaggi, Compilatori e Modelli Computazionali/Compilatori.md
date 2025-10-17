@@ -79,7 +79,7 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/24.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/25.png]]
 ### PDA Deterministici
-![[26.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/26.png]]
 ### DPDA Che Accettano per Stato Finale
 ![[27.png]]
 ![[28.png]]
