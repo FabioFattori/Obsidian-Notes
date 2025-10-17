@@ -123,7 +123,7 @@ Vantaggi:
 gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/24.png]]
 
-# SLIDES DA FARE
+## TODO
 - Data Flow Diagram
 - Studio di Fattibilità
 - La Pianificazione dei sistemi in formativi
@@ -140,5 +140,5 @@ bisogna individuare l'organigramma dell'azienda, disegnato sul foglio (da metter
 Realizzazione del Data Flow Diagram, individuazione dei processi, del numero di personale e delle sue competenze.
 # 10/10/2025 Continuo Esercizio Del Foglio
 
-## TODO: Slides Studio Fattibilità, File Già Scaricato
-## 17/10/2025
+# TODO: Slides Studio Fattibilità, File Già Scaricato
+# 17/10/2025
