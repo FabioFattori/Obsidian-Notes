@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Sistemi Informativi Notes"
             }
+          },
+          {
+            "id": "c8e3d783acac5d0a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-17 11.42.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-17 11.42.51.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "09d3107f94c286aa",
@@ -202,9 +215,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "33fd6af61135262a",
+  "active": "c8e3d783acac5d0a",
   "lastOpenFiles": [
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Excalidraw/Drawing 2025-10-17 11.42.51.excalidraw.md",
+    "Excalidraw",
     "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
@@ -230,7 +245,6 @@
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Distributed System/slides",
     "Primo Semestre Major/Distributed System/imgs",
-    "Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "conflict-files-obsidian-git.md",
     "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
