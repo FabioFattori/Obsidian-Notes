@@ -86,5 +86,5 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ### DPDA Che Accettano per Pila Vuota
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29.png]]
 ### DPDA E Non Ambiguità
-![[30.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/30.png]]
 ![[31.png]]
