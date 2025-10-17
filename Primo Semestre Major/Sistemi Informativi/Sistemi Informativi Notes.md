@@ -180,3 +180,7 @@ CAPEX => Cerca su GOOOGLE
 ## Cloud VS Appliance
 ![[32.png]]
 Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovvero ridurre i costi di gestione.
+## Individuazione Dei Benefici
+3 tipi di benefici:
+![[33.png]]
+![[34.png]]
