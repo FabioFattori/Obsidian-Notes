@@ -107,3 +107,5 @@ Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede
 ### SVM non lineari: Kernel functions
 ![[Primo Semestre Major/Machine Learning/imgs/21.png]]
 $\sigma$ fa le veci di un regolarizzatore, permettendo delle gaussiane più piccole (come l'$h$ di Parzen).
+## SVM: estensione multiclasse
+![[Primo Semestre Major/Machine Learning/imgs/22.png]]
