@@ -85,4 +85,10 @@ Variante della distanza euclidea.
 La distanza coseno non è una metrica dato che non rispetta la diseguaglianza triangolare.
 # 20/10/2025 Inizio Quarto Pdf, Nello Specifico Da SVM
 ## Support Vector Machines (SVM)
-Invece di stimare le densità di probabilità delle classi ovvero determinare le superfici decisionali tra le classi (classification boundaries).
+Invece di stimare le densità di probabilità delle classi ovvero determinare le superfici decisionali tra le classi (<span style="color:rgb(255, 0, 0)">classification boundaries</span>).
+![[Primo Semestre Major/Machine Learning/imgs/11.png]]
+## Idea Alla Base (separazione E margine)
+>_Il margine_ è la distanza minima di punti delle due classi nel training set dall’ iperpiano individuato.
+
+![[Primo Semestre Major/Machine Learning/imgs/12.png]]
+
