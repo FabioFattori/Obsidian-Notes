@@ -96,3 +96,4 @@ La massimizzazione del margine è legata alla <span style="color:rgb(255, 0, 0)"
 ### SVM lineari: Pattern Separabili
 ![[Primo Semestre Major/Machine Learning/imgs/13.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/14.png]]
+![[Primo Semestre Major/Machine Learning/imgs/15.png]]
