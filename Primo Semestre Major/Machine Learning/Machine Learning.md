@@ -100,3 +100,7 @@ Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede
 ![[Primo Semestre Major/Machine Learning/imgs/15.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/16.png]]![[Primo Semestre Major/Machine Learning/imgs/17.png]]
 ### SVM lineari: Pattern non Separabili
+![[Primo Semestre Major/Machine Learning/imgs/18.png]]
+![[Primo Semestre Major/Machine Learning/imgs/19.png]]
+## SVM non lineari
+![[Primo Semestre Major/Machine Learning/imgs/20.png]]
