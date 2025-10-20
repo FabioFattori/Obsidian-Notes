@@ -83,3 +83,6 @@ Sta roba funziona bene o male in base ai dai che abbiamo, è una semplificazione
 Variante della distanza euclidea.
 ![[Primo Semestre Major/Machine Learning/imgs/10.png]]
 La distanza coseno non è una metrica dato che non rispetta la diseguaglianza triangolare.
+# 20/10/2025 Inizio Quarto Pdf, Nello Specifico Da SVM
+## Support Vector Machines (SVM)
+Invece di stimare le densità di probabilità delle classi ovvero determinare le superfici decisionali tra le classi (classification boundaries).
