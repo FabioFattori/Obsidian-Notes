@@ -88,7 +88,9 @@ La distanza coseno non è una metrica dato che non rispetta la diseguaglianza tr
 Invece di stimare le densità di probabilità delle classi ovvero determinare le superfici decisionali tra le classi (<span style="color:rgb(255, 0, 0)">classification boundaries</span>).
 ![[Primo Semestre Major/Machine Learning/imgs/11.png]]
 ## Idea Alla Base (separazione E margine)
+Date due classi di pattern multidimensionali linearmente separabili, tra tutti i possibili iperpiani di separazione, SVM determina quello in grado di separare le classi con il **maggior margine possibile**.
 >_Il margine_ è la distanza minima di punti delle due classi nel training set dall’ iperpiano individuato.
 
 ![[Primo Semestre Major/Machine Learning/imgs/12.png]]
-
+La massimizzazione del margine è legata alla <span style="color:rgb(255, 0, 0)">generalizzazione</span>. Se i pattern del training set sono classificati con ampio margine si può «sperare» che anche pattern del test set vicini al confine tra le classi siano gestiti correttamente.
+### SVM lineari: Pattern Separabili
