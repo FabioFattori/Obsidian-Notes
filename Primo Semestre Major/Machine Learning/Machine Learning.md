@@ -94,6 +94,8 @@ Date due classi di pattern multidimensionali linearmente separabili, tra tutti i
 ![[Primo Semestre Major/Machine Learning/imgs/12.png]]
 La massimizzazione del margine è legata alla <span style="color:rgb(255, 0, 0)">generalizzazione</span>. Se i pattern del training set sono classificati con ampio margine si può «sperare» che anche pattern del test set vicini al confine tra le classi siano gestiti correttamente.
 ### SVM lineari: Pattern Separabili
+Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede e bona.
 ![[Primo Semestre Major/Machine Learning/imgs/13.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/14.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/15.png]]
+![[Primo Semestre Major/Machine Learning/imgs/16.png]]
