@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "cf178de7a373b70d",
+        "id": "e1e682308f3fffd9",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f2dd42f2b5711e",
+            "id": "a67d5f5c5fccf4a3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sistemi Informativi Notes"
+              "title": "Machine Learning"
             }
           }
         ]
       },
       {
-        "id": "6dc9c5354b17192e",
+        "id": "bae4490d1db9e0a1",
         "type": "tabs",
         "children": [
           {
-            "id": "79b25110eba026ee",
+            "id": "a20d21320b8d98dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf"
+                "file": "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "Studio di Fattibilità"
+              "title": "3_ML_Classificazione"
             }
           }
         ]
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +204,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79b25110eba026ee",
+  "active": "a20d21320b8d98dc",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Primo Semestre Major/Sistemi Informativi/imgs/35.png",
     "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
+    "Primo Semestre Major/Sistemi Informativi/imgs/35.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/34.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/33.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/32.png",
@@ -230,7 +232,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Distributed System/slides",
     "conflict-files-obsidian-git.md",
