@@ -127,3 +127,5 @@ ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 ![[46.png]]
 ### Proprietà Di Chiusura Dei CFL
 ![[47.png]]
+## Proprietà di chiusura dei CFL
+![[48.png]]
