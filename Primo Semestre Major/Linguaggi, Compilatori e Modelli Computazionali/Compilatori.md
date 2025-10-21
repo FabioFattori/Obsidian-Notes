@@ -106,3 +106,6 @@ Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè 
 #### Eliminazione Produzione Unità
 ![[38.png]]
 ![[39.png]]
+![[40.png]]
+##### PROBLEMA - Presenza di cicli
+Questa trasformazione non va bene nei linguaggi che rappresentano cicli, bisogna fare un accorgimento:
