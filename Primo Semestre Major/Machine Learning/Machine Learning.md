@@ -99,13 +99,13 @@ Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede
 ![[Primo Semestre Major/Machine Learning/imgs/14.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/15.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/16.png]]![[Primo Semestre Major/Machine Learning/imgs/17.png]]
-### SVM lineari: Pattern non Separabili
+### SVM Lineari: Pattern Non Separabili
 ![[Primo Semestre Major/Machine Learning/imgs/18.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/19.png]]
-## SVM non lineari
+## SVM Non Lineari
 ![[Primo Semestre Major/Machine Learning/imgs/20.png]]
-### SVM non lineari: Kernel functions
+### SVM Non Lineari: Kernel Functions
 ![[Primo Semestre Major/Machine Learning/imgs/21.png]]
 $\sigma$ fa le veci di un regolarizzatore, permettendo delle gaussiane più piccole (come l'$h$ di Parzen).
-## SVM: estensione multiclasse
+## SVM: Estensione Multiclasse
 ![[Primo Semestre Major/Machine Learning/imgs/22.png]]

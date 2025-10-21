@@ -88,3 +88,9 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ### DPDA E Non Ambiguità
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/30.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/31.png]]
+# 21/10/2025 - continuo da pagina 64
+## Proprietà dei CFL
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/32.png]]
+### Forma normale di Chomsky
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/33.png]]
+l'albero sintattico della grammatica è binario.

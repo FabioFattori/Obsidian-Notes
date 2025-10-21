@@ -10,15 +10,37 @@
           {
             "id": "a67d5f5c5fccf4a3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Compilatori"
+            }
+          }
+        ]
+      },
+      {
+        "id": "58928d73d445369d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39480c5919d18da0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "linguaggi liberi"
             }
           }
         ]
@@ -184,19 +206,21 @@
   },
   "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/33.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/32.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/imgs/22.png",
     "Primo Semestre Major/Machine Learning/imgs/21.png",
     "Primo Semestre Major/Machine Learning/imgs/20.png",
     "Primo Semestre Major/Machine Learning/imgs/19.png",
     "Primo Semestre Major/Machine Learning/imgs/18.png",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/imgs/17.png",
     "Primo Semestre Major/Machine Learning/imgs/16.png",
     "Primo Semestre Major/Machine Learning/imgs/15.png",
     "Primo Semestre Major/Machine Learning/imgs/14.png",
-    "Primo Semestre Major/Machine Learning/imgs/13.png",
-    "Primo Semestre Major/Machine Learning/imgs/12.png",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
@@ -206,9 +230,7 @@
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/1 - CAP.pdf",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
