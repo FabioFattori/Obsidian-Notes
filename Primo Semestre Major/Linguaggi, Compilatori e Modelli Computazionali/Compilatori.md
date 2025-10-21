@@ -88,18 +88,21 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ### DPDA E Non Ambiguità
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/30.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/31.png]]
-# 21/10/2025 - continuo da pagina 64
-## Proprietà dei CFL
+# 21/10/2025 - Continuo Da Pagina 64
+## Proprietà Dei CFL
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/32.png]]
-### Forma normale di Chomsky
+### Forma Normale Di Chomsky
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/33.png]]
 l'albero sintattico della grammatica è binario.
 Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè non possiamo più rappresentare $\epsilon$.
-#### Eliminazione simboli inutili
+#### Eliminazione Simboli Inutili
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/34.png]]
 ##### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/35.png]]
-#### Eliminazione produzioni $\epsilon$ 
+#### Eliminazione Produzioni $\epsilon$
 ![[36.png]]
 ##### Esempio
 ![[37.png]]
+#### Eliminazione Produzione Unità
+![[38.png]]
+![[39.png]]
