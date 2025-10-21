@@ -118,3 +118,5 @@ Se incontro una produzione che ho già espanso, posso fermarmi ed eliminarla com
 ![[44.png]]
 #### Enunciato
 ![[45.png]]
+GUARDA DA PAGINA 85 A PAG 86 nel pdf.
+Sto qui sta parlando di fare botanica, ma che cazzo vuol dire porcaccio il dio.
