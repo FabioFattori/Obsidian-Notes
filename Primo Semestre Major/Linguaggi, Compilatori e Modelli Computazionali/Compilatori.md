@@ -94,3 +94,6 @@ Lui considera la variabile più a sinistra e viene messa nello stack al next pop
 ### Forma normale di Chomsky
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/33.png]]
 l'albero sintattico della grammatica è binario.
+Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè non possiamo più rappresentare $\epsilon$.
+#### Eliminazione simboli inutili
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/34.png]]
