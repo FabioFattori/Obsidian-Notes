@@ -109,3 +109,5 @@ Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè 
 ![[40.png]]
 ##### PROBLEMA - Presenza di cicli
 Questa trasformazione non va bene nei linguaggi che rappresentano cicli, bisogna fare un accorgimento:
+Se incontro una produzione che ho già espanso, posso fermarmi ed eliminarla come di seguito:
+![[41.png]]
