@@ -44,7 +44,8 @@ uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli
 - $a \ \rightarrow$ primo simbolo dell'input
 - $X \ \rightarrow$ stringa che va nello stack
 ed infatti dopo la transizione si ha che l'automa può essere rappresentato dalla seguente tripla $(p,w,a\beta)$ dove:
-- $p \ \rightarrow$ è il nuovo stato dell'automa![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png]]
+- $p \ \rightarrow$ è il nuovo stato dell'automa
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png]]
 #### Accettazione per Stato Finale
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/8.png]]
 [[14_10_2025]]
@@ -116,12 +117,13 @@ Se incontro una produzione che ho già espanso, posso fermarmi ed eliminarla com
 ![[43.png]]
 ## Pumping Lemma per CFL
 ![[44.png]]
-#### Enunciato
+### Enunciato
 ![[45.png]]
 GUARDA DA PAGINA 85 A PAG 86 nel pdf.
 Sto qui sta parlando di fare botanica, ma che cazzo vuol dire porcaccio il dio.
-#### Applicazione del Pumping Lemma per CFL
+### Applicazione Del Pumping Lemma per CFL
 Linguaggio di esempio:
 ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 ![[46.png]]
-
+### Proprietà Di Chiusura Dei CFL
+![[47.png]]

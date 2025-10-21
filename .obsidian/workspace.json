@@ -6,6 +6,7 @@
       {
         "id": "e1e682308f3fffd9",
         "type": "tabs",
+        "dimension": 61.37123745819398,
         "children": [
           {
             "id": "a67d5f5c5fccf4a3",
@@ -28,6 +29,7 @@
       {
         "id": "58928d73d445369d",
         "type": "tabs",
+        "dimension": 38.62876254180602,
         "children": [
           {
             "id": "39480c5919d18da0",
@@ -205,8 +207,9 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "a67d5f5c5fccf4a3",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/47.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/46.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/45.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
@@ -220,7 +223,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/39.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/38.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/37.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/36.png",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
