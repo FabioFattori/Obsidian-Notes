@@ -97,3 +97,5 @@ l'albero sintattico della grammatica è binario.
 Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè non possiamo più rappresentare $\epsilon$.
 #### Eliminazione simboli inutili
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/34.png]]
+##### Esempio
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/35.png]]
