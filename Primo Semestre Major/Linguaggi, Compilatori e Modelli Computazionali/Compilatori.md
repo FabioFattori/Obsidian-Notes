@@ -99,3 +99,4 @@ Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè 
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/34.png]]
 ##### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/35.png]]
+#### Eliminazione produzioni $\epsilon$ 
