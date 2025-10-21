@@ -120,3 +120,8 @@ Se incontro una produzione che ho già espanso, posso fermarmi ed eliminarla com
 ![[45.png]]
 GUARDA DA PAGINA 85 A PAG 86 nel pdf.
 Sto qui sta parlando di fare botanica, ma che cazzo vuol dire porcaccio il dio.
+#### Applicazione del Pumping Lemma per CFL
+Linguaggio di esempio:
+ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
+![[46.png]]
+
