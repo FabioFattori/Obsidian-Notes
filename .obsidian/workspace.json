@@ -10,7 +10,6 @@
           {
             "id": "a67d5f5c5fccf4a3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,29 +17,8 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Machine Learning"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0f3fc1b4150c903e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8f5bc079bfbc041",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "4_ML_Classificazione"
             }
           }
         ]
