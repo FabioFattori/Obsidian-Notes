@@ -199,8 +199,16 @@ Problema:
 ## Full Declarative Lexer
 Generato da un lexer generator (topperia), noi utenti dobbiamo solo fare il punto 1:
 ![[76.png]]
-##### Notes 
+### Notes
 - Leggere l'input dopo essere arrivato allo stato finale implementa di fatto il lookahead.
 - Il lookahead è illimitato $\rightarrow$ può eliminare qualsiasi numero di caratteri.
-#### Preoccupazione Pratiche
+## Preoccupazione Pratiche
 ![[77.png]]
+## Espressioni Regolari
+![[78.png]]
+### Esempio
+![[79.png]]
+### Operatori Delle Espressioni Regolari
+![[80.png]]
+#### Precedenze degli operatori
+
