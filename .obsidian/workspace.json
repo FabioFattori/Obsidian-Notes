@@ -102,11 +102,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
     "width": 200
->>>>>>> 38bad5cdb0507ab9e7956a85d1efe81f59240f65
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -210,11 +206,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-<<<<<<< HEAD
-  "active": "b1378c777eb029ae",
-=======
   "active": "a67d5f5c5fccf4a3",
->>>>>>> 38bad5cdb0507ab9e7956a85d1efe81f59240f65
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/88.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/87.png",
