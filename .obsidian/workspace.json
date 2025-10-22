@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "file": "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Applicazioni Data Intensive"
+              "title": "Struttura di 1_ML_Introduzione"
             }
           },
           {
@@ -193,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3e214db3e5ce33f",
+  "active": "b1378c777eb029ae",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
