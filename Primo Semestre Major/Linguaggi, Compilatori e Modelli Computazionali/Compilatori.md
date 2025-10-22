@@ -166,4 +166,9 @@ Con un linguaggio di programmazione in maniera analoga:
 Il Parser è il master che orchestra il parsing del codice, e sarà lui a chiamare il lexer quando ne ha bisogno.
 # Building a Lexer
 dato il codice di input devo assegnare ad ogni partizione dell'input un ruolo (token).
-Ogni variabile viene identificcata tramite il suo nome che prende 
+Ogni variabile viene identificata tramite il suo nome che viene chiamato _lessema_ come da esempio:
+![[66.png]]
+Il numero di linea serve per dire all'utente tramite una notifica dove si trova il possibile errore di sintassi.
+## Come costruire un lexer
+Non è facile farcelo a mano, noi ci basiamo sui lexer generator cosicchè noi possiamo concentrarci nel descrivere i lessema
+![[67.png]]
