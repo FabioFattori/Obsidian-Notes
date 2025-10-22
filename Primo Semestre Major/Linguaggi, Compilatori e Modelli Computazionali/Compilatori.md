@@ -156,3 +156,11 @@ Diagramma di una frase:
 ![[60.png]]
 Con un linguaggio di programmazione in maniera analoga:
 ![[61.png]]
+### Semantic Analysis
+![[62.png]]
+![[63.png]]
+### Code Generation
+![[64.png]]
+### Riassunto Struttura Di Un Compilatore
+![[65.png]]
+Il Parser è il master che orchestra il parsing del codice, e sarà lui a chiamare il lexer quando ne ha bisogno.
