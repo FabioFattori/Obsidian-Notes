@@ -216,5 +216,8 @@ Generato da un lexer generator (topperia), noi utenti dobbiamo solo fare il punt
 Una volta creato il codice del lexer, a runtime succede questo:
 ![[82.png]]
 in memoria viene rappresentato come una matrice di due dimensioni, Metodo più efficente per rappresentare il DFA.
-### Esempio: Flex - un Lexer Generator veloce
-
+### Parser Bottom Up
+Visto solo nelle slide, nel laboratorio vediamo il parser Top-down(ANTL-R).
+Noi vedremo un tipo di Parser Bottom-Up chiamato ... che usa il seguente Lexer Generator:
+### Flex - Un Lexer Generator Veloce
+![[83.png]]
