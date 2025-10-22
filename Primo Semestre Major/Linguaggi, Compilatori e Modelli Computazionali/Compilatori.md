@@ -170,5 +170,10 @@ Ogni variabile viene identificata tramite il suo nome che viene chiamato _lessem
 ![[66.png]]
 Il numero di linea serve per dire all'utente tramite una notifica dove si trova il possibile errore di sintassi.
 ## Come costruire un lexer
-Non è facile farcelo a mano, noi ci basiamo sui lexer generator cosicchè noi possiamo concentrarci nel descrivere i lessema
+Non è facile farcelo a mano, noi ci basiamo sui lexer generator cosicchè noi possiamo concentrarci nel descrivere i lessema ed i token.
 ![[67.png]]
+![[68.png]]
+#### Esempio di Lexer Imperativo (come Java)
+![[69.png]]
+Esempio di implementazione:
+![[70.png]]
