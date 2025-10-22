@@ -210,5 +210,11 @@ Generato da un lexer generator (topperia), noi utenti dobbiamo solo fare il punt
 ![[79.png]]
 ### Operatori Delle Espressioni Regolari
 ![[80.png]]
-#### Precedenze degli operatori
+#### Precedenze Degli Operatori
+![[81.png]]
+## Generatori Di Lexer
+Una volta creato il codice del lexer, a runtime succede questo:
+![[82.png]]
+in memoria viene rappresentato come una matrice di due dimensioni, Metodo più efficente per rappresentare il DFA.
+### Esempio: Flex - un Lexer Generator veloce
 
