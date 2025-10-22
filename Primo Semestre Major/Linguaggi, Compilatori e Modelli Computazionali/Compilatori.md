@@ -164,3 +164,6 @@ Con un linguaggio di programmazione in maniera analoga:
 ### Riassunto Struttura Di Un Compilatore
 ![[65.png]]
 Il Parser è il master che orchestra il parsing del codice, e sarà lui a chiamare il lexer quando ne ha bisogno.
+# Building a Lexer
+dato il codice di input devo assegnare ad ogni partizione dell'input un ruolo (token).
+Ogni variabile viene identificcata tramite il suo nome che prende 
