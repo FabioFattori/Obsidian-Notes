@@ -4,7 +4,7 @@
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
 Esempio:
 $$\{a^n b^nc^md^m: n\geq 1,m\geq 1\} \cup \{a^n b^mc^md^m: n\geq 1,m\geq 1\}$$
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/1.png]]
 #### Automi a Pila (Push Down Automaton)
 
 > Da immaginare lo Stack sdraiato da sinistra a destra(sinistra next pop).
@@ -15,15 +15,15 @@ IMPORTANTE => è una pila perchè l'ultimo blocco che incontriamo è quello da c
 1. Consuma un simbolo di input o esegue una transizione $\epsilon$.
 2. Va in un nuovo stato (o rimane dove e’).
 3. Rimpiazza il top della pila con una stringa (consuma il carattere in cima, e mette al suo posto una stringa, eventualmente vuota o uguale al carattere consumato lasciando quindi la pila inalterata) $\rightarrow$ fa un pop ed una push per rimpiazzare con un carattere scelto da noi!
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/2.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/2.png]]
 Esempio:
 $$L_{wwr} = \{ ww^r: w ∈ \{0,1\}^*\}$$
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/3.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/3.png]]
 Punto 2 $\rightarrow$ il PDA ad ogni carattere prende due strade, la prima per provare a capire se è in mezzo non deterministica va nello stato $q_1$ e prova a matchare $ww^r$ con il primo elemento dello stack, se c'è un mismatch si blocca.
 
 > UNA STRINGA è accettata quando sono in uno stato di accettazione e l'input è finito (è stato tutto "mangiato" dal PDA)
 
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/4.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/4.png]]
 in cima alla pila, dove c'è scritto $0,Z_0 /0\ Z_0$ che rappresenta questo:
 - il primo zero limita l'input => ci deve essere lo zero in input e ci deve essere lo $Z_0$ sulla cima della pila
 - mentre lo $/0 \ Z_0$ rapprenta la stringa da sostituire rendendo la pila in questo modo qui:
@@ -36,18 +36,18 @@ $\epsilon$ in base a dove è vuol dire "qualsiasi valore" oppure "nulla":
 - se è nell'input ad esempio con $\epsilon$ , $Z_0 \ /Z_0$ mi sta a significare $\rightarrow$ "qualsiasi valore ci sia di input e con $Z_0$ nella cima della pila, *non mangiare nulla dall'input*".
 - mentre $0\ , \ 0 \ / \epsilon$ vuol dire "0 in input e 0 in cima alla pila, *mangia l'input e non mettere niente nella pila*"
 ## Definizione Formale Di PDA
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/5.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/5.png]]
 uguale alla definizione degli $\epsilon$-NFA, in più c'è che la funzione degli $\epsilon$-NFA va da triple a coppie, si parla della funzione $\delta$, in più c'è $\Gamma^*$ che rappresenta degli sottoinsiemi di stringhe perchè è non deterministico.
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/6.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/6.png]]
 ### Descrizioni Istantanee
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/7.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/7.png]]
 - $a \ \rightarrow$ primo simbolo dell'input
 - $X \ \rightarrow$ stringa che va nello stack
 ed infatti dopo la transizione si ha che l'automa può essere rappresentato dalla seguente tripla $(p,w,a\beta)$ dove:
 - $p \ \rightarrow$ è il nuovo stato dell'automa
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/9.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/9.png]]
 #### Accettazione per Stato Finale
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/8.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/8.png]]
 [[14_10_2025]]
 ### Accettazione per Pila Vuota
 ![[10.jpeg]]
@@ -55,51 +55,51 @@ ed infatti dopo la transizione si ha che l'automa può essere rappresentato dall
 > Adesso chiedo che la pila sia vuota e $q$ può essere uno stato non di accettazione
 
 ## Noi Vogliamo Arrivare a Questo (Parte Destra Delle Frecce, Da PDA a PDA)
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/13.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/13.png]]
 Sono equipotenti, e possiamo passare da uno all'altro attraverso l'applicazione di un algoritmo.
 ### Da Pila Vuota a Stato Finale
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/11.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/11.png]]
 Consiste in una emulazione di un PDA ad accettazione per Pila vuota su un PDA ad accettazione per Stato finale.
 Di fatto prima di far partire il PDA "emulato" si aggiunge una $X_0$ nuovo, poi si fa esegue $\epsilon X_0 /Z_0X_0$ che rende la pila così:
 - posizione 0 $\rightarrow$ $X_0$
 - posizione 1 (next pop) $\rightarrow$ $Z_0$ 
-partire il PDA emulato, quando egli finisce ad ogni stato parto una transizione che chiede che ci sia $X_0$ nella pila e porta il PDA da pila vuota allo stato finale del PDA a stato finale(padre) ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/14.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/15.png]]
+partire il PDA emulato, quando egli finisce ad ogni stato parto una transizione che chiede che ci sia $X_0$ nella pila e porta il PDA da pila vuota allo stato finale del PDA a stato finale(padre) ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/14.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/15.png]]
 ### Da Stato Finale a Pila Vuota
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/12.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/12.png]]
 Qua invece si mettono delle transizioni ad ogni stato del PDA a stato finale che porta ad uno stato specifico (svuotatore) che cicla fino a quando la pila non è vuota, e per evitare che la pila si svuoti a caso (cosa che non vogliamo se no succede il delirio) facciamo come prima, quindi ci mettiamo un $X_0$.
 ## Adesso Faccio la Parte Sinistra Delle Frecce (Da PDA a Grammatica)
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/16.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/16.png]]
 Left-Most.
 Lui considera la variabile più a sinistra e viene messa nello stack al next pop.
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/18.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/17.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/18.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/19.png]]
 ## 15/10/2025 Fino a Pag
 ### Da PDA a CFG
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/20.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/21.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/23.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/24.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/25.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/20.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/21.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/23.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/24.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/25.png]]
 ### PDA Deterministici
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/26.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/26.png]]
 ### DPDA Che Accettano per Stato Finale
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/27.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/27.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/28.png]]
 ### DPDA Che Accettano per Pila Vuota
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/29.png]]
 ### DPDA E Non Ambiguità
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/30.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/31.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/30.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/31.png]]
 # 21/10/2025 - Continuo Da Pagina 64
 ## Proprietà Dei CFL
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/32.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/32.png]]
 ### Forma Normale Di Chomsky
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/33.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/33.png]]
 l'albero sintattico della grammatica è binario.
 Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè non possiamo più rappresentare $\epsilon$.
 #### Eliminazione Simboli Inutili
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/34.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/34.png]]
 ##### Esempio
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/35.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/35.png]]
 #### Eliminazione Produzioni $\epsilon$
 ![[36.png]]
 ##### Esempio
@@ -228,9 +228,9 @@ Un parser ha due task:
 ![[84.png]]
 ![[85.png]]
 ![[86.png]]
-### Differenza tra AST e ST:
+### Differenza Tra AST E ST
 - AST nei nodi non ha variabili mentre ST c'è le ha.
 - e le seguenti:
 ![[87.png]]
-#### Parser Comparato con il Lexer
+#### Parser Comparato Con Il Lexer
 ![[88.png]]
