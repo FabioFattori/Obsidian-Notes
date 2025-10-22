@@ -142,4 +142,12 @@ ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 ![[55.png]]
 ## Problemi Indecidibili per CFL
 ![[56.png]]
-# FINE PARTE TEORICA
+# FINE PARTE TEORICA (primo pdf)
+---
+# Compilatori
+## Struttura Di Un Compilatore
+![[57.png]]
+Le prime tre fasi sono anche dette frontend, perchè devono controllare l'input, dopo queste prime 3 fasi si crea un albero sintattico.
+### Scanning
+![[58.png]]
+### Parsing
