@@ -224,5 +224,9 @@ Noi vedremo un tipo di Parser Bottom-Up chiamato Yacc che usa il seguente Lexer 
 ## Building a Parser
 Un parser ha due task:
 - controllare la sequenza di token ricevuti dal lexer per capire se è corretta, mentre fa questo fa anche l'altra task 
-- generare l'albero sintattico $\rightarrow$ in questa fase è astratto, quindi è un AST (Abstract Sintax Three).
+- generare l'albero sintattico $\rightarrow$ in questa fase genera anche l'astratto, quindi un AST (Abstract Sintax Three), da restituire come output.
 ![[84.png]]
+![[85.png]]
+Differenza tra AST e ST:
+- AST nei nodi non ha variabili mentre ST c'è le ha.
+- 
