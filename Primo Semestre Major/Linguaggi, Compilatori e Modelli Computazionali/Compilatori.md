@@ -131,8 +131,11 @@ ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 ![[48.png]]
 ### I CFL Non Sono Chiusi Rispetto All'intersezione
 ![[49.png]]
-### Operazioni su liberi e regolari
+### Operazioni Su Liberi E Regolari
 ![[50.png]]
 ![[51.png]]
 ![[52.png]]
-## Proprietà di decisione per CFL
+## Proprietà Di Decisione per CFL
+![[53.png]]
+### Verificare Se Un CFL È Vuoto
+![[54.png]]
