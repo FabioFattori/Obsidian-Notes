@@ -127,5 +127,12 @@ ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 ![[46.png]]
 ### Proprietà Di Chiusura Dei CFL
 ![[47.png]]
-## Proprietà di chiusura dei CFL
+## Proprietà Di Chiusura Dei CFL
 ![[48.png]]
+### I CFL Non Sono Chiusi Rispetto All'intersezione
+![[49.png]]
+### Operazioni su liberi e regolari
+![[50.png]]
+![[51.png]]
+![[52.png]]
+## Proprietà di decisione per CFL
