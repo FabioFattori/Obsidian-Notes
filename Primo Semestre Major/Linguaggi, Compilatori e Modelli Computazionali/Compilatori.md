@@ -218,6 +218,11 @@ Una volta creato il codice del lexer, a runtime succede questo:
 in memoria viene rappresentato come una matrice di due dimensioni, Metodo più efficente per rappresentare il DFA.
 ### Parser Bottom Up
 Visto solo nelle slide, nel laboratorio vediamo il parser Top-down(ANTL-R).
-Noi vedremo un tipo di Parser Bottom-Up chiamato ... che usa il seguente Lexer Generator:
+Noi vedremo un tipo di Parser Bottom-Up chiamato Yacc che usa il seguente Lexer Generator:
 ### Flex - Un Lexer Generator Veloce
 ![[83.png]]
+## Building a Parser
+Un parser ha due task:
+- controllare la sequenza di token ricevuti dal lexer per capire se è corretta, mentre fa questo fa anche l'altra task 
+- generare l'albero sintattico $\rightarrow$ in questa fase è astratto, quindi è un AST (Abstract Sintax Three).
+![[84.png]]
