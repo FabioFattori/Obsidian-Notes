@@ -169,11 +169,11 @@ dato il codice di input devo assegnare ad ogni partizione dell'input un ruolo (t
 Ogni variabile viene identificata tramite il suo nome che viene chiamato _lessema_ come da esempio:
 ![[66.png]]
 Il numero di linea serve per dire all'utente tramite una notifica dove si trova il possibile errore di sintassi.
-## Come costruire un lexer
+## Come Costruire Un Lexer
 Non è facile farcelo a mano, noi ci basiamo sui lexer generator cosicchè noi possiamo concentrarci nel descrivere i lessema ed i token.
 ![[67.png]]
 ![[68.png]]
-#### Esempio di Lexer Imperativo (come Java)
+### Esempio Di Lexer Imperativo (come Java)
 ![[69.png]]
 Esempio di implementazione:
 ![[70.png]]
@@ -182,3 +182,9 @@ devi fare "undoNextChar" perchè il ciclo si è mangiato un carattere di troppo 
 #### Maximal Match Rule
 ![[71.png]]
 Lo string di input è partizionato in lessemi più grandi possibile.
+#### What VS How
+- What:
+	![[72.png]]
+	![[73.png]]
+![[74.png]]
+### Lexer Dichiarativo
