@@ -187,7 +187,7 @@ Lo string di input è partizionato in lessemi più grandi possibile.
 	![[72.png]]
 	![[73.png]]
 ![[74.png]]
-### Lexer Dichiarativo - Per capire i Problemi
+### Lexer Dichiarativo - Per Capire I Problemi
 Dai un occhio all'esempio da pagina 27 a pagina 30.
 Concetto importante: 
 >_lookahead_ $\rightarrow$ operazione per vedere avanti che carattere ho e in base a quello decidere cosa fare, nel nostro caso specifico devo capire se il nome della variabile è finito oppure no.
@@ -199,3 +199,7 @@ Problema:
 ## Full Declarative Lexer
 Generato da un lexer generator (topperia), noi utenti dobbiamo solo fare il punto 1:
 ![[76.png]]
+##### Notes 
+- Leggere l'input dopo essere arrivato allo stato finale implementa di fatto il lookahead.
+- Il lookahead è illimitato $\rightarrow$ può eliminare qualsiasi numero di caratteri.
+#### Preoccupazione Pratiche
