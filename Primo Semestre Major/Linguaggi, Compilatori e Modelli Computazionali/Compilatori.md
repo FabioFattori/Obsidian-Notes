@@ -187,7 +187,7 @@ Lo string di input è partizionato in lessemi più grandi possibile.
 	![[72.png]]
 	![[73.png]]
 ![[74.png]]
-### Lexer Dichiarativo
+### Lexer Dichiarativo - Per capire i Problemi
 Dai un occhio all'esempio da pagina 27 a pagina 30.
 Concetto importante: 
 >_lookahead_ $\rightarrow$ operazione per vedere avanti che carattere ho e in base a quello decidere cosa fare, nel nostro caso specifico devo capire se il nome della variabile è finito oppure no.
@@ -195,3 +195,7 @@ Concetto importante:
 Idea:
 Proviamo ad aggiungere l'operazione _ASSIGN_:
 Problema:
+![[75.png]]
+## Full Declarative Lexer
+Generato da un lexer generator (topperia), noi utenti dobbiamo solo fare il punto 1:
+![[76.png]]
