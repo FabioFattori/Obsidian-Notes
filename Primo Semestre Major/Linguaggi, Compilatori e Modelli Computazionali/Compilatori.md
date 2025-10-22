@@ -232,4 +232,5 @@ Un parser ha due task:
 - AST nei nodi non ha variabili mentre ST c'è le ha.
 - e le seguenti:
 ![[87.png]]
-#### Parser Comparato con il Lexical Analysis
+#### Parser Comparato con il Lexer
+![[88.png]]

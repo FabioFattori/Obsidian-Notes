@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +206,9 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "a67d5f5c5fccf4a3",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/88.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/87.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/86.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf",
@@ -221,7 +221,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/80.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/79.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/78.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/77.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/Compilatori.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
