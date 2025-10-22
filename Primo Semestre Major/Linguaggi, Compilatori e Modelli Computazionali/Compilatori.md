@@ -147,7 +147,12 @@ ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 # Compilatori
 ## Struttura Di Un Compilatore
 ![[57.png]]
-Le prime tre fasi sono anche dette frontend, perchè devono controllare l'input, dopo queste prime 3 fasi si crea un albero sintattico.
+Le prime tre fasi sono anche dette frontend, perchè devono controllare l'input, dopo le prime 2 fasi si crea un albero sintattico.
 ### Scanning
 ![[58.png]]
 ### Parsing
+![[59.png]]
+Diagramma di una frase:
+![[60.png]]
+Con un linguaggio di programmazione in maniera analoga:
+![[61.png]]
