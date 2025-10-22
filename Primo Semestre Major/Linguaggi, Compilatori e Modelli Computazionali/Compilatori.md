@@ -203,3 +203,4 @@ Generato da un lexer generator (topperia), noi utenti dobbiamo solo fare il punt
 - Leggere l'input dopo essere arrivato allo stato finale implementa di fatto il lookahead.
 - Il lookahead è illimitato $\rightarrow$ può eliminare qualsiasi numero di caratteri.
 #### Preoccupazione Pratiche
+![[77.png]]
