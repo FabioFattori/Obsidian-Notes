@@ -25,6 +25,12 @@
         "icon": "LiFileText",
         "for": "everything",
         "order": 1
+      },
+      {
+        "rule": "draws",
+        "icon": "LiPaintbrush2",
+        "for": "everything",
+        "order": 2
       }
     ],
     "extraMargin": {
@@ -57,5 +63,5 @@
   "Primo Semestre Major/Sistemi Informativi": "LiInfo",
   "Primo Semestre Major/Distributed System": "🌳",
   "Primo Semestre Major/Machine Learning": "LiWashingMachine",
-  "Primo Semestre Major/Compilatori": "LiAtom"
+  "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": "LiAtom"
 }
