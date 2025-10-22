@@ -227,6 +227,9 @@ Un parser ha due task:
 - generare l'albero sintattico $\rightarrow$ in questa fase genera anche l'astratto, quindi un AST (Abstract Sintax Three), da restituire come output.
 ![[84.png]]
 ![[85.png]]
-Differenza tra AST e ST:
+![[86.png]]
+### Differenza tra AST e ST:
 - AST nei nodi non ha variabili mentre ST c'è le ha.
-- 
+- e le seguenti:
+![[87.png]]
+#### Parser Comparato con il Lexical Analysis
