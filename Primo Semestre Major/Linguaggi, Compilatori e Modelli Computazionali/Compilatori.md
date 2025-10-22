@@ -177,3 +177,8 @@ Non è facile farcelo a mano, noi ci basiamo sui lexer generator cosicchè noi p
 ![[69.png]]
 Esempio di implementazione:
 ![[70.png]]
+Problema:
+devi fare "undoNextChar" perchè il ciclo si è mangiato un carattere di troppo per capire che il nome della variabile è finito, _Ambiguo_.
+#### Maximal Match Rule
+![[71.png]]
+Lo string di input è partizionato in lessemi più grandi possibile.
