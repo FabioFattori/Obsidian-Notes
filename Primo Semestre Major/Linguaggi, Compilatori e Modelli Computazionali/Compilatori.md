@@ -139,3 +139,6 @@ ha due 1 in mezzo a tre gruppi di 0 di numero uguale $\rightarrow$ 00010001000
 ![[53.png]]
 ### Verificare Se Un CFL È Vuoto
 ![[54.png]]
+![[55.png]]
+## Problemi Indecidibili per CFL
+![[56.png]]
