@@ -177,9 +177,9 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "markdown-importer:Apri importazione Markdown": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "c1940e5649bce007",
