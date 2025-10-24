@@ -27,13 +27,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-24 11.17.54.excalidraw.md"
+                "file": "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-24 11.17.54.excalidraw"
+              "title": "Caso di studio - studio di fattibilità - 24_10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +196,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c1940e5649bce007",
+  "active": "05b3507ee35fe1d1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-24 11.17.54.excalidraw.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Excalidraw",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
