@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Sistemi Informativi Notes"
             }
+          },
+          {
+            "id": "05b3507ee35fe1d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-24 11.17.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-24 11.17.54.excalidraw"
+            }
           }
         ]
       }
@@ -166,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +197,9 @@
   },
   "active": "c1940e5649bce007",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-24 11.17.54.excalidraw.md",
+    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Excalidraw",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
@@ -207,8 +223,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/Compilatori.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
-    "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",

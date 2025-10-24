@@ -186,3 +186,4 @@ Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovve
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/34.png]]
 ### Benefici Misurabili Nelle P.A
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/35.png]]
+### 24/10/2025 - Altro Caso Di Studio
