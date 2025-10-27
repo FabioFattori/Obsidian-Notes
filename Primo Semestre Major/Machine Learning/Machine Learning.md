@@ -116,3 +116,8 @@ _**Lineare o non?**_
 - _**Il lineare**_ è la scelta preferita quando si è in uno spazio a dimensionalità molto elevata grazie al fatto che i pattern sono tipicamente molto sparsi e anche semplici iperpiani lineari riescono a separare le classi in maniera corretta.
 - _**Il non lineare**_ si tende ad usare quando la dimensionalità è bassa, e la scelta preferita è SVM non lineare con kernel RBF.
 - Quando la dimensione è media si provano entrambi e si prende il migliore.
+### Multi-Classificatori
+Approccio per il quale si usano diversi classificatori in parallelo, in cascata oppure in modo gerarchi, in maniera tale da avere una serie di decisioni dei singoli modelli, fuse poi in un'unica decisione.
+Nella pratica è stato dimostrato come investire tempo nell’ottimizzazione «spinta» di un singolo classificatore è in genere meno conveniente rispetto all’affiancamento dello stesso ad altri classificatori.
+#### Warning
+L'affiancamento è efficace però solo quando i modelli affiancati sono indipendenti fra loro, ovvero _**non commetto gli stessi errori**_.
