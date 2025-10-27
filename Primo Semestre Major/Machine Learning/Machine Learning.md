@@ -139,3 +139,4 @@ Ogni singolo modello restituisce in output la sua decisione, che corrisponde all
 ### Random Forest
 Basato sulla tecnica di Bagging, quindi viene sotto campionato il training set:
 ![[Primo Semestre Major/Machine Learning/imgs/5.png]]
+![[Primo Semestre Major/Machine Learning/imgs/6.png]]
