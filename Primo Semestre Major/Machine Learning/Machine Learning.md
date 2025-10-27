@@ -109,3 +109,7 @@ Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede
 $\sigma$ fa le veci di un regolarizzatore, permettendo delle gaussiane più piccole (come l'$h$ di Parzen).
 ## SVM: Estensione Multiclasse
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/22.png]]
+#### SVM in pratica
+_**Quando usare SVM:**_
+SVM offre una buona reliability su _**dati numerici omogenei**_, ma è meno performante di modelli basati su alberi decisionali, come il RandomForest, su dati _**tabulari eterogenei**_.
+
