@@ -121,7 +121,7 @@ Approccio per il quale si usano diversi classificatori in parallelo, in cascata 
 Nella pratica è stato dimostrato come investire tempo nell’ottimizzazione «spinta» di un singolo classificatore è in genere meno conveniente rispetto all’affiancamento dello stesso ad altri classificatori.
 #### Warning
 L'affiancamento è efficace però solo quando i modelli affiancati sono indipendenti fra loro, ovvero _**non commetto gli stessi errori**_.
-![[Primo Semestre Major/Machine Learning/imgs/1.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/1.png]]
 > La combinazione può essere eseguti a livello di decisione o a livello di confidenza.
 
 ### Fusione a Livello Di Decisione
@@ -132,20 +132,21 @@ Ogni singolo modello restituisce in output la sua decisione, che corrisponde all
 > L’approccio One-Against-One, consente di risolvere un problema di classificazione multi-classe, attraverso classificatori binari.
 
 ### Fusione a Livello Di Confidenza
-![[Primo Semestre Major/Machine Learning/imgs/2.png]]
-![[Primo Semestre Major/Machine Learning/imgs/3.png]]
-![[Primo Semestre Major/Machine Learning/imgs/4.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/2.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/4.png]]
 ## Classificatori Basati Su Alberi Decisionali
 ### Random Forest
 Basato sulla tecnica di Bagging, quindi viene sotto campionato il training set:
-![[Primo Semestre Major/Machine Learning/imgs/5.png]]
-![[Primo Semestre Major/Machine Learning/imgs/6.png]]
-![[Primo Semestre Major/Machine Learning/imgs/7.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/5.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/6.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/7.png]]
 _**Iperparametri classici**_:
 - n_estimators $\rightarrow$ numero di alberi nella forest, aumentare n_estimators oltre al valore ottimale in genere non produce overfitting (ma rende il sistema meno efficiente).
-![[Primo Semestre Major/Machine Learning/imgs/8.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/8.png]]
 ### AdaBoost
-![[Primo Semestre Major/Machine Learning/imgs/9.png]]
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/9.png]]
 Al termine dell’addestramento, il classificatore finale (strong) è la media pesata dei weak classifiers.
-![[Primo Semestre Major/Machine Learning/imgs/10.png]]
-
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/10.png]]
+## Gradient Boosting
+![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/11.png]]
