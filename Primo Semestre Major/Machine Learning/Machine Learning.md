@@ -143,4 +143,7 @@ Basato sulla tecnica di Bagging, quindi viene sotto campionato il training set:
 ![[Primo Semestre Major/Machine Learning/imgs/7.png]]
 _**Iperparametri classici**_:
 - n_estimators $\rightarrow$ numero di alberi nella forest, aumentare n_estimators oltre al valore ottimale in genere non produce overfitting (ma rende il sistema meno efficiente).
-- max_depth $\rightarrow$ 
+![[Primo Semestre Major/Machine Learning/imgs/8.png]]
+### AdaBoost
+![[Primo Semestre Major/Machine Learning/imgs/9.png]]
+Al termine dell’addestramento, il classificatore finale (strong) è la media pesata dei weak classifiers.
