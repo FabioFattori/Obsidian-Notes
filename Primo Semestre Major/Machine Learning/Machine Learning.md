@@ -130,4 +130,12 @@ Ogni singolo modello restituisce in output la sua decisione, che corrisponde all
 - _**Borda Count**_ $\rightarrow$ Ogni classificatore restituisce tutte le probabilità che assegna alle classi (ranking), le quali vengono sommate a tutte le altre restituite dagli altri modelli, in maniera da ottenere una vera e propria classifica, della quale viene presa la classe con la probabilità più alta.
 ### One-Against-One
 > L’approccio One-Against-One, consente di risolvere un problema di classificazione multi-classe, attraverso classificatori binari.
+
+### Fusione a Livello Di Confidenza
 ![[Primo Semestre Major/Machine Learning/imgs/2.png]]
+![[Primo Semestre Major/Machine Learning/imgs/3.png]]
+![[Primo Semestre Major/Machine Learning/imgs/4.png]]
+## Classificatori Basati Su Alberi Decisionali
+### Random Forest
+Basato sulla tecnica di Bagging, quindi viene sotto campionato il training set:
+![[Primo Semestre Major/Machine Learning/imgs/5.png]]
