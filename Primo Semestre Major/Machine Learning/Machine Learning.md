@@ -130,4 +130,4 @@ Ogni singolo modello restituisce in output la sua decisione, che corrisponde all
 - _**Borda Count**_ $\rightarrow$ Ogni classificatore restituisce tutte le probabilità che assegna alle classi (ranking), le quali vengono sommate a tutte le altre restituite dagli altri modelli, in maniera da ottenere una vera e propria classifica, della quale viene presa la classe con la probabilità più alta.
 ### One-Against-One
 > L’approccio One-Against-One, consente di risolvere un problema di classificazione multi-classe, attraverso classificatori binari.
-
+![[Primo Semestre Major/Machine Learning/imgs/2.png]]
