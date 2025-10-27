@@ -121,3 +121,10 @@ Approccio per il quale si usano diversi classificatori in parallelo, in cascata 
 Nella pratica è stato dimostrato come investire tempo nell’ottimizzazione «spinta» di un singolo classificatore è in genere meno conveniente rispetto all’affiancamento dello stesso ad altri classificatori.
 #### Warning
 L'affiancamento è efficace però solo quando i modelli affiancati sono indipendenti fra loro, ovvero _**non commetto gli stessi errori**_.
+![[Primo Semestre Major/Machine Learning/imgs/1.png]]
+> La combinazione può essere eseguti a livello di decisione o a livello di confidenza.
+
+### Fusione a Livello Di Decisione
+Ogni singolo modello restituisce in output la sua decisione, che corrisponde alla classe predetta, tutte le decisioni possono essere fra loro combinate in diversi modi:
+- _**Majority vote rule**_ $\rightarrow$ Più semplice modo di combinare decisioni, perchè si raccolgono tutte le decisioni e "vince" la classe più votata.
+- _**Borda Count**_ $\rightarrow$ Ogni classificatore restituisce 

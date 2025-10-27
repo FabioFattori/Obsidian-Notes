@@ -10,6 +10,7 @@
           {
             "id": "9818d83fc4365288",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Machine Learning"
             }
@@ -24,17 +26,19 @@
         ]
       },
       {
-        "id": "15ec36f47f9c91a9",
+        "id": "b954c6a6afa5cffb",
         "type": "tabs",
         "children": [
           {
-            "id": "972499a150d87822",
+            "id": "387f82168140ee6d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
               },
+              "pinned": true,
               "icon": "lucide-file-text",
               "title": "4_ML_Classificazione"
             }
@@ -201,11 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "972499a150d87822",
+  "active": "9818d83fc4365288",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/imgs/Screenshot 2025-10-27 alle 10.00.44.png",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Primo Semestre Major/Machine Learning/imgs/1.png",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Excalidraw",
@@ -226,7 +230,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/85.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/84.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/83.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/Compilatori.pdf",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
