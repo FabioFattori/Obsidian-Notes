@@ -109,7 +109,10 @@ Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede
 $\sigma$ fa le veci di un regolarizzatore, permettendo delle gaussiane più piccole (come l'$h$ di Parzen).
 ## SVM: Estensione Multiclasse
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/22.png]]
-#### SVM in pratica
+### SVM in Pratica
 _**Quando usare SVM:**_
 SVM offre una buona reliability su _**dati numerici omogenei**_, ma è meno performante di modelli basati su alberi decisionali, come il RandomForest, su dati _**tabulari eterogenei**_.
-
+_**Lineare o non?**_
+- _**Il lineare**_ è la scelta preferita quando si è in uno spazio a dimensionalità molto elevata grazie al fatto che i pattern sono tipicamente molto sparsi e anche semplici iperpiani lineari riescono a separare le classi in maniera corretta.
+- _**Il non lineare**_ si tende ad usare quando la dimensionalità è bassa, e la scelta preferita è SVM non lineare con kernel RBF.
+- Quando la dimensione è media si provano entrambi e si prende il migliore.
