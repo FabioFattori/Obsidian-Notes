@@ -147,3 +147,5 @@ _**Iperparametri classici**_:
 ### AdaBoost
 ![[Primo Semestre Major/Machine Learning/imgs/9.png]]
 Al termine dell’addestramento, il classificatore finale (strong) è la media pesata dei weak classifiers.
+![[Primo Semestre Major/Machine Learning/imgs/10.png]]
+
