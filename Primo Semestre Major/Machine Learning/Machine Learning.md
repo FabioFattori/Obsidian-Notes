@@ -127,4 +127,7 @@ L'affiancamento è efficace però solo quando i modelli affiancati sono indipend
 ### Fusione a Livello Di Decisione
 Ogni singolo modello restituisce in output la sua decisione, che corrisponde alla classe predetta, tutte le decisioni possono essere fra loro combinate in diversi modi:
 - _**Majority vote rule**_ $\rightarrow$ Più semplice modo di combinare decisioni, perchè si raccolgono tutte le decisioni e "vince" la classe più votata.
-- _**Borda Count**_ $\rightarrow$ Ogni classificatore restituisce 
+- _**Borda Count**_ $\rightarrow$ Ogni classificatore restituisce tutte le probabilità che assegna alle classi (ranking), le quali vengono sommate a tutte le altre restituite dagli altri modelli, in maniera da ottenere una vera e propria classifica, della quale viene presa la classe con la probabilità più alta.
+### One-Against-One
+> L’approccio One-Against-One, consente di risolvere un problema di classificazione multi-classe, attraverso classificatori binari.
+
