@@ -141,3 +141,6 @@ Basato sulla tecnica di Bagging, quindi viene sotto campionato il training set:
 ![[Primo Semestre Major/Machine Learning/imgs/5.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/6.png]]
 ![[Primo Semestre Major/Machine Learning/imgs/7.png]]
+_**Iperparametri classici**_:
+- n_estimators $\rightarrow$ numero di alberi nella forest, aumentare n_estimators oltre al valore ottimale in genere non produce overfitting (ma rende il sistema meno efficiente).
+- max_depth $\rightarrow$ 
