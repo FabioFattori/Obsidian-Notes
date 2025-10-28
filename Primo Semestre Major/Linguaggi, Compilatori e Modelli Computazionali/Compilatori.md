@@ -255,18 +255,23 @@ Notazione che serve per descrivere la struttura RICORSIVA delle grammatiche di q
 Vengono costruite delle trasformazioni canoniche _**SINISTRE**_, gli algoritmi Bottom-Up generano le DESTRE.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/11.png]]
 *Backtracking* $\rightarrow$ rollback alla precedente decisione, per poi cambiarla.
-#### Recursive Descent Parsing
+### Recursive Descent Parsing
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/12.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/13.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/14.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/15.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/16.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/17.png]]
-### Recursive Descent: casi non funzionali
+## Recursive Descent: Casi Non Funzionali
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/18.png]]
-#### Eliminazione della Ricorsione Sinistra 
+### Eliminazione Della Ricorsione Sinistra
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/19.png]]
-#### Esempio
+### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/20.png]]
-#### Ricorsione Sinistra Generale
+### Ricorsione Sinistra Generale
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/21.png]]
+## Algoritmo per L'eleminazione Della Ricorsione Sinistra
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/22.png]]
+### Sommario Della Discesa Ricorsiva
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/23.png]]
+## Predictive Parsers
