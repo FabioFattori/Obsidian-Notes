@@ -255,5 +255,6 @@ Notazione che serve per descrivere la struttura RICORSIVA delle grammatiche di q
 Vengono costruite delle trasformazioni canoniche _**SINISTRE**_, gli algoritmi Bottom-Up generano le DESTRE.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/11.png]]
 *Backtracking* $\rightarrow$ rollback alla precedente decisione, per poi cambiarla.
-
-
+#### Recursive Descent Parsing
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/12.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/13.png]]
