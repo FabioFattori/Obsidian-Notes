@@ -250,6 +250,10 @@ Notazione che serve per descrivere la struttura RICORSIVA delle grammatiche di q
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/9.png]]
 ### Come la Derivazione Ci Aiuta Nel Parsing?
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/10.png]]
-# Algoritmi di Parsing
-## Top-down Pas
+# Algoritmi Di Parsing
+## Top-down Parsing
+Vengono costruite delle trasformazioni canoniche _**SINISTRE**_, gli algoritmi Bottom-Up generano le DESTRE.
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/11.png]]
+*Backtracking* $\rightarrow$ rollback alla precedente decisione, per poi cambiarla.
+
 
