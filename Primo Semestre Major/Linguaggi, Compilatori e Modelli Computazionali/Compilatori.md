@@ -279,3 +279,5 @@ Vengono costruite delle trasformazioni canoniche _**SINISTRE**_, gli algoritmi B
 Si chiamano Parser Predittivi perchè predicono quale produzione usare in base ai prossimi token ("guarda il futuro") e perchè non usano il backtracking.
 Sono _**deterministici**_.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/25.png]]
+### Linguaggi (e Grammatiche) LL(1)
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/26.png]]
