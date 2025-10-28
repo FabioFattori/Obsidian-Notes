@@ -294,4 +294,9 @@ Gli spazi bianchi nella tabella indicano situazioni di syntax error dato che par
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/31.png]]
 ### How to Use the Parsing Table
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/32.png]]
-### Algoritmo di Parsing 
+### Algoritmo Di Parsing LL(1)
+Assume che alla fine dell'array di token ci sia un $.
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/33.png]]
+Fa le stesse robe dell'automa a pila, solo che questo è deterministico, l'automa no.
+\<X rest\> => ho una variabile all'inizio dello stack:
+	se nella mia T (tabella di parsing) contiene una produzione di X per il next (ovvero il prossimo valore nell'input è presente della tabel)
