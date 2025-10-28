@@ -243,3 +243,10 @@ Un parser ha due task:
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/5.png]]
 ### We need a clean Syntactic Description
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/6.png]]
+## CFG - Context Free Grammars
+Notazione che serve per descrivere la struttura RICORSIVA delle grammatiche di questo tipo:
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/7.png]]![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/8.png]]
+### Esempio
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/9.png]]
+### Come la derivazione ci aiuta nel parsing?
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/10.png]]
