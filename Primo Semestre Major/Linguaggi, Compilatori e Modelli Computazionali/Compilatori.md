@@ -237,3 +237,6 @@ Un parser ha due task:
 ## 28/10/2025 - da pag 65 di "analisi lessicale"
 ## Writing the parser
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/2.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/3.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/4.png]]
