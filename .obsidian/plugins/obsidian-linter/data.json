@@ -285,7 +285,7 @@
     {
       "label": "arrow",
       "find": "=>",
-      "replace": "$ \\\\rightarrow $",
+      "replace": "",
       "flags": "gm",
       "enabled": true
     }

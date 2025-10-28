@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +204,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "c387b3dc75d40370",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/36.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/35.png",
