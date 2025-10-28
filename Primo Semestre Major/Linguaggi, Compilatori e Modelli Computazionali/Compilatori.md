@@ -281,3 +281,12 @@ Sono _**deterministici**_.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/25.png]]
 ### Linguaggi (e Grammatiche) LL(1)
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/26.png]]
+## Left Factoring
+>Raccogliere i prefissi comuni.
+  Una grammatica deve essere fattorizzata prima di essere parsata.
+### Predictive Parsing e Left Factoring
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/27.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/28.png]]
+## LL(1) parser (dettagli)
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/29.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/30.png]]
