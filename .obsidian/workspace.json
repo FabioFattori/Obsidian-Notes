@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2e88df3d0910e955",
+        "id": "dd9cde596fa63d86",
         "type": "tabs",
         "children": [
           {
-            "id": "9818d83fc4365288",
+            "id": "c387b3dc75d40370",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Compilatori"
             }
           }
         ]
       },
       {
-        "id": "b954c6a6afa5cffb",
+        "id": "c5ffe2671ff49ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "387f82168140ee6d",
+            "id": "fc99a231ebf7d509",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "4_ML_Classificazione"
+              "title": "analisi lessicale e sintattica"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +206,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "0a701b24c16b6039",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
@@ -218,19 +225,15 @@
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/6.png",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/5.png",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/4.png",
-    "Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.png",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Excalidraw",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/22_10_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025",
     "Primo Semestre Major/Machine Learning/imgs/22_10_2025",
     "Primo Semestre Major/Sistemi Informativi/imgs/Senza nome.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/linguaggi liberi.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/Compilatori.pdf",
     "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
