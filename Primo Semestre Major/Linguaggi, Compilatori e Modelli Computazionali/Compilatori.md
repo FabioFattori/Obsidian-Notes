@@ -306,3 +306,7 @@ Fa le stesse robe dell'automa a pila, solo che questo è deterministico, l'autom
 #### Esempio
 Di seguito vediamo i singoli passaggi dell'algoritmo:
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/34.png]]
+fighissimo, ma come costruisco la tabella? 
+### Costructing Parsing Table
+> IMPORTANTE ANCHE PER ESAME:
+> Per capire se un liguaggio è in LL(1) bisogna fare la tabella, e se c'è più di una produzione per la stessa table entry vuol dire che NON è in LL(1) dato che non sarebbe determinist
