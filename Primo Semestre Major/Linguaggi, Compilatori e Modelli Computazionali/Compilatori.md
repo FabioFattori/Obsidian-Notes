@@ -275,3 +275,7 @@ Vengono costruite delle trasformazioni canoniche _**SINISTRE**_, gli algoritmi B
 ### Sommario Della Discesa Ricorsiva
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/23.png]]
 ## Predictive Parsers
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/24.png]]
+Si chiamano Parser Predittivi perchè predicono quale produzione usare in base ai prossimi token ("guarda il futuro") e perchè non usano il backtracking.
+Sono _**deterministici**_.
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/25.png]]
