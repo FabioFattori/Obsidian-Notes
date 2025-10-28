@@ -269,3 +269,4 @@ Vengono costruite delle trasformazioni canoniche _**SINISTRE**_, gli algoritmi B
 #### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/20.png]]
 #### Ricorsione Sinistra Generale
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/21.png]]
