@@ -298,5 +298,11 @@ Gli spazi bianchi nella tabella indicano situazioni di syntax error dato che par
 Assume che alla fine dell'array di token ci sia un $.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/33.png]]
 Fa le stesse robe dell'automa a pila, solo che questo è deterministico, l'automa no.
-\<X rest\> => ho una variabile all'inizio dello stack:
-	se nella mia T (tabella di parsing) contiene una produzione di X per il next (ovvero il prossimo valore nell'input è presente della tabel)
+\<X rest\> $\rightarrow$ ho una variabile all'inizio dello stack:
+	se nella mia T (tabella di parsing) contiene una produzione di X per il next (ovvero il prossimo valore nell'input è presente della tabella) sostituisco X, che è all'inizio della pila, con $Y_1...Y_n$ 
+\<t rest\> $\rightarrow$ se all'inizio della pila ho un terminale (t) allora:
+	viene mangiato dall'input perchè faccio un post incremento del puntatore, quindi nello stack mi rimane quello che c'è sotto a quello che ho "mangiato".
+	Quindi svuoto la pila in questo modo.
+#### Esempio
+Di seguito vediamo i singoli passaggi dell'algoritmo:
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/34.png]]
