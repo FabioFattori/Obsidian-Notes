@@ -284,13 +284,14 @@ Sono _**deterministici**_.
 ## Left Factoring
 >Raccogliere i prefissi comuni.
   Una grammatica deve essere fattorizzata prima di essere parsata.
-### Predictive Parsing e Left Factoring
+### Predictive Parsing E Left Factoring
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/27.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/28.png]]
-## LL(1) parser (dettagli)
+## LL(1) Parser (dettagli)
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/29.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/30.png]]
 Gli spazi bianchi nella tabella indicano situazioni di syntax error dato che partendo da un carattere (esempio "E") non posso produrre il carattere indicato (esempio "\*").
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/31.png]]
-### How to use the Parsing Table
+### How to Use the Parsing Table
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/32.png]]
+### Algoritmo di Parsing 
