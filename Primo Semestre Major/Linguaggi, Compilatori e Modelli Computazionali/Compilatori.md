@@ -234,9 +234,10 @@ Un parser ha due task:
 ![[87.png]]
 #### Parser Comparato Con Il Lexer
 ![[88.png]]
-## 28/10/2025 - da pag 65 di "analisi lessicale"
-## Writing the parser
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/1.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/2.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/3.png]]
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/4.png]]
+## 28/10/2025 - Da Pag 65 Di "analisi lessicale"
+## Writing the Parser
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/1.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/2.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/3.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/4.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/5.png]]
