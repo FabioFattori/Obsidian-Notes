@@ -26,21 +26,19 @@
         ]
       },
       {
-        "id": "f64a960c4d2a6226",
+        "id": "6e422595ba4430ea",
         "type": "tabs",
         "children": [
           {
-            "id": "5059fb43636bf19e",
+            "id": "6d00db34bbe11400",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - bottom-up parsing.pdf"
               },
-              "pinned": true,
               "icon": "lucide-file-text",
-              "title": "algoritmi di parsing - top-down parsing"
+              "title": "algoritmi di parsing - bottom-up parsing"
             }
           }
         ]
@@ -205,13 +203,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "c387b3dc75d40370",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - bottom-up parsing.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/16.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/15.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/14.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/13.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/12.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/10.png",
@@ -219,7 +218,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/9.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/8.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/7.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/1.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025",
@@ -232,7 +230,6 @@
     "Excalidraw",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/22_10_2025",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025",
     "Primo Semestre Major/Sistemi Informativi/imgs/Senza nome.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",

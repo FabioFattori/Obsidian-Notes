@@ -339,9 +339,11 @@ $\gamma$ $\rightarrow$ qualcosa presente nello stack
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/12.png]]
 #### Il Dangling Else
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/13.png]]
-#### Esempio 
+#### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/14.png]]
-#### Un fix 
+#### Un Fix
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/15.png]]
 #### Esempio Rivisitato
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/16.png]]
+#TODO  FINIRE pdf: <a href="Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf">slides</a> 
+# Bottom-up Parsing
