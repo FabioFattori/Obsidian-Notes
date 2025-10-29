@@ -361,6 +361,11 @@ $\gamma$ $\rightarrow$ qualcosa presente nello stack
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/24.png]]
 ### Proprietà
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/25.png]]
-## Sommario fino ad ora
+## Sommario Fino Ad Ora
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/26.png]]
-### Parser LR non deterministico
+### Parser LR Non Deterministico
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/27.png]]
+### Regole Di Restriction Del Numero Di Istanze
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/28.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/29.png]]
+#### Formalizzazione
