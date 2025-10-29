@@ -323,7 +323,10 @@ $\gamma$ $\rightarrow$ qualcosa presente nello stack
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/2.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/3.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/4.png]]
-## Costruzione della tabella di parsing LL(1) 
+## Costruzione Della Tabella Di Parsing LL(1)
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/5.png]]
 ### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/6.png]]
+#### Appunti da fare
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/7.png]]
+#### Ambiguit
