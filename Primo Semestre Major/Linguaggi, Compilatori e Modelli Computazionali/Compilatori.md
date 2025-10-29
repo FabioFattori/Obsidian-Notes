@@ -318,3 +318,7 @@ $\beta$ $\rightarrow$ sono tutti i terminali
 $A$ $\rightarrow$ parametro in input, singolo carattere della stringa
 $\gamma$ $\rightarrow$ qualcosa presente nello stack 
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025/36.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/1.png]]
+## Computing First
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/2.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/3.png]]
