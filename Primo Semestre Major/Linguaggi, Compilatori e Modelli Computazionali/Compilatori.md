@@ -355,3 +355,7 @@ $\gamma$ $\rightarrow$ qualcosa presente nello stack
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/22.png]]
 ### Edge Case
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/21.png]]
+### Lezione Da Imparare
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/23.png]]
+### Chaotic Parser Non Deterministico
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/24.png]]
