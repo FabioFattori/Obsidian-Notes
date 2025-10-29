@@ -347,3 +347,11 @@ $\gamma$ $\rightarrow$ qualcosa presente nello stack
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/16.png]]
 #TODO  FINIRE pdf: <a href="Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf">slides</a> 
 # Bottom-up Parsing
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/17.png]]
+## Esempio
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/18.png]]
+## Chaotic Bottom-Up Parsing
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/20.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/22.png]]
+### Edge Case
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/21.png]]
