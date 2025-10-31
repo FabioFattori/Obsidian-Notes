@@ -220,4 +220,12 @@ mergiando i dati già presenti si possono ottenere nuovi dati, ottenendo le prop
 #### Diversità di Prospettiva
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/10.png]]
 Quindi due schemi diversi rappresentano la stessa informazioni, dandole però significati diversi dati dalla prospettiva diversa, per prospettiva si intende anche l'uso che ne viene fatto dei dati.
-#### Equi
+#### Equivalenza dei costrutti del modello 
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/11.png]]
+#### Incompatibilità delle specifiche
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/12.png]]
+Qui bisogna chiedersi se c'è una omonimia, ovvero se effettivamente il "Professore" di sinistra ha lo STESSO significato di quello di destra, oppure hanno due significati diversi ma hanno lo stesso nome.
+Bisogna stare attenti anche al contrario, ovvero nomi diversi ma stesso concetto.
+#### Concetti comuni
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/13.png]]
+Tutte le situe da equivalenza in poi, per noi sono dei conflitti
