@@ -70,17 +70,17 @@ Può essere considerato un’esplosione della catena del valore di Porter ottenu
 **Le attività di esecuzione** attuano le operazioni pianificate producendo così l’output desiderato. I sistemi di supporto all’esecuzione elaborano informazioni in tempo reale originando benefici riconducibili ai risparmi su attività burocratiche o alle migliori prestazioni di tempi e costi dei processi.
 ![[9.jpeg]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/10.png]]
-![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/11.png]]CRM => rapporto con i clienti
+![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/11.png]]CRM  rapporto con i clienti
 ![[8.jpeg]]
 In questa mappa le tecnologie come Oracle, Azure ecc... sono ortogonali ovvero non sono in maniera specifica in una parte della mappa, ma bensì sono dappertutto in questa mappa.
 # 19/07/2025 - Continuo Della Mappa Sopra
 Quello che vediamo in giallo sono dei componenti dell'azienda sono indipendenti dal tipo di prodotto venduto dall'azienda.
 Mentre quello in verde cambia in base alle esigenze informative dell'azienda, quindi in base al tipo di prodotto venduto.
 Mentre gli acronimi sono delle famiglie di software per coprire delle esigenze informative dell'azienda.![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/12.png]]
-## Smart Manufactoring => CIM
+## Smart Manufactoring CIM
 Computer Interface Manufactoring, ovvero un'architettura multilivello (software) che collega diversi livelli di un sistema di produzione ed è finalizzata all'ottimizzazione dei processi e alla gestione delle risorse![[13.jpeg]]
 ### Sistemi Scada (Supervisory Control and Data Acquisition)
-I Sistemi Scada => sistemi che permettono di prendere tutte le informazioni delle singole macchine/prodotti collegate e centralizzare tali informazioni per permettere ad un operatore di controllare tutte le macchine (gestionale).
+I Sistemi Scada  sistemi che permettono di prendere tutte le informazioni delle singole macchine/prodotti collegate e centralizzare tali informazioni per permettere ad un operatore di controllare tutte le macchine (gestionale).
 Usati per Grandi impianti industriali e processi industriali complessi.
 Pro di questi sistemi:
 - meno lavoratori necessari
@@ -89,9 +89,9 @@ Pro di questi sistemi:
 - maggiore affidabilità degli impianti grazie alla cattura di anomalie 
 ## Architettura Dei Sistemi SCADA
 ![[14.jpeg]]
-- History server => immagazzina i dati per avere uno storico dell'andamento
-- Front-end Server => funzione principale di interpolazione dei dati ottenuti dai vari gateway, Sono logicamente separati da quest’ultimo a garanzia di un tempo di acquisizione in real-time
-- Scada Server => implementano le funzionalità di monitoraggio e di gestione degli allarmi. Operano in tempo reale tipicamente utilizzando uno stream dati![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/15.png]]
+- History server  immagazzina i dati per avere uno storico dell'andamento
+- Front-end Server  funzione principale di interpolazione dei dati ottenuti dai vari gateway, Sono logicamente separati da quest’ultimo a garanzia di un tempo di acquisizione in real-time
+- Scada Server  implementano le funzionalità di monitoraggio e di gestione degli allarmi. Operano in tempo reale tipicamente utilizzando uno stream dati![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/15.png]]
 ## Evoluzione Dei Sistemi SCADA
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/16.png]]
 IoT != Sistema SCADA perchè nell'IoT ogni edge (componente della rete) è una risorsa di rete, quindi l'intelligenza è distribuita, mentre nel sistema Scada è tutto centralizzato a forma di imbuto verso un server.
@@ -110,14 +110,14 @@ L'importanza di questi sistemi è la circolarità dell'informazione/ del dato ov
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/20.png]]
 ### Estensione E Modularità
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/21.png]]
-Incrementale => compro da un unico provider e poi decido di prendere moduli in più durante il tempo.
-Best Of Breed => posso fare best of breed quando il fornitore mi garantisce che due moduli da due provider diversi si integrano perfettamente.
+Incrementale  compro da un unico provider e poi decido di prendere moduli in più durante il tempo.
+Best Of Breed  posso fare best of breed quando il fornitore mi garantisce che due moduli da due provider diversi si integrano perfettamente.
 ### Prescrittività
 I Sistemi ERP sono dei sistemi già pronti from the get go come di esempio sotto:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/22.png]]
 Vantaggi:
 - forte standardizzazione
-- adozione di processi già ottimizzati se sono disposto ad adottarli => spesso comporta il cambiamento dei processi aziendali
+- adozione di processi già ottimizzati se sono disposto ad adottarli  spesso comporta il cambiamento dei processi aziendali
 - Questi sistemi sono anche flessibili data la quantità di customizzazioni presenti nel software stesso![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/23.png]]
 ## I Sistemi ERP Allargati
 gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio sono fuori dall'ERP core:
@@ -131,7 +131,7 @@ gli ERP possono essere allargati attraverso i seguenti moduli, che di dominio so
 ci interessa individuare tramite la lettura del testo:
 - la struttura dei processi
 - la struttura organizzativa
-- la diagnosi della situazione attuale => cosa va bene, cosa va male e come sia arrivati in questa situazione.
+- la diagnosi della situazione attuale  cosa va bene, cosa va male e come sia arrivati in questa situazione.
 Sono presenti 4 fasi che servono per capire i punti sopra.
 Le definizioni di queste fasi sono nel foglio.
 ## Fase 1
@@ -172,8 +172,8 @@ Normalmente si danno in outsourcing dei _processi di supporto_.
 si fa per evitare il vendo lock-in, ovvero ho tutto su un provider e mi ritrovo ad essere bloccato, oppure lo si fa per avere più possibilità offerte da diversi provider:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/29.png]]
 ### Vantaggi Delle Soluzioni in Cloud
-OPEX se sono su cloud => i giorni che lo utilizzo come servizio lo pago
-CAPEX => Cerca su GOOOGLE
+OPEX se sono su cloud  i giorni che lo utilizzo come servizio lo pago
+CAPEX  Cerca su GOOOGLE
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/30.png]]
 ### Svantaggi Delle Soluzioni in Cloud
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/31.png]]
@@ -188,3 +188,9 @@ Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovve
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/35.png]]
 ### 24/10/2025 - Altro Caso Di Studio
 [[Caso di studio - studio di fattibilità - 24_10]]
+# 31/10/2025 - inizio pdf "Integrazione"
+## Integrazione di basi di dati
+### Motivi
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/1.png]]
+### Aspetti intensionali ed estensionali
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/2.png]]
