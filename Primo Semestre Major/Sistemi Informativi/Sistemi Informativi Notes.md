@@ -266,3 +266,11 @@ devo eliminare tutti i conflitti mantenendo tutte le informazioni.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/28.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/29.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/30.png]]
+## Il mapping
+legare lo schema dei sorgenti con quello dello schema riconciliato.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/31.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/32.png]]
+Due Approcci:
+- GAV => più usato nella pratica
+	definisco il global come una vista sugli schemi sorgenti.
+- LAV 
