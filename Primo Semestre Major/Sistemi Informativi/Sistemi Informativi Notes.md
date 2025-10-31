@@ -205,3 +205,8 @@ prendo lo schema che ho e me ne faccio una versione astratta io "fatta bene".
 Definizione mapping con le sorgenti $\rightarrow$ definire delle funzione/ query sql per fare il porting dei vecchi dati nel nuovo schema.
 Ne esiste una modalità per fare i mapping che consiste in una global view della tabella esprimendo una query sql che interroga la vista e non più il db, la vista sta on top of the database.
 ### Architettura per il SI integrato
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/5.png]]
+In alcuni contesti ci si limita ad integrare i Master Data (anagrafiche), questo perchè dipende dalla situazione aziendale in cui ci troviamo, esempio: ci sono dei sorgenti che non si conosce bene o per niente.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/6.png]]
+MDM $\rightarrow$ fatta solo sui Master Data appunto, questo per ridurre i costi e magari rendere possibile migliorare la situazione 
+## Analisi e normalizzazione
