@@ -288,3 +288,11 @@ Quindi per Pulizia del dato si intende:
 #### Tecniche Basate Su Dizionari
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/37.png]]
 Gli scarti vengono salvati in tabelle che normalmente vengono periodicamente pulite.
+#### Tecniche Basate Sulla Similarità
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/38.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/39.png]]
+#### Similarità tra record
+- Devo andare a cercare nella tabella quali campi sono simili
+- poi costruisco un insieme di regole che mi dicono quando due record sono lo stesso, quando due record sono diversi e quando due record sembrano simili ma è richiesto il controllo umano.
+Di sta formula non gliene frega una mazza a nessuno:
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/40.png]]

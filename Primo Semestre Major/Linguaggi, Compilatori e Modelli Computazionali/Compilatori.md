@@ -107,13 +107,13 @@ Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè 
 ##### Esempio
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/37.png]]
 #### Eliminazione Produzione Unità
-![[38.png]]
-![[39.png]]
-![[40.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/38.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/39.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/40.png]]
 ##### PROBLEMA - Presenza Di Cicli
 Questa trasformazione non va bene nei linguaggi che rappresentano cicli, bisogna fare un accorgimento:
 Se incontro una produzione che ho già espanso, posso fermarmi ed eliminarla come di seguito:
-![[41.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/41.png]]
 ## Forma Normale Di Chomsky per CNF
 ![[42.png]]
 ![[43.png]]
