@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "225283e9d3659025",
+        "id": "a8a17a89359d7343",
         "type": "tabs",
         "children": [
           {
-            "id": "a26fbe719d5f136d",
+            "id": "ffa84fdf34c4ea60",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Distributed Systems"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c4fd09fe8b9be61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15dd16bbaf9f7af4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "C4 – Distributed Ledger Technology. Blockchain as Middleware"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -204,10 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a26fbe719d5f136d",
+  "active": "ffa84fdf34c4ea60",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/imgs/31_10_2025/24.png",
+    "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Distributed System/imgs/31_10_2025/24.png",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/21.png",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/20.png",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/23.png",
@@ -217,7 +192,6 @@
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/17.png",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/16.png",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/15.png",
-    "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025",
     "Primo Semestre Major/Distributed System/imgs/cartella senza nome",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
