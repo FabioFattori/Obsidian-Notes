@@ -115,7 +115,7 @@ Questa trasformazione non va bene nei linguaggi che rappresentano cicli, bisogna
 Se incontro una produzione che ho già espanso, posso fermarmi ed eliminarla come di seguito:
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/41.png]]
 ## Forma Normale Di Chomsky per CNF
-![[42.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/42.png]]
 ![[43.png]]
 ## Pumping Lemma per CFL
 ![[44.png]]
