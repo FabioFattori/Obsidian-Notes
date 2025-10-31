@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +202,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "ffa84fdf34c4ea60",
   "lastOpenFiles": [
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/42.png",
     "Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
