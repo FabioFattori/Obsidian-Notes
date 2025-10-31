@@ -247,6 +247,8 @@ Bisogna scegliere la strategia migliore in base alla situazione, non c'è ne uno
 	- Bilanciato => visione + frastagliato rispetto "A Scala"
 	- A Scala => è utile quando so che lo schema di partenza è la spina aziendale dell'azienda, quindi il nodo 
 - ennario => integrazione del processo sarà più complesso, MA ho una visione più completa di TUTTO.
-### Comparazione degli schemi
+### Comparazione degli schemi - Classificazione dei conflitti
+Conflitti sui nomi $\rightarrow$ si riferisce a quello scritto sopra dell'omonimia e sinonimia.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/21.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/19.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/20.png]]
