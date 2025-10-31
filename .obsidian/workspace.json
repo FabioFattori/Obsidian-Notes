@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +204,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "a26fbe719d5f136d",
   "lastOpenFiles": [
     "Primo Semestre Major/Distributed System/imgs/31_10_2025/24.png",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",

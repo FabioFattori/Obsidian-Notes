@@ -143,4 +143,4 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/20.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/21.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/22.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/23.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/24.png]]
-#NOTE sto capitolo leggilo bene e bona perchè sto stronzo lo ha speed runnato senza 
+#NOTE sto capitolo leggilo bene e bona perchè sto stronzo lo ha speed runnato senza soffermarsi più di tanto fino a pagina 128.
