@@ -119,3 +119,10 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ### Consenso
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/6.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/7.png]]
+# Blockchain Main Elements
+## Disclaimer
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/8.png]]
+# Blockchain Overview
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/9.png]]
+## Architettura Di Un BCT
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/10.png]]
