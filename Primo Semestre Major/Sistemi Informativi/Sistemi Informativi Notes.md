@@ -234,5 +234,14 @@ _**La chiede Spesso questo paragrafo, e chiede L'ESEMPIO che è questo che segue
 ##### Equivalenza
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/14.png]]
 #### Concetti correlati
-Esempio: metto ins
+Esempio: metto insieme le due tabelle "Libro".
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/15.png]]
+### Fasi dell'Integrazione
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/16.png]]
+- preintegrazione $\rightarrow$ scegliere come lavorare
+#### Strategie di integrazione
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/17.png]]
+Bisogna scegliere la strategia migliore in base alla situazione, non c'è ne uno giusto:
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/18.png]]
+- binario => situazione più semplice, ma visione parziale
+- ennario => integrazione del processo sarà più complesso, MA ho una visione più completa di TUTTO.
