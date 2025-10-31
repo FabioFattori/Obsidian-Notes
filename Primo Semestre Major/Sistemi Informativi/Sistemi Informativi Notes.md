@@ -273,4 +273,11 @@ legare lo schema dei sorgenti con quello dello schema riconciliato.
 Due Approcci:
 - GAV => più usato nella pratica
 	definisco il global come una vista sugli schemi sorgenti.
+	Vantaggio: molto semplice per il sistema la traduzione.
+	![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/33.png]]
 - LAV 
+	![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/34.png]]
+	Opposto del GAV.
+	Riscrivere le query è complesso, ma il vantaggio è l'estendibilità.
+### Pulizia dei Dati
+
