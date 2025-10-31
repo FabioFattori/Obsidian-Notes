@@ -129,7 +129,10 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ### User Identifiers
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/11.png]]
 #TODO da pagina 82 fai fino a pagina 98 
-## Transazioni e Block Workflow
+## Transazioni E Block Workflow
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/12.png]]
-#### Block's Life
+### Block's Life
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/13.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/14.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/15.png]]
+## Consenso E Mining
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/16.png]]
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/17.png]]
