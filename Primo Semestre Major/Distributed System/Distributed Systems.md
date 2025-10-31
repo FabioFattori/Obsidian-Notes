@@ -126,3 +126,5 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/9.png]]
 ## Architettura Di Un BCT
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/10.png]]
+### User Identifiers
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/11.png]]
