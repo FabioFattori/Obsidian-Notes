@@ -136,3 +136,6 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ## Consenso E Mining
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/16.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/17.png]]
+## Protocollo PBFT 
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/18.png]]
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/19.png]]
