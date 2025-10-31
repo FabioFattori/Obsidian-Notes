@@ -188,13 +188,13 @@ Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovve
 ![[Primo Semestre Major/Sistemi Informativi/imgs/22_10_2025/35.png]]
 ### 24/10/2025 - Altro Caso Di Studio
 [[Caso di studio - studio di fattibilità - 24_10]]
-# 31/10/2025 - inizio pdf "Integrazione"
-## Integrazione di basi di dati
+# 31/10/2025 - Inizio Pdf "Integrazione"
+## Integrazione Di Basi Di Dati
 ### Motivi
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/1.png]]
-### Aspetti intensionali ed estensionali
+### Aspetti Intensionali Ed Estensionali
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/2.png]]
-#### Integrazione dello schema 
+#### Integrazione Dello Schema
 Idea di base:
 > Comprendere il dominio, quindi cosa vogliono dire i dati presenti nel database e come sono strutturati.
 
@@ -204,9 +204,15 @@ Per normalizzazione si intende:
 prendo lo schema che ho e me ne faccio una versione astratta io "fatta bene".
 Definizione mapping con le sorgenti $\rightarrow$ definire delle funzione/ query sql per fare il porting dei vecchi dati nel nuovo schema.
 Ne esiste una modalità per fare i mapping che consiste in una global view della tabella esprimendo una query sql che interroga la vista e non più il db, la vista sta on top of the database.
-### Architettura per il SI integrato
+### Architettura per Il SI Integrato
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/5.png]]
 In alcuni contesti ci si limita ad integrare i Master Data (anagrafiche), questo perchè dipende dalla situazione aziendale in cui ci troviamo, esempio: ci sono dei sorgenti che non si conosce bene o per niente.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/6.png]]
-MDM $\rightarrow$ fatta solo sui Master Data appunto, questo per ridurre i costi e magari rendere possibile migliorare la situazione 
-## Analisi e normalizzazione
+MDM $\rightarrow$ fatta solo sui Master Data appunto, questo per ridurre i costi e magari rendere possibile migliorare la situazione aziendali in casi estremi.
+## Analisi E Normalizzazione
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/7.png]]
+Spesso tocca fare un reverse engineering sullo schema perchè le aziende non forniscono il diagramma delle classi.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/8.png]]
+### I Problemi Da Affrontare
+Qua come input della fase ho gli schemi normalizzati.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/9.png]]
