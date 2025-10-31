@@ -243,5 +243,10 @@ Esempio: metto insieme le due tabelle "Libro".
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/17.png]]
 Bisogna scegliere la strategia migliore in base alla situazione, non c'è ne uno giusto:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/18.png]]
-- binario => situazione più semplice, ma visione parziale
+- binario => situazione più semplice, ma visione parziale delle scelte.
+	- Bilanciato => visione + frastagliato rispetto "A Scala"
+	- A Scala => è utile quando so che lo schema di partenza è la spina aziendale dell'azienda, quindi il nodo 
 - ennario => integrazione del processo sarà più complesso, MA ho una visione più completa di TUTTO.
+### Comparazione degli schemi
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/19.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/20.png]]
