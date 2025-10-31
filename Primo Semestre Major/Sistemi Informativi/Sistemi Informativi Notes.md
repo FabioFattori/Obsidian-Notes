@@ -228,4 +228,11 @@ Qui bisogna chiedersi se c'è una omonimia, ovvero se effettivamente il "Profess
 Bisogna stare attenti anche al contrario, ovvero nomi diversi ma stesso concetto.
 #### Concetti comuni
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/13.png]]
-Tutte le situe da equivalenza in poi, per noi sono dei conflitti
+Tutte le situe da equivalenza in poi, per noi sono dei conflitti.
+ESAME:
+_**La chiede Spesso questo paragrafo, e chiede L'ESEMPIO che è questo che segue.**_
+##### Equivalenza
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/14.png]]
+#### Concetti correlati
+Esempio: metto ins
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/15.png]]
