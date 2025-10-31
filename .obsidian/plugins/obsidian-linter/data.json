@@ -281,15 +281,7 @@
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
-  "customRegexes": [
-    {
-      "label": "arrow",
-      "find": "=>",
-      "replace": "",
-      "flags": "gm",
-      "enabled": true
-    }
-  ],
+  "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
     "tagArrayStyle": "single-line",

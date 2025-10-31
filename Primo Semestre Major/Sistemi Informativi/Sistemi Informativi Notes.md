@@ -194,3 +194,4 @@ Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovve
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/1.png]]
 ### Aspetti intensionali ed estensionali
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/2.png]]
+#### Integrazione dello schema 
