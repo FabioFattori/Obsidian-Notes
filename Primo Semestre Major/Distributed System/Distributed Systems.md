@@ -136,10 +136,11 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ## Consenso E Mining
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/16.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/17.png]]
-## Protocollo PBFT 
+## Protocollo PBFT
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/18.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/19.png]]
-### Proof-of-Work (PoW), ovvero Mining
+### Proof-of-Work (PoW), Ovvero Mining
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/20.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/21.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/22.png]]
-![[Primo Semestre Major/Distributed System/imgs/31_10_2025/23.png]]
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/23.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/24.png]]
+#NOTE sto capitolo leggilo bene e bona perchè sto stronzo lo ha speed runnato senza 
