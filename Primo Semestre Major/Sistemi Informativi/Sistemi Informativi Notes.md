@@ -217,29 +217,29 @@ Spesso tocca fare un reverse engineering sullo schema perchè le aziende non for
 Qua come input della fase ho gli schemi normalizzati.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/9.png]]
 mergiando i dati già presenti si possono ottenere nuovi dati, ottenendo le proprietà inter-schema.
-#### Diversità di Prospettiva
+#### Diversità Di Prospettiva
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/10.png]]
 Quindi due schemi diversi rappresentano la stessa informazioni, dandole però significati diversi dati dalla prospettiva diversa, per prospettiva si intende anche l'uso che ne viene fatto dei dati.
-#### Equivalenza dei costrutti del modello 
+#### Equivalenza Dei Costrutti Del Modello
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/11.png]]
-#### Incompatibilità delle specifiche
+#### Incompatibilità Delle Specifiche
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/12.png]]
 Qui bisogna chiedersi se c'è una omonimia, ovvero se effettivamente il "Professore" di sinistra ha lo STESSO significato di quello di destra, oppure hanno due significati diversi ma hanno lo stesso nome.
 Bisogna stare attenti anche al contrario, ovvero nomi diversi ma stesso concetto.
-#### Concetti comuni
+#### Concetti Comuni
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/13.png]]
 Tutte le situe da equivalenza in poi, per noi sono dei conflitti.
 ESAME:
 _**La chiede Spesso questo paragrafo, e chiede L'ESEMPIO che è questo che segue.**_
 ##### Equivalenza
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/14.png]]
-#### Concetti correlati
+#### Concetti Correlati
 Esempio: metto insieme le due tabelle "Libro".
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/15.png]]
 ### Fasi dell'Integrazione
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/16.png]]
 - preintegrazione $\rightarrow$ scegliere come lavorare
-#### Strategie di integrazione
+#### Strategie Di Integrazione
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/17.png]]
 Bisogna scegliere la strategia migliore in base alla situazione, non c'è ne uno giusto:
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/18.png]]
@@ -247,13 +247,22 @@ Bisogna scegliere la strategia migliore in base alla situazione, non c'è ne uno
 	- Bilanciato => visione + frastagliato rispetto "A Scala"
 	- A Scala => è utile quando so che lo schema di partenza è la spina aziendale dell'azienda, quindi il nodo 
 - ennario => integrazione del processo sarà più complesso, MA ho una visione più completa di TUTTO.
-### Comparazione degli schemi - Classificazione dei conflitti
+### Comparazione Degli Schemi - Classificazione Dei Conflitti
 Conflitti sui nomi $\rightarrow$ si riferisce a quello scritto sopra dell'omonimia e sinonimia.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/21.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/19.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/20.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/22.png]]
 esempio di conflitti di comportamento $\rightarrow$ delete on cascade si o no
-### Allineamento e fusione degli schemi
+### Allineamento E Fusione Degli Schemi
 devo eliminare tutti i conflitti mantenendo tutte le informazioni.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/23.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/24.png]]
+#### I Principi Della Fusione
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/25.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/26.png]]
+#### Esempio
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/27.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/28.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/29.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/30.png]]
