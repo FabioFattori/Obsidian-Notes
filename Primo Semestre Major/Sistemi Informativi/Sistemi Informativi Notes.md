@@ -195,3 +195,13 @@ Appliance strada opposta rispetto al cloud, ma che ha lo stesso obbiettivo, ovve
 ### Aspetti intensionali ed estensionali
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/2.png]]
 #### Integrazione dello schema 
+Idea di base:
+> Comprendere il dominio, quindi cosa vogliono dire i dati presenti nel database e come sono strutturati.
+
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/3.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/4.png]]
+Per normalizzazione si intende:
+prendo lo schema che ho e me ne faccio una versione astratta io "fatta bene".
+Definizione mapping con le sorgenti $\rightarrow$ definire delle funzione/ query sql per fare il porting dei vecchi dati nel nuovo schema.
+Ne esiste una modalità per fare i mapping che consiste in una global view della tabella esprimendo una query sql che interroga la vista e non più il db, la vista sta on top of the database.
+### Architettura per il SI integrato
