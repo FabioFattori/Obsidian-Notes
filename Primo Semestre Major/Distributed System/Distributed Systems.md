@@ -131,3 +131,5 @@ So that engineers can fully explore the trade-off between the costs and the bene
 #TODO da pagina 82 fai fino a pagina 98 
 ## Transazioni e Block Workflow
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/12.png]]
+#### Block's Life
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/13.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/14.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/15.png]]
