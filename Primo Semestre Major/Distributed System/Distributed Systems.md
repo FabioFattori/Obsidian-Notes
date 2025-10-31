@@ -108,4 +108,9 @@ So that engineers can fully explore the trade-off between the costs and the bene
 
 ---
 ### Eventual Consistency
-> Prima o poi, in tempo finito, il sistema diventerà conis
+> Prima o poi, in tempo finito, il sistema diventerà consistente:
+> Dove "Prima o poi" corrisponde a una unità di tempo ragionevole
+
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/1.png]]
+### Byzantine Faults
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/2.png]]
