@@ -103,3 +103,9 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ###### Causal Consistency
 ![[Primo Semestre Major/Distributed System/imgs/22_10_2025/17.png]]
 ### Client-centric Consistency Models
+
+#TODO tutti i pdf da scorso capito fino a pagina 67 del pdf C4
+
+---
+### Eventual Consistency
+> Prima o poi, in tempo finito, il sistema diventerà conis
