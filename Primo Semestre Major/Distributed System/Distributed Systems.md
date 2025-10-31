@@ -139,3 +139,7 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ## Protocollo PBFT 
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/18.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/19.png]]
+### Proof-of-Work (PoW), ovvero Mining
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/20.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/21.png]]
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/22.png]]
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/23.png]]
