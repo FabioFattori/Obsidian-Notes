@@ -105,7 +105,7 @@ Perderemo la stringa vuota se seguiamo questa forma normale di Chomsky, perchè 
 #### Eliminazione Produzioni $\epsilon$
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/36.png]]
 ##### Esempio
-![[37.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/37.png]]
 #### Eliminazione Produzione Unità
 ![[38.png]]
 ![[39.png]]

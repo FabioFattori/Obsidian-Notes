@@ -266,7 +266,7 @@ devo eliminare tutti i conflitti mantenendo tutte le informazioni.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/28.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/29.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/30.png]]
-## Il mapping
+## Il Mapping
 legare lo schema dei sorgenti con quello dello schema riconciliato.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/31.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/32.png]]
@@ -279,5 +279,12 @@ Due Approcci:
 	![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/34.png]]
 	Opposto del GAV.
 	Riscrivere le query è complesso, ma il vantaggio è l'estendibilità.
-### Pulizia dei Dati
-
+### Pulizia Dei Dati
+Qui lavoriamo sull'istanza effettiva del dato, e non sulla struttura della tabella/schema.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/35.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/36.png]]
+Quindi per Pulizia del dato si intende:
+>Creare delle procedure che o vadano a fare delle verifiche oppure le vanno direttamente a risolvere 
+#### Tecniche Basate Su Dizionari
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/37.png]]
+Gli scarti vengono salvati in tabelle che normalmente vengono periodicamente pulite.
