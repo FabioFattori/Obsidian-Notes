@@ -216,3 +216,8 @@ Spesso tocca fare un reverse engineering sullo schema perchè le aziende non for
 ### I Problemi Da Affrontare
 Qua come input della fase ho gli schemi normalizzati.
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/9.png]]
+mergiando i dati già presenti si possono ottenere nuovi dati, ottenendo le proprietà inter-schema.
+#### Diversità di Prospettiva
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/10.png]]
+Quindi due schemi diversi rappresentano la stessa informazioni, dandole però significati diversi dati dalla prospettiva diversa, per prospettiva si intende anche l'uso che ne viene fatto dei dati.
+#### Equi
