@@ -252,3 +252,8 @@ Conflitti sui nomi $\rightarrow$ si riferisce a quello scritto sopra dell'omonim
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/21.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/19.png]]
 ![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/20.png]]
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/22.png]]
+esempio di conflitti di comportamento $\rightarrow$ delete on cascade si o no
+### Allineamento e fusione degli schemi
+devo eliminare tutti i conflitti mantenendo tutte le informazioni.
+![[Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/23.png]]
