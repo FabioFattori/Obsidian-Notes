@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dd9cde596fa63d86",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c387b3dc75d40370",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Compilatori"
-            }
-          }
-        ]
-      },
-      {
         "id": "0bda6c985dfd9ec2",
         "type": "tabs",
         "children": [
