@@ -116,3 +116,6 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/2.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/3.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/4.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/5.png]]
+### Consenso
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/6.png]]
+![[Primo Semestre Major/Distributed System/imgs/31_10_2025/7.png]]
