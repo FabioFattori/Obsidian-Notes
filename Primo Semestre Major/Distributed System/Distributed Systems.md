@@ -144,4 +144,7 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/22.png]]
 ![[Primo Semestre Major/Distributed System/imgs/31_10_2025/23.png]]![[Primo Semestre Major/Distributed System/imgs/31_10_2025/24.png]]
 #NOTE sto capitolo leggilo bene e bona perchè sto stronzo lo ha speed runnato senza soffermarsi più di tanto fino a pagina 128.
-# 3/11/2025 continuo pdf C4
+# 3/11/2025 Continuo Pdf C4
+![[Primo Semestre Major/Distributed System/imgs/3_11_2025/1.png]]
+## Smart Contracts
+sono un modo per estendere una applicazione che ha a che fare con le blockchains, presenti in un determinato livello di astrazione.
