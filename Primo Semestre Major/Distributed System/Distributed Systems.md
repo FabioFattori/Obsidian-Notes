@@ -148,3 +148,4 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/3_11_2025/1.png]]
 ## Smart Contracts
 sono un modo per estendere una applicazione che ha a che fare con le blockchains, presenti in un determinato livello di astrazione.
+![[Primo Semestre Major/Distributed System/imgs/3_11_2025/2.png]]
