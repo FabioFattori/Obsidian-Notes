@@ -159,3 +159,4 @@ sono un modo per estendere una applicazione che ha a che fare con le blockchains
 ### Invocation
 ![[Primo Semestre Major/Distributed System/imgs/3_11_2025/7.png]]
 frate finisce il pdf ma lo zio non sta dicendo niente di che.
+Inizio pdf M4.
