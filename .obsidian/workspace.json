@@ -10,11 +10,35 @@
           {
             "id": "856ed7f202ecbe8b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Distributed Systems"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad3b93c45f8f26ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1ba9dd430a5301",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "C4 – Distributed Ledger Technology. Blockchain as Middleware"
             }
           }
         ]
@@ -179,8 +203,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "856ed7f202ecbe8b",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Primo Semestre Major/Distributed System/imgs/3_11_2025",
+    "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
+    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/42.png",
@@ -194,8 +222,6 @@
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/33.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/34.png",
     "Primo Semestre Major/Sistemi Informativi/slides/Non confermato 280835.crdownload",
-    "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/31_10_2025",
     "Primo Semestre Major/Distributed System/imgs/cartella senza nome",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
@@ -203,7 +229,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/analisi lessicale e sintattica.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/28_10_2025",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/Senza nome.md",
