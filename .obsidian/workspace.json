@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a17a89359d7343",
+        "id": "3a8f78a013154020",
         "type": "tabs",
         "children": [
           {
-            "id": "ffa84fdf34c4ea60",
+            "id": "856ed7f202ecbe8b",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sistemi Informativi Notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f57f8559735a12e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "78ab88cfff7b223c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Integrazione"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -186,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +179,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ffa84fdf34c4ea60",
+  "active": "856ed7f202ecbe8b",
   "lastOpenFiles": [
-    "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/42.png",
     "Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/42.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/41.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/40.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/39.png",
@@ -216,7 +193,6 @@
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/35.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/33.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/34.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/32.png",
     "Primo Semestre Major/Sistemi Informativi/slides/Non confermato 280835.crdownload",
     "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
