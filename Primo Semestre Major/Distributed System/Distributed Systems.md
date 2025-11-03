@@ -152,3 +152,9 @@ sono un modo per estendere una applicazione che ha a che fare con le blockchains
 ### Features
 ![[Primo Semestre Major/Distributed System/imgs/3_11_2025/3.png]]
 ![[Primo Semestre Major/Distributed System/imgs/3_11_2025/4.png]]
+### Operations
+![[Primo Semestre Major/Distributed System/imgs/3_11_2025/5.png]]
+### Deployment
+![[Primo Semestre Major/Distributed System/imgs/3_11_2025/6.png]]
+### Invocation
+![[Primo Semestre Major/Distributed System/imgs/3_11_2025/7.png]]
