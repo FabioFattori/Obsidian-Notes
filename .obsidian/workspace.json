@@ -10,6 +10,7 @@
           {
             "id": "a210aae0a7747a63",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Distributed Systems"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9d882485c29200e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f583e452cbdaee4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "M1 – Dependability in Distributed Systems"
             }
           }
         ]
@@ -78,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -186,6 +208,7 @@
   "active": "a210aae0a7747a63",
   "lastOpenFiles": [
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/M4 – Definitions  Goals for Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/7.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/6.png",
@@ -194,7 +217,6 @@
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/3.png",
     "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/2.png",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/1.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025",
     "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
@@ -208,7 +230,6 @@
     "Primo Semestre Major/Distributed System/imgs/cartella senza nome",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - bottom-up parsing.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/Senza nome.md",

@@ -48,7 +48,12 @@ The followings are two way to approach the creation of a distributed system by f
 ![[Primo Semestre Major/Distributed System/imgs/22_10_2025/22.png]]
 
 ---
-## 10/10/2025 Replication & Consistency Pdf Fino a Pag 34
+# Recupero: pdf M1
+## Dependability in Distributed Systems
+### Premessa
+
+---
+## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
 Why Replication of Data? 
 - increasing the reliability of systems
 - improving performance
