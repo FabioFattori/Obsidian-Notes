@@ -54,7 +54,8 @@ The followings are two way to approach the creation of a distributed system by f
 Distributed systems are, now days, playing a major role in our every day life because they are behind some of the most important aspects of each individual, from finacial to entertainment.
 Their _**dependability**_ (affidabilità) increased in each of these aspects, in fact the _**cost of failure**_ is tipically <span style="color:rgb(255, 0, 0)">enormous</span>.
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png]]
-### Dependability 
+### Dependability in the Dictionary
+
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
