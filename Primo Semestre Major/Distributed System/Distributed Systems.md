@@ -104,7 +104,7 @@ So that engineers can fully explore the trade-off between the costs and the bene
 ![[Primo Semestre Major/Distributed System/imgs/22_10_2025/17.png]]
 ### Client-centric Consistency Models
 
-#TODO tutti i pdf da scorso capito fino a pagina 67 del pdf C4
+#TODO tutti i pdf da scorso capitolo fino a pagina 67 del pdf C4
 
 ---
 ### Eventual Consistency
