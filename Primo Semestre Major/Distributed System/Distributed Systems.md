@@ -60,14 +60,16 @@ in systems engineering, too, dependability is closely related to reliability.
 #### Glossario Dei Termini
 ##### Termini
 - Distributed Computing $\rightarrow$ dependability refers to the ability of a distributed system to provide correct services to its users despite the many different threats (hardware failures, malicious attack, etc...).
+### System Models
 > A (distributed) system is designed to provide a set of services to its users.
 	each service has an interface that each client could use to request the service.
 - Functional Specification $\rightarrow$ defines what a service should do.
-###### System State
+#### System State
 At each moment, a system is in a given _**state**_.
 	What is the given state of a DS is a complicate thing to know.
 	The state is determited collectively by the state of the processes and threads in the system.
-
+- External/Observable State $\rightarrow$ Part of the state might become either implicitly or explicitly visible through user interaction.
+- Internal State $\rightarrow$ All the remaining states which the users cannot see.
 
 
 ---
