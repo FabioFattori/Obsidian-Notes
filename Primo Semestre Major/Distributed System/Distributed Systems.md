@@ -56,9 +56,11 @@ Their _**dependability**_ (affidabilità) increased in each of these aspects, in
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png]]
 #### Dependability in the Dictionary
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png]]
+in systems engineering, too, dependability is closely related to reliability.
 #### Glossario Dei Termini
 ##### Termini
-- Dependable systems $\rightarrow$ 
+- Distributed Computing $\rightarrow$ dependability refers to the ability of a distributed system to provide correct services to its users despite the many different threats (hardware failures, malicious attack, etc...).
+- 
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
