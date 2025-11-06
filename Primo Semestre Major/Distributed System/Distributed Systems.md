@@ -48,9 +48,11 @@ The followings are two way to approach the creation of a distributed system by f
 ![[Primo Semestre Major/Distributed System/imgs/22_10_2025/22.png]]
 
 ---
-# Recupero: pdf M1
+# Recupero: Pdf M1
 ## Dependability in Distributed Systems
 ### Premessa
+Distributed systems are, now days, playing a major role in our every day life because they are behind some of the most important aspects of each individual, from finacial to entertainment.
+Their _**dependability**_ (affidabilità) increased in each of these aspects, in fact the _**cost of failure**_ is tipically **<bold style="color:rgb(255, 0, 0)">enormous</bold>
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
