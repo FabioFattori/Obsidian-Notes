@@ -60,7 +60,8 @@ in systems engineering, too, dependability is closely related to reliability.
 #### Glossario Dei Termini
 ##### Termini
 - Distributed Computing $\rightarrow$ dependability refers to the ability of a distributed system to provide correct services to its users despite the many different threats (hardware failures, malicious attack, etc...).
-- 
+> A (distributed) system is designed to provide a set of services to its users.
+	each service has an interface 
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
