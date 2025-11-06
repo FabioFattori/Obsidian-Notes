@@ -67,10 +67,12 @@ in systems engineering, too, dependability is closely related to reliability.
 #### System State
 At each moment, a system is in a given _**state**_.
 	What is the given state of a DS is a complicate thing to know.
-	The state is determited collectively by the state of the processes and threads in the system.
+	The state is determinated collectively by the state of the processes and threads in the system.
 - External/Observable State $\rightarrow$ Part of the state might become either implicitly or explicitly visible through user interaction.
 - Internal State $\rightarrow$ All the remaining states which the users cannot see.
+> Generally speaking, the state of a system at time t is represented by the (minimum amount of) information that, along with the knowledge about the dynamics of a (deterministic) system, allows an observer to completely describe the future system behavior—from time t on
 
+States are used for _**recovery**_ after a failure, in fact a system can be recovered to the "place" where it was before a failure if its state was captured before it's failure (example: the state is serialized and stored to a stable storage.)
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
