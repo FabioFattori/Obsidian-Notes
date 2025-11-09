@@ -4,45 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "826fd9013abff45b",
+        "id": "caddaaf865a1f22c",
         "type": "tabs",
-        "dimension": 47.8494623655914,
         "children": [
           {
-            "id": "a210aae0a7747a63",
+            "id": "17f343c4f1495e9d",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Distributed Systems"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d882485c29200e5",
-        "type": "tabs",
-        "dimension": 52.1505376344086,
-        "children": [
-          {
-            "id": "f583e452cbdaee4e",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf"
+                "file": "Code Interviews Concepts/OOP/SOLID Principles.pdf"
               },
-              "pinned": true,
               "icon": "lucide-file-text",
-              "title": "M1 – Dependability in Distributed Systems"
+              "title": "SOLID Principles"
             }
           }
         ]
@@ -206,31 +180,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a210aae0a7747a63",
+  "active": "17f343c4f1495e9d",
   "lastOpenFiles": [
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
+    "Code Interviews Concepts/OOP/Non confermato 717710.crdownload",
+    "Code Interviews Concepts/OOP/SOLID principles.pdf",
+    "Code Interviews Concepts/OOP/SOLID principles.mhtml",
+    "Code Interviews Concepts/OOP/A Solid Guide to SOLID Principles _ Baeldung.mhtml",
+    "Code Interviews Concepts/OOP",
+    "Code Interviews Concepts",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025",
     "Primo Semestre Major/Distributed System/imgs/cartella senza nome",
-    "Primo Semestre Major/Distributed System/slides/M4 – Definitions  Goals for Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/7.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/6.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/5.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/4.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/3.png",
-    "Primo Semestre Major/Distributed System/slides/C4 – Distributed Ledger Technology. Blockchain as Middleware.pdf",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/3_11_2025/1.png",
-    "Primo Semestre Major/Distributed System/imgs/3_11_2025",
-    "Primo Semestre Major/Distributed System/slides/M3 – Replication  Consistency in Distributed Systems.pdf",
-    "Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/42.png",
-    "Primo Semestre Major/Sistemi Informativi/slides/Non confermato 280835.crdownload",
-    "Primo Semestre Major/Distributed System/imgs/31_10_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
