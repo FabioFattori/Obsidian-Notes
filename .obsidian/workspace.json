@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3da30980da2c82",
+        "id": "503d6faa30389167",
         "type": "tabs",
         "children": [
           {
-            "id": "c1940e5649bce007",
+            "id": "c6c2682bef41095b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Code Interviews Concepts/OOP/SOLID Principles.pdf"
+                "file": "Code Interviews Concepts/OOP/Principi OOP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SOLID Principles"
+              "icon": "lucide-file",
+              "title": "Principi OOP"
             }
           }
         ]
@@ -180,10 +182,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "c1940e5649bce007",
+  "active": "c6c2682bef41095b",
   "lastOpenFiles": [
-    "Code Interviews Concepts/OOP/Principi OOP.md",
     "Code Interviews Concepts/OOP/SOLID Principles.pdf",
+    "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
