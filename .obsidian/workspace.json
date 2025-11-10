@@ -11,14 +11,12 @@
             "id": "c1940e5649bce007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Code Interviews Concepts/OOP/OOP Principles.md",
-                "mode": "source",
-                "source": false
+                "file": "Code Interviews Concepts/OOP/SOLID Principles.pdf"
               },
-              "icon": "lucide-file",
-              "title": "OOP Principles"
+              "icon": "lucide-file-text",
+              "title": "SOLID Principles"
             }
           }
         ]
@@ -184,8 +182,8 @@
   },
   "active": "c1940e5649bce007",
   "lastOpenFiles": [
+    "Code Interviews Concepts/OOP/Principi OOP.md",
     "Code Interviews Concepts/OOP/SOLID Principles.pdf",
-    "Code Interviews Concepts/OOP/OOP Principles.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
