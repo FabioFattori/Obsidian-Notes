@@ -11,12 +11,14 @@
             "id": "c1940e5649bce007",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Code Interviews Concepts/OOP/SOLID Principles.pdf"
+                "file": "Code Interviews Concepts/OOP/OOP Principles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SOLID Principles"
+              "icon": "lucide-file",
+              "title": "OOP Principles"
             }
           }
         ]
@@ -182,11 +184,12 @@
   },
   "active": "c1940e5649bce007",
   "lastOpenFiles": [
+    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
+    "Code Interviews Concepts/OOP/OOP Principles.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025",
-    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Code Interviews Concepts/OOP",
     "Code Interviews Concepts",
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
