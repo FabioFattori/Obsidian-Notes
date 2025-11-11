@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "503d6faa30389167",
+        "id": "7c26f945be0d0f74",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c2682bef41095b",
+            "id": "ff9579b127aff239",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Code Interviews Concepts/Infrastructure/DDD schema.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "DDD schema"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -180,12 +178,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "ff9579b127aff239",
   "lastOpenFiles": [
-    "Code Interviews Concepts/HTML/Data Attributes.pdf",
-    "Code Interviews Concepts/HTML/Data Attributes.mhtml",
+    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Code Interviews Concepts/OOP/Principi OOP.md",
+    "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Code Interviews Concepts/Infrastructure/DDD schema.jpg",
+    "Code Interviews Concepts/HTML/Data Attributes.mhtml",
     "Code Interviews Concepts/HTML/jpegmini_optimized.zip",
     "Code Interviews Concepts/HTML/Non confermato 996149.crdownload",
     "Code Interviews Concepts/HTML",
@@ -193,11 +192,9 @@
     "Code Interviews Concepts/Infrastructure",
     "Code Interviews Concepts/cartella senza nome",
     "testASP.sln",
-    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
-    "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/9.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/7.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/8.png",
