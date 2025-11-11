@@ -11,14 +11,12 @@
             "id": "c6c2682bef41095b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Code Interviews Concepts/OOP/Principi OOP.md",
-                "mode": "preview",
-                "source": false
+                "file": "Code Interviews Concepts/Infrastructure/DDD schema.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Principi OOP"
+              "icon": "lucide-image",
+              "title": "DDD schema"
             }
           }
         ]
@@ -182,18 +180,24 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "c6c2682bef41095b",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
+    "Code Interviews Concepts/HTML/Data Attributes.pdf",
+    "Code Interviews Concepts/HTML/Data Attributes.mhtml",
     "Code Interviews Concepts/OOP/Principi OOP.md",
+    "Code Interviews Concepts/Infrastructure/DDD schema.jpg",
+    "Code Interviews Concepts/HTML/jpegmini_optimized.zip",
+    "Code Interviews Concepts/HTML/Non confermato 996149.crdownload",
+    "Code Interviews Concepts/HTML",
+    "Code Interviews Concepts/Infrastructure/IMG_7708.HEIC",
+    "Code Interviews Concepts/Infrastructure",
+    "Code Interviews Concepts/cartella senza nome",
+    "testASP.sln",
+    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025",
-    "Code Interviews Concepts/OOP",
-    "Code Interviews Concepts",
-    "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
-    "Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/9.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/7.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/8.png",
@@ -201,12 +205,7 @@
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/5.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/42.png",
     "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/41.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025/40.png",
-    "Primo Semestre Major/Sistemi Informativi/imgs/31_10_2025",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
-    "Primo Semestre Major/Machine Learning/imgs/27_10_2025",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - top-down parsing.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - bottom-up parsing.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
