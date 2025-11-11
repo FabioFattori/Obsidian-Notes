@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c26f945be0d0f74",
+        "id": "4e2bad7e758ca041",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9579b127aff239",
+            "id": "049a02dbe62f2478",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Code Interviews Concepts/HTML/Data Attributes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Data Attributes"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -180,12 +178,14 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "ff9579b127aff239",
+  "active": "049a02dbe62f2478",
   "lastOpenFiles": [
+    "Code Interviews Concepts/HTML/Data Attributes.pdf",
+    "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
+    "Excalidraw",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Code Interviews Concepts/Infrastructure/DDD schema.jpg",
     "Code Interviews Concepts/OOP/SOLID Principles.pdf",
-    "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Code Interviews Concepts/HTML/Data Attributes.mhtml",
     "Code Interviews Concepts/HTML/jpegmini_optimized.zip",
     "Code Interviews Concepts/HTML/Non confermato 996149.crdownload",
@@ -193,7 +193,6 @@
     "Code Interviews Concepts/Infrastructure/IMG_7708.HEIC",
     "Code Interviews Concepts/Infrastructure",
     "Code Interviews Concepts/cartella senza nome",
-    "testASP.sln",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/1.png",
