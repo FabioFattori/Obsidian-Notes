@@ -11,10 +11,12 @@
             "id": "ff9579b127aff239",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "pdf",
+              "state": {
+                "file": "Code Interviews Concepts/HTML/Data Attributes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Attributes"
             }
           }
         ]
@@ -180,10 +182,10 @@
   },
   "active": "ff9579b127aff239",
   "lastOpenFiles": [
-    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Code Interviews Concepts/OOP/Principi OOP.md",
-    "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Code Interviews Concepts/Infrastructure/DDD schema.jpg",
+    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
+    "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Code Interviews Concepts/HTML/Data Attributes.mhtml",
     "Code Interviews Concepts/HTML/jpegmini_optimized.zip",
     "Code Interviews Concepts/HTML/Non confermato 996149.crdownload",
