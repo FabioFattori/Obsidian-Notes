@@ -163,6 +163,9 @@ A Fail Fast System, when an error or an unexpected condition occurs operates as 
 > It system just halt its operation immediately, to enable the _early detection_ of software faults and the diagnosis of faults.
 
 This is done to make the bug fixing easier cause when an error happens , it is propagated to the entire system, with these technique the error is not propagated making it isolated.
+## Dependability Attributes and Evaluation Metrics
+### Features of Dependable Systems
+
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
