@@ -74,9 +74,16 @@ At each moment, a system is in a given _**state**_.
 
 States are used for _**recovery**_ after a failure, in fact a system can be recovered to the "place" where it was before a failure if its state was captured before it's failure (example: the state is serialized and stored to a stable storage.)
 #### System Boundary
-> physical and logical line that separates the system from it's surrounding enviroment.
+> physical and logical line that separates the system from it's surrounding environment.
 
-- inside the 
+- _System's Components_ $\rightarrow$ inside the boundary
+	For component the definition depends on which level of abstraction we are using to describe system, let's say:
+	1. at one given level of abstraction, we could observe a system (with its components) interacting with other systems.
+	2. at another given level of abstraction, the same system could be instead described as a component of a larger system.
+- _System's Environment_ $\rightarrow$ outside the boundary.
+	For environment we intend all other systems that our system interact with, in general, all the other system's that affect in any way our system.
+
+
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
