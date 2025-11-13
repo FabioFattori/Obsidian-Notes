@@ -175,7 +175,14 @@ This is done to make the bug fixing easier cause when an error happens , it is p
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/7.png]]
 #### Safety
+> Safety refers to the situation that when a system temporarily fails to operate correctly, nothing _catastrophic_ happens
 
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/8.png]]
+#### Maintainability
+> Maintainability refers to how easily a failed systems can be repaired
+
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/9.png]]
+### 
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
