@@ -128,9 +128,16 @@ The faults can be categorized by:
 - <span style="color:rgb(255, 0, 0)">Permanent</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if, once activated, the fault stays until the faulty component is repaired or the source of the fault is addressed (e.g., a power outage is considered a permanent fault because a computer system will remain powered off unless / until power is restored)
 ##### Manifestation of Faults
-- Content faults:
-	if the faults cause the values passed to other components to be wrong (a faulty component may always pass on the same wrong values to other components, or, it may return different values to different components that it interacts with)
-
+- <span style="color:rgb(255, 0, 0)">Content</span> <span style="color:rgb(255, 0, 0)">faults</span>:
+	if the faults cause the values passed to other components to be wrong:
+	_**Byzantine fault**_:
+	a faulty component may always pass on the same wrong values to other components, or, it may return different values to different components that it interacts with.
+- <span style="color:rgb(255, 0, 0)">Timing</span> <span style="color:rgb(255, 0, 0)">faults</span>:
+	if the faulty component either returns a reply too early or too late after receiving a request from another component.
+##### Reproducibility of Faults
+- <span style="color:rgb(255, 0, 0)">Reproducible faults (deterministic faults)</span>:
+	When the fault occurs deterministically so its easily reproduced.
+- Nondeterministic fa
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
