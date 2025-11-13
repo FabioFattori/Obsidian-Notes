@@ -73,7 +73,10 @@ At each moment, a system is in a given _**state**_.
 > Generally speaking, the state of a system at time t is represented by the (minimum amount of) information that, along with the knowledge about the dynamics of a (deterministic) system, allows an observer to completely describe the future system behavior—from time t on
 
 States are used for _**recovery**_ after a failure, in fact a system can be recovered to the "place" where it was before a failure if its state was captured before it's failure (example: the state is serialized and stored to a stable storage.)
-#TODO Continua da pagina 15 di M1.
+#### System Boundary
+> physical and logical line that separates the system from it's surrounding enviroment.
+
+- inside the 
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
