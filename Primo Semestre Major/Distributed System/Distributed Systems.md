@@ -182,7 +182,12 @@ This is done to make the bug fixing easier cause when an error happens , it is p
 > Maintainability refers to how easily a failed systems can be repaired
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/9.png]]
-### 
+### Importance of the Features
+
+| Features     | Evaluation Metric | Difficult to Quantify | Fundamental | Secondary or not applicable to all systems |
+| ------------ | ----------------- | --------------------- | ----------- | ------------------------------------------ |
+| Availability | $\tick$           |                       |             |                                            |
+
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
