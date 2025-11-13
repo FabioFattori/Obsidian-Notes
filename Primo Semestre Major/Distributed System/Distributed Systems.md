@@ -137,7 +137,17 @@ The faults can be categorized by:
 ##### Reproducibility of Faults
 - <span style="color:rgb(255, 0, 0)">Reproducible faults (deterministic faults)</span>:
 	When the fault occurs deterministically so its easily reproduced.
-- Nondeterministic fa
+- <span style="color:rgb(255, 0, 0)">Nondeterministic</span> <span style="color:rgb(255, 0, 0)">faults</span>:
+	if the fault appears to happen nondeterministically and is hard to reproduce, also classified as _**Heisenbugs**_ to highlight their uncertainty.
+##### Relationship of Fault with other Faults
+- <span style="color:rgb(255, 0, 0)">Independent</span> <span style="color:rgb(255, 0, 0)">faults</span>:
+	if there is no causal relationship between the faults.
+	Given fault A and fault B, B is not caused by A, and A is not caused by B.
+- <span style="color:rgb(255, 0, 0)">Correlated</span> <span style="color:rgb(255, 0, 0)">faults</span>:
+	if the faults are causally related.
+	Given fault A and fault B, either B is caused by A, or A is caused by B.
+	If multiple components fail due to a common reason, the failures are referred to as common mode failures.
+
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
