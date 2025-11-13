@@ -186,7 +186,7 @@ This is done to make the bug fixing easier cause when an error happens , it is p
 
 | Features     | Evaluation Metric | Difficult to Quantify | Fundamental | Secondary or not applicable to all systems |
 | ------------ | ----------------- | --------------------- | ----------- | ------------------------------------------ |
-| Availability | $\tick$           |                       |             |                                            |
+| Availability |                   |                       |             |                                            |
 
 
 ---
