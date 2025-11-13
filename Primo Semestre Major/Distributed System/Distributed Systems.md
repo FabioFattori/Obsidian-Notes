@@ -98,7 +98,17 @@ When that error reaches the user interface, which will deviate the service given
 Given the typical recursive nature of system composition, the failure of one system can cause a fault in a larger system as follows:
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/4.png]]
 Such relationship between fault, error and failure is referred to as _**chain of threats**_.
-
+#### Classification of Faults
+Each type of faults require different treatment.
+The faults can be categorized by:
+- The _source_ of the fault
+- The _intent_ of the fault
+- The _duration_ of the fault
+- The _manifestation_ of the fault
+- The _reproducibility_ of the fault
+- The _relationship_ of the fault with other faults
+##### Source of Faults
+- 
 
 
 ---
