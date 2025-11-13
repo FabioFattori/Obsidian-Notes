@@ -180,13 +180,18 @@ $$
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/7.png]]
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/11.png]]
 #### Safety
-> Safety refers to the situation that when a system temporarily fails to operate correctly, nothing _catastrophic_ happens
+> Safety means that when a system temporarily fails to operate correctly, nothing _catastrophic_ happens
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/8.png]]
+
 #### Maintainability
+Both definition is correct:
 > Maintainability refers to how easily a failed systems can be repaired
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/9.png]]
+>Maintainability refers to the capability of a system to evolve after it is deployed
+
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/13.png]]
 #### Integrity
 > Integrity refers to the capability of a system to protect its state from being compromised under various threats 
 
