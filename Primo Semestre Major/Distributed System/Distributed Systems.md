@@ -159,7 +159,8 @@ Those type of system are, in the majority of occasions, linked to human life/hea
 Example:
 the computer system used to control a nuclear power plant must be a fail-safe system
 ### Fail Fast
-
+A Fail Fast System, when an error or an unexpected condition occurs operates as such:
+> It system just halt its operation immediately, to enable the _early detection_ of software faults and the 
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
