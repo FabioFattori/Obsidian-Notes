@@ -205,7 +205,27 @@ Both definition is correct:
 |    Integrity    |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     |
 | Maintainability |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |
 |     Safety      |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |
-###
+## Means to Achieve Dependability
+### Improving Dependability
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/15.png]]
+#### Fault Avoidance
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/16.png]]
+#### Fault Detection & Diagnosis
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/17.png]]
+#### Fault Removal
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/18.png]]
+#### Fault Tolerance
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/19.png]]
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/20.png]]
+##### Masking Failure by Redundancy
+> hiding failures from other processes by having more than one way to pass data to the waiting processes
+
+Types of redundancy:
+- <span style="color:rgb(255, 0, 0)">Information</span> Redundancy: example, extra bits
+- <span style="color:rgb(255, 0, 0)">Time</span> Redundacy: example, redos after transaction abort
+- <span style="color:rgb(255, 0, 0)">Physical</span> Redundancy: typical in biological systems
+## Overall 
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png]]
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
