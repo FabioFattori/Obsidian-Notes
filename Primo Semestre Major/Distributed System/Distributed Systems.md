@@ -178,7 +178,7 @@ $$
 >Reliability refers to the property that a system can run continuously without failure
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/7.png]]
-
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/11.png]]
 #### Safety
 > Safety refers to the situation that when a system temporarily fails to operate correctly, nothing _catastrophic_ happens
 
@@ -187,6 +187,10 @@ $$
 > Maintainability refers to how easily a failed systems can be repaired
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/9.png]]
+#### Integrity
+> Integrity refers to the capability of a system to protect its state from being compromised under various threats 
+
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/12.png]]
 ### Importance of the Features
 
 |    Features     |      can be used as Evaluation Metric      |           Difficult to Quantify            |         Fundamental to all systems         | Secondary or not applicable to all systems |
