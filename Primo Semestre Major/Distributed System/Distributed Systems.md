@@ -115,12 +115,18 @@ The faults can be categorized by:
 - <span style="color:rgb(255, 0, 0)">Operator</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if the faults are caused by the operator of the system, for example, misconfiguration, wrong upgrade procedures, etc.
 ##### Intent of Faults
-- non-malicious faults:
+- <span style="color:rgb(255, 0, 0)">Non-malicious</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if the faults are not caused by a person with malicious intent (e.g., a naturally-occurred hardware fault, or, some unintended software bugs)
-- malicious faults:
+- <span style="color:rgb(255, 0, 0)">Malicious</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if the faults are caused by a person with intent to harm the system (e.g., to deny services to legitimate clients or to compromise the integrity of the service).
 	See also commission faults, or Byzantine faults.
-##### 
+##### Duration of Faults
+- Transient faults:
+	if the faults is activated momentarily then goes dormant again (e.g., when a power spike affects a hardware component then disappears)
+- Intermittent faults:
+	if the fault occurs, vanishes of its own accord, then reappears, and so on (e.g., race condition, occurring when and only when two threads access the same shared variable at the same time)
+- Permanent faults:
+	if, once activated, the fault stays until the faulty component 
 
 
 ---
