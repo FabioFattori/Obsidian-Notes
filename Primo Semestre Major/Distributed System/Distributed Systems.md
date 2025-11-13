@@ -184,9 +184,13 @@ This is done to make the bug fixing easier cause when an error happens , it is p
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/9.png]]
 ### Importance of the Features
 
-| Features     | Evaluation Metric | Difficult to Quantify | Fundamental | Secondary or not applicable to all systems |
-| ------------ | ----------------- | --------------------- | ----------- | ------------------------------------------ |
-| Availability |                   |                       |             |                                            |
+|    Features     |             Evaluation Metric              | Difficult to Quantify | Fundamental | Secondary or not applicable to all systems |
+| :-------------: | :----------------------------------------: | :-------------------: | :---------: | :----------------------------------------: |
+|  Availability   | <input type="checkbox" checked disabled /> |                       |             |                                            |
+|   Reliability   | <input type="checkbox" checked disabled /> |                       |             |                                            |
+|    Integrity    |                                            |                       |             |                                            |
+| Maintainability |                                            |                       |             |                                            |
+|     Safety      |                                            |                       |             |                                            |
 
 
 ---
