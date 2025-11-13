@@ -90,6 +90,10 @@ A failure it's caused by it's state, or part of it, having wrong values(example:
 We assumes that errors are caused by <span style="color:rgb(255, 0, 0); font-weight: bold">faults</span>.
 _Threats_ to dependability are described as different sorts of faults.
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/3.png]]
+#### Dormant Fault
+A fault is dormant when it could not be immediately tested and found.
+When the specific condition is met, the fault will be activated causing an error in the component and when that component the error will be propagated through the system.
+When that error reaches the user interface, which will deviate the service given to that users a _service <span style="color:rgb(255, 0, 0); font-weight: italic">failure</span>_ occurs.
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
