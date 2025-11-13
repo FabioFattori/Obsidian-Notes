@@ -147,6 +147,11 @@ The faults can be categorized by:
 	if the faults are causally related.
 	Given fault A and fault B, either B is caused by A, or A is caused by B.
 	If multiple components fail due to a common reason, the failures are referred to as common mode failures.
+### Fail-Stop Systems
+When the system fails, it is desirable to avoid _catastrophic consequences_.
+The <span style="color:rgb(255, 0, 0)">fail-stop system</span>, when they fail, do as follows:
+> The consequences of the failure of a system can be alleviated by enhancing the system with dependability mechanism such that when it fails, it stops offering the service (example: it stops responding to requests).
+### Fail-Safe Systems
 
 
 ---
