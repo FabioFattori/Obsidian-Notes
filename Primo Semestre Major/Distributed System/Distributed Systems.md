@@ -108,7 +108,12 @@ The faults can be categorized by:
 - The _reproducibility_ of the fault
 - The _relationship_ of the fault with other faults
 ##### Source of Faults
-- 
+- Hardware faults:
+	the fault is caused by a component hardware failure (such as power outages, hard drive failures ecc...)
+- Software faults:
+	the fault is caused by a software bug such as race conditions or no-boundary-checks for arrays.
+- Operator faults:
+	if the faults are caused by the operator of the system, for example, misconfiguration, wrong upgrade procedures, etc.
 
 
 ---
