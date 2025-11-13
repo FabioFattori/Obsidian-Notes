@@ -108,12 +108,19 @@ The faults can be categorized by:
 - The _reproducibility_ of the fault
 - The _relationship_ of the fault with other faults
 ##### Source of Faults
-- Hardware faults:
+- <span style="color:rgb(255, 0, 0)">Hardware</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	the fault is caused by a component hardware failure (such as power outages, hard drive failures ecc...)
-- Software faults:
+- <span style="color:rgb(255, 0, 0)">Software</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	the fault is caused by a software bug such as race conditions or no-boundary-checks for arrays.
-- Operator faults:
+- <span style="color:rgb(255, 0, 0)">Operator</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if the faults are caused by the operator of the system, for example, misconfiguration, wrong upgrade procedures, etc.
+##### Intent of Faults
+- non-malicious faults:
+	if the faults are not caused by a person with malicious intent (e.g., a naturally-occurred hardware fault, or, some unintended software bugs)
+- malicious faults:
+	if the faults are caused by a person with intent to harm the system (e.g., to deny services to legitimate clients or to compromise the integrity of the service).
+	See also commission faults, or Byzantine faults.
+##### 
 
 
 ---
