@@ -91,9 +91,15 @@ We assumes that errors are caused by <span style="color:rgb(255, 0, 0); font-wei
 _Threats_ to dependability are described as different sorts of faults.
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/3.png]]
 #### Dormant Fault
-A fault is dormant when it could not be immediately tested and found.
+A fault is dormant when it could not be immediately tested and found (example: a bug in the software not causing problems until the corresponding code is executed).
 When the specific condition is met, the fault will be activated causing an error in the component and when that component the error will be propagated through the system.
-When that error reaches the user interface, which will deviate the service given to that users a _service <span style="color:rgb(255, 0, 0); font-weight: italic">failure</span>_ occurs.
+When that error reaches the user interface, which will deviate the service given to that users a _service <span style="color:rgb(255, 0, 0); font-weight: bold">failure</span>_ occurs.
+#### Chain of Threats
+Given the typical recursive nature of system composition, the failure of one system can cause a fault in a larger system as follows:
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/4.png]]
+Such relationship between fault, error and failure is referred to as _**chain of threats**_.
+
+
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
