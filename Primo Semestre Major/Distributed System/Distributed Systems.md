@@ -178,6 +178,7 @@ $$
 >Reliability refers to the property that a system can run continuously without failure
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/7.png]]
+
 #### Safety
 > Safety refers to the situation that when a system temporarily fails to operate correctly, nothing _catastrophic_ happens
 
