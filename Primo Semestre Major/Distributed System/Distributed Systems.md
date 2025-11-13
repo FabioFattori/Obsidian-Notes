@@ -86,8 +86,10 @@ States are used for _**recovery**_ after a failure, in fact a system can be reco
 Definition of <span style="color:rgb(255, 0, 0); font-weight: bold">failure</span>:
 > When a system is not compliant with its functional specification.
 
-A failure it's caused by it's state, or part of it, having wrong values set
-
+A failure it's caused by it's state, or part of it, having wrong values(example: errors in it's state).
+We assumes that errors are caused by <span style="color:rgb(255, 0, 0); font-weight: bold">faults</span>.
+_Threats_ to dependability are described as different sorts of faults.
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/3.png]]
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
