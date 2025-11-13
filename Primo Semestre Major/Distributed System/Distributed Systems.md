@@ -183,7 +183,7 @@ $$
 > Safety means that when a system temporarily fails to operate correctly, nothing _catastrophic_ happens
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/8.png]]
-
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/14.png]]
 #### Maintainability
 Both definition is correct:
 > Maintainability refers to how easily a failed systems can be repaired

@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +208,7 @@
   },
   "active": "049a02dbe62f2478",
   "lastOpenFiles": [
-    "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/Screenshot 2025-11-13 alle 15.56.43.png",
+    "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/14.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/13.png",
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
