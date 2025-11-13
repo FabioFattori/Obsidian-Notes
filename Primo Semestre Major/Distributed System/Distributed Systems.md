@@ -82,7 +82,11 @@ States are used for _**recovery**_ after a failure, in fact a system can be reco
 	2. at another given level of abstraction, the same system could be instead described as a component of a larger system.
 - _System's Environment_ $\rightarrow$ outside the boundary.
 	For environment we intend all other systems that our system interact with, in general, all the other system's that affect in any way our system.
+### Threat Models
+Definition of <span style="color:rgb(255, 0, 0); font-weight: bold">failure</span>:
+> When a system is not compliant with its functional specification.
 
+A failure it's caused by it's state, or part of it, having wrong values set
 
 
 ---
