@@ -160,7 +160,9 @@ Example:
 the computer system used to control a nuclear power plant must be a fail-safe system
 ### Fail Fast
 A Fail Fast System, when an error or an unexpected condition occurs operates as such:
-> It system just halt its operation immediately, to enable the _early detection_ of software faults and the 
+> It system just halt its operation immediately, to enable the _early detection_ of software faults and the diagnosis of faults.
+
+This is done to make the bug fixing easier cause when an error happens , it is propagated to the entire system, with these technique the error is not propagated making it isolated.
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
