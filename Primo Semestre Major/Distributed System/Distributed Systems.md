@@ -121,12 +121,15 @@ The faults can be categorized by:
 	if the faults are caused by a person with intent to harm the system (e.g., to deny services to legitimate clients or to compromise the integrity of the service).
 	See also commission faults, or Byzantine faults.
 ##### Duration of Faults
-- Transient faults:
+- <span style="color:rgb(255, 0, 0)">Transient</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if the faults is activated momentarily then goes dormant again (e.g., when a power spike affects a hardware component then disappears)
-- Intermittent faults:
+- <span style="color:rgb(255, 0, 0)">Intermittent</span> <span style="color:rgb(255, 0, 0)">faults</span>:
 	if the fault occurs, vanishes of its own accord, then reappears, and so on (e.g., race condition, occurring when and only when two threads access the same shared variable at the same time)
-- Permanent faults:
-	if, once activated, the fault stays until the faulty component 
+- <span style="color:rgb(255, 0, 0)">Permanent</span> <span style="color:rgb(255, 0, 0)">faults</span>:
+	if, once activated, the fault stays until the faulty component is repaired or the source of the fault is addressed (e.g., a power outage is considered a permanent fault because a computer system will remain powered off unless / until power is restored)
+##### Manifestation of Faults
+- Content faults:
+	if the faults cause the values passed to other components to be wrong (a faulty component may always pass on the same wrong values to other components, or, it may return different values to different components that it interacts with)
 
 
 ---
