@@ -184,14 +184,14 @@ This is done to make the bug fixing easier cause when an error happens , it is p
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/9.png]]
 ### Importance of the Features
 
-|    Features     |             Evaluation Metric              | Difficult to Quantify | Fundamental | Secondary or not applicable to all systems |
-| :-------------: | :----------------------------------------: | :-------------------: | :---------: | :----------------------------------------: |
-|  Availability   | <input type="checkbox" checked disabled /> |                       |             |                                            |
-|   Reliability   | <input type="checkbox" checked disabled /> |                       |             |                                            |
-|    Integrity    |                                            |                       |             |                                            |
-| Maintainability |                                            |                       |             |                                            |
-|     Safety      |                                            |                       |             |                                            |
-
+|    Features     |      can be used as Evaluation Metric      |           Difficult to Quantify            |         Fundamental to all systems         | Secondary or not applicable to all systems |
+| :-------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+|  Availability   | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     |
+|   Reliability   | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     |
+|    Integrity    |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     |
+| Maintainability |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |
+|     Safety      |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |    <input type="checkbox"  disabled />     | <input type="checkbox" checked disabled /> |
+###
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
