@@ -165,6 +165,16 @@ A Fail Fast System, when an error or an unexpected condition occurs operates as 
 This is done to make the bug fixing easier cause when an error happens , it is propagated to the entire system, with these technique the error is not propagated making it isolated.
 ## Dependability Attributes and Evaluation Metrics
 ### Features of Dependable Systems
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/5.png]]
+#### Availability
+> Availability refers to the property that a system is ready for immediate use
+
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/6.png]]
+#### Reliability
+>Reliability refers to the property that a system can run continuously without failure
+
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/7.png]]
+#### Safety
 
 
 ---
