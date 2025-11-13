@@ -170,6 +170,10 @@ This is done to make the bug fixing easier cause when an error happens , it is p
 > Availability refers to the property that a system is ready for immediate use
 
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/6.png]]
+![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/10.png]]
+$$
+Availability = \frac{MTTF}{MTTF+MTTR} = \frac{MTTF}{MTBF}
+$$
 #### Reliability
 >Reliability refers to the property that a system can run continuously without failure
 
