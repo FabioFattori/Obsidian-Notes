@@ -228,7 +228,7 @@ Types of redundancy:
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png]]
 
 ---
-###
+## Recupero pdf M2
 
 ---
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
