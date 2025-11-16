@@ -224,7 +224,7 @@ Types of redundancy:
 - <span style="color:rgb(255, 0, 0)">Information</span> Redundancy: example, extra bits
 - <span style="color:rgb(255, 0, 0)">Time</span> Redundacy: example, redos after transaction abort
 - <span style="color:rgb(255, 0, 0)">Physical</span> Redundancy: typical in biological systems
-## Overall 
+## Overall
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png]]
 
 ---
