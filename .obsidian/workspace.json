@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +207,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "049a02dbe62f2478",
   "lastOpenFiles": [
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/20.png",
