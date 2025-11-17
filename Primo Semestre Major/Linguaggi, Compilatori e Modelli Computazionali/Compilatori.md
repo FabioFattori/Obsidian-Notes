@@ -1,18 +1,21 @@
 # Compilatori
 ## Linguaggi Regolari
 ### Concetti di base
-- Alfabeto $\rightarrow$ Insieme finito e non vuoto di simboli
+- <span style="color:rgb(255, 0, 0)">Alfabeto</span> $\rightarrow$ Insieme finito e non vuoto di simboli
 	Esempi:
 	1. $\sum=\{0,1\}$ alfabeto binario.
 	2. $\sum=\{a,b,c,...,z\}$ insieme di tutte le lettere minuscole.
-- Stringa $\rightarrow$ Sequenza finita di simboli da un alfabeto
+- <span style="color:rgb(255, 0, 0)">Stringa</span> $\rightarrow$ Sequenza finita di simboli da un alfabeto
 	0011001 è una stringa dell'alfabeto di $\sum=\{0,1\}$.
-- Stringa vuota $\rightarrow$ la stringa con zero occorrenze di simboli da $\sum$, essa è denominata $\epsilon$.
-- Lunghezza di una stringa $\rightarrow$ $|w|$ denota la lenght della stringa $w$.
+- <span style="color:rgb(255, 0, 0)">Stringa vuota</span> $\rightarrow$ la stringa con zero occorrenze di simboli da $\sum$, essa è denominata $\epsilon$.
+- <span style="color:rgb(255, 0, 0)">Lunghezza  di una stringa</span> $\rightarrow$ $|w|$ denota la lenght della stringa $w$.
 	$|0011| = 4,|\epsilon| = 0$
-- Potenze di un alfabeto ($\sum^k$) $\rightarrow$ insieme delle stringhe di lunghezza $k$ con simboli da $\sum$.
-	Esempio:
-	
+- <span style="color:rgb(255, 0, 0)">Potenze di un alfabeto </span>($\sum^k$) $\rightarrow$ insieme delle stringhe di lunghezza $k$ con simboli da $\sum$.
+	Esempio $\sum = \{0,1\}$:
+	1. $\sum^0 = \{\epsilon\}$
+	2. $\sum^1 = \{0,1\}$
+	3. $\sum^2 = \{00,01,10,11\}$
+- $\sum^*$ $\rightarrow$ insieme di tutte le stringhe su $\sum$, quindi:
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
