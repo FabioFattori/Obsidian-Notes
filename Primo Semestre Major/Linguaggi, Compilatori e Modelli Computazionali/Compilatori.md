@@ -47,14 +47,14 @@ Un NFA accetta una stringa se, tra i tanti possibili, esiste un cammino che cond
 Questo comporta una costruzione a sottoinsiemi, un esempio importante di come un automa $B$ può essere costruito da un altro automa $A$.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/5.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/6.png]]
-### #HowTo Come costruire $\delta_D$ e $F_D$ dall'NFA
+### #HowTo Come Costruire $\delta_D$ E $F_D$ dall'NFA
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/7.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/8.png]]
 La Tabella illustrata sopra rappresenta la combinazione di input e stato di partenza, per esempio vediamo la prima riga:
 - Devo immaginare di partire dallo stato $q_0$ ed avere in input 0, dove posso andare nell'automa? 
 	Vado in $q_0$ oppure in $q_1$, quindi il sottoinsieme di $Q$ è $\{q_0,q_1\}$, quindi lo scrivo nella tabella.
 - Ora devo fare lo stesso, però con valore di input 1, ed il DFA permette transizione solo in $q_0$ quindi devo scrivere $\{q_0\}$.
-Fatto questo ripetuto per i singoli stati ottengo le prime 4 righe della tabella, ora devo fare tutte le unioni dei singoli stati, ed è molto semplice dato che, appunto, devo fare l'unione dei risultati dei singoli stati, esempio $\rightarrow$ $\{q_0,q_1\}$ con input 0, il risultato da mettere in tabella è l'unione di $q_0$ e $q_1$ con input 0
+Fatto questo ripetuto per i singoli stati ottengo le prime 4 righe della tabella, ora devo fare tutte le unioni dei singoli stati, ed è molto semplice dato che, appunto, devo fare l'unione dei risultati dei singoli stati, esempio $\rightarrow$ $\{q_0,q_1\}$ con input 0, il risultato da mettere in tabella è l'unione di $q_0$ e $q_1$ con input 0 $\{q_0,q_1\}\bigcup\emptyset$.
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
