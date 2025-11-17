@@ -47,7 +47,7 @@ Un NFA accetta una stringa se, tra i tanti possibili, esiste un cammino che cond
 Questo comporta una costruzione a sottoinsiemi, un esempio importante di come un automa $B$ può essere costruito da un altro automa $A$.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/5.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/6.png]]
-### #HowTo Come Costruire $\delta_D$ E $F_D$ dall'NFA
+### #HowTo Come Costruire $\delta_D$ E $F_D$ dall'NFA (Tabella delle transizioni)
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/7.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/8.png]]
 La Tabella illustrata sopra rappresenta la combinazione di input e stato di partenza, per esempio vediamo la prima riga:
@@ -61,7 +61,10 @@ Fatto questo ripetuto per i singoli stati ottengo le prime 4 righe della tabella
 > Un linguaggio $L$ è accettato da un DFA se e solo se $L$ è accettato da un NFA 
 
 Il numero di stati del DFA equivalente ad un NFA con $n$ stati è, nel caso peggiore (quindi non si può semplificare), pari a $2^n$.
-### FA 
+### FA con transizioni epsilon
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/10.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/11.png]]
+### 
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
