@@ -55,6 +55,7 @@ La Tabella illustrata sopra rappresenta la combinazione di input e stato di part
 	Vado in $q_0$ oppure in $q_1$, quindi il sottoinsieme di $Q$ è $\{q_0,q_1\}$, quindi lo scrivo nella tabella.
 - Ora devo fare lo stesso, però con valore di input 1, ed il DFA permette transizione solo in $q_0$ quindi devo scrivere $\{q_0\}$.
 Fatto questo ripetuto per i singoli stati ottengo le prime 4 righe della tabella, ora devo fare tutte le unioni dei singoli stati, ed è molto semplice dato che, appunto, devo fare l'unione dei risultati dei singoli stati, esempio $\rightarrow$ $\{q_0,q_1\}$ con input 0, il risultato da mettere in tabella è l'unione di $q_0$ e $q_1$ con input 0 $\{q_0,q_1\}\bigcup\emptyset$.
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/9.png]]
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
