@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Compilatori"
             }
-          },
-          {
-            "id": "656b7bb4abeedcc8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/Screenshot 2025-11-17 alle 18.23.46.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-11-17 alle 18.23.46"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c9af5f13722e0a4",
@@ -218,10 +205,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "656b7bb4abeedcc8",
+  "active": "dfb50fccb64b6cab",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/Screenshot 2025-11-17 alle 18.23.46.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/16.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/15.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/15.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/14.png",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
@@ -231,8 +220,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/11.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/10.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/9.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/8.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/7.png",
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/cartella senza nome",

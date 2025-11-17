@@ -85,6 +85,9 @@ Ogni stato del DFA ottenuto deve rappresentare un sottoinsieme di stati dell'NFA
 
 Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che riconosce linguaggi regolari.
 ### Operazioni Sui Linguaggi
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/15.png]]
+### Leggi Algebriche per I Linguaggi
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/16.png]]
 
 
 ---
