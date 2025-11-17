@@ -65,8 +65,15 @@ Il numero di stati del DFA equivalente ad un NFA con $n$ stati è, nel caso pegg
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/10.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/11.png]]
 ### Epsilon-chiusura
-> Per $\epsilon$-chiusura si intende una transizione che indipendentemente dall'input viene eseguita e non _consuma_ l'input fornito
+> Per $\epsilon$-chiusura si intende una transizione che indipendentemente dall'input viene eseguita e non _consuma_ l'input fornito.
 
+Definizione formale:
+>L’**epsilon-chiusura di uno stato q**, indicata come **ECLOSE(q)**, è l’insieme di tutti gli stati che sono raggiungibili da **q** seguendo **zero o più transizioni ε**.
+
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/12.png]]
+### Equivalenza di DFA e $\epsilon$-NFA
+
+---
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
