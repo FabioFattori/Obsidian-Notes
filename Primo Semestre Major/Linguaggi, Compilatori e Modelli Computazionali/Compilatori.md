@@ -15,7 +15,10 @@
 	1. $\sum^0 = \{\epsilon\}$
 	2. $\sum^1 = \{0,1\}$
 	3. $\sum^2 = \{00,01,10,11\}$
-- $\sum^*$ $\rightarrow$ insieme di tutte le stringhe su $\sum$, quindi:
+- $\sum^*$ $\rightarrow$ insieme di tutte le stringhe su $\sum$.
+	Quindi:$${\sum}^*={\sum}^0\bigcup{\sum}^1\bigcup{\sum}^2\bigcup...$$	e anche
+	$${\sum}^+={\sum}^1\bigcup{\sum}^2\bigcup{\sum}^3\bigcup…$$$${\sum}^* = {\sum}^+\bigcup{\sum}^0$$
+	
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
