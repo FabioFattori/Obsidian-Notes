@@ -72,6 +72,8 @@ Definizione formale:
 
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/12.png]]
 ### Equivalenza di DFA e $\epsilon$-NFA
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/13.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/14.png]]
 
 ---
 ## TODO Fino a Secondo Pdf a Pag 29
