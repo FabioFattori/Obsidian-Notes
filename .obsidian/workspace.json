@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Compilatori"
             }
-          },
-          {
-            "id": "4fba6d9e932c0bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Modalità d'esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modalità d'esame"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c9af5f13722e0a4",
@@ -220,8 +205,9 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "4fba6d9e932c0bf5",
+  "active": "c44a5515ec8411bf",
   "lastOpenFiles": [
+    "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/2.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/1.png",
@@ -229,7 +215,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/cartella senza nome",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
-    "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025/2.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025/1.png",
     "Primo Semestre Major/_imgs",
