@@ -47,6 +47,10 @@ Un NFA accetta una stringa se, tra i tanti possibili, esiste un cammino che cond
 Questo comporta una costruzione a sottoinsiemi, un esempio importante di come un automa $B$ può essere costruito da un altro automa $A$.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/5.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/6.png]]
+### #HowTo Come costruire $\delta_D$ e $F_D$ dall'NFA
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/7.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/8.png]]
+La Tabella illustrata sopra rappresenta la combinazione
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.

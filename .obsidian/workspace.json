@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DIOCANE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,10 +205,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "dfb50fccb64b6cab",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/8.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/7.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/6.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/5.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/4.png",
@@ -227,7 +229,6 @@
     "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png",
-    "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/20.png",
     "Code Interviews Concepts/HTML/268114229-7a218dd4-2575-41e8-b615-01f97c0a9bdb.mov",
     "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Code Interviews Concepts.zip",
