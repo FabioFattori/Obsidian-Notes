@@ -40,7 +40,11 @@ Un NFA accetta una stringa se, tra i tanti possibili, esiste un cammino che cond
 >Formalmente un NFA ha la stessa definizione di un DFA ma con la seguente differenza:
  $\delta$ è una funzione di transizione da $Qx\sum$ all'insieme dei  sottoinsiemi di $Q$, cioè: $(q,a)\rightarrow Q^{'}$ con $Q^{'}\subseteq Q$.
 
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/4.png]]
+### Equivalenza di DFA e NFA
+> Per Ogni NFA $N$ c'è un DFA $D$ tale che $L(D) = L(N)$ e viceversa.
 
+Questo comporta una costruzione a sottoinsiemi, un esempio importante di come un automa $B$ può essere costruito da un altro automa $A$.
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
