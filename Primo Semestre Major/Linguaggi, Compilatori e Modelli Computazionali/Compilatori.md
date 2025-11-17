@@ -37,6 +37,10 @@ Formalmente, il linguaggio accettato da un automa a stati finiti deterministico 
 ### Automi a Stati Finiti Nondeterministici (NFA)
 Un NFA accetta una stringa se, tra i tanti possibili, esiste un cammino che conduce ad uno stato finale.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/3.png]]
+>Formalmente un NFA ha la stessa definizione di un DFA ma con la seguente differenza:
+ $\delta$ è una funzione di transizione da $Qx\sum$ all'insieme dei  sottoinsiemi di $Q$, cioè: $(q,a)\rightarrow Q^{'}$ con $Q^{'}\subseteq Q$.
+
+
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
