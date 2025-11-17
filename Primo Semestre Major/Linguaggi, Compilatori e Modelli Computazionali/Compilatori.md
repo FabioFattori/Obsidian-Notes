@@ -24,7 +24,11 @@
 ### Automi a Stati Finiti Deterministici (DFA)
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/1.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/2.png]]
-
+Un automa a stati finiti (Finite Automatron, FA) acceta una stringa $w=a_1a_2...a_n$ se esiste un cammino nel diagramma di transizione che:
+1. inizia nello stato iniziale
+2. finisce in uno stato finale(di accettazione)
+3. ha una sequenza di etichette $a_1a_2...a_n$ 
+Esempio: l'automa di cui sopra accetta la stringa 01101.
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
