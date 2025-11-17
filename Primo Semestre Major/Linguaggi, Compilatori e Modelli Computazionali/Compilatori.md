@@ -18,9 +18,11 @@
 - $\sum^*$ $\rightarrow$ insieme di tutte le stringhe su $\sum$.
 	Quindi:$${\sum}^*={\sum}^0\bigcup{\sum}^1\bigcup{\sum}^2\bigcup...$$	e anche
 	$${\sum}^+={\sum}^1\bigcup{\sum}^2\bigcup{\sum}^3\bigcup…$$$${\sum}^* = {\sum}^+\bigcup{\sum}^0$$
-- Concatenazione $\rightarrow$ se $x$ e $y$ sono stringhe, allora $xy$ è la stringa ottenuta collocando una copia di $y$ subito dopo una copia di $x$.
+- <span style="color:rgb(255, 0, 0)">Concatenazione</span> $\rightarrow$ se $x$ e $y$ sono stringhe, allora $xy$ è la stringa ottenuta collocando una copia di $y$ subito dopo una copia di $x$.
 	Per ogni stringa vale la seguente $x\epsilon=\epsilon x=x$.
-- Linguaggi $\rightarrow$ se $\sum$ è un alfabeto, e $L \subseteq{\sum}^*$ allora $L$ è un linguagg 
+- <span style="color:rgb(255, 0, 0)">Linguaggi</span> $\rightarrow$ se $\sum$ è un alfabeto, e $L \subseteq{\sum}^*$ allora $L$ è un linguaggio. 
+### Automi a Stati Finiti Deterministici (DFA)
+
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
