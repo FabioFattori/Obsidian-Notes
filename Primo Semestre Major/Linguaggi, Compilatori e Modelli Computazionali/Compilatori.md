@@ -73,8 +73,15 @@ Definizione formale:
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/12.png]]
 ### Equivalenza Di DFA E $\epsilon$-NFA
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/13.png]]
+- La formula $Q_D$ rappresenta:
+	 Ogni stato del DFA è un insieme di stati dell’NFA chiuso sotto transizioni ε.  
+	 In altre parole, se sei in uno stato S, vuol dire che potresti trovarti in qualunque degli stati dentro S grazie alle ε-transizioni.
+- Lo stato iniziale del DFA ($q_D = ENCLOSE(q_0)$) è composto da:
+	
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/14.png]]
-#TODO Continua da qui e chiedi a chatgpt che cazzo vuol dire sta roba di sopra PORCODIO! e poi continua da pagina 33/34.
+Ogni stato del DFA ottenuto deve rappresentare un sottoinsieme di stati dell'NFA.
+
+ #TODO Continua da qui e chiedi a chatgpt che cazzo vuol dire sta roba di sopra PORCODIO! e poi continua da pagina 33/34.
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
