@@ -74,8 +74,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "0a701b24c16b6039",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025/1.png",
+    "Primo Semestre Major/_imgs",
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
@@ -209,7 +210,6 @@
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Code Interviews Concepts/HTML/Data Attributes.mhtml",
-    "Code Interviews Concepts/HTML/jpegmini_optimized.zip",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
