@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2bad7e758ca041",
+        "id": "d4e88ed15c9056b0",
         "type": "tabs",
-        "dimension": 50.919732441471574,
         "children": [
           {
-            "id": "049a02dbe62f2478",
+            "id": "9864d786bed852cf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Distributed System/Distributed Systems.md",
+                "file": "Primo Semestre Major/Modalità d'esame.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Distributed Systems"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b9e07206841002ef",
-        "type": "tabs",
-        "dimension": 49.080267558528426,
-        "children": [
-          {
-            "id": "668b73a34f0da1e3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "M2 – Roots of Distributed Systems. Computation in Space  Time"
+              "title": "Modalità d'esame"
             }
           }
         ]
@@ -207,11 +183,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "668b73a34f0da1e3",
+  "active": "9864d786bed852cf",
   "lastOpenFiles": [
+    "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
-    "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
+    "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/20.png",

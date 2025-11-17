@@ -228,10 +228,6 @@ Types of redundancy:
 ![[Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png]]
 
 ---
-## Roots of Distributed Systems Computation in Space & Time - Recupero Pdf M2 (17/11/2025)
-
-
----
 ## 10/10/2025 Replication & Consistency M3 Pdf Fino a Pag 34
 Why Replication of Data? 
 - increasing the reliability of systems
