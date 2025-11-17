@@ -65,6 +65,7 @@ Il numero di stati del DFA equivalente ad un NFA con $n$ stati è, nel caso pegg
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/10.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/11.png]]
 ### Epsilon-chiusura
+> Per $\epsilon$-chiusura si intende una transizione che indipendentemente dall'input viene eseguita e non _consuma_ l'input fornito
 
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
