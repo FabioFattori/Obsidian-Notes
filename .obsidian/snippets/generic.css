@@ -2,3 +2,8 @@ img{
 	max-height: 300px;
     min-height: 100px;
 }
+
+span{
+    height: min-content;
+    min-height: none !important;
+}

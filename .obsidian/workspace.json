@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9af5f13722e0a4",
+        "id": "ae9bf8fc7d332856",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb50fccb64b6cab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "1 - linguaggi regolari"
-            }
-          },
-          {
-            "id": "bec7b90e627b1dbc",
+            "id": "9439a456635be976",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Compilatori"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "bec7b90e627b1dbc",
+  "active": "9439a456635be976",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/18.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/17.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/16.png",
