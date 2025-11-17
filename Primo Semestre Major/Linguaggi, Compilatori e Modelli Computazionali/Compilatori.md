@@ -33,6 +33,7 @@ Esempio: l'automa di cui sopra accetta la stringa 01101.
 La funzione di transizione $\delta$ può essere estesa a $\hat{\delta}$ che opera su stati e stringhe invece che su stati e simboli.
 <span style="font-weight: bold">Base:</span> $\hat{\delta}(q,\epsilon)=q$ 
 <span style="font-weight: bold">Induzione:</span> $\hat{\delta}(q,xa)=\delta(\hat{\delta}(q,x),a)$ 
+Formalmente, il linguaggio accettato da un automa a stati finiti deterministico A e $$L(A)=\{w:\hat{\}$$
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
