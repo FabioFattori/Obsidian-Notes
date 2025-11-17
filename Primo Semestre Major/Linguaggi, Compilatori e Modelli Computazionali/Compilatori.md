@@ -84,13 +84,13 @@ Ogni stato del DFA ottenuto deve rappresentare un sottoinsieme di stati dell'NFA
 > Una _espressione regolare_ è un modo dichiarativo per descrivere un linguaggio regolare.
 
 Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che riconosce linguaggi regolari.
-### Operazioni Sui Linguaggi
+#### Operazioni Sui Linguaggi
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/15.png]]
-### Leggi Algebriche per I Linguaggi
+#### Leggi Algebriche per I Linguaggi
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/16.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/17.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/18.png]]
-
+### Costruire le espressioni regolari
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
