@@ -6,7 +6,7 @@
       {
         "id": "4e2bad7e758ca041",
         "type": "tabs",
-        "dimension": 47.40802675585284,
+        "dimension": 50.919732441471574,
         "children": [
           {
             "id": "049a02dbe62f2478",
@@ -29,7 +29,7 @@
       {
         "id": "b9e07206841002ef",
         "type": "tabs",
-        "dimension": 52.591973244147155,
+        "dimension": 49.080267558528426,
         "children": [
           {
             "id": "668b73a34f0da1e3",
@@ -207,11 +207,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "049a02dbe62f2478",
+  "active": "668b73a34f0da1e3",
   "lastOpenFiles": [
+    "Primo Semestre Major/Distributed System/Distributed Systems.md",
+    "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/21.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/20.png",
     "Primo Semestre Major/Distributed System/imgs/Recupero_6_11_2025/19.png",
@@ -231,8 +232,6 @@
     "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Code Interviews Concepts/HTML/Data Attributes.mhtml",
     "Code Interviews Concepts/HTML/jpegmini_optimized.zip",
-    "Code Interviews Concepts/HTML/Non confermato 996149.crdownload",
-    "Code Interviews Concepts/HTML",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
