@@ -3,7 +3,8 @@ img:not(.cm-widgetBuffer){
     min-height: 100px;
 }
 
-.internal-embed .media-embed .image-embed .is-loaded {
-    display: flex !important;
-    justify-content: center !important; 
+.internal-embed.media-embed.image-embed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -10,6 +10,7 @@
           {
             "id": "7fab6edfb587c8ed",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Compilatori"
+            }
+          }
+        ]
+      },
+      {
+        "id": "52428ed474ce3ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0ac0eb99186b8db",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "1 - linguaggi regolari"
             }
           }
         ]
@@ -183,7 +205,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "7fab6edfb587c8ed",
+  "active": "d0ac0eb99186b8db",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
