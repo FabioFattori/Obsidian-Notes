@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9bf8fc7d332856",
+        "id": "5273cc821683b757",
         "type": "tabs",
         "children": [
           {
-            "id": "9439a456635be976",
+            "id": "863e9babe828eaee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,7 +183,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "9439a456635be976",
+  "active": "863e9babe828eaee",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
