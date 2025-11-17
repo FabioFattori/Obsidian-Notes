@@ -7,7 +7,12 @@
 	2. $\sum=\{a,b,c,...,z\}$ insieme di tutte le lettere minuscole.
 - Stringa $\rightarrow$ Sequenza finita di simboli da un alfabeto
 	0011001 è una stringa dell'alfabeto di $\sum=\{0,1\}$.
-- 
+- Stringa vuota $\rightarrow$ la stringa con zero occorrenze di simboli da $\sum$, essa è denominata $\epsilon$.
+- Lunghezza di una stringa $\rightarrow$ $|w|$ denota la lenght della stringa $w$.
+	$|0011| = 4,|\epsilon| = 0$
+- Potenze di un alfabeto ($\sum^k$) $\rightarrow$ insieme delle stringhe di lunghezza $k$ con simboli da $\sum$.
+	Esempio:
+	
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
