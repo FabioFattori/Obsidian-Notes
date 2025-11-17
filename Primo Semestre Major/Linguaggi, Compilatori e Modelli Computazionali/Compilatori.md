@@ -34,7 +34,8 @@ La funzione di transizione $\delta$ può essere estesa a $\hat{\delta}$ che oper
 <span style="font-weight: bold">Base:</span> $\hat{\delta}(q,\epsilon)=q$ 
 <span style="font-weight: bold">Induzione:</span> $\hat{\delta}(q,xa)=\delta(\hat{\delta}(q,x),a)$ 
 Formalmente, il linguaggio accettato da un automa a stati finiti deterministico A e $$L(A)=\{w:\hat{\delta}(q_0,w)\in F\}$$I linguaggi accettati da automi a stati finiti sono detti _linguaggi regolari_.
-### 
+### Automi a stati finiti nondeterministici (NFA)
+
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
