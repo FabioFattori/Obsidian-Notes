@@ -1,5 +1,9 @@
 img:not(.cm-widgetBuffer){
 	max-height: 300px;
     min-height: 100px;
-    align-content: center;
+}
+
+.internal-embed .media-embed .image-embed .is-loaded {
+    display: flex !important;
+    justify-content: center !important; 
 }
