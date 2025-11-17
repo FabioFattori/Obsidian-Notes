@@ -22,6 +22,8 @@
 	Per ogni stringa vale la seguente $x\epsilon=\epsilon x=x$.
 - <span style="color:rgb(255, 0, 0)">Linguaggi</span> $\rightarrow$ se $\sum$ è un alfabeto, e $L \subseteq{\sum}^*$ allora $L$ è un linguaggio. 
 ### Automi a Stati Finiti Deterministici (DFA)
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/1.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/2.png]]
 
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
