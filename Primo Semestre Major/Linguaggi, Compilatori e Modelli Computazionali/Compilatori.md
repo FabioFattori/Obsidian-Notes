@@ -74,6 +74,7 @@ Definizione formale:
 ### Equivalenza di DFA e $\epsilon$-NFA
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/13.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/14.png]]
+#TODO Continua da qui e chiedi a chatgpt che cazzo vuol dire sta roba di sopra PORCODIO! e poi continua da pagina 33/34.
 
 ---
 ## TODO Fino a Secondo Pdf a Pag 29
