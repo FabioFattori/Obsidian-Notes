@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#DIOCANE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "9864d786bed852cf",
+  "active": "0a701b24c16b6039",
   "lastOpenFiles": [
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
