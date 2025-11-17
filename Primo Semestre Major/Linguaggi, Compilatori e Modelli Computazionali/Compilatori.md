@@ -1,4 +1,13 @@
 # Compilatori
+## Linguaggi Regolari
+### Concetti di base
+- Alfabeto $\rightarrow$ Insieme finito e non vuoto di simboli
+	Esempi:
+	1. $\sum=\{0,1\}$ alfabeto binario.
+	2. $\sum=\{a,b,c,...,z\}$ insieme di tutte le lettere minuscole.
+- Stringa $\rightarrow$ Sequenza finita di simboli da un alfabeto
+	0011001 è una stringa dell'alfabeto di $\sum=\{0,1\}$.
+- 
 ## TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
 Un CFL (Context-Free Languages) è inerentemente ambiguo se tutte le grammatiche per $L$ sono ambigue.
