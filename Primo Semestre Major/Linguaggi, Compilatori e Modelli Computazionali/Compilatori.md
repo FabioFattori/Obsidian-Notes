@@ -109,13 +109,14 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 - <span style="color:rgb(255, 0, 0)">Pumping Lemma</span> $\rightarrow$ 
 	>Dato un linguaggio, se usando il pumping lemma si ottiene una <span style="color:rgb(255, 0, 0)">contraddizione</span> allora esso <span style="color:rgb(255, 0, 0)">non</span> è regolare.
 	>Ogni linguaggio regolare soddisfa il pumping lemma.
-- Proprietà di Chiusura $\rightarrow$ 
+- <span style="color:rgb(255, 0, 0)">Proprietà di Chiusura</span> $\rightarrow$ 
 	  Come costruire automi da componenti usando delle operazioni e per quali operazioni è possibile farlo.
 	  Ad esempio dati $L$ e $M$ possiamo costruire un automa per $L\bigcap{M}$.
-- Proprietà di Decisione $\rightarrow$ 
+- <span style="color:rgb(255, 0, 0)">Proprietà di Decisione</span> $\rightarrow$ 
 	  Analisi computazionale di automi, ad esempio quando due automi sono equivalenti.
-- Tecniche di Minimizzazione $\rightarrow$ 
+- <span style="color:rgb(255, 0, 0)">Tecniche di Minimizzazione</span> $\rightarrow$ 
 	  Possiamo risparmiare costruendo automi più piccoli.
+#TODO continua da pagina 52.
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29

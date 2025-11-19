@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +204,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "7fab6edfb587c8ed",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/10.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/9.png",
