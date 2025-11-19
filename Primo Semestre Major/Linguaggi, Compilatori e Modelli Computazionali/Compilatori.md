@@ -92,9 +92,16 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 #### Costruire Le Espressioni Regolari
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/19.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/20.png]]
-#### Equivalenza di FA e espressioni regolari
-
+#### Equivalenza Di FA E Espressioni Regolari
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/1.png]]
 ### Da DFA a Espressioni Regolari
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/2.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/3.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/4.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/5.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/6.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/7.png]]
+### Da espressioni regolari a $\epsilon$-NFA
 
 
 ---
