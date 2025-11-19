@@ -7,8 +7,16 @@ For all the duration of the game a leaderboard is shown.
 ### Leggend
 - \* : to consider further, can be different from the deployed version of the software. 
 ### Key Functionalities 
-- **Lobby system**: Players can create or join a game room via a shareable link.
+- **Private matches**: Players can create or join a game room via a shareable link.
 - **Quick matches**: Players can join a random match with unknown players.
 - **⁠Real-time game flow**: The server manages the game state and game flow of each session.
-- **Game state synchronization**: All clients maintain a consistent view of the current phase and player states.
-- **Fault tolerance**: If a player disconnects, the server keeps their state and allows reconnection.
+- **Game state synchronization**: All clients maintain a consistent view of the current state of the drawing board.
+- **Fault tolerance**: If a player disconnects, the server keeps their state and allows reconnection to the game.
+- **Global Leaderboard**: Global game leaderboard which shows who wins the most of matches (no private matches).
+## Learning goals
+- **Distributed coordination**: Managing consistent shared state across multiple backend instances.
+- **Real-time communication**: Using WebSockets for low-latency client-server messaging.
+- **Scalability & fault tolerance**: Scaling backend services across multiple nodes (via Kubernetes) \[].
+- **Containerization & orchestration**: Using Docker and Kubernetes for modular deployment.
+- **Data Consistency & synchronization**: Handling shared game state updates atomically.
+- **Observability**: Monitoring distributed system metrics (CPU, latency, player count, message flow).
