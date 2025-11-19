@@ -92,7 +92,10 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 #### Costruire Le Espressioni Regolari
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/19.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025/20.png]]
-#TODO continua da pagina 41 del primo pdf.
+#### Equivalenza di FA e espressioni regolari
+
+### Da DFA a Espressioni Regolari
+
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
