@@ -14,9 +14,25 @@ For all the duration of the game a leaderboard is shown.
 - **Fault tolerance**: If a player disconnects, the server keeps their state and allows reconnection to the game.
 - **Global Leaderboard**: Global game leaderboard which shows who wins the most of matches (no private matches).
 ## Learning goals
-- **Distributed coordination**: Managing consistent shared state across multiple backend instances.
 - **Real-time communication**: Using WebSockets for low-latency client-server messaging.
-- **Scalability & fault tolerance**: Scaling backend services across multiple nodes (via Kubernetes) \[].
+- **Scalability & fault tolerance**: Scaling backend services across multiple nodes (via Kubernetes).
 - **Containerization & orchestration**: Using Docker and Kubernetes for modular deployment.
 - **Data Consistency & synchronization**: Handling shared game state updates atomically.
-- **Observability**: Monitoring distributed system metrics (CPU, latency, player count, message flow).
+## Technology stack
+#### Backend
+
+- **.NET Web Api (C#)**: REST + WebSocket support for real-time interactions.
+- **Redis**: Pub/Sub broker for inter-service communication and message propagation between instances, and fast lookup for login session, game leaderboard and lobby mapping (which url need to be used by the websocket for the game visualizzazi).
+- 
+
+###### Frontend
+
+- **Vue 3 + Vite**: Responsive web interface with state management (Pinia).
+- **Socket.IO** **Client**: Handles real-time updates and bidirectional events with the backend.
+
+##### Infrastructure
+
+- **Docker & Docker Compose**: Local containerized setup.
+- **Kubernetes**: Distributed deployment and automatic scaling.
+- **Prometheus + Grafana**: Metrics and performance visualization.
+- **NGINX / Traefik**: Reverse proxy and load balancer for WebSocket traffic.
