@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Modalità d'esame.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modalità d'esame"
+              "title": "Notes"
             }
           }
         ],
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -203,6 +202,8 @@
   },
   "active": "044beb5f3302444e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Modalità d'esame.md",
+    "Notes.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/10.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/9.png",
@@ -218,7 +219,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/cartella senza nome",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
-    "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Primo Semestre Major/_imgs",
@@ -237,7 +237,6 @@
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "Senza nome.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
     "Tesi Shit/Senza nome.md",
