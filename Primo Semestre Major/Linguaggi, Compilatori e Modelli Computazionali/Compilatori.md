@@ -101,11 +101,11 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/5.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/6.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/7.png]]
-### Da espressioni regolari a $\epsilon$-NFA
+### Da Espressioni Regolari a $\epsilon$-NFA
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/8.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/9.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/10.png]]
-### Proprietà dei linguaggi regolari
+### Proprietà Dei Linguaggi Regolari
 - <span style="color:rgb(255, 0, 0)">Pumping Lemma</span> $\rightarrow$ 
 	>Dato un linguaggio, se usando il pumping lemma si ottiene una <span style="color:rgb(255, 0, 0)">contraddizione</span> allora esso <span style="color:rgb(255, 0, 0)">non</span> è regolare.
 	>Ogni linguaggio regolare soddisfa il pumping lemma.
