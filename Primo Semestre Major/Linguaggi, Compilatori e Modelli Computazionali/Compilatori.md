@@ -102,7 +102,14 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/6.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/7.png]]
 ### Da espressioni regolari a $\epsilon$-NFA
-
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/8.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/9.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/10.png]]
+### Proprietà dei linguaggi regolari
+- Pumping Lemma $\rightarrow$ Dato un linguaggio, se usando il pumping lemma si ottiene una c
+- Proprietà di Chiusura $\rightarrow$
+- Proprietà di Decisione $\rightarrow$
+- Tecniche di Minimizzazione $\rightarrow$
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
