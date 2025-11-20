@@ -170,7 +170,6 @@ Esempio:
 $$\{a^n b^nc^md^m: n\geq 1,m\geq 1\} \cup \{a^n b^mc^md^m: n\geq 1,m\geq 1\}$$
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/1.png]]
 #### Automi a Pila (Push Down Automaton)
-
 > Da immaginare lo Stack sdraiato da sinistra a destra(sinistra next pop).
 
 Un automa a pila PDA è in pratica un automa a stati finiti ($\epsilon$-NFA che è la versione più estesa deli automi a stati finiti) con una pila (struttura dati).
