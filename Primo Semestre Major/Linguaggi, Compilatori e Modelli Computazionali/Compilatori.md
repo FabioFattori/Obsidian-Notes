@@ -146,11 +146,14 @@ $A$ ha dei problemi di memoria:
 3. Due descrizioni definiscono lo stesso linguaggio?
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/17.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/18.png]]
-##### Equivalenza e Minimizzazione di Automi
+##### Equivalenza E Minimizzazione Di Automi
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/19.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/20.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/21.png]]
-
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/22.png]]
+##### Teorema
+> Se $p$ e $q$ non sono distinti dall'algoritmo, allora $p\equiv q$
+##### Testare l'equivalenza di lin
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
