@@ -135,7 +135,12 @@ $A$ ha dei problemi di memoria:
 > ogni $w\in{L}:|w|\geq{n}$ è scomponibile in tre stringhe $w=xyz$ tali che:
 > 	1. $y \neq \epsilon$   
 > 	2. $|xy|\leq{n}$
-> 	3. $k\geq{0},xy^kz\in{L}$ 
+> 	3. $\forall k\geq{0},xy^kz\in{L}$ 
+
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/14.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/15.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/16.png]]
+
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
