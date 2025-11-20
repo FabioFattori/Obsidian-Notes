@@ -30,11 +30,12 @@ For all the duration of the game a leaderboard is shown.
 - Postgres: DB for users and matches statistics data.
 #### Frontend
 - **React**: Responsive web interface.
+- **TailwindCSS and FlowBite Component Library**: css library.
 - **Socket.IO** **Client**: Handles real-time updates and bidirectional events with the backend.
 - **Konva**: JS library to make the canvas management easier.
 #### Infrastructure
 - **Docker & Docker Compose**: Local containerized setup.
 - **Kubernetes**: Distributed deployment and automatic scaling.
-- **NGINX / Traefik**: Reverse proxy and load balancer for WebSocket traffic.
+- **NGINX**: Reverse proxy and load balancer for WebSocket traffic.
 ## Team Members 
-- Fabio Fattori - \[fabiofattoriw@gmail\]
+- Fabio Fattori - \[fabio.fattori3@studio.unibo.it\]
