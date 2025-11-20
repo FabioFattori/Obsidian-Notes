@@ -127,7 +127,12 @@ $A$ ha dei problemi di memoria:
 ##### Proprietà Di Pompaggio Dei DFA
 - Il pumping lemma e basato su **questa idea del ciclo** e vale per **qualsiasi** linguaggio regolare.
 - In particolare sulla seguente proprietà di pompaggio dei linguaggi riconosciuti da DFA.
-- 
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/13.png]]
+##### Teorema
+> Il Pumping Lemma per Linguaggi Regolari.
+> Sia $L$ un linguaggio regolare.
+> Allora $\exists n \geq 1$ che soddisfa:
+> ogni $w\in{L}:|w|\geq{n}$ è com  
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
