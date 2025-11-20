@@ -132,7 +132,10 @@ $A$ ha dei problemi di memoria:
 > Il Pumping Lemma per Linguaggi Regolari.
 > Sia $L$ un linguaggio regolare.
 > Allora $\exists n \geq 1$ che soddisfa:
-> ogni $w\in{L}:|w|\geq{n}$ è com  
+> ogni $w\in{L}:|w|\geq{n}$ è scomponibile in tre stringhe $w=xyz$ tali che:
+> 	1. $y \neq \epsilon$   
+> 	2. $|xy|\leq{n}$
+> 	3. $k\geq{0},xy^kz\in{L}$ 
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
