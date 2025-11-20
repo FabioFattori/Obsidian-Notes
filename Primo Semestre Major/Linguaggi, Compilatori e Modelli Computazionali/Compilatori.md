@@ -140,7 +140,16 @@ $A$ ha dei problemi di memoria:
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/14.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/15.png]]
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/16.png]]
-
+#### Proprietà Di Decisione
+1. E' $L = \emptyset$?
+2. E' $w\in L$?
+3. Due descrizioni definiscono lo stesso linguaggio?
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/17.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/18.png]]
+##### Equivalenza e Minimizzazione di Automi
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/19.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/20.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/21.png]]
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
