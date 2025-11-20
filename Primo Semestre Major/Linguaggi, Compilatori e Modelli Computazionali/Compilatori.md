@@ -122,7 +122,12 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 - $n \rightarrow$ il numero degli stati di $A$
 Se $A$ riceve in input una stringa di lunghezza $\geq n$ allora lungo il cammino di riconoscimento incontra due volte uno stesso stato.
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/11.png]]
-$A$ ha dei problemi di memoria
+$A$ ha dei problemi di memoria:
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/12.png]]
+##### Proprietà Di Pompaggio Dei DFA
+- Il pumping lemma e basato su **questa idea del ciclo** e vale per **qualsiasi** linguaggio regolare.
+- In particolare sulla seguente proprietà di pompaggio dei linguaggi riconosciuti da DFA.
+- 
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
