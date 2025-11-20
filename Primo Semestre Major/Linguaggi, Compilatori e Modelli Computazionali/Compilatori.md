@@ -153,7 +153,15 @@ $A$ ha dei problemi di memoria:
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/22.png]]
 ##### Teorema
 > Se $p$ e $q$ non sono distinti dall'algoritmo, allora $p\equiv q$
-##### Testare l'equivalenza di lin
+##### Testare L'equivalenza Di Linguaggi Regolari
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/23.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/24.png]]
+##### Minimizzazione Di DFA
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/25.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/26.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/27.png]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/28.png]]
+
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
 ### 14/10/2025 Ambiguità Inerente Fino a Pag 51
