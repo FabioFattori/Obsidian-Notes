@@ -117,7 +117,12 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 - <span style="color:rgb(255, 0, 0)">Tecniche di Minimizzazione</span> $\rightarrow$ 
 	  Possiamo risparmiare costruendo automi più piccoli.
 #### Pumping Lemma
-- $A \rig$
+- $L = \{0^h1^h:h\geq0\} \rightarrow$ linguaggio che supponiamo per assurdo 
+- $A \rightarrow$ un qualche DFA
+- $n \rightarrow$ il numero degli stati di $A$
+Se $A$ riceve in input una stringa di lunghezza $\geq n$ allora lungo il cammino di riconoscimento incontra due volte uno stesso stato.
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/11.png]]
+$A$ ha dei problemi di memoria
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
