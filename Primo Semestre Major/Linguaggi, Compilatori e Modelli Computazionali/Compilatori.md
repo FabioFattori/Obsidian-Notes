@@ -116,7 +116,8 @@ Un FA (che sia NFA oppure DFA) è un metodo per costruire una macchina che ricon
 	  Analisi computazionale di automi, ad esempio quando due automi sono equivalenti.
 - <span style="color:rgb(255, 0, 0)">Tecniche di Minimizzazione</span> $\rightarrow$ 
 	  Possiamo risparmiare costruendo automi più piccoli.
-#TODO continua da pagina 52.
+#### Pumping Lemma
+- $A \rig$
 
 ---
 ## #TODO Fino a Secondo Pdf a Pag 29
