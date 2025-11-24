@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "701ac2e5f78ea38b",
+        "id": "5a988d85b3702379",
         "type": "tabs",
         "children": [
           {
-            "id": "7fab6edfb587c8ed",
+            "id": "f8e2f6058fa0ab36",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Compilatori"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -184,10 +178,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "7fab6edfb587c8ed",
+  "active": "f8e2f6058fa0ab36",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/25.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/25.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/28.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/27.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/26.png",

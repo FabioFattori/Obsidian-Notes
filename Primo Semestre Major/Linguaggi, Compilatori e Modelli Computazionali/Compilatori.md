@@ -536,5 +536,5 @@ $\gamma$ $\rightarrow$ qualcosa presente nello stack
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/31.png]]
 
 ---
-# #TODO Code generation pdf, recupero fino a pagina 87
+# #TODO Code Generation Pdf, Recupero Fino a Pagina 87
 
