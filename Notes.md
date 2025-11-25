@@ -1,9 +1,9 @@
 # Project Proposal: DrawGheter
 
 ## Vision
-DrawGheter is a multiplayer party game designed for small groups of around six players (*). Players first join a lobby, and one player at a time is randomly selected to draw on a shared board while the others try to guess what is being drawn.
+DrawGheter is a multiplayer party game designed for small groups of around six players (\*). Players first join a lobby, and one player at a time is randomly selected to draw on a shared board while the others try to guess what is being drawn.
 
-Each painter has approximately one and a half minutes to draw (*). During this time, the other players submit their predictions. When the timer expires, the drawing role passes to the next player.
+Each painter has approximately one and a half minutes to draw (\*). During this time, the other players submit their predictions. When the timer expires, the drawing role passes to the next player.
 
 Players who guess the correct word earn points based on a multiplier that starts at x4 and decreases each time someone guesses correctly, down to a minimum of x1. A leaderboard is displayed throughout the match.
 
