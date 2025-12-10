@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -170,16 +170,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "markdown-importer:Apri importazione Markdown": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "e39a0c3af3cbe02a",
