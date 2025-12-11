@@ -58,10 +58,12 @@ Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l�
 ---
 ### PDF Da Recuperare
 Fino ad approccio parametrici (fine):
-- 1_ML
 - 2_ML
 - 3_ML fino a pagina 20 - sembra aver skippato roba, o comunque aver sorvolato cose
 --- 
+## Recupero da pagina 2 del secondo PDF
+## Dati e Pattern
+#TODO 
 #### Approcci Non Parametrici E Stima Della Densità
 - Curse of Dimensionality 
 ##### Stima Della Densità

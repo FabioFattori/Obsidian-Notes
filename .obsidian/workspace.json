@@ -189,31 +189,31 @@
     "type": "floating",
     "children": [
       {
-        "id": "077e9881cd003d38",
+        "id": "c1a8945594135b1e",
         "type": "window",
         "children": [
           {
-            "id": "d3d7b0bc92376b10",
+            "id": "fd1b5cb08f17e13b",
             "type": "tabs",
             "children": [
               {
-                "id": "5695116526950949",
+                "id": "00ead7b5105db0de",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "1_ML_Introduzione"
+                  "title": "2_ML_Fondamenti"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 662,
-        "y": 52,
+        "x": 685,
+        "y": 51,
         "width": 1240,
         "height": 1008,
         "maximize": true,
@@ -223,8 +223,9 @@
   },
   "active": "9241adf46aabbae6",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
+    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Random Notes/Distributed project proposal.md",
     "Random Notes",
     "Primo Semestre Major/Modalità d'esame.md",
