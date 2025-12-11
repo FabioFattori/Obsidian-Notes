@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "701ac2e5f78ea38b",
+        "id": "92f648ffce581dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "e39a0c3af3cbe02a",
+            "id": "9241adf46aabbae6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Machine Learning"
             }
@@ -44,7 +46,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -166,28 +168,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "markdown-importer:Apri importazione Markdown": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e39a0c3af3cbe02a",
+  "floating": {
+    "id": "7dac491a492d662e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "077e9881cd003d38",
+        "type": "window",
+        "children": [
+          {
+            "id": "d3d7b0bc92376b10",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5695116526950949",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1_ML_Introduzione"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 662,
+        "y": 52,
+        "width": 1240,
+        "height": 1008,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9241adf46aabbae6",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
+    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
     "Random Notes",
     "Primo Semestre Major/Modalità d'esame.md",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/25.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/28.png",
@@ -209,7 +249,6 @@
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
     "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
-    "Code Interviews Concepts/HTML/268114229-7a218dd4-2575-41e8-b615-01f97c0a9bdb.mov",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",

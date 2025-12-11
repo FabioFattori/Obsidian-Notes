@@ -1,5 +1,5 @@
 # Machine Learning
-## 17/09/2025 - Primo Pdf Fino a Pag 19
+## 17/09/2025
 Machine Learning => ragionamento di tipo induttivo dato che parte da degli esempi (dati) per portare un risultato
 ### Ragionamenti
 - Deduttivo: 
@@ -27,7 +27,7 @@ BIG-bench (Beyond the Imitation Game) è un benchmark recente introdotto da rice
 Include più di 200 task che gli umani non hanno problemi a risolvere ma dove l’AI non raggiunge (ancora) prestazioni comparabili.
 
 ----
-## 10/10/2025 - Recupero Fino a Pagina 27
+## 10/10/2025
 ### Stagioni AI
 - 1940 - 1974  Nascita e Anni D'oro
 	- primi calcolatori elettronici
