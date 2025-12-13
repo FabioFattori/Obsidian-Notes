@@ -9,3 +9,5 @@
 	https://www.unieuro.it/online/Notebook/Laptop-15-fd0069nl-pidHEW15FD0069NL
 
 ## Stampante
+circa 100 euro
+- 
