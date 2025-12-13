@@ -212,8 +212,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 685,
-        "y": 51,
+        "x": 738,
+        "y": 175,
         "width": 1240,
         "height": 1008,
         "maximize": true,
@@ -221,7 +221,7 @@
       }
     ]
   },
-  "active": "00ead7b5105db0de",
+  "active": "9241adf46aabbae6",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
@@ -249,7 +249,6 @@
     "Primo Semestre Major/_imgs",
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
     "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
-    "Primo Semestre Major/Distributed System/slides/M1 – Dependability in Distributed Systems.pdf",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",

@@ -61,27 +61,35 @@ Fino ad approccio parametrici (fine):
 - 2_ML
 - 3_ML fino a pagina 20 - sembra aver skippato roba, o comunque aver sorvolato cose
 --- 
-## Recupero da pagina 2 del secondo PDF
-## Dati e Pattern
-#TODO 
-#### Approcci Non Parametrici E Stima Della Densità
+## Recupero Da Pagina 2 Del Secondo PDF
+## Dati E Pattern
+>_Data-point_ => Campione multi-dimensionale nel dominio di interesse (singolo dato del dominio).
+>Useremo come sinonimo di Data-point il termine _Pattern_
+
+Quindi quando si parla di Pattern Recognition si intende la disciplina che studia il riconoscimento dei pattern.
+### Tipi di pattern
+- Numerici:
+	Valori associati a caratteristiche misurabili o conteggi
+
+---
+### Approcci Non Parametrici E Stima Della Densità
 - Curse of Dimensionality 
-##### Stima Della Densità
+#### Stima Della Densità
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/5.png]]
 Da ricordare l'ultima formula.
 Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
-###### Parzen Window
+##### Parzen Window
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/6.png]]
-#### Classificatore Nearest Neighbor (NN)
+### Classificatore Nearest Neighbor (NN)
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/7.png]]
-#### k-Nearest-Neighbor (k-NN)
+### k-Nearest-Neighbor (k-NN)
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/8.png]]
 continua fino a pag 33.
-#### NN E Prototipi Di Classi
+### NN E Prototipi Di Classi
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/9.png]]
 Sta roba funziona bene o male in base ai dai che abbiamo, è una semplificazione stretta, perchè si da per scontato che i gruppi di dati siano fatti in maniera circolare, cosa che non corrisponde molto spesso alla realtà.
-#### METRIC LEARNING NON SI FA
-### Similarità Coseno E Distanza Coseno
+### METRIC LEARNING NON SI FA
+## Similarità Coseno E Distanza Coseno
 Variante della distanza euclidea.
 ![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/10.png]]
 La distanza coseno non è una metrica dato che non rispetta la diseguaglianza triangolare.
