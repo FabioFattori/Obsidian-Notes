@@ -228,7 +228,7 @@
         ],
         "direction": "vertical",
         "x": 738,
-        "y": 175,
+        "y": 72,
         "width": 1240,
         "height": 1008,
         "maximize": true,
@@ -236,7 +236,7 @@
       }
     ]
   },
-  "active": "3008fdf3ade89a54",
+  "active": "00ead7b5105db0de",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
