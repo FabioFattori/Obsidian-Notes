@@ -1,6 +1,5 @@
 ## Software
-2000 € con statistiche
-
+2000 € 
 ## Portatile
 - <a href="https://www.unieuro.it/online/Notebook/15-fc0082nl-pidHEW15FC0082NL">Prima soluzione</a> => circa 450 € (con iva)
 - <a href="https://www.unieuro.it/online/Notebook/Laptop-15-fd0069nl-pidHEW15FD0069NL">Seconda soluzione</a> => circa 250 € (con iva)
