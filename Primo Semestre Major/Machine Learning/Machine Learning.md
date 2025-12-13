@@ -76,7 +76,7 @@ Quindi quando si parla di Pattern Recognition si intende la disciplina che studi
 	valori associati a caratteristiche qualitative e alla presenza/assenza di una caratteristica (valori boleani  per dire se c'è o no quella determinata caratteristica).
 ### Sequenze e altri dati strutturati
 - Sequenze:
-	pattern sequenziali con re
+	pattern sequenziali con relazioni spaziali o temporali.
 
 ---
 ### Approcci Non Parametrici E Stima Della Densità
