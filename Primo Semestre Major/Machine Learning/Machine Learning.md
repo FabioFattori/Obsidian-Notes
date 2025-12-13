@@ -67,9 +67,16 @@ Fino ad approccio parametrici (fine):
 >Useremo come sinonimo di Data-point il termine _Pattern_
 
 Quindi quando si parla di Pattern Recognition si intende la disciplina che studia il riconoscimento dei pattern.
-### Tipi di pattern
+### Tipi Di Pattern
 - Numerici:
-	Valori associati a caratteristiche misurabili o conteggi
+	Valori associati a caratteristiche misurabili o conteggi.
+	Sono soggetti ad ordinamenti e sono naturalmente rappresentabili come vettori numerici nello spazio multidimensionale.
+	_L'estrazione di caratteristiche_ da segnali, quali immagini e suoni, produce vettori numerici detti **feature vectors**.
+- Categorici:
+	valori associati a caratteristiche qualitative e alla presenza/assenza di una caratteristica (valori boleani  per dire se c'è o no quella determinata caratteristica).
+### Sequenze e altri dati strutturati
+- Sequenze:
+	pattern sequenziali con re
 
 ---
 ### Approcci Non Parametrici E Stima Della Densità
