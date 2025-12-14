@@ -18,8 +18,13 @@ $$y_i(w*x_i+b)-1 \geq 0\\\ per \\\ i=1...n$$
 la quale richiede:
 - che tutti i dati siano dal lato corretto dell'iperpiano
 - la distanza dall'iperpiano sia $\geq 1$ 
-Questo per ogni dato, quindi sono $n$ vincoli.
+Questo per ogni dato, quindi per questa modalità sono $n$ vincoli.
 
 Soft Margin
 Vengono introdotte delle slack variables per consentire violazioni:
-$$$$
+$$y_i(w*x_i+b) \geq 1 - \xi_i \\\ per \\\ i=1…n$$
+Questo vincolo permette:
+- $\xi_i = 0$ punto correttamente classificato e fuori dal margine
+- $0<\xi_i\leq1$ punto dentro al margine
+- $\xi_i>1$ punto misclassificato
+Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono aggiunti altri $n$ vincoli di non negatività per le slack variables, per un totale di $2n$ vincoli.
