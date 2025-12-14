@@ -8,6 +8,7 @@ Per la suddivisione si tende ad usare una distribuzione standard come segue:
 -  Training set 60-70%
 -  Validation set 15-20%
 -  Test set 15-20%
+
 Esempio 70%|15%|15%.
 Ma può essere messa in atto quando si ha un dataset di medi/grandi dimensioni, se invece si ha a disposizione pochi dati si può decidere di non avere un validation set a favore dell'applicazione della k-fold  cross validation per ottimizzare gli iper parametri.
 ### Nella Formulazione dell’SVM Lineare la Funzione Obiettivo Richiede Di Massimizzare Il Margine. L’ottimizzazione È Però Vincolata; in Cosa Consistono I Vicoli? Quanti Sono?
@@ -27,4 +28,6 @@ Questo vincolo permette:
 - $\xi_i = 0$ punto correttamente classificato e fuori dal margine
 - $0<\xi_i\leq1$ punto dentro al margine
 - $\xi_i>1$ punto misclassificato
+
 Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono aggiunti altri $n$ vincoli di non negatività per le slack variables, per un totale di $2n$ vincoli.
+#### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means

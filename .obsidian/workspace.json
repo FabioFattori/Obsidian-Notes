@@ -198,15 +198,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "0789381cc0f0e096",
+                "id": "9d7dd5831589e692",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "4_ML_Classificazione"
+                  "title": "6_ML_Clustering"
                 }
               }
             ]
@@ -222,11 +222,13 @@
       }
     ]
   },
-  "active": "0789381cc0f0e096",
+  "active": "60e326123be06bc1",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
-    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
+    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
+    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
@@ -252,8 +254,6 @@
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
-    "Primo Semestre Major/_imgs",
-    "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
