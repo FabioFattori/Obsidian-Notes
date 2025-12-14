@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
-          },
-          {
-            "id": "0789381cc0f0e096",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4_ML_Classificazione"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,15 +198,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "00ead7b5105db0de",
+                "id": "0789381cc0f0e096",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "2_ML_Fondamenti"
+                  "title": "4_ML_Classificazione"
                 }
               }
             ]
@@ -235,8 +222,9 @@
       }
     ]
   },
-  "active": "0789381cc0f0e096",
+  "active": "60e326123be06bc1",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
@@ -265,7 +253,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Primo Semestre Major/_imgs",
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
-    "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
