@@ -24,18 +24,19 @@
             }
           },
           {
-            "id": "35d973ff0344dc1b",
+            "id": "0789381cc0f0e096",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf"
+                "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2_ML_Fondamenti"
+              "title": "4_ML_Classificazione"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,10 +235,10 @@
       }
     ]
   },
-  "active": "60e326123be06bc1",
+  "active": "0789381cc0f0e096",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
     "conflict-files-obsidian-git.md",
