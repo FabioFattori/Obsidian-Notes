@@ -35,8 +35,7 @@
               "title": "2_ML_Fondamenti"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,10 +233,10 @@
       }
     ]
   },
-  "active": "35d973ff0344dc1b",
+  "active": "60e326123be06bc1",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
     "conflict-files-obsidian-git.md",
