@@ -77,6 +77,7 @@ Quindi quando si parla di Pattern Recognition si intende la disciplina che studi
 ### Sequenze E Altri Dati Strutturati
 - Sequenze:
 	pattern sequenziali con relazioni spaziali o temporali.
+	Es
 
 ---
 ### Approcci Non Parametrici E Stima Della Densità
