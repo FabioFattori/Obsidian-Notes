@@ -37,8 +37,7 @@
               "title": "Preventivo Soul Pida"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,19 +226,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 738,
-        "y": 72,
-        "width": 1240,
-        "height": 1008,
+        "x": 129,
+        "y": 84,
+        "width": 1717,
+        "height": 937,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "3008fdf3ade89a54",
+  "active": "00ead7b5105db0de",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
+    "conflict-files-obsidian-git.md",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Random Notes/Distributed project proposal.md",
@@ -273,7 +273,6 @@
     "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
     "Tesi Shit/Senza nome.md",
