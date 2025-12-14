@@ -8,22 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9241adf46aabbae6",
+            "id": "60e326123be06bc1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/Machine Learning.md",
+                "file": "Primo Semestre Major/Machine Learning/Prove d'esame.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Prove d'esame"
+            }
+          },
+          {
+            "id": "35d973ff0344dc1b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2_ML_Fondamenti"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +234,9 @@
       }
     ]
   },
-  "active": "9241adf46aabbae6",
+  "active": "35d973ff0344dc1b",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
