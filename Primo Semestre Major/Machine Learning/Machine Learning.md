@@ -77,7 +77,9 @@ Quindi quando si parla di Pattern Recognition si intende la disciplina che studi
 ### Sequenze E Altri Dati Strutturati
 - Sequenze:
 	pattern sequenziali con relazioni spaziali o temporali.
-	Es
+	Esempio: stream audio.
+	Spesso a lunghezza variabile, l'ordine della sequenza è importante per mantenere il dato consistente.
+- Altre strutture dati  (grafi e alberi).
 
 ---
 ### Approcci Non Parametrici E Stima Della Densità
