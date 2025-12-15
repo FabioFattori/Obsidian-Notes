@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
-          },
-          {
-            "id": "d6ed71d903710324",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-12-15 10.48.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-15 10.48.24.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +185,16 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "d6ed71d903710324",
+  "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
+    "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
+    "1.png",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
-    "Excalidraw/Drawing 2025-12-15 10.48.24.excalidraw.md",
-    "Excalidraw",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi",
+    "Primo Semestre Major/Machine Learning/imgs/cartella senza nome",
     "Senza nome.base",
+    "New Drawings",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Random Notes/Preventivo Soul Pida.md",
@@ -222,12 +213,8 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/23.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/22.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/21.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/20.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/19.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/cartella senza nome",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/17_11_2025",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
     "Code Interviews Concepts/OOP/Principi OOP.md",

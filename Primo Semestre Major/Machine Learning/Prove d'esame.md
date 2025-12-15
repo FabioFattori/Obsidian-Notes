@@ -54,4 +54,3 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 2. le probabilità a posteriori
 3. l’indice della classe restituita in output
 ### Svolgimento
-
