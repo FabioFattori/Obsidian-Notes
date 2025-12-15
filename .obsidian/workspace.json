@@ -208,8 +208,21 @@
                   "icon": "lucide-file-text",
                   "title": "9_ML_DeepLearning"
                 }
+              },
+              {
+                "id": "6b45e73bedf0bd46",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "5_ML_Regressione"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -224,6 +237,7 @@
   },
   "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
@@ -244,7 +258,6 @@
     "New Drawings",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Random Notes/Preventivo Soul Pida.md",
-    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
     "Random Notes",
