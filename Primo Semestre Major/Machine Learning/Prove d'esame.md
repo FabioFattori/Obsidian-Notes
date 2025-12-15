@@ -1,4 +1,4 @@
-# Prove D'esame
+# <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a>
 ## 07/12/2016
 ### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
@@ -113,3 +113,10 @@ Quindi dato che $d(p_1,c_2) < d(p_1,c_1)$   $p_1 \in Cluster\\\ 1$ .
 >Questo va fatto per ogni pattern
 
 Una volta fatto per tutti i pattern, e quindi si ottengono quali pattern appartengono a quali cluster di deve fare la media per calcolare le coordinate del nuovo centroide, quindi per questo esercizio specifico avremo che:
+$Cluster \\\ 1 = \{p_2,p_3\}$
+$Cluster \\\ 2 = \{p_1,p_4,p_5,p_6\}$ 
+quindi per i nuovi centroidi dovremo fare questo:
+$x_{c_1} = \frac{x_{p_2} + x_{p_3}}{2}$
+$y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
+è una media bel, se non ti fidi controlla questo risultato che sono i nuovi centroidi trovati dal prof come soluzione dell'esercizio:
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
