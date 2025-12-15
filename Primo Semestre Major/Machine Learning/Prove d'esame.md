@@ -57,15 +57,25 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - condividere e riusare le informazioni già estratte su più livelli
 - selezionare feature più astratte, scartando eventuali informazioni inutili durante il processo
 - modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
-### Fare esempi pratici di pattern numerici, categorici e di sequenze.
-- Numerici:
-	1. misurazioni accurate di un prodotto (esempio: misure dei solfati presenti in un vino per andare a predire la qualità dello stesso)
-	2. misurazioni del consumo di un calorifero per poi andare a predire i costi che avrò in un anno
-- Categorici:
-	1. in un dataset di persone, se una di esse è uomo o donna, magari espressa come una variabile booleana con nome "is_woman"
-	2. riprendendo l'esempio del dataset di vini possiamo pensare alla provincia italiana di provenienza del vino, che quindi non sarà una semplice variabile booleana ma bensì una stringa con il nome della regione
-- Sequenze: 
-	1. 
+### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze
+- Numerici
+1. Misure numeriche continue di un prodotto, ad esempio la concentrazione di solfati in un vino per predirne la qualità.
+    
+2. Valori di consumo energetico di un calorifero utilizzati per stimare i costi annuali.
+    
+
+**Categorici**
+
+1. In un dataset di persone, il genere (es. uomo/donna), rappresentato come variabile categorica binaria.
+    
+2. La regione o provincia di provenienza di un vino, rappresentata come etichetta discreta (stringa o codice).
+    
+
+**Sequenze**
+
+1. Un video di sorveglianza, visto come una sequenza temporale di immagini.
+    
+2. Una traccia musicale, rappresentata come sequenza temporale di campioni audio per la classificazione del genere.
 
 ---
 # Esercizi
