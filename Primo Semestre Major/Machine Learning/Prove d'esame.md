@@ -51,3 +51,4 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 # Esercizi
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
 ### Svolgimento
+$d$ => numero di classi. 
