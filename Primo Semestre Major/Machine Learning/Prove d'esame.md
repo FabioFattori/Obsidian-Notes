@@ -45,3 +45,13 @@ Per Connessioni locali si intende che ogni neurone del layer convoluzionale è c
 
 Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o kernel, per posizioni diverse dell'input, producendo gli stessi risultati per un determinato pattern.
 Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'immagine di input producendo una feature map, rispondendo allo stesso pattern indipendentemente dalla sua posizione nell'immagine.
+
+
+---
+# Esercizi
+## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X
+1. le densità di probabilità condizionali
+2. le probabilità a posteriori
+3. l’indice della classe restituita in output
+### Svolgimento
+
