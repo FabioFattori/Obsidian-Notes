@@ -49,8 +49,5 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 
 ---
 # Esercizi
-## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X
-1. le densità di probabilità condizionali
-2. le probabilità a posteriori
-3. l’indice della classe restituita in output
+## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
 ### Svolgimento
