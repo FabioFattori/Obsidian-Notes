@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
-          },
-          {
-            "id": "9fb5042cde2235fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4_ML_Classificazione"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +185,46 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "9fb5042cde2235fd",
+  "floating": {
+    "id": "15bda3a32b618c4c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "388ea167440354d1",
+        "type": "window",
+        "children": [
+          {
+            "id": "ef17ef23d10d0437",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9fb5042cde2235fd",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "4_ML_Classificazione"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 636,
+        "y": 82,
+        "width": 750,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es2.png",
@@ -226,7 +251,6 @@
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025/25.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",

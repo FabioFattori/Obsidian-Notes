@@ -47,7 +47,7 @@ Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o
 Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'immagine di input producendo una feature map, rispondendo allo stesso pattern indipendentemente dalla sua posizione nell'immagine.
 ## 20/1/2017
 ### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine?
-
+Il Support Vector Machine si basa sul principio di individuare l'iperpiano di separazione ottimale per, appunto, separare le classi fra loro con distanza maggiore dall'iperpiano individuato
 
 ---
 # Esercizi
