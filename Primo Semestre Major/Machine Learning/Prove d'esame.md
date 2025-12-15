@@ -58,6 +58,8 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - selezionare feature più astratte, scartando eventuali informazioni inutili durante il processo
 - modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
 ### Fare esempi pratici di pattern numerici, categorici e di sequenze.
+- Numerici:
+	misurazioni accurate di 
 
 ---
 # Esercizi
