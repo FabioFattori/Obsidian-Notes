@@ -53,7 +53,11 @@ Il massimizzare il margine è legata alla generalizzazione, di fatti se le class
 ### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli?
 Le recenti reti neurali deep sono più efficaci delle MLP a tre livelli perché la **profondità** consente di rappresentare alcune funzioni in modo **molto più efficiente**.  
 Sebbene il _universal approximation theorem_ garantisca che una MLP con un solo livello hidden possa approssimare qualsiasi funzione, **l’esistenza di una soluzione non implica efficienza**: esistono funzioni che possono essere rappresentate con **complessità polinomiale usando più livelli**, ma che richiedono **complessità esponenziale** se realizzate con un livello in meno.
-L'organizzazione gerarchica delle DNN, oltre a rappresentare meglio il 
+L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
+- condividere e riusare le informazioni già estratte su più livelli
+- selezionare feature più astratte, scartando eventuali informazioni inutili durante il processo
+- modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
+### Fare esempi pratici di pattern numerici, categorici e di sequenze.
 
 ---
 # Esercizi
