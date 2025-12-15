@@ -59,23 +59,16 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
 ### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze
 - Numerici
-1. Misure numeriche continue di un prodotto, ad esempio la concentrazione di solfati in un vino per predirne la qualità.
-    
-2. Valori di consumo energetico di un calorifero utilizzati per stimare i costi annuali.
-    
-
-**Categorici**
-
-1. In un dataset di persone, il genere (es. uomo/donna), rappresentato come variabile categorica binaria.
-    
-2. La regione o provincia di provenienza di un vino, rappresentata come etichetta discreta (stringa o codice).
-    
-
-**Sequenze**
-
-1. Un video di sorveglianza, visto come una sequenza temporale di immagini.
-    
-2. Una traccia musicale, rappresentata come sequenza temporale di campioni audio per la classificazione del genere.
+	1. Misure numeriche continue di un prodotto, ad esempio la concentrazione di solfati in un vino per predirne la qualità.
+	2. Valori di consumo energetico di un calorifero utilizzati per stimare i costi annuali.
+- Categorici
+	1. In un dataset di persone, il genere (es. uomo/donna), rappresentato come variabile categorica binaria.
+	2. La regione o provincia di provenienza di un vino, rappresentata come etichetta discreta (stringa o codice).
+- Sequenze
+	1. Un video di sorveglianza, visto come una sequenza temporale di immagini.
+	2. Una traccia musicale, rappresentata come sequenza temporale di campioni audio per la classificazione del genere.
+### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente?
+Per variabile indipendente si intende una parte del campione dato che non ha nessun legame di valore con altre variabili, quindi al variare degli stessi la variabile può non cambiare, o comunque 
 
 ---
 # Esercizi
