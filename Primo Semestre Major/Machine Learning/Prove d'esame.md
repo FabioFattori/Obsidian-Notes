@@ -71,6 +71,9 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 ## 17/2/2017 #TODO
+### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano?
+Per iperparametri si intendono dei valori che definiscono i dettagli archietturali del modello e della corrispondente procedura di training.
+
 
 ---
 # Esercizi
