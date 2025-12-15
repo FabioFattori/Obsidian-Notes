@@ -185,60 +185,13 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "floating": {
-    "id": "15bda3a32b618c4c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "388ea167440354d1",
-        "type": "window",
-        "children": [
-          {
-            "id": "ef17ef23d10d0437",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f66bc3aaee251dd",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "9_ML_DeepLearning"
-                }
-              },
-              {
-                "id": "6b45e73bedf0bd46",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "5_ML_Regressione"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 636,
-        "y": 82,
-        "width": 750,
-        "height": 760,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6b45e73bedf0bd46",
+  "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 17.11.43.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 17.05.31.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png",
@@ -247,10 +200,7 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 16.56.09.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 16.56.01.png",
-    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/es2.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/IMG_7745.heic",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",

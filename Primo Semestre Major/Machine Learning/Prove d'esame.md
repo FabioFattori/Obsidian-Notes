@@ -100,3 +100,7 @@ Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli c
 $n$ => numero dei pattern forniti dall'esercizio
 $\mu$ => vettore media dei pattern forniti, per questo esercizio in particolare bisogna fare la media del primo elemento dei singoli pattern e del secondo elemento:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png]]
+per quanto riguarda la matrice basta applicare la formula, è lunga ma si fa, ricordati che la dimensione di $\sum{}{}$ è la dimensione del singolo pattern per la dimensione di $\mu$ perchè alla fine della fiera è una moltiplicazione tra matrici.
+## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png]]
+### Svolgimento
