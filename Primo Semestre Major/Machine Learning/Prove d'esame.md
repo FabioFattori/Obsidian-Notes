@@ -41,3 +41,6 @@ Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono agg
 4. Limitazioni basate sulla misura della distanza intra-cluster
 	L’uso tipico della distanza euclidea rende K-means poco adatto a dati non numerici o a contesti in cui tale misura non rappresenta correttamente la similarità tra i pattern.
 ##### Nell’ambito Di CNN, Che Cosa Si Intende per Connessioni Locali E Condivisione Di Pesi?
+Per Connessioni locali si intende che ogni neurone del layer convoluzionale è collegato ad una regione locale dell'immagine e non a tutta come accade nelle reti fully connected, permettendo di ridurre il costo computazionale ed il numero di parametri, questo viene fatto inoltre per rilevare con maggiore precisione dei pattern locali come bordi o texture.
+
+Per Condivisione di pesi si intende 
