@@ -60,3 +60,7 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[1-sol.png]]
 ## Calcolo dei pesi di una NN
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
+![[es2.png]]
+## Majority vote rule di una multiclassificatore
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
+Qui banalmente devi scegliere la classe che viene prodotta 
