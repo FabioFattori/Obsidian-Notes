@@ -88,3 +88,7 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ## Majority Vote Rule Di Una Multiclassificatore
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
+## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
+Svolgimento
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
