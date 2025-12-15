@@ -72,7 +72,7 @@ Nella regressione per variabile indipendente si intende la variabile, o insieme 
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 ## 17/2/2017 #TODO
 ### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano?
-Per iperparametri si intendono dei valori che definiscono i dettagli archietturali del modello e della corrispondente procedura di training, questa tipologia 
+Per iperparametri si intendono dei valori che definiscono i dettagli archietturali del modello e della corrispondente procedura di training, tali valori non vengono appresi in autonomia dal modello sui dati, ma bensì passati ed utilizzati per la definizione del modello stesso.
 Esempi:
 - learning rate
 - batch size 
@@ -81,7 +81,7 @@ Esempi:
 - tipo di activation function
 - numero di cluster per quanto riguarda l'algoritmo K-means
 - ecc...
-Gli iperparametri vengono genericamente ottimizzati tramite l'applicazione della k-cross validation, la quale andrà a testare tutti i possibili valori in un sottoinsieme definito (dato in input) gli iperparametri, restituendo i migliori candidati.
+Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
 
 ---
 # Esercizi
