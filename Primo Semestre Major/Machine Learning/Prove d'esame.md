@@ -99,4 +99,4 @@ Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli c
 ### Svolgimento
 $n$ => numero dei pattern forniti dall'esercizio
 $\mu$ => vettore media dei pattern forniti, per questo esercizio in particolare bisogna fare la media del primo elemento dei singoli pattern e del secondo elemento:
-$$\mu=\matrix{\sum}{}$$
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png]]
