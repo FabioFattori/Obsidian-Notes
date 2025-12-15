@@ -40,3 +40,4 @@ Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono agg
 	K-means funziona in maniera corretta con cluster della stessa dimensione, sferici e convessi, con cluster di forme complesse o di dimensioni diverse si possono ottenere risultati non affidabili.
 4. Limitazioni basate sulla misura della distanza intra-cluster
 	L’uso tipico della distanza euclidea rende K-means poco adatto a dati non numerici o a contesti in cui tale misura non rappresenta correttamente la similarità tra i pattern.
+##### Nell’ambito Di CNN, Che Cosa Si Intende per Connessioni Locali E Condivisione Di Pesi?

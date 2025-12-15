@@ -198,25 +198,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ad37f4443fced070",
+                "id": "427ac83e79e8b075",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "6_ML_Clustering"
-                }
-              },
-              {
-                "id": "427ac83e79e8b075",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nuova scheda"
+                  "title": "9_ML_DeepLearning"
                 }
               }
             ]
@@ -232,9 +222,10 @@
       }
     ]
   },
-  "active": "ad37f4443fced070",
+  "active": "427ac83e79e8b075",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
@@ -261,7 +252,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Primo Semestre Major/_imgs",
     "Primo Semestre Major/Distributed System/slides/M2 – Roots of Distributed Systems. Computation in Space  Time.pdf",
-    "Primo Semestre Major/Distributed System/imgs/Recupero_17_11_2025",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
