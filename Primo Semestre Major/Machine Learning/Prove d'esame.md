@@ -58,3 +58,5 @@ $p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
 Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
 ![[1-sol.png]]
+## Calcolo dei pesi di una NN
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
