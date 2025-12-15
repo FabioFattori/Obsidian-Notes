@@ -107,4 +107,9 @@ per quanto riguarda la matrice basta applicare la formula, è lunga ma si fa, ri
 Per quanto riguarda l'appartenenza ai centroidi bisogna calcolare la distanza euclidea di ogni punto da ciascuno dei due, la minore ci dice a quale cluster appartiene il pattern:
 $$d(p_i,c_i) = \sqrt{(x_{p_i} - x_{c_i})^2 + (y_{p_i} - y_{c_i})^2}$$
 quindi esempio con il primo:
-$$d(p_1,c_1) = \sqrt{(7,7 - 0,1)^2 + (4,0 - 5,1)^2} = $$
+$$d(p_1,c_1) = \sqrt{(7,7 - 0,1)^2 + (4,0 - 5,1)^2} = 7,68$$
+$$d(p_1,c_2) = \sqrt{(7,7 - 3,8)^2 + (4,0 - 2,8)^2} = 4,08$$
+Quindi dato che $d(p_1,c_2) < d(p_1,c_1)$   $p_1 \in Cluster\\\ 1$ .
+>Questo va fatto per ogni pattern
+
+Una volta fatto per tutti i pattern, e quindi si ottengono quali pattern appartengono a quali cluster di deve fare la media per calcolare le coordinate del nuovo centroide, quindi per questo esercizio specifico avremo che:
