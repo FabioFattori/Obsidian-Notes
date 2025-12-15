@@ -70,6 +70,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 ### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente?
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
+## 17/2/2017 #TODO
 
 ---
 # Esercizi
