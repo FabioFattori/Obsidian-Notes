@@ -185,48 +185,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "7dac491a492d662e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c1a8945594135b1e",
-        "type": "window",
-        "children": [
-          {
-            "id": "fd1b5cb08f17e13b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9d7dd5831589e692",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "6_ML_Clustering"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 129,
-        "y": 84,
-        "width": 1717,
-        "height": 937,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "60e326123be06bc1",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
-    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
