@@ -84,11 +84,19 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[1-sol.png]]
 ## Calcolo Dei Pesi Di Una NN
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
+### Svolgimento
 ![[es2.png]]
 ## Majority Vote Rule Di Una Multiclassificatore
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
+### Svolgimento
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
 ## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
-Svolgimento
+### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
+## Calcolo Del Vettore Medio E Della Matrica Di Covarianza
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
+### Svolgimento
+$n$ => numero dei pattern forniti dall'esercizio
+$\mu$ => vettore media dei pattern forniti, per questo esercizio in particolare bisogna fare la media del primo elemento dei singoli pattern e del secondo elemento:
+$$\mu=\matrix{\sum}{}$$
