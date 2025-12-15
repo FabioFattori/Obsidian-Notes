@@ -45,6 +45,8 @@ Per Connessioni locali si intende che ogni neurone del layer convoluzionale è c
 
 Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o kernel, per posizioni diverse dell'input, producendo gli stessi risultati per un determinato pattern.
 Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'immagine di input producendo una feature map, rispondendo allo stesso pattern indipendentemente dalla sua posizione nell'immagine.
+## 20/1/2017
+### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine?
 
 
 ---
@@ -58,9 +60,9 @@ $p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
 Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
 ![[1-sol.png]]
-## Calcolo dei pesi di una NN
+## Calcolo Dei Pesi Di Una NN
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ![[es2.png]]
-## Majority vote rule di una multiclassificatore
+## Majority Vote Rule Di Una Multiclassificatore
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
-Qui banalmente devi scegliere la classe che viene prodotta 
+Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
