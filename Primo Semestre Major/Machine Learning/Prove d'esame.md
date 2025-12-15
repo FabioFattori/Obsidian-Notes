@@ -31,3 +31,6 @@ Questo vincolo permette:
 
 Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono aggiunti altri $n$ vincoli di non negatività per le slack variables, per un totale di $2n$ vincoli.
 #### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means
+1. Sensibilità all'inizializzazione
+	Ovvero, K-means richiede che k (numero di cluster) venga definito e fornito come dato di input, quindi richiede di sapere il numero di cluster a priori, se viene fornito un k non consono ai dati il risultato ottenuto non potrà essere ottimale.
+	Inoltre K-means richiede anche i centroidi dei cluster come input, spesso vengono scelti in maniera randomica, configurazioni diverse di quest'ultimi portano a risultati diversi, 
