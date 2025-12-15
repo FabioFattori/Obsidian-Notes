@@ -48,8 +48,10 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 ## 20/1/2017
 ### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine?
 Il Support Vector Machine si basa sul principio di individuare l'iperpiano di separazione ottimale per, appunto, separare le classi fra loro con distanza maggiore dall'iperpiano individuato.
-Il margine è la minima distanza tra i support vectors delle due classi del training set dall'iperpiano, ovvero i punti più vicini all'iperpiano individuato delle classi.
+Il margine è la minima distanza tra i support vectors delle due classi del training set dall'iperpiano, ovvero i campioni più vicini all'iperpiano individuato delle classi.
 Il massimizzare il margine è legata alla generalizzazione, di fatti se le classi del training set hanno un ampio margine, quindi sono facilmente separabili, ci si aspetta che anche quel test set lo siano.
+### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli?
+
 
 ---
 # Esercizi

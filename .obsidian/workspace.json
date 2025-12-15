@@ -198,15 +198,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "9fb5042cde2235fd",
+                "id": "1f66bc3aaee251dd",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "4_ML_Classificazione"
+                  "title": "9_ML_DeepLearning"
                 }
               }
             ]
@@ -222,9 +222,10 @@
       }
     ]
   },
-  "active": "9fb5042cde2235fd",
+  "active": "1f66bc3aaee251dd",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es2.png",
@@ -241,7 +242,6 @@
     "Primo Semestre Major/Machine Learning/imgs/cartella senza nome",
     "Senza nome.base",
     "New Drawings",
-    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
