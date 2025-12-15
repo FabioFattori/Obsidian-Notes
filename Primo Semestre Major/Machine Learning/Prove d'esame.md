@@ -54,4 +54,7 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 $d$ => numero di classi. 
 $p(x | w_i)$ => densità di probabilità condizionale di $w_i$ 
 $p(x) = p(x|w_0)*p(w_0) + ... \\\ per \\\ ogni \\\ i \in \{0,...,d\}$ => densità di probabilità assoluta
+$p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
+Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
+![[1-sol.png]]
