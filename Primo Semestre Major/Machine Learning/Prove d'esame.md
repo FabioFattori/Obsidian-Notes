@@ -104,3 +104,5 @@ per quanto riguarda la matrice basta applicare la formula, è lunga ma si fa, ri
 ## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png]]
 ### Svolgimento
+Per quanto riguarda l'appartenenza ai centroidi bisogna calcolare la distanza euclidea di ogni punto da ciascuno dei due, la minore ci dice a quale cluster appartiene il pattern:
+$d(p_i,c_i) = \sqrt{(x_p_i + x_{c_i})^2 + (y_{p_i} + y_{c_i})^2}$ 
