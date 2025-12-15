@@ -68,8 +68,8 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 	1. Un video di sorveglianza, visto come una sequenza temporale di immagini.
 	2. Una traccia musicale, rappresentata come sequenza temporale di campioni audio per la classificazione del genere.
 ### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente?
-Nella regressione per variabile indipendente si intende la variabile di input x, qualsiasi dimensione essa abbia, mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
-Inoltre si può dire che la variabile dipendente x si considera sempre 
+Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
+Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 
 ---
 # Esercizi
