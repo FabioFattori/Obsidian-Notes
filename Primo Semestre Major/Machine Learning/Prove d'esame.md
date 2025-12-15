@@ -52,3 +52,6 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
 ### Svolgimento
 $d$ => numero di classi. 
+$p(x | w_i)$ => densità di probabilità condizionale di $w_i$ 
+$p(x) = p(x|w_0)*p(w_0) + ... \\\ per \\\ ogni \\\ i \in \{0,...,d\}$ => densità di probabilità assoluta
+![[es1.png]]
