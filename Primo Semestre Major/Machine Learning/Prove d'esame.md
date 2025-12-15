@@ -33,4 +33,9 @@ Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono agg
 #### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means
 1. Sensibilità all'inizializzazione
 	Ovvero, K-means richiede che k (numero di cluster) venga definito e fornito come dato di input, quindi richiede di sapere il numero di cluster a priori, se viene fornito un k non consono ai dati il risultato ottenuto non potrà essere ottimale.
-	Inoltre K-means richiede anche i centroidi dei cluster come input, spesso vengono scelti in maniera randomica, configurazioni diverse di quest'ultimi portano a risultati diversi, 
+	Inoltre K-means richiede anche i centroidi dei cluster come input, spesso vengono scelti in maniera randomica, configurazioni diverse di quest'ultimi portano a risultati diversi.
+	L'algoritmo può convergere verso minimi locali, e non globali, portando risultati non ottimali.
+2. Forma dei cluster
+	K-means funziona in maniera corretta con cluster della stessa dimensione, sferici e convessi, con cluster di forme complesse o di dimensioni diverse si possono ottenere risultati non affidabili.
+3. K-means basato sulla distanza euclidea, non adatta a tutti i tipi di dati (es. dati categorici)
+4. Soffre la curse of dimensionality
