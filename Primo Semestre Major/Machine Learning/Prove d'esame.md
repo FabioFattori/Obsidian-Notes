@@ -85,7 +85,10 @@ Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite t
 ### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$?
 Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb{R}^d$.
 Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo costruire $X$,$y$ e $\beta$ nel seguente modo:
-- per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n \mathbb{x} (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima riga che viene riempita da $1$ 
+- per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n \mathbb{x} (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima riga che viene riempita da $1$ per rappresentare l'intercetta.
+- $y$ invece è un vettore che contiene $y_i$ per ogni $i\in \{1,...,n\}$   
+- $\beta$, che è della forma $\mathbb{R}^{d+1}$, raccoglie i coefficenti del modello, compreso il temine noto.
+
 
 
 ---
