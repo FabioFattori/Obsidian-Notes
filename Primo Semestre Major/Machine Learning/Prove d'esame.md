@@ -158,3 +158,7 @@ $x_{c_1} = \frac{x_{p_2} + x_{p_3}}{2}$
 $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 è una media bel, se non ti fidi controlla questo risultato che sono i nuovi centroidi trovati dal prof come soluzione dell'esercizio:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
+## Tabella Multiclassificatore con somma, prodotto, massimo e minimo
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
+### Svolgimento
+Questo 
