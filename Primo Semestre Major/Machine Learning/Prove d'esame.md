@@ -83,7 +83,9 @@ Esempi:
 - ecc...
 Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
 ### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$?
-Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb^d$ 
+Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb{R}^d$.
+Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo costruire $X$,$y$ e $\beta$ nel seguente modo:
+- per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n \mathbb{x} (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima riga che viene riempita da $1$ 
 
 
 ---
