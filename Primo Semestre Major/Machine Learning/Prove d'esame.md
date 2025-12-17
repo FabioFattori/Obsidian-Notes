@@ -82,8 +82,8 @@ Esempi:
 - numero di cluster per quanto riguarda l'algoritmo K-means
 - ecc...
 Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
-### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$? 
-
+### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$?
+Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb^d$ 
 
 
 ---
