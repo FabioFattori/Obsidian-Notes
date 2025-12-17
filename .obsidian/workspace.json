@@ -197,15 +197,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "97b6c68293eb0825",
+                "id": "da5fe797ff320d85",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "5_ML_Regressione"
+                  "title": "8_ML_RetiNeurali"
                 }
               }
             ]
@@ -221,10 +221,11 @@
       }
     ]
   },
-  "active": "777e493975c42362",
+  "active": "da5fe797ff320d85",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
+    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
@@ -250,7 +251,6 @@
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/19_11_2025",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",

@@ -88,8 +88,10 @@ Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo
 - per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n × (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima colonna che viene riempita da $1$ per rappresentare l'intercetta.
 - $y$ invece è un vettore che contiene $y_i$ per ogni $i\in \{1,...,n\}$   
 - $\beta$, che è della forma $\mathbb{R}^{d+1}$, raccoglie i coefficienti del modello, compreso il temine noto.
-Quindi otteniamo che$y=X\beta$ oppure $y_i = \sum^{d+1}_{j=1}x_{i,j}\beta_{j}$
+Quindi otteniamo che $y=X\beta$ oppure $y_i = \sum^{d+1}_{j=1}x_{i,j}\beta_{j}$
 Poiché tipicamente $n>d+1$, il sistema è **sovradeterminato** e i parametri $\beta$ vengono stimati risolvendo un problema di **minimi quadrati (Least Squares)**.
+### Che cos’è Il Learning Rate nell’ambito dell’apprendimento Di Reti Neurali? Cosa Succede Se Viene Scelto Un Learning Rate Troppo Piccolo O Troppo Grande?
+
 
 ---
 # Esercizi
