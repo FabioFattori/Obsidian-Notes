@@ -161,5 +161,6 @@ $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 ## Tabella Multiclassificatore con somma, prodotto, massimo e minimo
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
 ### Svolgimento
-Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo 
+Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
+Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
