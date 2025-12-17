@@ -158,9 +158,11 @@ $x_{c_1} = \frac{x_{p_2} + x_{p_3}}{2}$
 $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 è una media bel, se non ti fidi controlla questo risultato che sono i nuovi centroidi trovati dal prof come soluzione dell'esercizio:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
-## Tabella Multiclassificatore con somma, prodotto, massimo e minimo
+## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
 ### Svolgimento
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
 Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
+## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png]]
