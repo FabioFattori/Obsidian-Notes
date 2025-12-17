@@ -166,3 +166,4 @@ Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
 ## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png]]
+Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuroni del livello di input pari alla dimensione del filtro (3 × 11 × 11). Pertanto il numero totale di connessioni è (96 × 55 × 55) ∙ (3 × 11 × 11) = 105 415 200. Il numero totale di pesi, invece, risulta molto più piccolo giacché in una CNN i pesi di ciascun filtro sono condivisi da tutti i neuroni contenuti in una stessa feature map. Visto che il numero di feature map è uguale a 96, ed il numero di input per ciascun filtro è pari a (3 × 11 × 11), il numero totale di pesi (senza considerare il bias) è (3 × 11 × 11) × 96 = 34 848.
