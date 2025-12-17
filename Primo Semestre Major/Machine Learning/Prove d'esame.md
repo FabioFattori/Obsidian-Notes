@@ -91,7 +91,9 @@ Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo
 Quindi otteniamo che $y=X\beta$ oppure $y_i = \sum^{d+1}_{j=1}x_{i,j}\beta_{j}$
 Poiché tipicamente $n>d+1$, il sistema è **sovradeterminato** e i parametri $\beta$ vengono stimati risolvendo un problema di **minimi quadrati (Least Squares)**.
 ### Che cos’è Il Learning Rate nell’ambito dell’apprendimento Di Reti Neurali? Cosa Succede Se Viene Scelto Un Learning Rate Troppo Piccolo O Troppo Grande?
-
+Il learning rate è un iperparametro che regola l'ampiezza di aggiornamento dei pesi durante la fase di training di una rete neurale tramite backpropagation e gradient descent.
+Nello specifico $\eta$ rappresenta quanto ogni passo di discesa segue la direzione opposta al gradiente della funzione di errore, questo rende, di fatto, la scelta di questo iperparametro cruciale, infatti:
+- quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete non riesce a convergere nel minimo assoluto, ma bensì convergerà in un minimo locale mettendoci anche una di 
 
 ---
 # Esercizi
