@@ -189,40 +189,41 @@
     "type": "floating",
     "children": [
       {
-        "id": "70e204f71c8e9566",
+        "id": "3e9a7a88116d48a5",
         "type": "window",
         "children": [
           {
-            "id": "ee485739f5a5e2f3",
+            "id": "91d68996f76f944a",
             "type": "tabs",
             "children": [
               {
-                "id": "7a48ab9c8ad699ed",
+                "id": "97b6c68293eb0825",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "2_ML_Fondamenti"
+                  "title": "5_ML_Regressione"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 637,
-        "y": 59,
-        "width": 1240,
-        "height": 1008,
-        "maximize": true,
+        "x": 2880,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "7a48ab9c8ad699ed",
+  "active": "777e493975c42362",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "conflict-files-obsidian-git.md",
@@ -240,7 +241,6 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",

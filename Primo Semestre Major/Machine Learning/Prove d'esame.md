@@ -70,7 +70,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 ### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente?
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
-## 17/2/2017 #TODO
+## 17/2/2017
 ### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano?
 Per iperparametri si intendono dei valori che definiscono i dettagli archietturali del modello e della corrispondente procedura di training, tali valori non vengono appresi in autonomia dal modello sui dati, ma bensì passati ed utilizzati per la definizione del modello stesso.
 Esempi:
@@ -82,6 +82,9 @@ Esempi:
 - numero di cluster per quanto riguarda l'algoritmo K-means
 - ecc...
 Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
+### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$? 
+
+
 
 ---
 # Esercizi
