@@ -95,6 +95,8 @@ Il learning rate è un iperparametro che regola l'ampiezza di aggiornamento dei 
 Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la direzione opposta al gradiente della funzione di errore, questo rende, di fatto, la scelta di questo iperparametro cruciale, infatti:
 - quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete convergerà più lentamente con maggiori probabilità di rimanere bloccati in un minimo locale
 - invece quando lo si sceglie troppo grande otterremo delle oscillazioni indesiderate dei pesi facendo divergere il processo di training 
+### Quali Sono I Più Noti Algoritmi Di Clustering?
+- 
 
 ---
 # Esercizi

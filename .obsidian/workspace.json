@@ -197,15 +197,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "da5fe797ff320d85",
+                "id": "da088f4267b50d61",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "8_ML_RetiNeurali"
+                  "title": "6_ML_Clustering"
                 }
               }
             ]
@@ -221,10 +221,11 @@
       }
     ]
   },
-  "active": "777e493975c42362",
+  "active": "da088f4267b50d61",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
+    "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "conflict-files-obsidian-git.md",
@@ -240,7 +241,6 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",
-    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
