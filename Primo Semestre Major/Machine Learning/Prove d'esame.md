@@ -84,12 +84,12 @@ Esempi:
 Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
 ### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$?
 Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb{R}^d$.
-Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo costruire $X$,$y$ e $\beta$ nel seguente modo:
-- per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n \mathbb{x} (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima riga che viene riempita da $1$ per rappresentare l'intercetta.
+Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo costruire $X$ , $y$ e $\beta$ nel seguente modo:
+- per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n × (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima colonna che viene riempita da $1$ per rappresentare l'intercetta.
 - $y$ invece è un vettore che contiene $y_i$ per ogni $i\in \{1,...,n\}$   
-- $\beta$, che è della forma $\mathbb{R}^{d+1}$, raccoglie i coefficenti del modello, compreso il temine noto.
-
-
+- $\beta$, che è della forma $\mathbb{R}^{d+1}$, raccoglie i coefficienti del modello, compreso il temine noto.
+Quindi otteniamo che$y=X\beta$ oppure $y_i = \sum^{d+1}_{j=1}x_{i,j}\beta_{j}$
+Poiché tipicamente $n>d+1$, il sistema è **sovradeterminato** e i parametri $\beta$ vengono stimati risolvendo un problema di **minimi quadrati (Least Squares)**.
 
 ---
 # Esercizi
