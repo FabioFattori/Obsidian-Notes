@@ -96,7 +96,18 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 - quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete convergerà più lentamente con maggiori probabilità di rimanere bloccati in un minimo locale
 - invece quando lo si sceglie troppo grande otterremo delle oscillazioni indesiderate dei pesi facendo divergere il processo di training 
 ### Quali Sono I Più Noti Algoritmi Di Clustering?
-- 
+- **Clustering partizionale**
+    - **K-means**  
+        È uno degli algoritmi di clustering più noti. Suddivide i dati in kkk cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
+- **Clustering gerarchico**
+    - **Hierarchical Clustering** (agglomerativo o divisivo)  
+        Costruisce una gerarchia di cluster senza richiedere la scelta preventiva del numero di cluster, rappresentabile tramite dendrogramma.
+- **Clustering basato sulla densità**
+    - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**  
+        Identifica cluster come regioni ad alta densità di punti ed è in grado di individuare outlier come rumore.
+- **Clustering probabilistico / model-based**
+    - **Gaussian Mixture Models (GMM)**  
+        Assume che i dati siano generati da una combinazione di distribuzioni gaussiane e assegna i punti ai cluster in modo probabilistico.
 
 ---
 # Esercizi
