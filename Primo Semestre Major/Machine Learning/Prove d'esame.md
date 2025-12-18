@@ -204,3 +204,10 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png]]
 ### Svolgimento
 ![[es14.png]]
+## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN VARIANTE Con Anche Un MLP
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/15.png]]
+### Svolgimento
+![[es15.png]]
+## Calcolo Del Numero Di Run E Della Partizione Del Training Set E Validation Set Durante L'algoritmo K-fold Cross-Validation
+
+### Svolgimento
