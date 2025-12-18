@@ -130,6 +130,9 @@ Questo processo viene ripetuto fino a convergenza, portando a una stima dei para
 Le funzioni di attivazioni devono essere non lineari e differenziabili perchè:
 - Non lineare per permettere alla rete di eseguire un mapping complesso delle informazioni di input
 - Differenziabile per permettere l'applicazione dell'algoritmo di backpropagation
+### Qual È l’obiettivo Delle Tecniche Di Riduzione Di Dimensionalità?
+L'obbietivo è quello di eseguire un mapping dallo spazio iniziale $\mathbb{R}^d$ ad uno spazio di dimensione inferiore tale che $\mathbb{R}^k,k<d$.
+Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti 
 
 ---
 # Esercizi
