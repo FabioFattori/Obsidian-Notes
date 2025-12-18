@@ -125,6 +125,7 @@ Questo processo viene ripetuto fino a convergenza, portando a una stima dei para
 - Eli
 - tanh
 - sigmoid
+- maxout
 
 Le funzioni di attivazioni devono essere non lineari e differenziabili perchè:
 - Non lineare per permettere alla rete di eseguire un mapping complesso delle informazioni di input
