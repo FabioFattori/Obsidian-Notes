@@ -236,7 +236,7 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png]]
 ### Svolgimento
 ![[es16.png]]
-## Tabella Borda Count di un multiclassificatore
+## Tabella Borda Count Di Un Multiclassificatore
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/17.png]]
 ### Svolgimento
 Qui è importante la classifica che il testo fa, quindi:
@@ -258,3 +258,7 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 - $p_1$ => 4 classe con 24
 - $p_2$ => 1 classe con 27
 - $p_3$ => 3 classe con 27
+## Calcolo Del Numero Di Pesi Di Una MLP CON BAYAS (simile Ma Diverso Dal Calcolo Che È Stato Fatto Nell'esercizio precedente)
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png]]
+### Svolgimento
+il calcolo è praticamente uguale a quello fatto [[##Calcolo del numer]]
