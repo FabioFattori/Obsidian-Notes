@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe96abfda0256ca",
+        "id": "e7c91fae97b796a1",
         "type": "tabs",
         "children": [
           {
-            "id": "92eb498364c3d6ba",
+            "id": "777e493975c42362",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -46,7 +46,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 309.5
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -168,86 +168,88 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "markdown-importer:Apri importazione Markdown": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "floating": {
-    "id": "d84149f4106a4e99",
+    "id": "298636672ca8ecca",
     "type": "floating",
     "children": [
       {
-        "id": "637386c57f0e3494",
+        "id": "c082547c061777ea",
         "type": "window",
         "children": [
           {
-            "id": "2180ee051a8966c2",
+            "id": "c77fad14a561bf34",
             "type": "tabs",
             "children": [
               {
-                "id": "9325fca05958e394",
+                "id": "c5bb59d18f351740",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "6_ML_Clustering"
+                  "title": "9_ML_DeepLearning"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 1920,
         "y": 0,
-        "width": 1166.5,
-        "height": 860,
+        "width": 960,
+        "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "92eb498364c3d6ba",
+  "active": "777e493975c42362",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
+    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es16.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-18 alle 18.09.56.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-18 alle 18.09.49.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es15.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-18 alle 18.06.22.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/15.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-18 alle 18.06.10.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es14.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-18 alle 18.04.02.png",
-    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
-    "Primo Semestre Major/Machine Learning/slides/Non confermato 380408.crdownload",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/15.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Schermata del 2025-12-17 22-10-39.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png",
+    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
-    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/IMG_7745.heic",
-    "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
+    "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
+    "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",
-    "Random Notes/Preventivo Soul Pida.md",
+    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
+    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
+    "Random Notes/Preventivo Soul Pida.md",
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Random Notes/Distributed project proposal.md",
+    "Random Notes",
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
@@ -258,9 +260,7 @@
     "Primo Semestre Major/Sistemi Informativi/draws/Caso di studio - studio di fattibilità - 24_10.md",
     "Primo Semestre Major/Sistemi Informativi/imgs/Senza nome.md",
     "Primo Semestre Major/Sistemi Informativi/draws/Ottimizzazione dei progetti.md",
-    "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
     "Tesi Shit/Senza nome.md",

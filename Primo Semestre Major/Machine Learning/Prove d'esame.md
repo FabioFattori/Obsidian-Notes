@@ -12,7 +12,6 @@ Per la suddivisione si tende ad usare una distribuzione standard come segue:
 Esempio 70%|15%|15%.
 Ma può essere messa in atto quando si ha un dataset di medi/grandi dimensioni, se invece si ha a disposizione pochi dati si può decidere di non avere un validationFF set a favore dell'applicazione della k-fold  cross validation per ottimizzare gli iper parametri.
 ### Nella Formulazione dell’SVM Lineare la Funzione Obiettivo Richiede Di Massimizzare Il Margine. L’ottimizzazione È Però Vincolata; in Cosa Consistono I Vicoli? Quanti Sono?
-
 Hard Margin
 Dato un dataset dove $x_i$ è l'i-esimo dato e $y_i \in \{-1,+1\}$ si richiede che tutti i dati siano classificati correttamente e fuori dal margine, quindi:
 $$y_i(w*x_i+b)-1 \geq 0\\\ per \\\ i=1...n$$
@@ -136,14 +135,14 @@ Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il 
 - alleviare i problemi legati alla curse of dimensionality, perchè operare in grandi spazi di dati richiede una mole di dati per il training elevata.
 - una semplificazione dell'addestramento dei modelli; scartando dati futili o rumorosi può portare anche ad un miglioramento delle prestazioni del modello stesso.
 Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per ridurne la quantità.
-## 17/07/2017 #TODO
+## 17/07/2017
 ### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio
 I criteri di clustering sono **funzioni obiettivo** che descrivono cosa si vuole ottenere da una partizione dei dati, specificando il **grado di ottimalità** di ogni soluzione ammissibile.  
 Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza** il criterio scelto.
 Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
 minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi$$J_e=\sum_{i=1,...s}\sum_{x\in C_i}||x-\overline x_i||^2,\quad\overline x_i = \frac{1}{n_i}\sum_{x\in C_i}x$$
 dove $C_i$ è l’i-esimo cluster, $n_i$ il numero di pattern che contiene e $\overline x_i$ il suo centroide (media).
-### Come opera un livello di pooling in una CNN?
+### Come Opera Un Livello Di Pooling in Una CNN?
 
 
 ---
