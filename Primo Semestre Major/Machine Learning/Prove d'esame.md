@@ -138,10 +138,13 @@ Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il 
 Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per ridurne la quantità.
 ## 17/07/2017 #TODO
 ### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio
-Per criteri di clustering si intendono delle tecniche che descrivono cosa si vuole ottenere specificando il grado di ottimalità di ogni soluzione ammissibile.
-Un esempio è la minimizzazione distanza dai centroidi:
+I criteri di clustering sono **funzioni obiettivo** che descrivono cosa si vuole ottenere da una partizione dei dati, specificando il **grado di ottimalità** di ogni soluzione ammissibile.  
+Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza** il criterio scelto.
+Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
 minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi$$J_e=\sum_{i=1,...s}\sum_{x\in C_i}||x-\overline x_i||^2,\quad\overline x_i = \frac{1}{n_i}\sum_{x\in C_i}x$$
 dove $C_i$ è l’i-esimo cluster, $n_i$ il numero di pattern che contiene e $\overline x_i$ il suo centroide (media).
+### Come opera un livello di pooling in una CNN?
+
 
 ---
 # Esercizi
