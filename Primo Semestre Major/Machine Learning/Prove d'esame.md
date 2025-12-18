@@ -10,7 +10,7 @@ Per la suddivisione si tende ad usare una distribuzione standard come segue:
 -  Test set 15-20%
 
 Esempio 70%|15%|15%.
-Ma può essere messa in atto quando si ha un dataset di medi/grandi dimensioni, se invece si ha a disposizione pochi dati si può decidere di non avere un validation set a favore dell'applicazione della k-fold  cross validation per ottimizzare gli iper parametri.
+Ma può essere messa in atto quando si ha un dataset di medi/grandi dimensioni, se invece si ha a disposizione pochi dati si può decidere di non avere un validationFF set a favore dell'applicazione della k-fold  cross validation per ottimizzare gli iper parametri.
 ### Nella Formulazione dell’SVM Lineare la Funzione Obiettivo Richiede Di Massimizzare Il Margine. L’ottimizzazione È Però Vincolata; in Cosa Consistono I Vicoli? Quanti Sono?
 
 Hard Margin
@@ -136,6 +136,8 @@ Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il 
 - alleviare i problemi legati alla curse of dimensionality, perchè operare in grandi spazi di dati richiede una mole di dati per il training elevata.
 - una semplificazione dell'addestramento dei modelli; scartando dati futili o rumorosi può portare anche ad un miglioramento delle prestazioni del modello stesso.
 Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per ridurne la quantità.
+## 17/07/2017 #TODO
+### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio
 
 ---
 # Esercizi
@@ -209,5 +211,6 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ### Svolgimento
 ![[es15.png]]
 ## Calcolo Del Numero Di Run E Della Partizione Del Training Set E Validation Set Durante L'algoritmo K-fold Cross-Validation
-
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png]]
 ### Svolgimento
+![[es16.png]]
