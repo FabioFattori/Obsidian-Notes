@@ -160,6 +160,10 @@ La funzione $f$ viene determinata minimizzando una **funzione di costo**, che mi
 Nel caso della regressione lineare, tale funzione di costo è tipicamente l’**errore quadratico medio (MSE)**.
 
 Lo scopo finale è ottenere un modello che approssimi correttamente la relazione input–output e che sia in grado di **generalizzare** su nuovi dati.
+## 22/01/2018
+### Cosa si intende per Clustering esclusivo e Clustering soft (o Fuzzy). Quest’ultimo che vantaggi può avere?
+
+
 
 ---
 # Esercizi
@@ -174,7 +178,7 @@ $p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
 Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
 ![[1-sol.png]]
-## Calcolo Dei Pesi Di Una NN
+## Calcolo Dei Pesi Di Una NN durante il front propagation #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
 ![[es2.png]]
