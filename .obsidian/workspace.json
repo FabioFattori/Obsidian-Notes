@@ -247,9 +247,20 @@
                   "icon": "lucide-file-text",
                   "title": "5_ML_Regressione"
                 }
+              },
+              {
+                "id": "dd33fb50be497b28",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6_ML_Clustering"
+                }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -264,11 +275,12 @@
   },
   "active": "f5a892ddca53a507",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/17.png",
-    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
+    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/17.png",
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es16.png",
@@ -279,7 +291,6 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png",
-    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",

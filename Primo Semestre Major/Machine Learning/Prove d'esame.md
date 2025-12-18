@@ -161,8 +161,11 @@ Nel caso della regressione lineare, tale funzione di costo è tipicamente l’**
 
 Lo scopo finale è ottenere un modello che approssimi correttamente la relazione input–output e che sia in grado di **generalizzare** su nuovi dati.
 ## 22/01/2018
-### Cosa si intende per Clustering esclusivo e Clustering soft (o Fuzzy). Quest’ultimo che vantaggi può avere?
-
+### Cosa Si Intende per Clustering Esclusivo E Clustering Soft (o Fuzzy). Quest’ultimo Che Vantaggi Può Avere?
+- Clustering hard (esclusivo): un pattern è assegnato (in modo esclusivo) a un solo cluster.
+- Clustering soft (fuzzy): i pattern appartengono a diversi cluster con un certo grado di appartenenza (es. tra 0 e 1). 
+Fuzzy ha il vantaggio che è più efficace nel gestire pattern vicino al bordo di due o più clusters e outliers. L’assegnazione può diventare esclusiva scegliendo, per ogni pattern, il cluster verso cui il grado di appartenenza è massimo.
+### Cosa È Possibile Apprendere Mediante Tecniche Di Reinforcement Learning? Fare Un Esempio
 
 
 ---
@@ -178,7 +181,7 @@ $p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
 Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
 ![[1-sol.png]]
-## Calcolo Dei Pesi Di Una NN durante il front propagation #Ricapitato_1_volta
+## Calcolo Dei Pesi Di Una NN Durante Il front Propagation #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
 ![[es2.png]]
