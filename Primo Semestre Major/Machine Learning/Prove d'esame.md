@@ -110,7 +110,8 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
         Assume che i dati siano generati da una combinazione di distribuzioni gaussiane e assegna i punti ai cluster in modo probabilistico.
 ## 23/06/2017
 ### Nel Classificatore SVM Cosa Sono I Support Vectors?
-
+Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
+Il problema può essere direttamente espresso come funzione di tali pattern
 
 ---
 # Esercizi

@@ -190,39 +190,43 @@
     "type": "floating",
     "children": [
       {
-        "id": "34eecc10bc1b0101",
+        "id": "637386c57f0e3494",
         "type": "window",
         "children": [
           {
-            "id": "3c07b38b9e814cac",
+            "id": "2180ee051a8966c2",
             "type": "tabs",
             "children": [
               {
-                "id": "47926ec0d6d65d8e",
+                "id": "d4e9e1a565dfe502",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nuova scheda"
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "4_ML_Classificazione"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 274,
-        "y": 48,
-        "width": 1166,
-        "height": 835,
+        "x": 0,
+        "y": 0,
+        "width": 1166.5,
+        "height": 860,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "47926ec0d6d65d8e",
+  "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es10.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png",
@@ -236,14 +240,12 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 17.11.43.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 17.05.31.png",
-    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/IMG_7745.heic",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",
     "Primo Semestre Major/Machine Learning/imgs/cartella senza nome",
     "Senza nome.base",
     "New Drawings",
-    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
