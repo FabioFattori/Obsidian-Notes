@@ -200,3 +200,7 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
+## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png]]
+### Svolgimento
+![[es14.png]]
