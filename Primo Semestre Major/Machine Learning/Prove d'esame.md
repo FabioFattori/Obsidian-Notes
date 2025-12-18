@@ -243,8 +243,18 @@ Qui è importante la classifica che il testo fa, quindi:
 - prima posizione => vale 10
 - seconda posizione => vale 7
 - terza posizione => vale 5
-- quarta posizione => vale 3
+- quarta posizione => vale 2
 Avendo bene chiara questa classifica bisogna guardare la tabella fornita dall'esercizio, esempio:
 - prendiamo come esempio la classe 4 per il primo pattern:
 	$C_1$ la classifica come prima, quindi 10, $C_2$ come seconda quindi 7 e $C_3$ come seconda quindi sempre 7, allora nella tabella da completare sotto la classe 4 scriviamo la somma di questi valori quindi 24.
-Questo procedimento lo dobbiamo fare per tutte le classi e per tutti i pattern ottenendo la seguen
+Questo procedimento lo dobbiamo fare per tutte le classi e per tutti i pattern ottenendo la seguente tabella:
+
+|       | 1   | 2   | 3   | 4   |
+| ----- | --- | --- | --- | --- |
+| $p_1$ | 20  | 22  | 6   | 24  |
+| $p_2$ | 27  | 22  | 17  | 6   |
+| $p_3$ | 6   | 22  | 27  | 17  |
+Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i massimi valori delle classi per ogni pattern, quindi:
+- $p_1$ => 4 classe con 24
+- $p_2$ => 1 classe con 27
+- $p_3$ => 3 classe con 27
