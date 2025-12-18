@@ -208,8 +208,21 @@
                   "icon": "lucide-file-text",
                   "title": "9_ML_DeepLearning"
                 }
+              },
+              {
+                "id": "a299e690d19af83b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "2_ML_Fondamenti"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -222,7 +235,7 @@
       }
     ]
   },
-  "active": "777e493975c42362",
+  "active": "a299e690d19af83b",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
