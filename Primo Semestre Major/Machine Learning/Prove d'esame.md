@@ -236,3 +236,15 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png]]
 ### Svolgimento
 ![[es16.png]]
+## Tabella Borda Count di un multiclassificatore
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/17.png]]
+### Svolgimento
+Qui è importante la classifica che il testo fa, quindi:
+- prima posizione => vale 10
+- seconda posizione => vale 7
+- terza posizione => vale 5
+- quarta posizione => vale 3
+Avendo bene chiara questa classifica bisogna guardare la tabella fornita dall'esercizio, esempio:
+- prendiamo come esempio la classe 4 per il primo pattern:
+	$C_1$ la classifica come prima, quindi 10, $C_2$ come seconda quindi 7 e $C_3$ come seconda quindi sempre 7, allora nella tabella da completare sotto la classe 4 scriviamo la somma di questi valori quindi 24.
+Questo procedimento lo dobbiamo fare per tutte le classi e per tutti i pattern ottenendo la seguen
