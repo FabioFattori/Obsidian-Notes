@@ -153,7 +153,13 @@ Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
 ### Qual È l’obiettivo Di Una Tecnica Di Regressione?
-L'obiettivo della regressione è quello di trovare una funzione $f$ che mappa con minor errore quadratico medio  
+
+L’obiettivo di una tecnica di **regressione** è stimare una funzione $f$ che approssimi la relazione tra le **variabili indipendenti** $x$ e la **variabile dipendente** $y$, a partire da un insieme di dati di training.
+
+La funzione $f$ viene determinata minimizzando una **funzione di costo**, che misura l’errore tra i valori predetti $\hat{y} = f(x)$ e i valori reali $y$.  
+Nel caso della regressione lineare, tale funzione di costo è tipicamente l’**errore quadratico medio (MSE)**.
+
+Lo scopo finale è ottenere un modello che approssimi correttamente la relazione input–output e che sia in grado di **generalizzare** su nuovi dati.
 
 ---
 # Esercizi
