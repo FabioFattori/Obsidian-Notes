@@ -140,7 +140,8 @@ Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per
 ### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio
 Per criteri di clustering si intendono delle tecniche che descrivono cosa si vuole ottenere specificando il grado di ottimalità di ogni soluzione ammissibile.
 Un esempio è la minimizzazione distanza dai centroidi:
-minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi
+minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi$$J_e=\sum_{i=1,...s}\sum_{x\in C_i}||x-\overline x_i||^2,\quad\overline x_i = \frac{1}{n_i}\sum_{x\in C_i}x$$
+dove $C_i$ è l’i-esimo cluster, $n_i$ il numero di pattern che contiene e $\overline x_i$ il suo centroide (media).
 
 ---
 # Esercizi
