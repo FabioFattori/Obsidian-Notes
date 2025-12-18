@@ -148,6 +148,12 @@ L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazi
 
 L’operazione di pooling viene applicata **indipendentemente a ciascuna feature map**, in modo tale che il **numero di feature map in uscita rimanga uguale** a quello in ingresso.  
 Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
+### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting?
+Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
+Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
+Spesso si ottiene overfitting con una piccola quantità di pattern nel training set.
+### Qual È l’obiettivo Di Una Tecnica Di Regressione?
+
 
 ---
 # Esercizi
