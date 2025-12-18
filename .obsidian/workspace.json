@@ -198,15 +198,13 @@
             "type": "tabs",
             "children": [
               {
-                "id": "d4e9e1a565dfe502",
+                "id": "668f55a78b7a7737",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "4_ML_Classificazione"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Nuova scheda"
                 }
               }
             ]
@@ -222,7 +220,7 @@
       }
     ]
   },
-  "active": "92eb498364c3d6ba",
+  "active": "668f55a78b7a7737",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",

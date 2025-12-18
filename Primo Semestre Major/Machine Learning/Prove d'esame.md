@@ -112,7 +112,7 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 ### Nel Classificatore SVM Cosa Sono I Support Vectors?
 Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
 Il problema può essere direttamente espresso come funzione di tali pattern.
-### Qual è l’idea di base di base dell’algoritmo di clustering EM con Gaussian mixture?
+### Qual È l’idea Di Base Di Base dell’algoritmo Di Clustering EM Con Gaussian Mixture?
 
 
 ---
