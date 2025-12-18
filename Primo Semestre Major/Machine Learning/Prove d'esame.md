@@ -121,7 +121,14 @@ L’algoritmo procede in modo **iterativo**, alternando due fasi:
 - **Maximization step (M-step)**: si aggiornano i **parametri delle gaussiane** massimizzando la **verosimiglianza** dei dati pesata dalle probabilità stimate nell’E-step.
 Questo processo viene ripetuto fino a convergenza, portando a una stima dei parametri che **massimizza la likelihood** del modello sui dati osservati .
 ### Quali Sono Le Più Comuni Funzioni Di Attivazione Utilizzate per Neuroni Artificiali? Perché È Necessario Che Siano Non-lineari E Differenziabili (esistenza derivata) ?
+- Relu
+- Eli
+- tanh
+- sigmoid
 
+Le funzioni di attivazioni devono essere non lineari e differenziabili perchè:
+- Non lineare per permettere alla rete di eseguire un mapping complesso delle informazioni di input
+- Differenziabile per permettere l'applicazione dell'algoritmo di backpropagation
 
 ---
 # Esercizi
