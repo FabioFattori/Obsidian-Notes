@@ -138,6 +138,9 @@ Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il 
 Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per ridurne la quantità.
 ## 17/07/2017 #TODO
 ### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio
+Per criteri di clustering si intendono delle tecniche che descrivono cosa si vuole ottenere specificando il grado di ottimalità di ogni soluzione ammissibile.
+Un esempio è la minimizzazione distanza dai centroidi:
+minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi
 
 ---
 # Esercizi
