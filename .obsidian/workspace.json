@@ -198,18 +198,31 @@
             "type": "tabs",
             "children": [
               {
-                "id": "668f55a78b7a7737",
+                "id": "4165eb2f5cd737e4",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
+                    "file": "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "6_ML_Clustering"
+                  "title": "8_ML_RetiNeurali"
+                }
+              },
+              {
+                "id": "ef90f40d29e88add",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "9_ML_DeepLearning"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -222,20 +235,20 @@
       }
     ]
   },
-  "active": "668f55a78b7a7737",
+  "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
+    "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es10.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png",
-    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Screenshot 2025-12-15 alle 17.11.43.png",

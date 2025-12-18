@@ -113,6 +113,14 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
 Il problema può essere direttamente espresso come funzione di tali pattern.
 ### Qual È l’idea Di Base Di Base dell’algoritmo Di Clustering EM Con Gaussian Mixture?
+L’idea di base dell’algoritmo **EM (Expectation–Maximization) con Gaussian Mixture** è modellare i dati come generati da una **combinazione (mixture) di distribuzioni gaussiane**, ciascuna delle quali rappresenta un cluster.
+
+Ogni cluster è descritto da una gaussiana caratterizzata da **media**, **covarianza** e **peso**, e l’appartenenza di un pattern a un cluster è espressa in modo **probabilistico**, non deterministico.
+L’algoritmo procede in modo **iterativo**, alternando due fasi:
+- **Expectation step (E-step)**: si stima, per ogni pattern, la **probabilità di appartenenza** a ciascuna gaussiana, dati i parametri correnti del modello;
+- **Maximization step (M-step)**: si aggiornano i **parametri delle gaussiane** massimizzando la **verosimiglianza** dei dati pesata dalle probabilità stimate nell’E-step.
+Questo processo viene ripetuto fino a convergenza, portando a una stima dei parametri che **massimizza la likelihood** del modello sui dati osservati .
+### Quali Sono Le Più Comuni Funzioni Di Attivazione Utilizzate per Neuroni Artificiali? Perché È Necessario Che Siano Non-lineari E Differenziabili (esistenza derivata) ?
 
 
 ---
