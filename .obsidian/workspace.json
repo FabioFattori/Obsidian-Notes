@@ -201,10 +201,12 @@
                 "id": "668f55a78b7a7737",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nuova scheda"
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6_ML_Clustering"
                 }
               }
             ]
@@ -222,8 +224,9 @@
   },
   "active": "668f55a78b7a7737",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
+    "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es10.png",
@@ -243,7 +246,6 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi",
     "Primo Semestre Major/Machine Learning/imgs/cartella senza nome",
     "Senza nome.base",
-    "New Drawings",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
