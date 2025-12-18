@@ -163,7 +163,8 @@ Lo scopo finale è ottenere un modello che approssimi correttamente la relazione
 
 ---
 # Esercizi
-## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X
+## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
+
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
 ### Svolgimento
 $d$ => numero di classi. 
@@ -261,4 +262,6 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 ## Calcolo Del Numero Di Pesi Di Una MLP CON BAYAS (simile Ma Diverso Dal Calcolo Che È Stato Fatto Nell'esercizio precedente)
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png]]
 ### Svolgimento
-il calcolo è praticamente uguale a quello fatto [[##Calcolo del numer]]
+il calcolo è praticamente uguale a quello fatto qua [[#Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP]] ma è diverso perchè c'è il bayas quindi bisogna fare questo:
+$(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
+Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
