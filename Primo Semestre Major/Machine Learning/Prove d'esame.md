@@ -108,7 +108,9 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 - **Clustering probabilistico / model-based**
     - **Gaussian Mixture Models (GMM)**  
         Assume che i dati siano generati da una combinazione di distribuzioni gaussiane e assegna i punti ai cluster in modo probabilistico.
-## 23/06/2017 #TODO 
+## 23/06/2017
+### Nel Classificatore SVM Cosa Sono I Support Vectors?
+
 
 ---
 # Esercizi
