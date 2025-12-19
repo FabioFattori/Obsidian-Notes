@@ -177,7 +177,17 @@ Per Learning supervisionato si intende quando le classi dei pattern del training
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
 ### Nelle SVM non lineari cosa si intende per kernel? Quali sono i kernel più utilizzati?
-Il kernel è una 
+Nelle **SVM non lineari**, un **kernel** è una funzione che consente di calcolare il **prodotto scalare tra due pattern nello spazio delle feature** senza eseguire esplicitamente il mapping in uno spazio di dimensione più elevata.  
+Formalmente, il kernel è definito come:
+\[
+K(x, x') = \langle \phi(x), \phi(x') \rangle
+\]
+dove $\phi(\cdot)$ è una funzione di mapping verso uno spazio delle feature ad alta (o infinita) dimensionalità.
+
+L’uso del kernel permette di applicare algoritmi lineari in spazi non lineari tramite il cosiddetto **kernel trick**, rendendo computazionalmente fattibile la risoluzione del problema.
+Sono funzioni kernel:
+- RBF di ampiezza $\alpha$  
+- Polinomio di grado $q$
 
 ---
 # Esercizi
