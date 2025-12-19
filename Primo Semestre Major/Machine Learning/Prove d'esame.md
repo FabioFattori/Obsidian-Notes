@@ -172,7 +172,12 @@ Mediante le tecniche di **Reinforcement Learning (RL)** è possibile apprendere 
 Nel Reinforcement Learning l’apprendimento avviene tramite **interazione diretta con l’ambiente**: l’agente osserva lo stato corrente, seleziona un’azione, riceve una ricompensa e aggiorna la propria politica sulla base dell’esperienza accumulata. Non sono quindi disponibili etichette corrette a priori, ma solo segnali di rinforzo.
 
 Un esempio tipico è l’apprendimento del comportamento di un **agente che gioca a un videogioco**, il quale impara progressivamente quali azioni intraprendere per massimizzare il punteggio finale, ricevendo ricompense positive o negative in base alle conseguenze delle proprie azioni.
-### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato. #TODO
+### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato
+Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
+La situazione tipica del learning supervisionato è la classificazione o la regressione.
+Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
+### Nelle SVM non lineari cosa si intende per kernel? Quali sono i kernel più utilizzati?
+Il kernel è una 
 
 ---
 # Esercizi
