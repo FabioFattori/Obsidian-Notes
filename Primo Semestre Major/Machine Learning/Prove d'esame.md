@@ -176,12 +176,12 @@ Un esempio tipico è l’apprendimento del comportamento di un **agente che gioc
 Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
-### Nelle SVM non lineari cosa si intende per kernel? Quali sono i kernel più utilizzati?
+### Nelle SVM Non Lineari Cosa Si Intende per Kernel? Quali Sono I Kernel Più Utilizzati?
 Nelle **SVM non lineari**, un **kernel** è una funzione che consente di calcolare il **prodotto scalare tra due pattern nello spazio delle feature** senza eseguire esplicitamente il mapping in uno spazio di dimensione più elevata.  
 Formalmente, il kernel è definito come:
-\[
+$$
 K(x, x') = \langle \phi(x), \phi(x') \rangle
-\]
+$$
 dove $\phi(\cdot)$ è una funzione di mapping verso uno spazio delle feature ad alta (o infinita) dimensionalità.
 
 L’uso del kernel permette di applicare algoritmi lineari in spazi non lineari tramite il cosiddetto **kernel trick**, rendendo computazionalmente fattibile la risoluzione del problema.
@@ -293,3 +293,8 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 il calcolo è praticamente uguale a quello fatto qua [[#Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP]] ma è diverso perchè c'è il bayas quindi bisogna fare questo:
 $(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
 Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
+## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/19.png]]
+### Svolgimento
+![[es19.png]]
+## Formulare il problema di mul
