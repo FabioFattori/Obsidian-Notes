@@ -297,4 +297,8 @@ Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/19.png]]
 ### Svolgimento
 ![[es19.png]]
-## Formulare il problema di mul
+## Formulare Il Problema Di Multiple Linear Regressor Definendo X Ed Y
+![[es20.png]]
+### Svolgimento
+Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png]]
