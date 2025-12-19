@@ -188,6 +188,7 @@ L’uso del kernel permette di applicare algoritmi lineari in spazi non lineari 
 Sono funzioni kernel:
 - RBF di ampiezza $\alpha$  
 - Polinomio di grado $q$
+## 15/02/2018 #TODO
 
 ---
 # Esercizi
