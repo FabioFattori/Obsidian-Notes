@@ -292,9 +292,12 @@ $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
 Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
-## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN
+## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN #Ripetuto_1_volta_con_variante_del_bias 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png]]
 Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuroni del livello di input pari alla dimensione del filtro (3 × 11 × 11). Pertanto il numero totale di connessioni è (96 × 55 × 55) ∙ (3 × 11 × 11) = 105 415 200. Il numero totale di pesi, invece, risulta molto più piccolo giacché in una CNN i pesi di ciascun filtro sono condivisi da tutti i neuroni contenuti in una stessa feature map. Visto che il numero di feature map è uguale a 96, ed il numero di input per ciascun filtro è pari a (3 × 11 × 11), il numero totale di pesi (senza considerare il bias) è (3 × 11 × 11) × 96 = 34 848.
+#### Variante Bias
+Calcolo delle connessioni rimane uguale.
+il calcolo dei pesi diventa => ((3 × 11 × 11)+1) × 96 = 
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X VARIANTE
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
