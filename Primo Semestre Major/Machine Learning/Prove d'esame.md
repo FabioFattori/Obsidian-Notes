@@ -310,7 +310,7 @@ dove:
 Il valore $net$ rappresenta l’ingresso della **funzione di attivazione**, che produce l’output del neurone.
 ### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA
 La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analysis)** sono entrambe tecniche di riduzione di dimensionalità, ma si basano su **obiettivi e criteri differenti**.
-#### Differenze principali
+#### Differenze Principali
 - **Tipo di apprendimento**:
   - PCA → non supervisionata;
   - LDA → supervisionata.
@@ -324,6 +324,9 @@ La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analys
   - PCA → scelta liberamente;
   - LDA → al più $K - 1$, con $K$ numero di classi.
 La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
+## 16/07/2018 #TODO 
+
+
 ---
 # Esercizi
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
@@ -341,7 +344,7 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
 ![[es2.png]]
-## Majority Vote Rule Di Una Multiclassificatore #Ricapitato_1_volta 
+## Majority Vote Rule Di Una Multiclassificatore #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
 ### Svolgimento
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
@@ -349,7 +352,7 @@ Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli c
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
-## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ripetuto_1_volta
+## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ricapitato_1_volta 
 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
 ### Svolgimento
@@ -357,7 +360,7 @@ $n$ => numero dei pattern forniti dall'esercizio
 $\mu$ => vettore media dei pattern forniti, per questo esercizio in particolare bisogna fare la media del primo elemento dei singoli pattern e del secondo elemento:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png]]
 per quanto riguarda la matrice basta applicare la formula, è lunga ma si fa, ricordati che la dimensione di $\sum{}{}$ è la dimensione del singolo pattern per la dimensione di $\mu$ perchè alla fine della fiera è una moltiplicazione tra matrici.
-## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern #Ricapitato_1_volta 
+## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png]]
 ### Svolgimento
 Per quanto riguarda l'appartenenza ai centroidi bisogna calcolare la distanza euclidea di ogni punto da ciascuno dei due, la minore ci dice a quale cluster appartiene il pattern:
@@ -382,7 +385,7 @@ $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
 Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
-## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN #Ripetuto_1_volta_con_variante_del_bias
+## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN #Ricapitato_1_volta_con_variante_del_bias
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png]]
 Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuroni del livello di input pari alla dimensione del filtro (3 × 11 × 11). Pertanto il numero totale di connessioni è (96 × 55 × 55) ∙ (3 × 11 × 11) = 105 415 200. Il numero totale di pesi, invece, risulta molto più piccolo giacché in una CNN i pesi di ciascun filtro sono condivisi da tutti i neuroni contenuti in una stessa feature map. Visto che il numero di feature map è uguale a 96, ed il numero di input per ciascun filtro è pari a (3 × 11 × 11), il numero totale di pesi (senza considerare il bias) è (3 × 11 × 11) × 96 = 34 848.
 ### Variante Bias
@@ -442,6 +445,10 @@ Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra
 Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png]]
 ## PCA E LDA
-![[Pasted image 20251224184805.png]]
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/21.png]]
 ### Svolgimento
-![[Pasted image 20251224184905.png]]
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/22.png]]
+## Calcolo Delle Dimensioni Delle Feature Map Prodotte Da Una CNN
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png]]
+### Svolgimento
+![[es23.png]]
