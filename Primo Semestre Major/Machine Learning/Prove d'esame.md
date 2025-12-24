@@ -259,11 +259,56 @@ La fase più recente è caratterizzata dall’affermazione del **Deep Learning**
 - elevata potenza computazionale.
 
 Le DNN consentono di apprendere **rappresentazioni gerarchiche** dei dati e hanno portato a risultati rilevanti in visione, linguaggio e decision making.
-### Definire i problemi di Classificazione e Regressione evidenziandone le differenze e fornendo per ciascuno esempi reali della loro applicazione.
+### Definizione dei problemi di Classificazione e Regressione, differenze ed esempi applicativi
+Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
+#### Problema di Classificazione
+Un problema di **classificazione** consiste nel determinare, a partire da un vettore di input $x$, la **classe discreta** $y$ a cui il pattern appartiene, scelta da un insieme finito di etichette.
 
-### Come si calcola l’attivazione (net) di un neurone artificiale? Indicare formula e commentarla
-$$ net = \sum_{i=1 ... n}w_i*out_i $$
-$w_i$
+Formalmente, l’obiettivo è apprendere una funzione:
+$$
+f: \mathbb{R}^d \rightarrow \{c_1, c_2, \dots, c_K\}
+$$
+##### Esempi applicativi
+- classificazione di email in *spam* o *non spam*;
+- riconoscimento di cifre scritte a mano;
+- diagnosi medica (malato / sano);
+- riconoscimento di oggetti o persone in immagini.
+#### Problema di Regressione
+Un problema di **regressione** ha come obiettivo la stima di una **variabile continua** $y \in \mathbb{R}$ a partire da un insieme di variabili indipendenti $x$.
+
+Formalmente, si apprende una funzione:
+$$
+f: \mathbb{R}^d \rightarrow \mathbb{R}
+$$
+La funzione viene stimata minimizzando una funzione di errore, tipicamente l’**errore quadratico medio**.
+##### Esempi applicativi
+- previsione del prezzo di un immobile;
+- stima del consumo energetico;
+- previsione della temperatura;
+- previsione di vendite o domanda futura.
+#### Differenze principali tra Classificazione e Regressione
+- **Tipo di output**:
+  - classificazione → valori discreti (etichette);
+  - regressione → valori continui.
+- **Obiettivo**:
+  - classificazione → assegnare un pattern a una classe;
+  - regressione → stimare una relazione quantitativa tra input e output.
+- **Misure di errore**:
+  - classificazione → accuratezza, errore di classificazione;
+  - regressione → errore quadratico medio, errore assoluto medio.
+Entrambi i problemi rientrano nell’apprendimento supervisionato, ma si differenziano per la natura dell’informazione che il modello è chiamato a predire.
+### Come si calcola l’attivazione (net) di un neurone artificiale?
+L’attivazione (o **net input**) di un neurone artificiale è calcolata come la **somma pesata degli input**, a cui si aggiunge un termine di **bias**.
+La formula è:
+$$
+net = \sum_{i=1}^{n} w_i x_i + b
+$$
+dove:
+- $x_i$ sono gli **input** provenienti dai neuroni dello strato precedente;
+- $w_i$ sono i **pesi sinaptici** associati a ciascun input;
+- $b$ è il **bias**, che permette di traslare la funzione di decisione.
+Il valore $net$ rappresenta l’ingresso della **funzione di attivazione**, che produce l’output del neurone.
+### Indicare le differenze tra le tecniche di riduzione di dimensionalità PCA e LDA.
 
 ---
 # Esercizi
