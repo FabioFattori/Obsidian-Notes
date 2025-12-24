@@ -231,7 +231,8 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 - Ricorrenti: 
 	nelle reti ricorrenti sono previste connessioni di feedback (in genere verso neuroni dello stesso livello, ma anche all’indietro). Questo complica notevolmente il flusso delle informazioni e l’addestramento, richiedendo di considerare il comportamento in più istanti temporali.
 	Questo tipo di reti presenzia un effetto memoria, molto utile quando il tipo di dato è del genere delle sequenze.
-
+#### Disegno
+[[reti feed and ricorrenti]]
 
 ---
 # Esercizi

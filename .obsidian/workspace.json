@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
-          },
-          {
-            "id": "2e8634056c6442e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "reti feed and ricorrenti"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,10 +283,11 @@
       }
     ]
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "777e493975c42362",
   "lastOpenFiles": [
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
@@ -322,7 +310,6 @@
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
-    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Random Notes/Distributed project proposal.md",
     "Random Notes",
     "Primo Semestre Major/Modalità d'esame.md",
