@@ -214,7 +214,7 @@ In particolare, EM con Gaussian Mixture:
 - permette di modellare cluster con **forme ellittiche**, grazie all’uso di **matrici di covarianza** complete;
 - consente cluster con **dimensioni e orientamenti diversi**, mentre K-means assume varianza uguale in tutte le direzioni;
 - fornisce un’**assegnazione soft** dei pattern ai cluster, esprimendo l’appartenenza in termini di **probabilità**, invece di un’assegnazione hard come in K-means;
-- modella esplicitamente la distribuzione dei dati come una **combinazione di gaussiane**, anziché basarsi solo sulla inimizzazione della distanza dai centroidi.
+- modella esplicitamente la distribuzione dei dati come una **combinazione di gaussiane**, anziché basarsi solo sulla minimizzazione della distanza dai centroidi.
 
 Queste caratteristiche rendono il clustering EM con Gaussian Mixture più adatto a descrivere strutture complesse nei dati rispetto a K-means.
 ### Cosa Si Intende per K-fold Cross-validation?
@@ -324,7 +324,7 @@ La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analys
   - PCA → scelta liberamente;
   - LDA → al più $K - 1$, con $K$ numero di classi.
 La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
-## 16/07/2018 #TODO 
+## 16/07/2018 #TODO
 
 
 ---
@@ -352,7 +352,7 @@ Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli c
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
-## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ricapitato_1_volta 
+## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ricapitato_1_volta
 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
 ### Svolgimento
