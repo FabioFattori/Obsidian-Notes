@@ -189,6 +189,7 @@ Sono funzioni kernel:
 - RBF di ampiezza $\alpha$  
 - Polinomio di grado $q$
 ## 15/02/2018
+### Cosa Si Intende Con SVM Lineari? Cosa Sono Le Superfici Di Separazione Nel Caso d=2 E d=3?
 
 
 ---
