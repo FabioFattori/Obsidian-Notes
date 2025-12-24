@@ -233,20 +233,20 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 	Questo tipo di reti presenzia un effetto memoria, molto utile quando il tipo di dato è del genere delle sequenze.
 #### Disegno
 [[reti feed and ricorrenti]]
-## 22/06/18 
-### Principali “stagioni” nello sviluppo dell’Intelligenza Artificiale e del Machine Learning
+## 22/06/18
+### Principali “stagioni” Nello Sviluppo dell’Intelligenza Artificiale E Del Machine Learning
 Lo sviluppo dell’**Intelligenza Artificiale (AI)** e del **Machine Learning (ML)** può essere suddiviso in alcune principali *stagioni storiche*, ciascuna caratterizzata da differenti approcci e tecniche.
-#### 1. AI simbolica (anni ’50–’70)
+#### 1. AI Simbolica (anni ’50–’70)
 La prima fase è caratterizzata dall’**approccio simbolico**, in cui l’intelligenza viene modellata tramite:
 - regole logiche esplicite;
 - sistemi basati su conoscenza e inferenza;
 - rappresentazioni simboliche del sapere.
 
 In questa fase l’intelligenza è vista come **manipolazione di simboli**, con poca o nessuna capacità di apprendimento dai dati.
-#### 2. Primo entusiasmo per le reti neurali (anni ’60–’80)
+#### 2. Primo Entusiasmo per Le Reti Neurali (anni ’60–’80)
 Emergono i primi modelli di **reti neurali artificiali**, come il **percettrone**.  
 Tuttavia, limitazioni teoriche e computazionali portano a un ridimensionamento dell’interesse (prima “AI winter”).
-#### 3. Machine Learning classico (anni ’90–2000)
+#### 3. Machine Learning Classico (anni ’90–2000)
 Con l’aumento della disponibilità di dati e potenza di calcolo si sviluppa il **Machine Learning statistico**, basato su:
 - modelli supervisionati e non supervisionati;
 - metodi come regressione, classificatori lineari, SVM, clustering.
@@ -259,21 +259,21 @@ La fase più recente è caratterizzata dall’affermazione del **Deep Learning**
 - elevata potenza computazionale.
 
 Le DNN consentono di apprendere **rappresentazioni gerarchiche** dei dati e hanno portato a risultati rilevanti in visione, linguaggio e decision making.
-### Definizione dei problemi di Classificazione e Regressione, differenze ed esempi applicativi
+### Definizione Dei Problemi Di Classificazione E Regressione, Differenze Ed Esempi Applicativi
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
-#### Problema di Classificazione
+#### Problema Di Classificazione
 Un problema di **classificazione** consiste nel determinare, a partire da un vettore di input $x$, la **classe discreta** $y$ a cui il pattern appartiene, scelta da un insieme finito di etichette.
 
 Formalmente, l’obiettivo è apprendere una funzione:
 $$
 f: \mathbb{R}^d \rightarrow \{c_1, c_2, \dots, c_K\}
 $$
-##### Esempi applicativi
+##### Esempi Applicativi
 - classificazione di email in *spam* o *non spam*;
 - riconoscimento di cifre scritte a mano;
 - diagnosi medica (malato / sano);
 - riconoscimento di oggetti o persone in immagini.
-#### Problema di Regressione
+#### Problema Di Regressione
 Un problema di **regressione** ha come obiettivo la stima di una **variabile continua** $y \in \mathbb{R}$ a partire da un insieme di variabili indipendenti $x$.
 
 Formalmente, si apprende una funzione:
@@ -281,12 +281,12 @@ $$
 f: \mathbb{R}^d \rightarrow \mathbb{R}
 $$
 La funzione viene stimata minimizzando una funzione di errore, tipicamente l’**errore quadratico medio**.
-##### Esempi applicativi
+##### Esempi Applicativi
 - previsione del prezzo di un immobile;
 - stima del consumo energetico;
 - previsione della temperatura;
 - previsione di vendite o domanda futura.
-#### Differenze principali tra Classificazione e Regressione
+#### Differenze Principali Tra Classificazione E Regressione
 - **Tipo di output**:
   - classificazione → valori discreti (etichette);
   - regressione → valori continui.
@@ -297,7 +297,7 @@ La funzione viene stimata minimizzando una funzione di errore, tipicamente l’*
   - classificazione → accuratezza, errore di classificazione;
   - regressione → errore quadratico medio, errore assoluto medio.
 Entrambi i problemi rientrano nell’apprendimento supervisionato, ma si differenziano per la natura dell’informazione che il modello è chiamato a predire.
-### Come si calcola l’attivazione (net) di un neurone artificiale?
+### Come Si Calcola l’attivazione (net) Di Un Neurone Artificiale?
 L’attivazione (o **net input**) di un neurone artificiale è calcolata come la **somma pesata degli input**, a cui si aggiunge un termine di **bias**.
 La formula è:
 $$
@@ -308,8 +308,22 @@ dove:
 - $w_i$ sono i **pesi sinaptici** associati a ciascun input;
 - $b$ è il **bias**, che permette di traslare la funzione di decisione.
 Il valore $net$ rappresenta l’ingresso della **funzione di attivazione**, che produce l’output del neurone.
-### Indicare le differenze tra le tecniche di riduzione di dimensionalità PCA e LDA.
-
+### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA
+La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analysis)** sono entrambe tecniche di riduzione di dimensionalità, ma si basano su **obiettivi e criteri differenti**.
+#### Differenze principali
+- **Tipo di apprendimento**:
+  - PCA → non supervisionata;
+  - LDA → supervisionata.
+- **Obiettivo**:
+  - PCA → preservare la massima varianza dei dati;
+  - LDA → massimizzare la separabilità tra le classi.
+- **Uso delle classi**:
+  - PCA → non utilizza le etichette;
+  - LDA → utilizza le etichette.
+- **Dimensione dello spazio ridotto**:
+  - PCA → scelta liberamente;
+  - LDA → al più $K - 1$, con $K$ numero di classi.
+La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
 ---
 # Esercizi
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
@@ -327,7 +341,7 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
 ![[es2.png]]
-## Majority Vote Rule Di Una Multiclassificatore
+## Majority Vote Rule Di Una Multiclassificatore #Ricapitato_1_volta 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
 ### Svolgimento
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
@@ -343,7 +357,7 @@ $n$ => numero dei pattern forniti dall'esercizio
 $\mu$ => vettore media dei pattern forniti, per questo esercizio in particolare bisogna fare la media del primo elemento dei singoli pattern e del secondo elemento:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png]]
 per quanto riguarda la matrice basta applicare la formula, è lunga ma si fa, ricordati che la dimensione di $\sum{}{}$ è la dimensione del singolo pattern per la dimensione di $\mu$ perchè alla fine della fiera è una moltiplicazione tra matrici.
-## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern
+## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern #Ricapitato_1_volta 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png]]
 ### Svolgimento
 Per quanto riguarda l'appartenenza ai centroidi bisogna calcolare la distanza euclidea di ogni punto da ciascuno dei due, la minore ci dice a quale cluster appartiene il pattern:
