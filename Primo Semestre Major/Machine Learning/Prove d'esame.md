@@ -217,13 +217,21 @@ In particolare, EM con Gaussian Mixture:
 - modella esplicitamente la distribuzione dei dati come una **combinazione di gaussiane**, anziché basarsi solo sulla inimizzazione della distanza dai centroidi.
 
 Queste caratteristiche rendono il clustering EM con Gaussian Mixture più adatto a descrivere strutture complesse nei dati rispetto a K-means.
-
-
+### Cosa Si Intende per K-fold Cross-validation?
+La **K-fold cross-validation** è una tecnica di **valutazione delle prestazioni di un modello** che consiste nel suddividere il dataset disponibile in **K sottoinsiemi (fold)** di dimensione approssimativamente uguale.
+Il procedimento è il seguente:
+- il modello viene addestrato **K volte**;
+- a ogni iterazione, **K−1 fold** vengono utilizzati come **training set** e il fold rimanente come **validation set**;
+- il processo viene ripetuto fino a quando **ogni fold è stato usato una volta come validation set**.
+Le prestazioni finali del modello sono ottenute come **media delle prestazioni** calcolate sui K esperimenti.
+La K-fold cross-validation permette di ottenere una **stima più affidabile della capacità di generalizzazione** del modello rispetto a una singola suddivisione training/validation, soprattutto quando il dataset disponibile è limitato.
 ### Indicare Le Differenze Tra Reti Neurali Feedforward E Le Reti Neurali Ricorrenti, Disegnando Un Esempio Di Entrambe
 - Feedforward: 
 	nelle reti feedforward le connessioni collegano i neuroni di un livello con i neuroni di un livello successivo. Non sono consentite connessioni all’indietro o connessioni verso lo stesso livello.
 - Ricorrenti: 
-	nelle reti ricorrenti sono ammesse anche connessioni che vanno da un livello $i$ ad un livello $i-1$, questo per 
+	nelle reti ricorrenti sono previste connessioni di feedback (in genere verso neuroni dello stesso livello, ma anche all’indietro). Questo complica notevolmente il flusso delle informazioni e l’addestramento, richiedendo di considerare il comportamento in più istanti temporali.
+	Questo tipo di reti presenzia un effetto memoria, molto utile quando il tipo di dato è del genere delle sequenze.
+
 
 ---
 # Esercizi
