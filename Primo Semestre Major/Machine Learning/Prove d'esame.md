@@ -190,7 +190,25 @@ Sono funzioni kernel:
 - Polinomio di grado $q$
 ## 15/02/2018
 ### Cosa Si Intende Con SVM Lineari? Cosa Sono Le Superfici Di Separazione Nel Caso d=2 E d=3?
-
+Le **SVM lineari** sono classificatori che cercano una **funzione di decisione lineare** nello spazio delle feature, con l’obiettivo di separare le classi tramite un **iperpiano** che massimizza il **margine** tra i campioni delle diverse classi.
+Nel caso lineare, la funzione di decisione ha la forma:
+$$
+f(x) = w^T x + b
+$$
+dove $w$ è il vettore dei pesi e $b$ è il termine di bias.  
+La classificazione dipende dal segno di $f(x)$.
+La **superficie di separazione** è definita dall’equazione:
+$$
+w^T x + b = 0
+$$
+ed è un oggetto geometrico la cui forma dipende dalla dimensionalità $d$ dello spazio delle feature.
+#### Superficie di separazione per d = 2
+Quando $d = 2$, lo spazio delle feature è bidimensionale e la superficie di separazione è una **retta** nel piano.  
+La retta divide il piano in due semipiani, ciascuno associato a una classe.
+#### Superficie di separazione per d = 3
+Quando $d = 3$, lo spazio delle feature è tridimensionale e la superficie di separazione è un **piano**.  
+Anche in questo caso, il piano divide lo spazio in due regioni, una per ciascuna classe.
+### Rispetto a K-means l’approccio di clustering EM con Gaussian mixture quali maggiori flessibilità consente?
 
 ---
 # Esercizi
