@@ -119,7 +119,7 @@ L’algoritmo procede in modo **iterativo**, alternando due fasi:
 - **Expectation step (E-step)**: si stima, per ogni pattern, la **probabilità di appartenenza** a ciascuna gaussiana, dati i parametri correnti del modello;
 - **Maximization step (M-step)**: si aggiornano i **parametri delle gaussiane** massimizzando la **verosimiglianza** dei dati pesata dalle probabilità stimate nell’E-step.
 Questo processo viene ripetuto fino a convergenza, portando a una stima dei parametri che **massimizza la likelihood** del modello sui dati osservati .
-### Quali Sono Le Più Comuni Funzioni Di Attivazione Utilizzate per Neuroni Artificiali? Perché È Necessario Che Siano Non-lineari E Differenziabili (esistenza derivata) ?
+### Quali Sono Le Più Comuni Funzioni Di Attivazione Utilizzate per Neuroni Artificiali? Percle distribuzioni riportate nel grafico sohé È Necessario Che Siano Non-lineari E Differenziabili (esistenza derivata) ?
 - Relu
 - Eli
 - tanh
@@ -259,7 +259,8 @@ Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli c
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
-## Calcolo Del Vettore Medio E Della Matrica Di Covarianza
+## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ripetuto_1_volta
+
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
 ### Svolgimento
 $n$ => numero dei pattern forniti dall'esercizio
@@ -347,3 +348,7 @@ Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra
 ### Svolgimento
 Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png]]
+## PCA e LDA 
+![[Pasted image 20251224184805.png]]
+### Svolgimento
+![[Pasted image 20251224184905.png]]
