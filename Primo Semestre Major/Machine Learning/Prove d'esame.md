@@ -202,13 +202,28 @@ $$
 w^T x + b = 0
 $$
 ed è un oggetto geometrico la cui forma dipende dalla dimensionalità $d$ dello spazio delle feature.
-#### Superficie di separazione per d = 2
+#### Superficie Di Separazione per D = 2
 Quando $d = 2$, lo spazio delle feature è bidimensionale e la superficie di separazione è una **retta** nel piano.  
 La retta divide il piano in due semipiani, ciascuno associato a una classe.
-#### Superficie di separazione per d = 3
+#### Superficie Di Separazione per D = 3
 Quando $d = 3$, lo spazio delle feature è tridimensionale e la superficie di separazione è un **piano**.  
 Anche in questo caso, il piano divide lo spazio in due regioni, una per ciascuna classe.
-### Rispetto a K-means l’approccio di clustering EM con Gaussian mixture quali maggiori flessibilità consente?
+### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture?
+Rispetto a **K-means**, l’approccio di clustering **EM con Gaussian Mixture** consente una maggiore flessibilità perché non assume cluster sferici di uguale dimensione e introduce una **modellazione probabilistica** dei dati.
+In particolare, EM con Gaussian Mixture:
+- permette di modellare cluster con **forme ellittiche**, grazie all’uso di **matrici di covarianza** complete;
+- consente cluster con **dimensioni e orientamenti diversi**, mentre K-means assume varianza uguale in tutte le direzioni;
+- fornisce un’**assegnazione soft** dei pattern ai cluster, esprimendo l’appartenenza in termini di **probabilità**, invece di un’assegnazione hard come in K-means;
+- modella esplicitamente la distribuzione dei dati come una **combinazione di gaussiane**, anziché basarsi solo sulla inimizzazione della distanza dai centroidi.
+
+Queste caratteristiche rendono il clustering EM con Gaussian Mixture più adatto a descrivere strutture complesse nei dati rispetto a K-means.
+
+
+### Indicare Le Differenze Tra Reti Neurali Feedforward E Le Reti Neurali Ricorrenti, Disegnando Un Esempio Di Entrambe
+- Feedforward: 
+	nelle reti feedforward le connessioni collegano i neuroni di un livello con i neuroni di un livello successivo. Non sono consentite connessioni all’indietro o connessioni verso lo stesso livello.
+- Ricorrenti: 
+	nelle reti ricorrenti sono ammesse anche connessioni che vanno da un livello $i$ ad un livello $i-1$, questo per 
 
 ---
 # Esercizi
