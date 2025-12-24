@@ -256,8 +256,7 @@
                   "title": "4_ML_Classificazione"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical",
@@ -270,7 +269,7 @@
       }
     ]
   },
-  "active": "777e493975c42362",
+  "active": "c5bb59d18f351740",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
