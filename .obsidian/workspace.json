@@ -22,6 +22,18 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
+          },
+          {
+            "id": "30ce6f348f2240d8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "9_ML_DeepLearning"
+            }
           }
         ]
       }
@@ -224,9 +236,12 @@
   },
   "active": "777e493975c42362",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
+    "Primo Semestre Major/Machine Learning/slides/10_ML_DeepLearning.pdf",
+    "Primo Semestre Major/Machine Learning/slides/Non confermato 770695.crdownload",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/24.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es24.png",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png",
@@ -237,7 +252,6 @@
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
-    "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es20.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es19.png",
@@ -250,7 +264,6 @@
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
     "Random Notes/Distributed project proposal.md",
-    "Random Notes",
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",

@@ -325,29 +325,29 @@ La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analys
   - LDA → al più $K - 1$, con $K$ numero di classi.
 La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
 ## 16/07/2018
-### Quali sono le condizioni necessarie affinché le tecniche di Deep Learning siano più efficaci di altri approcci di Machine Learning?
+### Quali Sono Le Condizioni Necessarie Affinché Le Tecniche Di Deep Learning Siano Più Efficaci Di Altri Approcci Di Machine Learning?
 
 Le tecniche di **Deep Learning** risultano più efficaci rispetto ad altri approcci di Machine Learning quando sono soddisfatte alcune **condizioni fondamentali**, legate ai dati, al modello e alle risorse computazionali.
-#### Grande disponibilità di dati
+#### Grande Disponibilità Di Dati
 Le reti neurali profonde richiedono **grandi quantità di dati** per poter apprendere efficacemente un elevato numero di parametri.
 In presenza di dataset piccoli, modelli più semplici tendono a generalizzare meglio.
-#### Elevata complessità del problema
+#### Elevata Complessità Del Problema
 Il Deep Learning è particolarmente efficace quando il problema presenta:
 - **strutture complesse e non lineari**;
 - **rappresentazioni gerarchiche** dei dati (ad esempio immagini, audio, testo).
 In questi casi, la profondità della rete consente di apprendere automaticamente **feature sempre più astratte**.
-#### Adeguata potenza computazionale
+#### Adeguata Potenza Computazionale
 L’addestramento di reti profonde è computazionalmente costoso e richiede:
 - hardware adeguato (es. GPU);
 - tempi di addestramento sufficienti.
 Senza risorse computazionali adeguate, il Deep Learning non risulta praticabile.
-#### Architetture e tecniche di addestramento adeguate
+#### Architetture E Tecniche Di Addestramento Adeguate
 L’efficacia del Deep Learning dipende anche dall’uso di:
 - architetture appropriate al problema;
 - tecniche che facilitano l’addestramento di reti profonde e migliorano la generalizzazione.
 
 In sintesi, il Deep Learning è più efficace quando si dispone di **molti dati**, **problemi complessi**, **potenza di calcolo sufficiente** e **modelli profondi ben progettati**. In assenza di queste condizioni, approcci di Machine Learning più semplici possono risultare preferibili.
-### La formula di distanza di un pattern dall’iperpiano SVM dipende da tutti i pattern di training?
+### La Formula Di Distanza Di Un Pattern dall’iperpiano SVM Dipende Da Tutti I Pattern Di Training?
 La **formula della distanza di un pattern dall’iperpiano** risultante dal training di una **SVM** dipende **solo da una parte dei pattern del training set**, e non da tutti.
 In particolare, dipende esclusivamente dai **support vector**.
 Infatti, l’iperpiano di separazione ottimale è determinato unicamente da quei pattern che:
@@ -357,7 +357,7 @@ Infatti, l’iperpiano di separazione ottimale è determinato unicamente da quei
 Tutti gli altri pattern del training set, che si trovano a distanza maggiore dal margine, **non influenzano la posizione dell’iperpiano** e non compaiono nella formula della funzione di decisione.
 Questo avviene perché, nella formulazione duale della SVM, solo i support vector hanno **moltiplicatori di Lagrange non nulli**; di conseguenza, solo essi contribuiscono alla definizione del vettore dei pesi e quindi al calcolo della distanza dall’iperpiano.
 In conclusione, la distanza di un pattern dall’iperpiano SVM dipende **solo dai support vector**, rendendo la SVM un modello sparso.
-### Descrizione a grandi linee dell’algoritmo di Clustering K-means
+### Descrizione a Grandi Linee dell’algoritmo Di Clustering K-means
 L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la partizione di un insieme di pattern in **K cluster**, in modo da minimizzare la distanza intra-cluster.
 L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
 1. **Inizializzazione**  
@@ -372,7 +372,7 @@ L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
    - oppure le assegnazioni dei pattern restano invariate.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
-### Qual è la funzione obiettivo in formato matriciale della Multiple Linear Regression?
+### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression?
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
 - $X \in \mathbb{R}^{n \times (d+1)}$ la **matrice dei dati** (con la colonna di 1 per l’intercetta),
