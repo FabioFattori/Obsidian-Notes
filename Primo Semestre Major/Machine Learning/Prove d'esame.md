@@ -348,7 +348,7 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
 ### Svolgimento
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
-## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP
+## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP  #Ricapitato_1_volta_senza_bias 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
@@ -452,3 +452,7 @@ Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png]]
 ### Svolgimento
 ![[es23.png]]
+## Numero di _run_ e numero di pattern di training e validation di K-fold cross validation
+![[Pasted image 20251226212146.png]]
+### Svolgimento
+![[Pasted image 20251226212209.png]]
