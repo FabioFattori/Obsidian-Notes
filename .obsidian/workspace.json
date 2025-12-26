@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c91fae97b796a1",
+        "id": "9bf5bfd7cb702ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "777e493975c42362",
+            "id": "5075949e5e6e5a77",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/Prove d'esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prove d'esame"
-            }
-          },
-          {
-            "id": "30ce6f348f2240d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "9_ML_DeepLearning"
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,52 +178,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "298636672ca8ecca",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c082547c061777ea",
-        "type": "window",
-        "children": [
-          {
-            "id": "c77fad14a561bf34",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e7aa23d7dc8f49dc",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "7_ML_RiduzioneDimensionalita"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "777e493975c42362",
+  "active": "5075949e5e6e5a77",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
+    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Primo Semestre Major/Machine Learning/slides/10_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/Non confermato 770695.crdownload",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/24.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es24.png",
-    "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es23.png",
@@ -250,7 +195,6 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/22.png",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es20.png",
@@ -259,7 +203,6 @@
     "Primo Semestre Major/Machine Learning/slides/2_ML_Fondamenti.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "conflict-files-obsidian-git.md",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi",
     "Terzo anno Triennale/Data Intensive Notes/Applicazioni Data Intensive.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Preventivo Soul Pida.md",
