@@ -324,7 +324,29 @@ La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analys
   - PCA → scelta liberamente;
   - LDA → al più $K - 1$, con $K$ numero di classi.
 La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
-## 16/07/2018 #TODO
+## 16/07/2018
+### Quali sono le condizioni necessarie affinché le tecniche di Deep Learning siano più efficaci di altri approcci di Machine Learning?
+
+Le tecniche di **Deep Learning** risultano più efficaci rispetto ad altri approcci di Machine Learning quando sono soddisfatte alcune **condizioni fondamentali**, legate ai dati, al modello e alle risorse computazionali.
+#### Grande disponibilità di dati
+Le reti neurali profonde richiedono **grandi quantità di dati** per poter apprendere efficacemente un elevato numero di parametri.
+In presenza di dataset piccoli, modelli più semplici tendono a generalizzare meglio.
+## 2. Elevata complessità del problema
+Il Deep Learning è particolarmente efficace quando il problema presenta:
+- **strutture complesse e non lineari**;
+- **rappresentazioni gerarchiche** dei dati (ad esempio immagini, audio, testo).
+In questi casi, la profondità della rete consente di apprendere automaticamente **feature sempre più astratte**.
+## 3. Adeguata potenza computazionale
+L’addestramento di reti profonde è computazionalmente costoso e richiede:
+- hardware adeguato (es. GPU);
+- tempi di addestramento sufficienti.
+Senza risorse computazionali adeguate, il Deep Learning non risulta praticabile.
+## 4. Architetture e tecniche di addestramento adeguate
+L’efficacia del Deep Learning dipende anche dall’uso di:
+- architetture appropriate al problema;
+- tecniche che facilitano l’addestramento di reti profonde e migliorano la generalizzazione.
+### Osservazione finale
+In sintesi, il Deep Learning è più efficace quando si dispone di **molti dati**, **problemi complessi**, **potenza di calcolo sufficiente** e **modelli profondi ben progettati**. In assenza di queste condizioni, approcci di Machine Learning più semplici possono risultare preferibili.
 
 
 ---
@@ -348,7 +370,7 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
 ### Svolgimento
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
-## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP  #Ricapitato_1_volta_senza_bias 
+## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP #Ricapitato_1_volta_senza_bias
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
@@ -391,7 +413,7 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ### Variante Bias
 Calcolo delle connessioni rimane uguale.
 il calcolo dei pesi diventa => ((3 × 11 × 11)+1) × 96 = 34944
-## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X VARIANTE #Ricapitato_1_volta 
+## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X VARIANTE #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
@@ -452,7 +474,7 @@ Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png]]
 ### Svolgimento
 ![[es23.png]]
-## Numero di _run_ e numero di pattern di training e validation di K-fold cross validation
-![[Pasted image 20251226212146.png]]
+## Numero Di _run_ E Numero Di Pattern Di Training E Validation Di K-fold Cross Validation
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/24.png]]
 ### Svolgimento
-![[Pasted image 20251226212209.png]]
+![[es24.png]]
