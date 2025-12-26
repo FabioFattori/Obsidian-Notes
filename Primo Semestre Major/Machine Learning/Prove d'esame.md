@@ -391,7 +391,7 @@ Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuron
 ### Variante Bias
 Calcolo delle connessioni rimane uguale.
 il calcolo dei pesi diventa => ((3 × 11 × 11)+1) × 96 = 34944
-## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X VARIANTE
+## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X VARIANTE #Ricapitato_1_volta 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
