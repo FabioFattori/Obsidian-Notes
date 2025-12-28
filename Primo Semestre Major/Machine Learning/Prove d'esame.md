@@ -393,7 +393,8 @@ J(\beta) = (y - X\beta)^T (y - X\beta)
 $$
 
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
-
+### Indicare la formula di Bayes per la probabilità a posteriori, definendo i termini.
+Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
 
 ---
 # Esercizi (si ripetono svariate volte, sono bene o male sempre questi)
@@ -529,4 +530,7 @@ dati di training?
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
 ### Svolgimento
 ![[es25.png]]
-## 
+## Calcolo del volume di output di una CNN data una immagine #Ricapitato_1_volta 
+![[Pasted image 20251229005205.png]]
+### Svolgimento
+![[Pasted image 20251229005233.png]]
