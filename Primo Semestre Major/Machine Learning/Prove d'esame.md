@@ -1,4 +1,4 @@
-# <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a>
+# <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande teoriche, ripetute con meno frequenza
 ## 07/12/2016
 ### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
@@ -56,7 +56,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - condividere e riusare le informazioni già estratte su più livelli
 - selezionare feature più astratte, scartando eventuali informazioni inutili durante il processo
 - modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
-### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze
+### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze #Ricapitato_1_volta 
 - Numerici
 	1. Misure numeriche continue di un prodotto, ad esempio la concentrazione di solfati in un vino per predirne la qualità.
 	2. Valori di consumo energetico di un calorifero utilizzati per stimare i costi annuali.
@@ -70,7 +70,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 ## 17/2/2017
-### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano? #Ricapitato_1_volta 
+### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano? #Ricapitato_1_volta
 Per iperparametri si intendono dei valori che definiscono i dettagli archietturali del modello e della corrispondente procedura di training, tali valori non vengono appresi in autonomia dal modello sui dati, ma bensì passati ed utilizzati per la definizione del modello stesso.
 Esempi:
 - learning rate
@@ -89,7 +89,7 @@ Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo
 - $\beta$, che è della forma $\mathbb{R}^{d+1}$, raccoglie i coefficienti del modello, compreso il temine noto.
 Quindi otteniamo che $y=X\beta$ oppure $y_i = \sum^{d+1}_{j=1}x_{i,j}\beta_{j}$
 Poiché tipicamente $n>d+1$, il sistema è **sovradeterminato** e i parametri $\beta$ vengono stimati risolvendo un problema di **minimi quadrati (Least Squares)**.
-### Che cos’è Il Learning Rate nell’ambito dell’apprendimento Di Reti Neurali? Cosa Succede Se Viene Scelto Un Learning Rate Troppo Piccolo O Troppo Grande? #Ricapitato_1_volta 
+### Che cos’è Il Learning Rate nell’ambito dell’apprendimento Di Reti Neurali? Cosa Succede Se Viene Scelto Un Learning Rate Troppo Piccolo O Troppo Grande? #Ricapitato_1_volta
 Il learning rate è un iperparametro che regola l'ampiezza di aggiornamento dei pesi durante la fase di training di una rete neurale tramite backpropagation e gradient descent.
 Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la direzione opposta al gradiente della funzione di errore, questo rende, di fatto, la scelta di questo iperparametro cruciale, infatti:
 - quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete convergerà più lentamente con maggiori probabilità di rimanere bloccati in un minimo locale
@@ -111,7 +111,7 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 ### Nel Classificatore SVM Cosa Sono I Support Vectors?
 Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
 Il problema può essere direttamente espresso come funzione di tali pattern.
-### Qual È l’idea Di Base Di Base dell’algoritmo Di Clustering EM Con Gaussian Mixture?
+### Qual È l’idea Di Base Di Base dell’algoritmo Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta 
 L’idea di base dell’algoritmo **EM (Expectation–Maximization) con Gaussian Mixture** è modellare i dati come generati da una **combinazione (mixture) di distribuzioni gaussiane**, ciascuna delle quali rappresenta un cluster.
 
 Ogni cluster è descritto da una gaussiana caratterizzata da **media**, **covarianza** e **peso**, e l’appartenenza di un pattern a un cluster è espressa in modo **probabilistico**, non deterministico.
@@ -161,7 +161,7 @@ Nel caso della regressione lineare, tale funzione di costo è tipicamente l’**
 
 Lo scopo finale è ottenere un modello che approssimi correttamente la relazione input–output e che sia in grado di **generalizzare** su nuovi dati.
 ## 22/01/2018
-### Cosa Si Intende per Clustering Esclusivo E Clustering Soft (o Fuzzy). Quest’ultimo Che Vantaggi Può Avere? #Ricapitato_1_volta 
+### Cosa Si Intende per Clustering Esclusivo E Clustering Soft (o Fuzzy). Quest’ultimo Che Vantaggi Può Avere? #Ricapitato_1_volta
 - Clustering hard (esclusivo): un pattern è assegnato (in modo esclusivo) a un solo cluster.
 - Clustering soft (fuzzy): i pattern appartengono a diversi cluster con un certo grado di appartenenza (es. tra 0 e 1). 
 Fuzzy ha il vantaggio che è più efficace nel gestire pattern vicino al bordo di due o più clusters e outliers. L’assegnazione può diventare esclusiva scegliendo, per ogni pattern, il cluster verso cui il grado di appartenenza è massimo.
@@ -217,7 +217,7 @@ In particolare, EM con Gaussian Mixture:
 - modella esplicitamente la distribuzione dei dati come una **combinazione di gaussiane**, anziché basarsi solo sulla minimizzazione della distanza dai centroidi.
 
 Queste caratteristiche rendono il clustering EM con Gaussian Mixture più adatto a descrivere strutture complesse nei dati rispetto a K-means.
-### Cosa Si Intende per K-fold Cross-validation? #Ricapitato_1_volta_con_variante\[Quali sono i vantaggi rispetto a un semplice split a due dei dati di training?\] 
+### Cosa Si Intende per K-fold Cross-validation? #Ricapitato_1_volta_con_variante\[Quali Sono I Vantaggi Rispetto a Un Semplice Split a due Dei Dati Di training?\]
 La **K-fold cross-validation** è una tecnica di **valutazione delle prestazioni di un modello** che consiste nel suddividere il dataset disponibile in **K sottoinsiemi (fold)** di dimensione approssimativamente uguale.
 Il procedimento è il seguente:
 - il modello viene addestrato **K volte**;
@@ -396,7 +396,7 @@ Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali
 
 
 ---
-# Esercizi
+# Esercizi (si ripetono svariate volte, sono bene o male sempre questi)
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
@@ -523,4 +523,10 @@ Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ## Numero Di _run_ E Numero Di Pattern Di Training E Validation Di K-fold Cross Validation
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/24.png]]
 ### Svolgimento
-![[es24.png]]
+![[es24.png]]Cosa si intende per K-fold cross-validation? Quali sono i vantaggi rispetto a un semplice split a due dei
+dati di training?
+## Numero Di Neuroni E Pesi Addestrabili in Una Rete Ricorrente Nella Sua Versione Unfolded
+![[Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
+### Svolgimento
+![[es25.png]]
+## 
