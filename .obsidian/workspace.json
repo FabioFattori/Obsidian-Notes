@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf5bfd7cb702ee9",
+        "id": "5527fb8b22dd7308",
         "type": "tabs",
         "children": [
           {
-            "id": "5075949e5e6e5a77",
+            "id": "dcb6a3fbad69732b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,7 +178,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5075949e5e6e5a77",
+  "active": "dcb6a3fbad69732b",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
