@@ -1,6 +1,6 @@
 # <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande Teoriche, Ripetute Con Meno Frequenza
 ## 07/12/2016
-### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi
+### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi #Ricapitato_1_volta 
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
 _Per Validation set_ si intende un sottoinsieme del dataset utilizzato per l'ottimizzazione degli iperparametri del modello, usato anche per attuare tecniche come early-stopping.
 Mentre per _Test set_ si intende una partizione del dataset usata solo alla fine per stimare le prestazioni finali del modello.
@@ -535,7 +535,37 @@ Nel contesto delle **Support Vector Machine (SVM)**:
   Sono pattern per i quali **non esiste** una retta (o iperpiano) che separi perfettamente le classi.
 ![[Pasted image 20251229182030.png]]
 In questi casi, le SVM affrontano il problema introducendo il **soft margin** o utilizzando il **kernel trick** per ottenere una separazione nello spazio delle feature trasformato.
-### Cosa si intende per convergenza di un algoritmo di apprendimento iterativo? Accuratezza e loss come si comportano durante le iterazioni in caso di convergenza. Disegnare un semplice grafico.
+### Cosa Si Intende per Convergenza Di Un Algoritmo Di Apprendimento Iterativo? Accuratezza E Loss come Si Comportano Durante Le Iterazioni in Caso Di Convergenza. Disegnare Un Semplice Grafico
+Per **convergenza** di un algoritmo di apprendimento iterativo si intende la condizione in cui, al procedere delle iterazioni di addestramento, i **parametri del modello** (pesi) e il valore della **funzione obiettivo (loss)** smettono di variare in modo significativo.
+In altre parole, l’algoritmo ha raggiunto una soluzione stabile (tipicamente un minimo locale o globale della funzione di errore) e ulteriori iterazioni **non portano miglioramenti rilevanti**.
+La loss e l'accuratezza hanno il seguente comportamento durante la convergenza:
+- la **loss**:
+  - diminuisce progressivamente;
+  - tende a stabilizzarsi attorno a un valore minimo;
+- l’**accuratezza**:
+  - aumenta con le iterazioni;
+  - tende a stabilizzarsi su un valore massimo.
+
+Quando loss e accuratezza diventano quasi costanti, l’algoritmo può essere considerato convergente.
+![[Pasted image 20251229182235.png]]
+### Nell’ambito dei multi-classificatori quali sono le più comuni tecniche di fusione a livello di decisione e di confidenza?
+Nei **multi-classificatori**, la fusione delle informazioni può avvenire a **livello di decisione** oppure a **livello di confidenza**, a seconda del tipo di output prodotto dai classificatori base.
+#### Fusione a livello di decisione
+In questo caso ciascun classificatore fornisce una **decisione discreta** (classe assegnata) e la combinazione avviene direttamente sulle etichette.
+Le tecniche più comuni sono:
+- **Voto di maggioranza**: la classe finale è quella più frequentemente predetta dai classificatori;
+- **Voto pesato**: a ciascun classificatore viene assegnato un peso proporzionale alla sua affidabilità, e la decisione finale tiene conto di tali pesi.
+Queste tecniche sono semplici e non richiedono informazioni aggiuntive oltre alla classe predetta.
+#### Fusione a livello di confidenza
+In questo caso ciascun classificatore fornisce, oltre alla decisione, un **valore di confidenza** (ad esempio una probabilità o uno score).
+Le tecniche più comuni sono:
+- **Media delle confidenze**;
+- **Somma delle confidenze**;
+- **Massimo delle confidenze**.
+
+La classe finale è quella che massimizza la confidenza combinata.  
+Questo approccio è generalmente più informativo rispetto alla fusione a livello di decisione, poiché sfrutta anche il grado di certezza dei singoli classificatori.
+### Nell’ambito di CNN, che cosa si intende con transfer learning? Quali sono le tecniche di transfer learning utilizzabili?
 
 
 ---
