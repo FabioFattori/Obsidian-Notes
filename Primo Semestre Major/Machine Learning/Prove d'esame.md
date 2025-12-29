@@ -45,18 +45,18 @@ Per Connessioni locali si intende che ogni neurone del layer convoluzionale è c
 Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o kernel, per posizioni diverse dell'input, producendo gli stessi risultati per un determinato pattern.
 Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'immagine di input producendo una feature map, rispondendo allo stesso pattern indipendentemente dalla sua posizione nell'immagine.
 ## 20/1/2017
-### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine?
+### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine? #Ricapitato_1_volta 
 Il Support Vector Machine si basa sul principio di individuare l'iperpiano di separazione ottimale per, appunto, separare le classi fra loro con distanza maggiore dall'iperpiano individuato.
 Il margine è la minima distanza tra i support vectors delle due classi del training set dall'iperpiano, ovvero i campioni più vicini all'iperpiano individuato delle classi.
 Il massimizzare il margine è legata alla generalizzazione, di fatti se le classi del training set hanno un ampio margine, quindi sono facilmente separabili, ci si aspetta che anche quel test set lo siano.
-### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli?
+### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli? #Ricapitato_1_volta 
 Le recenti reti neurali deep sono più efficaci delle MLP a tre livelli perché la **profondità** consente di rappresentare alcune funzioni in modo **molto più efficiente**.  
 Sebbene il _universal approximation theorem_ garantisca che una MLP con un solo livello hidden possa approssimare qualsiasi funzione, **l’esistenza di una soluzione non implica efficienza**: esistono funzioni che possono essere rappresentate con **complessità polinomiale usando più livelli**, ma che richiedono **complessità esponenziale** se realizzate con un livello in meno.
 L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - condividere e riusare le informazioni già estratte su più livelli
 - selezionare feature più astratte, scartando eventuali informazioni inutili durante il processo
 - modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
-### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze #Ricapitato_1_volta
+### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze #Ricapitato_N_volta
 - Numerici
 	1. Misure numeriche continue di un prodotto, ad esempio la concentrazione di solfati in un vino per predirne la qualità.
 	2. Valori di consumo energetico di un calorifero utilizzati per stimare i costi annuali.
@@ -66,7 +66,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - Sequenze
 	1. Un video di sorveglianza, visto come una sequenza temporale di immagini.
 	2. Una traccia musicale, rappresentata come sequenza temporale di campioni audio per la classificazione del genere.
-### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente?
+### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente? #Ricapitato_1_volta 
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 ## 17/2/2017
@@ -395,6 +395,10 @@ $$
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
 ### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta 
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
+### Descrivere a grandi linee un classificatore Random Forest
+
+### Descrivere a grandi linee un classificatore AdaBoost
+
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -548,3 +552,5 @@ dati di training?
 ![[Pasted image 20251229010325.png]]
 ## Confusion matrix e accuracy di un modello
 ![[Pasted image 20251229010629.png]]
+### Svolgimento
+![[Pasted image 20251229010639.png]]
