@@ -609,7 +609,38 @@ La differenza principale riguarda la **quantità di dati utilizzata per ogni agg
   - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
 
 In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
+### La posizione e forma dell’ellissoide di una distribuzione multinormale come è influenzata da 𝜇 e Ʃ?
+Il **vettore di media μ** determina la **posizione** dell’ellissoide:
+  - μ rappresenta il **centro** della distribuzione;
+  - traslando μ, l’intero ellissoide si sposta nello spazio.
+La **matrice di covarianza Σ** determina la **forma, dimensione e orientamento** dell’ellissoide:
+  - gli **autovalori** di Σ controllano l’estensione dell’ellissoide lungo ciascuna direzione;
+  - gli **autovettori** di Σ determinano l’orientamento dell’ellissoide;
+  - covarianze nulle producono ellissoidi allineati agli assi, covarianze non nulle producono ellissoidi inclinati.
+### Nell’ambito dei multi-classificatori come si può ottenere indipendenza tra i singoli classificatori utilizzati?
+Nei **multi-classificatori**, l’efficacia dipende dalla **diversità** (o bassa correlazione degli errori) tra i classificatori base.
+L’indipendenza può essere ottenuta tramite:
+- **uso di diversi sottoinsiemi di dati** di training (es. campionamento bootstrap);
+- **uso di diversi sottoinsiemi di feature**;
+- **uso di modelli o parametri differenti** per i classificatori base;
+- **inizializzazioni diverse** dei modelli.
 
+Queste strategie portano i classificatori a commettere errori diversi, migliorando le prestazioni della combinazione.
+### Nell’ambito delle reti neurali, quali sono le principali differenze di CNN rispetto a MLP?
+Le **Convolutional Neural Networks (CNN)** si differenziano dalle **Multi-Layer Perceptron (MLP)** principalmente per la struttura delle connessioni e il modo in cui trattano i dati.
+Le principali differenze sono:
+1. **Connessioni locali**:
+  - nelle CNN ogni neurone è connesso solo a una regione locale dell’input;
+  - nelle MLP le connessioni sono completamente dense.
+2. **Condivisione dei pesi**:
+  - le CNN utilizzano gli stessi filtri su diverse regioni dell’input;
+  - le MLP hanno pesi distinti per ogni connessione.
+3. **Riduzione del numero di parametri**:
+  - le CNN hanno molti meno parametri rispetto alle MLP;
+4. **Invarianza a traslazioni**:
+  - le CNN sono più robuste a traslazioni locali dell’input.
+
+Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
