@@ -152,7 +152,7 @@ Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
 Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
-### Qual È l’obiettivo Di Una Tecnica Di Regressione?
+### Qual È l’obiettivo Di Una Tecnica Di Regressione? #Ricapitato_1_volta 
 
 L’obiettivo di una tecnica di **regressione** è stimare una funzione $f$ che approssimi la relazione tra le **variabili indipendenti** $x$ e la **variabile dipendente** $y$, a partire da un insieme di dati di training.
 
@@ -308,7 +308,7 @@ dove:
 - $w_i$ sono i **pesi sinaptici** associati a ciascun input;
 - $b$ è il **bias**, che permette di traslare la funzione di decisione.
 Il valore $net$ rappresenta l’ingresso della **funzione di attivazione**, che produce l’output del neurone.
-### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA
+### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA? #Ricapitato_1_volta 
 La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analysis)** sono entrambe tecniche di riduzione di dimensionalità, ma si basano su **obiettivi e criteri differenti**.
 #### Differenze Principali
 - **Tipo di apprendimento**:
@@ -448,7 +448,7 @@ $x_{c_1} = \frac{x_{p_2} + x_{p_3}}{2}$
 $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 è una media bel, se non ti fidi controlla questo risultato che sono i nuovi centroidi trovati dal prof come soluzione dell'esercizio:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
-## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo
+## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo #Ricapitato_1_volta 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
 ### Svolgimento
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
@@ -504,7 +504,7 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 il calcolo è praticamente uguale a quello fatto qua [[#Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP]] ma è diverso perchè c'è il bayas quindi bisogna fare questo:
 $(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
 Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
-## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K
+## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K #Ricapitato_1_volta 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/19.png]]
 ### Svolgimento
 ![[es19.png]]
@@ -526,7 +526,7 @@ Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ### Svolgimento
 ![[es24.png]]Cosa si intende per K-fold cross-validation? Quali sono i vantaggi rispetto a un semplice split a due dei
 dati di training?
-## Numero Di Neuroni E Pesi Addestrabili in Una Rete Ricorrente Nella Sua Versione Unfolded
+## Numero Di Neuroni E Pesi Addestrabili in Una Rete Ricorrente Nella Sua Versione Unfolded #Ricapitato_1_volta 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
 ### Svolgimento
 ![[es25.png]]
@@ -538,4 +538,13 @@ dati di training?
 ![[Pasted image 20251229005703.png]]
 ### Svolgimento
 ![[Pasted image 20251229005720.png]]
-## Calcolo del numero di volte in cui SGD vede un pattern ed il numero di 
+## Calcolo del numero di volte in cui SGD vede un pattern ed il numero di volte in cui aggiorna un peso
+![[Pasted image 20251229010156.png]]
+### Svolgimento
+![[Pasted image 20251229010211.png]]
+## Determinare il MAE sul test set
+![[Pasted image 20251229010304.png]]
+### Svolgimento
+![[Pasted image 20251229010325.png]]
+## Confusion matrix e accuracy di un modello
+![[Pasted image 20251229010629.png]]
