@@ -148,7 +148,7 @@ L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazi
 
 L’operazione di pooling viene applicata **indipendentemente a ciascuna feature map**, in modo tale che il **numero di feature map in uscita rimanga uguale** a quello in ingresso.  
 Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
-### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? 
+### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? #Ricapitato_1_volta 
 Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
@@ -443,8 +443,22 @@ Alcuni esempi di applicazioni del clustering sono:
 
 Il clustering è spesso utilizzato come strumento di **analisi esplorativa**, utile per comprendere la struttura interna dei dati prima di applicare modelli supervisionati.
 ### Nell’ambito dell’apprendimento automatico quali sono le principali cause di overfitting?
+L’**overfitting** si verifica quando un modello apprende in modo eccessivamente accurato i dati di training, includendo anche il **rumore**, e perde quindi capacità di **generalizzazione** su dati non visti.
+Le principali cause di overfitting sono:
+- **Modello troppo complesso** rispetto alla quantità di dati disponibili (elevato numero di parametri);
+- **Numero insufficiente di pattern nel training set**, che non rappresenta adeguatamente il problema;
+- **Eccessiva adattabilità del modello**, che porta a memorizzare i dati invece di apprendere la relazione sottostante;
+- **Assenza o insufficiente regolarizzazione**, che non penalizza modelli troppo complessi.
 
+In queste condizioni il modello ottiene buone prestazioni sul training set ma scarse prestazioni sul validation o test set.
 ### Nel caso di pattern non-linearmente separabili, nella formulazione di SVM lineare come si approccia il problema?
+Nel caso in cui i pattern **non siano linearmente separabili**, nella formulazione di **SVM lineare** si introduce il concetto di **soft margin**.
+In particolare:
+- si ammette che alcuni pattern possano violare il margine o essere classificati erroneamente;
+- vengono introdotte delle **variabili di slack** che misurano il grado di violazione dei vincoli;
+- viene aggiunto un parametro di **regolarizzazione** che bilancia la massimizzazione del margine e la penalizzazione degli errori di classificazione.
+
+Questo approccio permette di ottenere una soluzione anche in presenza di dati non perfettamente separabili, mantenendo una buona capacità di generalizzazione.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
