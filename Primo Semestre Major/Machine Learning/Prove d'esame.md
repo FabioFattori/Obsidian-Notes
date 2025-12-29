@@ -1,4 +1,4 @@
-# <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande teoriche, ripetute con meno frequenza
+# <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande Teoriche, Ripetute Con Meno Frequenza
 ## 07/12/2016
 ### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
@@ -56,7 +56,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - condividere e riusare le informazioni già estratte su più livelli
 - selezionare feature più astratte, scartando eventuali informazioni inutili durante il processo
 - modellare fenomeni più complessi, grazie alla gerarchia presente in esse che rispecchia in maniera più accurata sistema visivo umano.
-### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze #Ricapitato_1_volta 
+### Fare Esempi Pratici Di Pattern Numerici, Categorici E Di Sequenze #Ricapitato_1_volta
 - Numerici
 	1. Misure numeriche continue di un prodotto, ad esempio la concentrazione di solfati in un vino per predirne la qualità.
 	2. Valori di consumo energetico di un calorifero utilizzati per stimare i costi annuali.
@@ -111,7 +111,7 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 ### Nel Classificatore SVM Cosa Sono I Support Vectors?
 Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
 Il problema può essere direttamente espresso come funzione di tali pattern.
-### Qual È l’idea Di Base Di Base dell’algoritmo Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta 
+### Qual È l’idea Di Base Di Base dell’algoritmo Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta
 L’idea di base dell’algoritmo **EM (Expectation–Maximization) con Gaussian Mixture** è modellare i dati come generati da una **combinazione (mixture) di distribuzioni gaussiane**, ciascuna delle quali rappresenta un cluster.
 
 Ogni cluster è descritto da una gaussiana caratterizzata da **media**, **covarianza** e **peso**, e l’appartenenza di un pattern a un cluster è espressa in modo **probabilistico**, non deterministico.
@@ -161,7 +161,7 @@ Nel caso della regressione lineare, tale funzione di costo è tipicamente l’**
 
 Lo scopo finale è ottenere un modello che approssimi correttamente la relazione input–output e che sia in grado di **generalizzare** su nuovi dati.
 ## 22/01/2018
-### Cosa Si Intende per Clustering Esclusivo E Clustering Soft (o Fuzzy). Quest’ultimo Che Vantaggi Può Avere? #Ricapitato_1_volta
+### Cosa Si Intende per Clustering Esclusivo E Clustering Soft (o Fuzzy). Quest’ultimo Che Vantaggi Può Avere? #Ricapitato_N_volta
 - Clustering hard (esclusivo): un pattern è assegnato (in modo esclusivo) a un solo cluster.
 - Clustering soft (fuzzy): i pattern appartengono a diversi cluster con un certo grado di appartenenza (es. tra 0 e 1). 
 Fuzzy ha il vantaggio che è più efficace nel gestire pattern vicino al bordo di due o più clusters e outliers. L’assegnazione può diventare esclusiva scegliendo, per ogni pattern, il cluster verso cui il grado di appartenenza è massimo.
@@ -297,7 +297,7 @@ La funzione viene stimata minimizzando una funzione di errore, tipicamente l’*
   - classificazione → accuratezza, errore di classificazione;
   - regressione → errore quadratico medio, errore assoluto medio.
 Entrambi i problemi rientrano nell’apprendimento supervisionato, ma si differenziano per la natura dell’informazione che il modello è chiamato a predire.
-### Come Si Calcola l’attivazione (net) Di Un Neurone Artificiale?
+### Come Si Calcola l’attivazione (net) Di Un Neurone Artificiale? #Ricapitato_1_volta 
 L’attivazione (o **net input**) di un neurone artificiale è calcolata come la **somma pesata degli input**, a cui si aggiunge un termine di **bias**.
 La formula è:
 $$
@@ -325,7 +325,7 @@ La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analys
   - LDA → al più $K - 1$, con $K$ numero di classi.
 La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
 ## 16/07/2018
-### Quali Sono Le Condizioni Necessarie Affinché Le Tecniche Di Deep Learning Siano Più Efficaci Di Altri Approcci Di Machine Learning?
+### Quali Sono Le Condizioni Necessarie Affinché Le Tecniche Di Deep Learning Siano Più Efficaci Di Altri Approcci Di Machine Learning? #Ricapitato_1_volta 
 
 Le tecniche di **Deep Learning** risultano più efficaci rispetto ad altri approcci di Machine Learning quando sono soddisfatte alcune **condizioni fondamentali**, legate ai dati, al modello e alle risorse computazionali.
 #### Grande Disponibilità Di Dati
@@ -393,11 +393,11 @@ J(\beta) = (y - X\beta)^T (y - X\beta)
 $$
 
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
-### Indicare la formula di Bayes per la probabilità a posteriori, definendo i termini.
+### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta 
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
 
 ---
-# Esercizi (si ripetono svariate volte, sono bene o male sempre questi)
+# Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
@@ -530,7 +530,12 @@ dati di training?
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
 ### Svolgimento
 ![[es25.png]]
-## Calcolo del volume di output di una CNN data una immagine #Ricapitato_1_volta 
+## Calcolo Del Volume Di Output Di Una CNN Data Una Immagine #Ricapitato_1_volta
 ![[Pasted image 20251229005205.png]]
 ### Svolgimento
 ![[Pasted image 20251229005233.png]]
+## Crazy Exercise, Chiede Tipo Tutto Porco
+![[Pasted image 20251229005703.png]]
+### Svolgimento
+![[Pasted image 20251229005720.png]]
+## Calcolo del numero di volte in cui SGD vede un pattern ed il numero di 
