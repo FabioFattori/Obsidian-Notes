@@ -481,6 +481,21 @@ Un multi-classificatore è efficace quando:
 - la regola di combinazione (ad esempio voto di maggioranza o combinazione pesata) è adeguata al problema.
 
 In queste condizioni, il multi-classificatore riesce a ottenere prestazioni migliori rispetto ai singoli classificatori che lo compongono.
+### Fare esempi pratici di ragionamento induttivo e deduttivo.
+Il **ragionamento induttivo** consiste nel ricavare **regole generali** o modelli a partire da **osservazioni particolari**.  
+È il principio alla base del **Machine Learning**, in cui un modello apprende dai dati esempi.
+Alcuni esempi pratici possono essere:
+- osservando molti esempi di email etichettate come *spam* o *non spam*, un algoritmo apprende una regola generale per classificare nuove email;
+- analizzando dati storici sul prezzo delle case (superficie, posizione, numero di stanze), un modello di regressione apprende una funzione per stimare il prezzo di nuove abitazioni;
+- osservando esempi di immagini etichettate, una rete neurale apprende a riconoscere oggetti.
+
+Il **ragionamento deduttivo** parte invece da **regole generali note** e le applica a casi specifici per trarre conclusioni.
+Esempi pratici:
+- dato un insieme di regole logiche, un sistema esperto deduce se un paziente è malato sulla base dei sintomi osservati;
+- conoscendo una legge matematica o fisica, si deduce il risultato di un esperimento;
+- in un sistema basato su regole *if–then*, si applicano le regole per ottenere una decisione.
+
+In questo caso, la conoscenza è **esplicitamente codificata** e il sistema si limita ad applicarla.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -624,7 +639,7 @@ dati di training?
 ![[Pasted image 20251229005703.png]]
 ### Svolgimento
 ![[Pasted image 20251229005720.png]]
-## Calcolo Del Numero Di Volte in Cui SGD Vede Un Pattern Ed Il Numero Di Volte in Cui Aggiorna Un Peso
+## Calcolo Del Numero Di Volte in Cui SGD Vede Un Pattern Ed Il Numero Di Volte in Cui Aggiorna Un Peso #Ricapitato_1_volta 
 ![[Pasted image 20251229010156.png]]
 ### Svolgimento
 ![[Pasted image 20251229010211.png]]
