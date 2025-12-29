@@ -148,7 +148,7 @@ L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazi
 
 L’operazione di pooling viene applicata **indipendentemente a ciascuna feature map**, in modo tale che il **numero di feature map in uscita rimanga uguale** a quello in ingresso.  
 Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
-### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? #Ricapitato_1_volta 
+### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? #Ricapitato_1_volta
 Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
@@ -395,7 +395,7 @@ $$
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
 ### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
-### Descrivere a Grandi Linee Un Classificatore Random Forest.
+### Descrivere a Grandi Linee Un Classificatore Random Forest
 Un **Random Forest** è un classificatore basato su un **insieme (ensemble) di alberi di decisione**.  
 L’idea di base è combinare le decisioni di più modelli deboli (alberi) per ottenere un classificatore più robusto e accurato.
 
@@ -405,7 +405,7 @@ Il funzionamento, a grandi linee, è il seguente:
 - la classificazione finale è ottenuta tramite **voto di maggioranza** delle predizioni dei singoli alberi.
 
 Questo approccio riduce la **varianza** del modello rispetto a un singolo albero e limita il rischio di overfitting.
-### Descrivere a Grandi Linee Un Classificatore AdaBoost.
+### Descrivere a Grandi Linee Un Classificatore AdaBoost
 **AdaBoost (Adaptive Boosting)** è un metodo di **boosting**, che costruisce un classificatore forte combinando iterativamente più **classificatori deboli**
 Il procedimento è il seguente:
 - inizialmente tutti i pattern del training set hanno lo stesso peso;
@@ -415,7 +415,7 @@ Il procedimento è il seguente:
 
 La decisione finale è ottenuta tramite una **combinazione pesata** delle decisioni dei classificatori deboli.  
 AdaBoost si concentra progressivamente sui pattern più difficili da classificare.
-### Descrivere a grandi linee l’algoritmo di Clustering K-means.
+### Descrivere a Grandi Linee l’algoritmo Di Clustering K-means
 L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **K cluster**, minimizzando la distanza intra-cluster.
 L’algoritmo procede in modo iterativo secondo i seguenti passi:
 1. **Inizializzazione**  
@@ -443,7 +443,7 @@ La ReLU consente di addestrare reti neurali profonde limitando il problema del *
 - il gradiente non tende a zero durante la backpropagation, a differenza di funzioni sigmoidi o tangente iperbolica;
 - ciò permette una propagazione più efficace del gradiente negli strati profondi della rete.
 Di conseguenza, l’uso della ReLU rende l’addestramento delle **Deep Neural Networks** più stabile ed efficiente.
-### Che cosa si intende per clustering? Fare esempi di applicazioni.
+### Che Cosa Si Intende per Clustering? Fare Esempi Di Applicazioni
 Il **clustering** è una tecnica di **apprendimento non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **gruppi (cluster)**, in modo tale che i pattern appartenenti allo stesso cluster siano **più simili tra loro** rispetto a quelli appartenenti a cluster diversi, secondo una opportuna misura di similarità o distanza.
 
 Nel clustering non sono disponibili etichette di classe a priori: la struttura dei gruppi viene individuata direttamente a partire dai dati.
@@ -455,7 +455,7 @@ Alcuni esempi di applicazioni del clustering sono:
 - **Riconoscimento di pattern** e analisi esplorativa dei dati, per individuare strutture nascoste nei dataset.
 
 Il clustering è spesso utilizzato come strumento di **analisi esplorativa**, utile per comprendere la struttura interna dei dati prima di applicare modelli supervisionati.
-### Nell’ambito dell’apprendimento automatico quali sono le principali cause di overfitting?
+### Nell’ambito dell’apprendimento Automatico Quali Sono Le Principali Cause Di Overfitting?
 L’**overfitting** si verifica quando un modello apprende in modo eccessivamente accurato i dati di training, includendo anche il **rumore**, e perde quindi capacità di **generalizzazione** su dati non visti.
 Le principali cause di overfitting sono:
 - **Modello troppo complesso** rispetto alla quantità di dati disponibili (elevato numero di parametri);
@@ -464,7 +464,7 @@ Le principali cause di overfitting sono:
 - **Assenza o insufficiente regolarizzazione**, che non penalizza modelli troppo complessi.
 
 In queste condizioni il modello ottiene buone prestazioni sul training set ma scarse prestazioni sul validation o test set.
-### Nel caso di pattern non-linearmente separabili, nella formulazione di SVM lineare come si approccia il problema?
+### Nel Caso Di Pattern Non-linearmente Separabili, Nella Formulazione Di SVM Lineare come Si Approccia Il Problema?
 Nel caso in cui i pattern **non siano linearmente separabili**, nella formulazione di **SVM lineare** si introduce il concetto di **soft margin**.
 In particolare:
 - si ammette che alcuni pattern possano violare il margine o essere classificati erroneamente;
@@ -472,7 +472,7 @@ In particolare:
 - viene aggiunto un parametro di **regolarizzazione** che bilancia la massimizzazione del margine e la penalizzazione degli errori di classificazione.
 
 Questo approccio permette di ottenere una soluzione anche in presenza di dati non perfettamente separabili, mantenendo una buona capacità di generalizzazione.
-### Cosa si intende per multi-classificatore? Quando un multi-classificatore è efficace?
+### Cosa Si Intende per Multi-classificatore? Quando Un Multi-classificatore È Efficace?
 Un **multi-classificatore** è un sistema di classificazione che combina le decisioni di **più classificatori** (detti classificatori base o deboli) per ottenere una decisione finale più affidabile rispetto a quella di un singolo modello.
 L’idea di base è che classificatori diversi possano commettere errori diversi; combinando le loro decisioni è possibile **ridurre l’errore complessivo** e migliorare la robustezza del sistema.
 Un multi-classificatore è efficace quando:
@@ -481,7 +481,7 @@ Un multi-classificatore è efficace quando:
 - la regola di combinazione (ad esempio voto di maggioranza o combinazione pesata) è adeguata al problema.
 
 In queste condizioni, il multi-classificatore riesce a ottenere prestazioni migliori rispetto ai singoli classificatori che lo compongono.
-### Fare esempi pratici di ragionamento induttivo e deduttivo.
+### Fare Esempi Pratici Di Ragionamento Induttivo E Deduttivo
 Il **ragionamento induttivo** consiste nel ricavare **regole generali** o modelli a partire da **osservazioni particolari**.  
 È il principio alla base del **Machine Learning**, in cui un modello apprende dai dati esempi.
 Alcuni esempi pratici possono essere:
@@ -496,6 +496,47 @@ Esempi pratici:
 - in un sistema basato su regole *if–then*, si applicano le regole per ottenere una decisione.
 
 In questo caso, la conoscenza è **esplicitamente codificata** e il sistema si limita ad applicarla.
+### Nella Regressione Lineare (sia Rispetto Ai Parametri Sia Rispetto Alla Variabile indipendente) I Dati Con Cosa Sono Approssimati Nel Caso 2D E 3D?
+Nella **regressione lineare**, i dati vengono approssimati tramite **modelli lineari**, la cui forma dipende dalla dimensionalità dello spazio dei dati.
+
+- **Caso 2D** (una variabile indipendente):
+  - i dati sono approssimati da una **retta**;
+  - il modello ha la forma:    $$
+    y = w_0 + w_1 x
+    $$
+- **Caso 3D** (due variabili indipendenti):
+  - i dati sono approssimati da un **piano**;
+  - il modello ha la forma:$$
+    y = w_0 + w_1 x_1 + w_2 x_2$$
+In generale, all’aumentare della dimensionalità, la regressione lineare approssima i dati con un **iperpiano** nello spazio delle feature.
+### Quali Sono Le Più Note Tecniche Di Riduzione Di Dimensionalità? Quali I Loro Tipici Utilizzi?
+Le tecniche di **riduzione di dimensionalità** hanno l’obiettivo di rappresentare i dati in uno spazio di dimensione inferiore preservando l’informazione rilevante.
+Le più note sono:
+- **PCA (Principal Component Analysis)**  
+  - tecnica non supervisionata;
+  - utilizzata per:
+    - compressione dei dati;
+    - riduzione del rumore;
+    - visualizzazione dei dati in 2D o 3D;
+    - pre-processing per altri algoritmi di ML.
+- **LDA (Linear Discriminant Analysis)**  
+  - tecnica supervisionata;
+  - utilizzata per:
+    - migliorare la separabilità tra classi;
+    - riduzione di dimensionalità a fini di classificazione.
+
+Queste tecniche sono spesso impiegate per contrastare la **curse of dimensionality** e semplificare l’addestramento dei modelli.
+### Nell’ambito Di Classificazione Con SVM Cosa Si Intende per Pattern Linearmente Separabili E Non Linearmente Separabili? Fare Esempio Grafico Dei due Casi
+Nel contesto delle **Support Vector Machine (SVM)**:
+- **Pattern linearmente separabili**  
+  Sono pattern per i quali esiste almeno un **iperpiano** che separa perfettamente le classi senza errori.
+![[Pasted image 20251229182011.png]]
+- **Pattern non linearmente separabili**  
+  Sono pattern per i quali **non esiste** una retta (o iperpiano) che separi perfettamente le classi.
+![[Pasted image 20251229182030.png]]
+In questi casi, le SVM affrontano il problema introducendo il **soft margin** o utilizzando il **kernel trick** per ottenere una separazione nello spazio delle feature trasformato.
+### Cosa si intende per convergenza di un algoritmo di apprendimento iterativo? Accuratezza e loss come si comportano durante le iterazioni in caso di convergenza. Disegnare un semplice grafico.
+
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -639,7 +680,7 @@ dati di training?
 ![[Pasted image 20251229005703.png]]
 ### Svolgimento
 ![[Pasted image 20251229005720.png]]
-## Calcolo Del Numero Di Volte in Cui SGD Vede Un Pattern Ed Il Numero Di Volte in Cui Aggiorna Un Peso #Ricapitato_1_volta 
+## Calcolo Del Numero Di Volte in Cui SGD Vede Un Pattern Ed Il Numero Di Volte in Cui Aggiorna Un Peso #Ricapitato_1_volta
 ![[Pasted image 20251229010156.png]]
 ### Svolgimento
 ![[Pasted image 20251229010211.png]]
