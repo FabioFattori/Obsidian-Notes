@@ -372,7 +372,7 @@ L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
    - oppure le assegnazioni dei pattern restano invariate.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
-### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression?
+### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_1_volta 
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
 - $X \in \mathbb{R}^{n \times (d+1)}$ la **matrice dei dati** (con la colonna di 1 per l’intercetta),
@@ -578,12 +578,38 @@ Le principali tecniche di transfer learning nelle CNN sono:
   - tipicamente gli strati più profondi;
   - consente un migliore adattamento al nuovo task.
 ### Come può essere scelto nella pratica il numero di cluster in un algoritmo di clustering come K-means?
+Nella pratica, il numero di cluster $K$ nell’algoritmo **K-means** non è noto a priori e viene scelto tramite criteri empirici.
+Le strategie più comuni sono:
+- **Analisi della funzione obiettivo**: si osserva l’andamento della somma delle distanze intra-cluster al variare di $K$ e si sceglie un valore oltre il quale il miglioramento diventa marginale;
+- **Metodo del gomito (elbow method)**: si individua il punto in cui la riduzione dell’errore rallenta significativamente;
+- **Conoscenza del dominio applicativo**: informazioni a priori sul problema possono suggerire un numero plausibile di cluster.
 
+In generale, la scelta di $K$ rappresenta un compromesso tra accuratezza della rappresentazione e semplicità del modello.
 ### Cosa si intende per funzione obiettivo e loss function?
-
+La **funzione obiettivo** è la funzione matematica che un algoritmo di apprendimento cerca di **ottimizzare** (minimizzare o massimizzare) durante il training. Essa formalizza ciò che si desidera ottenere dal modello.
+La **loss function** è una funzione che misura l’**errore** commesso dal modello su un singolo pattern o su un insieme di pattern, confrontando l’output predetto con quello desiderato.
+In molti casi, la funzione obiettivo è definita come la **somma o la media delle loss function** sui dati di training.
 ### Cosa si intende per risoluzione dei problemi con approccio “forza bruta”. Si tratta di intelligenza artificiale?
+L’approccio **a forza bruta** consiste nel risolvere un problema esplorando **tutte le possibili soluzioni**, selezionando quella che soddisfa i vincoli o ottimizza un certo criterio.
+Questo approccio:
+- non utilizza modelli, apprendimento o rappresentazioni della conoscenza;
+- è spesso computazionalmente inefficiente per problemi complessi.
 
+In generale, la forza bruta **non è considerata intelligenza artificiale**, poiché manca di capacità di apprendimento, adattamento o generalizzazione.  
+Tuttavia, può essere utilizzata come metodo di riferimento o come parte di sistemi più complessi.
 ### Qual è la differenza sostanziale dell’approccio “On-line” rispetto a “SGD con mini-batch“ per il training di reti neurali?
+La differenza principale riguarda la **quantità di dati utilizzata per ogni aggiornamento dei pesi**.
+- **Approccio On-line**:
+  - i pesi vengono aggiornati **dopo ogni singolo pattern**;
+  - l’aggiornamento è molto frequente e rumoroso;
+  - adatto a contesti con flussi di dati continui.
+- **SGD con mini-batch**:
+  - i pesi vengono aggiornati dopo aver elaborato un **piccolo sottoinsieme di pattern** (mini-batch);
+  - rappresenta un compromesso tra stabilità e velocità;
+  - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
+
+In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
+
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
