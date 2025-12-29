@@ -566,7 +566,17 @@ Le tecniche più comuni sono:
 La classe finale è quella che massimizza la confidenza combinata.  
 Questo approccio è generalmente più informativo rispetto alla fusione a livello di decisione, poiché sfrutta anche il grado di certezza dei singoli classificatori.
 ### Nell’ambito di CNN, che cosa si intende con transfer learning? Quali sono le tecniche di transfer learning utilizzabili?
-
+Nel contesto delle **Convolutional Neural Networks (CNN)**, il **transfer learning** consiste nel riutilizzare una rete neurale già addestrata su un grande dataset per risolvere un **nuovo problema**, generalmente con una quantità limitata di dati.
+L’idea di base è che i primi strati della rete apprendono **feature generiche**, riutilizzabili anche in domini differenti.
+Le principali tecniche di transfer learning nelle CNN sono:
+- **Feature extraction**  
+  La rete pre-addestrata viene utilizzata come **estrattore di feature**:  
+  - i pesi dei layer convoluzionali vengono mantenuti fissi;
+  - solo il classificatore finale viene addestrato sul nuovo dataset.
+- **Fine-tuning**  
+  Oltre al classificatore finale, vengono riaddestrati anche alcuni **strati interni** della rete:
+  - tipicamente gli strati più profondi;
+  - consente un migliore adattamento al nuovo task.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
