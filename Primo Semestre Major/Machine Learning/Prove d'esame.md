@@ -732,3 +732,5 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
+
+![[Pasted image 20251229184718.png]]
