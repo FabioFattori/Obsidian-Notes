@@ -184,43 +184,6 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "floating": {
-    "id": "d84149f4106a4e99",
-    "type": "floating",
-    "children": [
-      {
-        "id": "637386c57f0e3494",
-        "type": "window",
-        "children": [
-          {
-            "id": "2180ee051a8966c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9325fca05958e394",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "6_ML_Clustering"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1166.5,
-        "height": 860,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",

@@ -143,7 +143,7 @@ Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza
 Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
 minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi$$J_e=\sum_{i=1,...s}\sum_{x\in C_i}||x-\overline x_i||^2,\quad\overline x_i = \frac{1}{n_i}\sum_{x\in C_i}x$$
 dove $C_i$ è l’i-esimo cluster, $n_i$ il numero di pattern che contiene e $\overline x_i$ il suo centroide (media).
-### Come opera un livello di pooling in una CNN?
+### Come Opera Un Livello Di Pooling in Una CNN?
 
 
 ---
