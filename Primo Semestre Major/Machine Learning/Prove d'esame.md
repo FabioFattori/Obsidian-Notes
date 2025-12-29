@@ -45,11 +45,11 @@ Per Connessioni locali si intende che ogni neurone del layer convoluzionale è c
 Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o kernel, per posizioni diverse dell'input, producendo gli stessi risultati per un determinato pattern.
 Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'immagine di input producendo una feature map, rispondendo allo stesso pattern indipendentemente dalla sua posizione nell'immagine.
 ## 20/1/2017
-### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine? #Ricapitato_1_volta 
+### Qual È Il Principio Su Cui Si Basa Il Classificatore SVM? Cosa Si Intende per Margine? #Ricapitato_1_volta
 Il Support Vector Machine si basa sul principio di individuare l'iperpiano di separazione ottimale per, appunto, separare le classi fra loro con distanza maggiore dall'iperpiano individuato.
 Il margine è la minima distanza tra i support vectors delle due classi del training set dall'iperpiano, ovvero i campioni più vicini all'iperpiano individuato delle classi.
 Il massimizzare il margine è legata alla generalizzazione, di fatti se le classi del training set hanno un ampio margine, quindi sono facilmente separabili, ci si aspetta che anche quel test set lo siano.
-### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli? #Ricapitato_1_volta 
+### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli? #Ricapitato_1_volta
 Le recenti reti neurali deep sono più efficaci delle MLP a tre livelli perché la **profondità** consente di rappresentare alcune funzioni in modo **molto più efficiente**.  
 Sebbene il _universal approximation theorem_ garantisca che una MLP con un solo livello hidden possa approssimare qualsiasi funzione, **l’esistenza di una soluzione non implica efficienza**: esistono funzioni che possono essere rappresentate con **complessità polinomiale usando più livelli**, ma che richiedono **complessità esponenziale** se realizzate con un livello in meno.
 L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
@@ -66,7 +66,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 - Sequenze
 	1. Un video di sorveglianza, visto come una sequenza temporale di immagini.
 	2. Una traccia musicale, rappresentata come sequenza temporale di campioni audio per la classificazione del genere.
-### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente? #Ricapitato_1_volta 
+### Nella Regressione Cosa Si Intende per Variabile Indipendente E Variabile Dipendente? #Ricapitato_1_volta
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 ## 17/2/2017
@@ -148,11 +148,11 @@ L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazi
 
 L’operazione di pooling viene applicata **indipendentemente a ciascuna feature map**, in modo tale che il **numero di feature map in uscita rimanga uguale** a quello in ingresso.  
 Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
-### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting?
+### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? 
 Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
-### Qual È l’obiettivo Di Una Tecnica Di Regressione? #Ricapitato_1_volta 
+### Qual È l’obiettivo Di Una Tecnica Di Regressione? #Ricapitato_1_volta
 
 L’obiettivo di una tecnica di **regressione** è stimare una funzione $f$ che approssimi la relazione tra le **variabili indipendenti** $x$ e la **variabile dipendente** $y$, a partire da un insieme di dati di training.
 
@@ -297,7 +297,7 @@ La funzione viene stimata minimizzando una funzione di errore, tipicamente l’*
   - classificazione → accuratezza, errore di classificazione;
   - regressione → errore quadratico medio, errore assoluto medio.
 Entrambi i problemi rientrano nell’apprendimento supervisionato, ma si differenziano per la natura dell’informazione che il modello è chiamato a predire.
-### Come Si Calcola l’attivazione (net) Di Un Neurone Artificiale? #Ricapitato_1_volta 
+### Come Si Calcola l’attivazione (net) Di Un Neurone Artificiale? #Ricapitato_1_volta
 L’attivazione (o **net input**) di un neurone artificiale è calcolata come la **somma pesata degli input**, a cui si aggiunge un termine di **bias**.
 La formula è:
 $$
@@ -308,7 +308,7 @@ dove:
 - $w_i$ sono i **pesi sinaptici** associati a ciascun input;
 - $b$ è il **bias**, che permette di traslare la funzione di decisione.
 Il valore $net$ rappresenta l’ingresso della **funzione di attivazione**, che produce l’output del neurone.
-### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA? #Ricapitato_1_volta 
+### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA? #Ricapitato_1_volta
 La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analysis)** sono entrambe tecniche di riduzione di dimensionalità, ma si basano su **obiettivi e criteri differenti**.
 #### Differenze Principali
 - **Tipo di apprendimento**:
@@ -325,7 +325,7 @@ La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analys
   - LDA → al più $K - 1$, con $K$ numero di classi.
 La PCA è indicata quando non si dispone di informazioni sulle classi o si vuole una rappresentazione compatta dei dati, mentre la LDA è preferibile quando l’obiettivo è migliorare la **discriminazione tra classi**.
 ## 16/07/2018
-### Quali Sono Le Condizioni Necessarie Affinché Le Tecniche Di Deep Learning Siano Più Efficaci Di Altri Approcci Di Machine Learning? #Ricapitato_1_volta 
+### Quali Sono Le Condizioni Necessarie Affinché Le Tecniche Di Deep Learning Siano Più Efficaci Di Altri Approcci Di Machine Learning? #Ricapitato_1_volta
 
 Le tecniche di **Deep Learning** risultano più efficaci rispetto ad altri approcci di Machine Learning quando sono soddisfatte alcune **condizioni fondamentali**, legate ai dati, al modello e alle risorse computazionali.
 #### Grande Disponibilità Di Dati
@@ -393,9 +393,9 @@ J(\beta) = (y - X\beta)^T (y - X\beta)
 $$
 
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
-### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta 
+### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
-### Descrivere a grandi linee un classificatore Random Forest
+### Descrivere a Grandi Linee Un Classificatore Random Forest
 Un **Random Forest** è un classificatore basato su un **insieme (ensemble) di alberi di decisione**.  
 L’idea di base è combinare le decisioni di più modelli deboli (alberi) per ottenere un classificatore più robusto e accurato.
 
@@ -405,7 +405,7 @@ Il funzionamento, a grandi linee, è il seguente:
 - la classificazione finale è ottenuta tramite **voto di maggioranza** delle predizioni dei singoli alberi.
 
 Questo approccio riduce la **varianza** del modello rispetto a un singolo albero e limita il rischio di overfitting.
-### Descrivere a grandi linee un classificatore AdaBoost
+### Descrivere a Grandi Linee Un Classificatore AdaBoost
 **AdaBoost (Adaptive Boosting)** è un metodo di **boosting**, che costruisce un classificatore forte combinando iterativamente più **classificatori deboli**
 Il procedimento è il seguente:
 - inizialmente tutti i pattern del training set hanno lo stesso peso;
@@ -415,7 +415,7 @@ Il procedimento è il seguente:
 
 La decisione finale è ottenuta tramite una **combinazione pesata** delle decisioni dei classificatori deboli.  
 AdaBoost si concentra progressivamente sui pattern più difficili da classificare.
-### Come è definita la funzione di attivazione Relu? Perché consente di addestrare reti neurali profonde limitando il problema del vanishing gradient?
+### Come È Definita la Funzione Di Attivazione Relu? Perché Consente Di Addestrare Reti Neurali Profonde Limitando Il Problema Del Vanishing Gradient?
 La funzione di attivazione **ReLU (Rectified Linear Unit)** è definita come:
 $$
 \text{ReLU}(x) = \max(0, x)
@@ -429,8 +429,22 @@ La ReLU consente di addestrare reti neurali profonde limitando il problema del *
 - per input positivi, la derivata è **costante e non nulla**;
 - il gradiente non tende a zero durante la backpropagation, a differenza di funzioni sigmoidi o tangente iperbolica;
 - ciò permette una propagazione più efficace del gradiente negli strati profondi della rete.
-
 Di conseguenza, l’uso della ReLU rende l’addestramento delle **Deep Neural Networks** più stabile ed efficiente.
+### Che cosa si intende per clustering? Fare esempi di applicazioni.
+Il **clustering** è una tecnica di **apprendimento non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **gruppi (cluster)**, in modo tale che i pattern appartenenti allo stesso cluster siano **più simili tra loro** rispetto a quelli appartenenti a cluster diversi, secondo una opportuna misura di similarità o distanza.
+
+Nel clustering non sono disponibili etichette di classe a priori: la struttura dei gruppi viene individuata direttamente a partire dai dati.
+Alcuni esempi di applicazioni del clustering sono:
+- **Segmentazione di clienti** in ambito marketing, per individuare gruppi di utenti con comportamenti di acquisto simili;
+- **Analisi di immagini**, ad esempio per la segmentazione di regioni con caratteristiche simili;
+- **Raggruppamento di documenti** o pagine web in base al contenuto;
+- **Bioinformatica**, per raggruppare geni o campioni biologici con profili simili;
+- **Riconoscimento di pattern** e analisi esplorativa dei dati, per individuare strutture nascoste nei dataset.
+
+Il clustering è spesso utilizzato come strumento di **analisi esplorativa**, utile per comprendere la struttura interna dei dati prima di applicare modelli supervisionati.
+### Nell’ambito dell’apprendimento automatico quali sono le principali cause di overfitting?
+
+### Nel caso di pattern non-linearmente separabili, nella formulazione di SVM lineare come si approccia il problema?
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -484,7 +498,7 @@ $x_{c_1} = \frac{x_{p_2} + x_{p_3}}{2}$
 $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 è una media bel, se non ti fidi controlla questo risultato che sono i nuovi centroidi trovati dal prof come soluzione dell'esercizio:
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
-## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo #Ricapitato_1_volta 
+## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
 ### Svolgimento
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
@@ -540,7 +554,7 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 il calcolo è praticamente uguale a quello fatto qua [[#Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP]] ma è diverso perchè c'è il bayas quindi bisogna fare questo:
 $(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
 Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
-## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K #Ricapitato_1_volta 
+## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/19.png]]
 ### Svolgimento
 ![[es19.png]]
@@ -562,7 +576,7 @@ Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
 ### Svolgimento
 ![[es24.png]]Cosa si intende per K-fold cross-validation? Quali sono i vantaggi rispetto a un semplice split a due dei
 dati di training?
-## Numero Di Neuroni E Pesi Addestrabili in Una Rete Ricorrente Nella Sua Versione Unfolded #Ricapitato_1_volta 
+## Numero Di Neuroni E Pesi Addestrabili in Una Rete Ricorrente Nella Sua Versione Unfolded #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
 ### Svolgimento
 ![[es25.png]]
@@ -574,15 +588,15 @@ dati di training?
 ![[Pasted image 20251229005703.png]]
 ### Svolgimento
 ![[Pasted image 20251229005720.png]]
-## Calcolo del numero di volte in cui SGD vede un pattern ed il numero di volte in cui aggiorna un peso
+## Calcolo Del Numero Di Volte in Cui SGD Vede Un Pattern Ed Il Numero Di Volte in Cui Aggiorna Un Peso
 ![[Pasted image 20251229010156.png]]
 ### Svolgimento
 ![[Pasted image 20251229010211.png]]
-## Determinare il MAE sul test set
+## Determinare Il MAE Sul Test Set
 ![[Pasted image 20251229010304.png]]
 ### Svolgimento
 ![[Pasted image 20251229010325.png]]
-## Confusion matrix e accuracy di un modello
+## Confusion Matrix E Accuracy Di Un Modello
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
