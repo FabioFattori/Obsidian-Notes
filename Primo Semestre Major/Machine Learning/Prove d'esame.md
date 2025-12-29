@@ -396,9 +396,41 @@ Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali
 ### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta 
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
 ### Descrivere a grandi linee un classificatore Random Forest
+Un **Random Forest** è un classificatore basato su un **insieme (ensemble) di alberi di decisione**.  
+L’idea di base è combinare le decisioni di più modelli deboli (alberi) per ottenere un classificatore più robusto e accurato.
 
+Il funzionamento, a grandi linee, è il seguente:
+- vengono addestrati molti **alberi di decisione** su diversi sottoinsiemi del training set, ottenuti tramite **campionamento bootstrap**;
+- a ogni nodo di ciascun albero, la scelta della feature su cui effettuare lo split avviene considerando solo un **sottoinsieme casuale delle feature**;
+- la classificazione finale è ottenuta tramite **voto di maggioranza** delle predizioni dei singoli alberi.
+
+Questo approccio riduce la **varianza** del modello rispetto a un singolo albero e limita il rischio di overfitting.
 ### Descrivere a grandi linee un classificatore AdaBoost
+**AdaBoost (Adaptive Boosting)** è un metodo di **boosting**, che costruisce un classificatore forte combinando iterativamente più **classificatori deboli**
+Il procedimento è il seguente:
+- inizialmente tutti i pattern del training set hanno lo stesso peso;
+- a ogni iterazione viene addestrato un classificatore debole sui dati pesati;
+- i pattern **mal classificati** ricevono un peso maggiore, mentre quelli correttamente classificati ricevono un peso minore;
+- ogni classificatore viene pesato in base alla sua accuratezza.
 
+La decisione finale è ottenuta tramite una **combinazione pesata** delle decisioni dei classificatori deboli.  
+AdaBoost si concentra progressivamente sui pattern più difficili da classificare.
+### Come è definita la funzione di attivazione Relu? Perché consente di addestrare reti neurali profonde limitando il problema del vanishing gradient?
+La funzione di attivazione **ReLU (Rectified Linear Unit)** è definita come:
+$$
+\text{ReLU}(x) = \max(0, x)
+$$
+
+Questa funzione restituisce:
+- 0 per valori negativi dell’input;
+- il valore dell’input stesso per valori positivi.
+
+La ReLU consente di addestrare reti neurali profonde limitando il problema del **vanishing gradient** perché:
+- per input positivi, la derivata è **costante e non nulla**;
+- il gradiente non tende a zero durante la backpropagation, a differenza di funzioni sigmoidi o tangente iperbolica;
+- ciò permette una propagazione più efficace del gradiente negli strati profondi della rete.
+
+Di conseguenza, l’uso della ReLU rende l’addestramento delle **Deep Neural Networks** più stabile ed efficiente.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
