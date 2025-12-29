@@ -372,7 +372,7 @@ L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
    - oppure le assegnazioni dei pattern restano invariate.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
-### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_1_volta 
+### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_1_volta
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
 - $X \in \mathbb{R}^{n \times (d+1)}$ la **matrice dei dati** (con la colonna di 1 per l’intercetta),
@@ -577,7 +577,7 @@ Le principali tecniche di transfer learning nelle CNN sono:
   Oltre al classificatore finale, vengono riaddestrati anche alcuni **strati interni** della rete:
   - tipicamente gli strati più profondi;
   - consente un migliore adattamento al nuovo task.
-### Come può essere scelto nella pratica il numero di cluster in un algoritmo di clustering come K-means?
+### Come Può Essere Scelto Nella Pratica Il Numero Di Cluster in Un Algoritmo Di Clustering come K-means?
 Nella pratica, il numero di cluster $K$ nell’algoritmo **K-means** non è noto a priori e viene scelto tramite criteri empirici.
 Le strategie più comuni sono:
 - **Analisi della funzione obiettivo**: si osserva l’andamento della somma delle distanze intra-cluster al variare di $K$ e si sceglie un valore oltre il quale il miglioramento diventa marginale;
@@ -585,11 +585,11 @@ Le strategie più comuni sono:
 - **Conoscenza del dominio applicativo**: informazioni a priori sul problema possono suggerire un numero plausibile di cluster.
 
 In generale, la scelta di $K$ rappresenta un compromesso tra accuratezza della rappresentazione e semplicità del modello.
-### Cosa si intende per funzione obiettivo e loss function?
+### Cosa Si Intende per Funzione Obiettivo E Loss Function?
 La **funzione obiettivo** è la funzione matematica che un algoritmo di apprendimento cerca di **ottimizzare** (minimizzare o massimizzare) durante il training. Essa formalizza ciò che si desidera ottenere dal modello.
 La **loss function** è una funzione che misura l’**errore** commesso dal modello su un singolo pattern o su un insieme di pattern, confrontando l’output predetto con quello desiderato.
 In molti casi, la funzione obiettivo è definita come la **somma o la media delle loss function** sui dati di training.
-### Cosa si intende per risoluzione dei problemi con approccio “forza bruta”. Si tratta di intelligenza artificiale?
+### Cosa Si Intende per Risoluzione Dei Problemi Con Approccio “forza bruta”. Si Tratta Di Intelligenza Artificiale?
 L’approccio **a forza bruta** consiste nel risolvere un problema esplorando **tutte le possibili soluzioni**, selezionando quella che soddisfa i vincoli o ottimizza un certo criterio.
 Questo approccio:
 - non utilizza modelli, apprendimento o rappresentazioni della conoscenza;
@@ -597,7 +597,7 @@ Questo approccio:
 
 In generale, la forza bruta **non è considerata intelligenza artificiale**, poiché manca di capacità di apprendimento, adattamento o generalizzazione.  
 Tuttavia, può essere utilizzata come metodo di riferimento o come parte di sistemi più complessi.
-### Qual è la differenza sostanziale dell’approccio “On-line” rispetto a “SGD con mini-batch“ per il training di reti neurali?
+### Qual È la Differenza Sostanziale dell’approccio “On-line” Rispetto a “SGD Con mini-batch“ per Il Training Di Reti Neurali?
 La differenza principale riguarda la **quantità di dati utilizzata per ogni aggiornamento dei pesi**.
 - **Approccio On-line**:
   - i pesi vengono aggiornati **dopo ogni singolo pattern**;
@@ -609,7 +609,7 @@ La differenza principale riguarda la **quantità di dati utilizzata per ogni agg
   - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
 
 In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
-### La posizione e forma dell’ellissoide di una distribuzione multinormale come è influenzata da 𝜇 e Ʃ?
+### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
 Il **vettore di media μ** determina la **posizione** dell’ellissoide:
   - μ rappresenta il **centro** della distribuzione;
   - traslando μ, l’intero ellissoide si sposta nello spazio.
@@ -617,7 +617,7 @@ La **matrice di covarianza Σ** determina la **forma, dimensione e orientamento*
   - gli **autovalori** di Σ controllano l’estensione dell’ellissoide lungo ciascuna direzione;
   - gli **autovettori** di Σ determinano l’orientamento dell’ellissoide;
   - covarianze nulle producono ellissoidi allineati agli assi, covarianze non nulle producono ellissoidi inclinati.
-### Nell’ambito dei multi-classificatori come si può ottenere indipendenza tra i singoli classificatori utilizzati?
+### Nell’ambito Dei Multi-classificatori come Si Può Ottenere Indipendenza Tra I Singoli Classificatori Utilizzati?
 Nei **multi-classificatori**, l’efficacia dipende dalla **diversità** (o bassa correlazione degli errori) tra i classificatori base.
 L’indipendenza può essere ottenuta tramite:
 - **uso di diversi sottoinsiemi di dati** di training (es. campionamento bootstrap);
@@ -626,7 +626,7 @@ L’indipendenza può essere ottenuta tramite:
 - **inizializzazioni diverse** dei modelli.
 
 Queste strategie portano i classificatori a commettere errori diversi, migliorando le prestazioni della combinazione.
-### Nell’ambito delle reti neurali, quali sono le principali differenze di CNN rispetto a MLP?
+### Nell’ambito Delle Reti Neurali, Quali Sono Le Principali Differenze Di CNN Rispetto a MLP?
 Le **Convolutional Neural Networks (CNN)** si differenziano dalle **Multi-Layer Perceptron (MLP)** principalmente per la struttura delle connessioni e il modo in cui trattano i dati.
 Le principali differenze sono:
 1. **Connessioni locali**:
