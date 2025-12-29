@@ -395,7 +395,7 @@ $$
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
 ### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
-### Descrivere a Grandi Linee Un Classificatore Random Forest
+### Descrivere a Grandi Linee Un Classificatore Random Forest.
 Un **Random Forest** è un classificatore basato su un **insieme (ensemble) di alberi di decisione**.  
 L’idea di base è combinare le decisioni di più modelli deboli (alberi) per ottenere un classificatore più robusto e accurato.
 
@@ -405,7 +405,7 @@ Il funzionamento, a grandi linee, è il seguente:
 - la classificazione finale è ottenuta tramite **voto di maggioranza** delle predizioni dei singoli alberi.
 
 Questo approccio riduce la **varianza** del modello rispetto a un singolo albero e limita il rischio di overfitting.
-### Descrivere a Grandi Linee Un Classificatore AdaBoost
+### Descrivere a Grandi Linee Un Classificatore AdaBoost.
 **AdaBoost (Adaptive Boosting)** è un metodo di **boosting**, che costruisce un classificatore forte combinando iterativamente più **classificatori deboli**
 Il procedimento è il seguente:
 - inizialmente tutti i pattern del training set hanno lo stesso peso;
@@ -415,6 +415,19 @@ Il procedimento è il seguente:
 
 La decisione finale è ottenuta tramite una **combinazione pesata** delle decisioni dei classificatori deboli.  
 AdaBoost si concentra progressivamente sui pattern più difficili da classificare.
+### Descrivere a grandi linee l’algoritmo di Clustering K-means.
+L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **K cluster**, minimizzando la distanza intra-cluster.
+L’algoritmo procede in modo iterativo secondo i seguenti passi:
+1. **Inizializzazione**  
+   Si sceglie il numero di cluster $K$ e si inizializzano i centroidi dei cluster, solitamente in modo casuale.
+2. **Assegnazione dei pattern**  
+   Ogni pattern viene assegnato al cluster il cui centroide è il più vicino, secondo una misura di distanza (tipicamente la distanza euclidea).
+3. **Aggiornamento dei centroidi**  
+   Per ciascun cluster si ricalcola il centroide come la **media dei pattern** assegnati al cluster.
+4. **Iterazione fino a convergenza**  
+   I passi di assegnazione e aggiornamento vengono ripetuti fino a quando le assegnazioni dei pattern o i centroidi non cambiano più.
+
+L’algoritmo converge a un **minimo locale** della funzione obiettivo, che è la somma dei quadrati delle distanze dei pattern dai rispettivi centroidi.
 ### Come È Definita la Funzione Di Attivazione Relu? Perché Consente Di Addestrare Reti Neurali Profonde Limitando Il Problema Del Vanishing Gradient?
 La funzione di attivazione **ReLU (Rectified Linear Unit)** è definita come:
 $$
@@ -459,6 +472,15 @@ In particolare:
 - viene aggiunto un parametro di **regolarizzazione** che bilancia la massimizzazione del margine e la penalizzazione degli errori di classificazione.
 
 Questo approccio permette di ottenere una soluzione anche in presenza di dati non perfettamente separabili, mantenendo una buona capacità di generalizzazione.
+### Cosa si intende per multi-classificatore? Quando un multi-classificatore è efficace?
+Un **multi-classificatore** è un sistema di classificazione che combina le decisioni di **più classificatori** (detti classificatori base o deboli) per ottenere una decisione finale più affidabile rispetto a quella di un singolo modello.
+L’idea di base è che classificatori diversi possano commettere errori diversi; combinando le loro decisioni è possibile **ridurre l’errore complessivo** e migliorare la robustezza del sistema.
+Un multi-classificatore è efficace quando:
+- i classificatori base sono **sufficientemente accurati**, anche se non perfetti;
+- i classificatori commettono **errori non fortemente correlati** tra loro;
+- la regola di combinazione (ad esempio voto di maggioranza o combinazione pesata) è adeguata al problema.
+
+In queste condizioni, il multi-classificatore riesce a ottenere prestazioni migliori rispetto ai singoli classificatori che lo compongono.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
