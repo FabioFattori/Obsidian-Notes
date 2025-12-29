@@ -1,6 +1,6 @@
 # <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande Teoriche, Ripetute Con Meno Frequenza
 ## 07/12/2016
-### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi #Ricapitato_1_volta 
+### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi #Ricapitato_1_volta
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
 _Per Validation set_ si intende un sottoinsieme del dataset utilizzato per l'ottimizzazione degli iperparametri del modello, usato anche per attuare tecniche come early-stopping.
 Mentre per _Test set_ si intende una partizione del dataset usata solo alla fine per stimare le prestazioni finali del modello.
@@ -548,15 +548,15 @@ La loss e l'accuratezza hanno il seguente comportamento durante la convergenza:
 
 Quando loss e accuratezza diventano quasi costanti, l’algoritmo può essere considerato convergente.
 ![[Pasted image 20251229182235.png]]
-### Nell’ambito dei multi-classificatori quali sono le più comuni tecniche di fusione a livello di decisione e di confidenza?
+### Nell’ambito Dei Multi-classificatori Quali Sono Le Più Comuni Tecniche Di Fusione a Livello Di Decisione E Di Confidenza?
 Nei **multi-classificatori**, la fusione delle informazioni può avvenire a **livello di decisione** oppure a **livello di confidenza**, a seconda del tipo di output prodotto dai classificatori base.
-#### Fusione a livello di decisione
+#### Fusione a Livello Di Decisione
 In questo caso ciascun classificatore fornisce una **decisione discreta** (classe assegnata) e la combinazione avviene direttamente sulle etichette.
 Le tecniche più comuni sono:
 - **Voto di maggioranza**: la classe finale è quella più frequentemente predetta dai classificatori;
 - **Voto pesato**: a ciascun classificatore viene assegnato un peso proporzionale alla sua affidabilità, e la decisione finale tiene conto di tali pesi.
 Queste tecniche sono semplici e non richiedono informazioni aggiuntive oltre alla classe predetta.
-#### Fusione a livello di confidenza
+#### Fusione a Livello Di Confidenza
 In questo caso ciascun classificatore fornisce, oltre alla decisione, un **valore di confidenza** (ad esempio una probabilità o uno score).
 Le tecniche più comuni sono:
 - **Media delle confidenze**;
@@ -565,7 +565,7 @@ Le tecniche più comuni sono:
 
 La classe finale è quella che massimizza la confidenza combinata.  
 Questo approccio è generalmente più informativo rispetto alla fusione a livello di decisione, poiché sfrutta anche il grado di certezza dei singoli classificatori.
-### Nell’ambito di CNN, che cosa si intende con transfer learning? Quali sono le tecniche di transfer learning utilizzabili?
+### Nell’ambito Di CNN, Che Cosa Si Intende Con Transfer Learning? Quali Sono Le Tecniche Di Transfer Learning Utilizzabili?
 Nel contesto delle **Convolutional Neural Networks (CNN)**, il **transfer learning** consiste nel riutilizzare una rete neurale già addestrata su un grande dataset per risolvere un **nuovo problema**, generalmente con una quantità limitata di dati.
 L’idea di base è che i primi strati della rete apprendono **feature generiche**, riutilizzabili anche in domini differenti.
 Le principali tecniche di transfer learning nelle CNN sono:
@@ -577,6 +577,13 @@ Le principali tecniche di transfer learning nelle CNN sono:
   Oltre al classificatore finale, vengono riaddestrati anche alcuni **strati interni** della rete:
   - tipicamente gli strati più profondi;
   - consente un migliore adattamento al nuovo task.
+### Come può essere scelto nella pratica il numero di cluster in un algoritmo di clustering come K-means?
+
+### Cosa si intende per funzione obiettivo e loss function?
+
+### Cosa si intende per risoluzione dei problemi con approccio “forza bruta”. Si tratta di intelligenza artificiale?
+
+### Qual è la differenza sostanziale dell’approccio “On-line” rispetto a “SGD con mini-batch“ per il training di reti neurali?
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -732,5 +739,3 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
-
-![[Pasted image 20251229184718.png]]
