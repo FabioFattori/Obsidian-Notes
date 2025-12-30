@@ -710,7 +710,7 @@ Non assumono una forma prefissata della distribuzione.
 - Esempio: **stima di densità di Parzen**, in cui la densità viene stimata sommando contributi locali dei pattern tramite una finestra o kernel.
 
 Questi metodi sono utilizzati, ad esempio, nel clustering basato su **modelli probabilistici**.
-### 
+###  
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
