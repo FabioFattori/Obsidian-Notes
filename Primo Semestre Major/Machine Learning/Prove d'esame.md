@@ -171,7 +171,7 @@ Mediante le tecniche di **Reinforcement Learning (RL)** è possibile apprendere 
 Nel Reinforcement Learning l’apprendimento avviene tramite **interazione diretta con l’ambiente**: l’agente osserva lo stato corrente, seleziona un’azione, riceve una ricompensa e aggiorna la propria politica sulla base dell’esperienza accumulata. Non sono quindi disponibili etichette corrette a priori, ma solo segnali di rinforzo.
 
 Un esempio tipico è l’apprendimento del comportamento di un **agente che gioca a un videogioco**, il quale impara progressivamente quali azioni intraprendere per massimizzare il punteggio finale, ricevendo ricompense positive o negative in base alle conseguenze delle proprie azioni.
-### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato #Ricapitato_1_volta
+### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato. #Ricapitato_N_volta
 Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
@@ -207,7 +207,7 @@ La retta divide il piano in due semipiani, ciascuno associato a una classe.
 #### Superficie Di Separazione per D = 3
 Quando $d = 3$, lo spazio delle feature è tridimensionale e la superficie di separazione è un **piano**.  
 Anche in questo caso, il piano divide lo spazio in due regioni, una per ciascuna classe.
-### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta
+### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture? #Ricapitato_N_volta
 Rispetto a **K-means**, l’approccio di clustering **EM con Gaussian Mixture** consente una maggiore flessibilità perché non assume cluster sferici di uguale dimensione e introduce una **modellazione probabilistica** dei dati.
 In particolare, EM con Gaussian Mixture:
 - permette di modellare cluster con **forme ellittiche**, grazie all’uso di **matrici di covarianza** complete;
@@ -642,7 +642,7 @@ Le principali differenze sono:
   - le CNN sono più robuste a traslazioni locali dell’input.
 
 Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
-### In Classificazione Cosa Si Intende per Superficie Decisionale O Di Separazione? Riportare Anche Un Esempio Grafico
+### In Classificazione Cosa Si Intende per Superficie Decisionale O Di Separazione? Riportare Anche Un Esempio Grafico. #Ricapitato_1_volta 
 In un problema di **classificazione**, la **superficie decisionale** (o superficie di separazione) è l’insieme dei punti dello spazio delle feature per i quali il classificatore è **indifferente tra due o più classi**.  
 Essa divide lo spazio delle feature in **regioni di decisione**, ciascuna associata a una classe.
 - In **2D** la superficie decisionale è una **retta**;
@@ -734,6 +734,12 @@ Reti Neurali
 Classificazione 1
 ### Nell’ambito delle reti neurali che cosa si intende per problema del vanishing gradient? Come può essere risolto?
 Deep learning 1
+### Come può essere matematicamente definita la loss function (su un singolo pattern) per l’addestramento di una rete neurale?
+Reti neurali
+### Con quali tecniche si può estendere SVM da 2 a più classi?
+Classificazione 2
+### Che cosa codifica la funzione Q nell’ambito dell’approccio Q-learning? Quali sono gli input che ne determinano il valore?
+Deep learning 2
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
