@@ -259,7 +259,7 @@ La fase più recente è caratterizzata dall’affermazione del **Deep Learning**
 - elevata potenza computazionale.
 
 Le DNN consentono di apprendere **rappresentazioni gerarchiche** dei dati e hanno portato a risultati rilevanti in visione, linguaggio e decision making.
-### Definizione Dei Problemi Di Classificazione E Regressione, Differenze Ed Esempi Applicativi
+### Definire i problemi di Classificazione e Regressione evidenziandone le differenze e fornendo per ciascuno esempi reali della loro applicazione. #Ricapitato_1_volta 
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
 #### Problema Di Classificazione
 Un problema di **classificazione** consiste nel determinare, a partire da un vettore di input $x$, la **classe discreta** $y$ a cui il pattern appartiene, scelta da un insieme finito di etichette.
@@ -577,7 +577,7 @@ Le principali tecniche di transfer learning nelle CNN sono:
   Oltre al classificatore finale, vengono riaddestrati anche alcuni **strati interni** della rete:
   - tipicamente gli strati più profondi;
   - consente un migliore adattamento al nuovo task.
-### Come Può Essere Scelto Nella Pratica Il Numero Di Cluster in Un Algoritmo Di Clustering come K-means?
+### Come Può Essere Scelto Nella Pratica Il Numero Di Cluster in Un Algoritmo Di Clustering come K-means? #Ricapitato_1_volta 
 Nella pratica, il numero di cluster $K$ nell’algoritmo **K-means** non è noto a priori e viene scelto tramite criteri empirici.
 Le strategie più comuni sono:
 - **Analisi della funzione obiettivo**: si osserva l’andamento della somma delle distanze intra-cluster al variare di $K$ e si sceglie un valore oltre il quale il miglioramento diventa marginale;
@@ -665,6 +665,14 @@ Una **distribuzione multinormale** è completamente definita da due parametri:
   - determina forma, dimensione e orientamento dell’ellissoide associato alla distribuzione.
 
 Questi due parametri sono sufficienti a descrivere completamente la distribuzione di probabilità.
+### Quali sono le limitazioni di Q learning per risolvere problemi complessi? Le tecniche di deep learning possono essere di aiuto in questo caso? Come?
+
+### Nell’ambito dei multi-classificatori che cosa è e come funziona il Borda count?
+
+### Come opera un livello di convoluzione di una CNN?
+
+### La densità locale di pattern con quali metodi (parametrici e non-parametrici) può essere stimata? Fare un esempio.
+
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
