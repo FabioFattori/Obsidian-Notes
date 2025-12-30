@@ -727,10 +727,34 @@ A partire dalla matrice di confusione si definiscono indicatori di prestazione, 
 
 Queste misure permettono di valutare la **capacità di generalizzazione** del classificatore.
 ### Dal punto di vista pratico nell’approccio di Parzen che differenza c’è se si usa una funzione finestra ipercubo piuttosto che multinormale?
-Classificazione 1 
+Nell’approccio di **stima di densità di Parzen**, la differenza tra le due finestre riguarda il modo in cui i pattern contribuiscono alla densità locale.
+- **Finestra ipercubo**:
+  - assegna un contributo **costante** ai pattern che cadono all’interno della finestra;
+  - i pattern fuori dalla finestra non contribuiscono;
+  - è computazionalmente semplice ma produce stime **meno regolari**.
+- **Finestra multinormale (gaussiana)**:
+  - assegna un contributo **decrescente con la distanza** dal punto considerato;
+  - tutti i pattern contribuiscono, anche se con peso diverso;
+  - produce stime di densità **più lisce e regolari**.
 
+Dal punto di vista pratico, la finestra multinormale fornisce una stima più stabile e realistica, a costo di un maggiore carico computazionale.
 ### Quanti sono i parametri indipendenti di una distribuzione multinormale nel caso 3-dimensionale? Motivare la risposta
-classificazione 1
+Una **distribuzione multinormale** è definita da:
+- un **vettore di media** $\mu$;
+- una **matrice di covarianza** $\Sigma$.
+
+Nel caso **3-dimensionale**:
+- il vettore di media $\mu$ ha **3 parametri**;
+- la matrice di covarianza $\Sigma$ è una matrice $3 \times 3$ simmetrica:
+  - contiene 3 varianze sulla diagonale;
+  - contiene 3 covarianze indipendenti fuori diagonale.
+
+Il numero totale di parametri indipendenti è quindi:
+$$
+3 \;(\mu) + 6 \;(\Sigma) = 9
+$$
+
+La simmetria della matrice di covarianza riduce il numero di parametri indipendenti rispetto ai 9 elementi totali della matrice.
 
 ### Quando una rete neurale si definisce deep (profonda)?
 Deep Learning 
