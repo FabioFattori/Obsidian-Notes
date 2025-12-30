@@ -259,7 +259,7 @@ La fase più recente è caratterizzata dall’affermazione del **Deep Learning**
 - elevata potenza computazionale.
 
 Le DNN consentono di apprendere **rappresentazioni gerarchiche** dei dati e hanno portato a risultati rilevanti in visione, linguaggio e decision making.
-### Definire i problemi di Classificazione e Regressione evidenziandone le differenze e fornendo per ciascuno esempi reali della loro applicazione. #Ricapitato_1_volta 
+### Definire I Problemi Di Classificazione E Regressione Evidenziandone Le Differenze E Fornendo per Ciascuno Esempi Reali Della Loro Applicazione. #Ricapitato_1_volta
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
 #### Problema Di Classificazione
 Un problema di **classificazione** consiste nel determinare, a partire da un vettore di input $x$, la **classe discreta** $y$ a cui il pattern appartiene, scelta da un insieme finito di etichette.
@@ -443,7 +443,7 @@ La ReLU consente di addestrare reti neurali profonde limitando il problema del *
 - il gradiente non tende a zero durante la backpropagation, a differenza di funzioni sigmoidi o tangente iperbolica;
 - ciò permette una propagazione più efficace del gradiente negli strati profondi della rete.
 Di conseguenza, l’uso della ReLU rende l’addestramento delle **Deep Neural Networks** più stabile ed efficiente.
-### Che Cosa Si Intende per Clustering? Fare Esempi Di Applicazioni. #Ricapitato_1_volta 
+### Che Cosa Si Intende per Clustering? Fare Esempi Di Applicazioni. #Ricapitato_1_volta
 Il **clustering** è una tecnica di **apprendimento non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **gruppi (cluster)**, in modo tale che i pattern appartenenti allo stesso cluster siano **più simili tra loro** rispetto a quelli appartenenti a cluster diversi, secondo una opportuna misura di similarità o distanza.
 
 Nel clustering non sono disponibili etichette di classe a priori: la struttura dei gruppi viene individuata direttamente a partire dai dati.
@@ -481,7 +481,7 @@ Un multi-classificatore è efficace quando:
 - la regola di combinazione (ad esempio voto di maggioranza o combinazione pesata) è adeguata al problema.
 
 In queste condizioni, il multi-classificatore riesce a ottenere prestazioni migliori rispetto ai singoli classificatori che lo compongono.
-### Fare Esempi Pratici Di Ragionamento Induttivo E Deduttivo. #Ricapitato_1_volta 
+### Fare Esempi Pratici Di Ragionamento Induttivo E Deduttivo. #Ricapitato_1_volta
 Il **ragionamento induttivo** consiste nel ricavare **regole generali** o modelli a partire da **osservazioni particolari**.  
 È il principio alla base del **Machine Learning**, in cui un modello apprende dai dati esempi.
 Alcuni esempi pratici possono essere:
@@ -577,7 +577,7 @@ Le principali tecniche di transfer learning nelle CNN sono:
   Oltre al classificatore finale, vengono riaddestrati anche alcuni **strati interni** della rete:
   - tipicamente gli strati più profondi;
   - consente un migliore adattamento al nuovo task.
-### Come Può Essere Scelto Nella Pratica Il Numero Di Cluster in Un Algoritmo Di Clustering come K-means? #Ricapitato_1_volta 
+### Come Può Essere Scelto Nella Pratica Il Numero Di Cluster in Un Algoritmo Di Clustering come K-means? #Ricapitato_1_volta
 Nella pratica, il numero di cluster $K$ nell’algoritmo **K-means** non è noto a priori e viene scelto tramite criteri empirici.
 Le strategie più comuni sono:
 - **Analisi della funzione obiettivo**: si osserva l’andamento della somma delle distanze intra-cluster al variare di $K$ e si sceglie un valore oltre il quale il miglioramento diventa marginale;
@@ -665,7 +665,7 @@ Una **distribuzione multinormale** è completamente definita da due parametri:
   - determina forma, dimensione e orientamento dell’ellissoide associato alla distribuzione.
 
 Questi due parametri sono sufficienti a descrivere completamente la distribuzione di probabilità.
-### Quali sono le limitazioni di Q learning per risolvere problemi complessi? Le tecniche di deep learning possono essere di aiuto in questo caso? Come?
+### Quali Sono Le Limitazioni Di Q Learning per Risolvere Problemi Complessi? Le Tecniche Di Deep Learning Possono Essere Di Aiuto in Questo Caso? Come?
 Il **Q-learning** classico presenta importanti limitazioni quando applicato a problemi complessi:
 - richiede una **tabella Q** che cresce rapidamente con il numero di stati e azioni;
 - diventa impraticabile in spazi di stato **grandi o continui**;
@@ -679,7 +679,7 @@ In questo modo:
 - è possibile affrontare problemi con spazi di stato complessi.
 
 Questo approccio prende il nome di **Deep Q-Learning**.
-### Nell’ambito dei multi-classificatori che cosa è e come funziona il Borda count?
+### Nell’ambito Dei Multi-classificatori Che Cosa È E come Funziona Il Borda Count?
 Il **Borda count** è una tecnica di **fusione a livello di decisione** utilizzata nei multi-classificatori quando ciascun classificatore produce una **classifica delle classi**.
 Il funzionamento è il seguente:
 - ogni classificatore assegna un **ranking** alle classi;
@@ -688,10 +688,29 @@ Il funzionamento è il seguente:
 - la classe con il punteggio totale più alto viene scelta come decisione finale.
 
 Il Borda count sfrutta quindi l’informazione contenuta nell’ordinamento delle classi, non solo nella classe vincente. [[# Tabella Borda Count Di Un Multiclassificatore]] 
-### Come opera un livello di convoluzione di una CNN?
+### Come Opera Un Livello Di Convoluzione Di Una CNN?
+Un **livello di convoluzione** di una **CNN** applica un insieme di **filtri (kernel)** locali al volume di input.
+In particolare:
+- ogni filtro scorre sull’input effettuando un’operazione di **convoluzione**;
+- i pesi del filtro sono **condivisi** su tutte le posizioni;
+- ogni filtro produce una **feature map**;
+- il numero di feature map in uscita è pari al numero di filtri.
 
-### La densità locale di pattern con quali metodi (parametrici e non-parametrici) può essere stimata? Fare un esempio.
+Questo meccanismo consente di:
+- estrarre **feature locali**;
+- ridurre il numero di parametri;
+- mantenere l’informazione spaziale dell’input.
+### La Densità Locale Di Pattern Con Quali Metodi (parametrici E non-parametrici) Può Essere Stimata? Fare Un Esempio
+La **densità locale di pattern** può essere stimata tramite:
+#### Metodi Parametrici
+Assumono una forma funzionale nota della distribuzione.
+- Esempio: **distribuzione gaussiana (multinormale)**, caratterizzata da media $\mu$ e covarianza $\Sigma$.
+#### Metodi Non-parametrici
+Non assumono una forma prefissata della distribuzione.
+- Esempio: **stima di densità di Parzen**, in cui la densità viene stimata sommando contributi locali dei pattern tramite una finestra o kernel.
 
+Questi metodi sono utilizzati, ad esempio, nel clustering basato su **modelli probabilistici**.
+### 
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -847,7 +866,7 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
-## Numero complessivo di addestramenti da effettuare di una grid search combinata a k-fold cross-validation
+## Numero Complessivo Di Addestramenti Da Effettuare Di Una Grid search Combinata a K-fold Cross-validation
 ![[Pasted image 20251230183010.png]]
 ### Svolgimento
 ![[Pasted image 20251230183025.png]]
