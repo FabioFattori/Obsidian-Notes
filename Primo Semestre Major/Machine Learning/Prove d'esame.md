@@ -814,14 +814,53 @@ Nell’ambito della **classificazione**, un approccio può essere **parametrico*
   **Esempio**:  
   - **Classificatore basato su Parzen**, che stima la densità tramite finestre centrate sui pattern del training set.
 ### Nell’ambito delle reti neurali che cosa si intende per problema del vanishing gradient? Come può essere risolto?
-Deep learning 1
-### Come può essere matematicamente definita la loss function (su un singolo pattern) per l’addestramento di una rete neurale?
-Reti neurali
-### Con quali tecniche si può estendere SVM da 2 a più classi?
-Classificazione 2
-### Che cosa codifica la funzione Q nell’ambito dell’approccio Q-learning? Quali sono gli input che ne determinano il valore?
-Deep learning 2
+Il **problema del vanishing gradient** si verifica durante l’addestramento di **reti neurali profonde**, quando il gradiente dell’errore, propagandosi all’indietro attraverso molti strati, tende a diventare **molto piccolo**.
+Di conseguenza:
+- i pesi degli strati più profondi vengono aggiornati in modo trascurabile;
+- l’addestramento diventa molto lento o si blocca.
 
+Il problema può essere mitigato utilizzando:
+- **funzioni di attivazione come ReLU**, che non saturano per valori positivi;
+- architetture profonde progettate per facilitare la propagazione del gradiente.
+### Come può essere matematicamente definita la loss function (su un singolo pattern) per l’addestramento di una rete neurale?
+La **loss function** su un singolo pattern misura l’errore tra:
+- il **vettore di output desiderato** $d$;
+- l’**output prodotto dalla rete** $y$.
+
+Una definizione tipica è l’**errore quadratico**:
+$$
+L(d, y) = \frac{1}{2} \sum_{j} (d_j - y_j)^2
+$$
+Questa funzione quantifica lo scostamento tra output desiderato e output calcolato ed è utilizzata dalla **backpropagation** per aggiornare i pesi della rete.
+### Con quali tecniche si può estendere SVM da 2 a più classi?
+Le **Support Vector Machine (SVM)** sono nate per problemi di **classificazione binaria**, ma possono essere estese al caso **multi-classe** tramite strategie di decomposizione del problema.
+Le tecniche più comuni sono:
+- **One-vs-All (OvA)**  
+  - si addestrano $K$ classificatori binari, uno per ciascuna classe;
+  - ogni classificatore separa una classe da tutte le altre;
+  - la classe finale è quella associata al classificatore con output più alto.
+- **One-vs-One (OvO)**  
+  - si addestrano classificatori binari per ogni coppia di classi;
+  - nel caso di $K$ classi si ottengono $\frac{K(K-1)}{2}$ classificatori;
+  - la decisione finale è ottenuta tramite **voto di maggioranza**.
+
+Questi approcci permettono di utilizzare SVM binarie anche in contesti multi-classe.
+### Che cosa codifica la funzione Q nell’ambito dell’approccio Q-learning? Quali sono gli input che ne determinano il valore?
+Nell’ambito del **Q-learning**, la **funzione Q** codifica la **qualità** (o valore atteso) dell’esecuzione di una certa azione in uno stato.
+Formalmente, la funzione:
+$$
+Q(s,a)
+$$
+rappresenta la **ricompensa cumulativa attesa** che un agente può ottenere:
+- partendo dallo **stato** $s$,
+- eseguendo l’**azione** $a$,
+- e seguendo successivamente una politica ottimale.
+
+Gli **input** che determinano il valore della funzione Q sono quindi:
+- lo **stato** dell’ambiente $s$;
+- l’**azione** $a$ eseguita dall’agente.
+
+La funzione Q guida la scelta dell’azione che massimizza la ricompensa nel processo di apprendimento per rinforzo.
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
