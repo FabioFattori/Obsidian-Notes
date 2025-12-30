@@ -1,6 +1,6 @@
 # <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande Teoriche, Ripetute Con Meno Frequenza
 ## 07/12/2016
-### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi #Ricapitato_1_volta 
+### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi #Ricapitato_1_volta
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
 _Per Validation set_ si intende un sottoinsieme del dataset utilizzato per l'ottimizzazione degli iperparametri del modello, usato anche per attuare tecniche come early-stopping.
 Mentre per _Test set_ si intende una partizione del dataset usata solo alla fine per stimare le prestazioni finali del modello.
@@ -372,7 +372,7 @@ L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
    - oppure le assegnazioni dei pattern restano invariate.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
-### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression?
+### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_1_volta
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
 - $X \in \mathbb{R}^{n \times (d+1)}$ la **matrice dei dati** (con la colonna di 1 per l’intercetta),
@@ -548,15 +548,15 @@ La loss e l'accuratezza hanno il seguente comportamento durante la convergenza:
 
 Quando loss e accuratezza diventano quasi costanti, l’algoritmo può essere considerato convergente.
 ![[Pasted image 20251229182235.png]]
-### Nell’ambito dei multi-classificatori quali sono le più comuni tecniche di fusione a livello di decisione e di confidenza?
+### Nell’ambito Dei Multi-classificatori Quali Sono Le Più Comuni Tecniche Di Fusione a Livello Di Decisione E Di Confidenza?
 Nei **multi-classificatori**, la fusione delle informazioni può avvenire a **livello di decisione** oppure a **livello di confidenza**, a seconda del tipo di output prodotto dai classificatori base.
-#### Fusione a livello di decisione
+#### Fusione a Livello Di Decisione
 In questo caso ciascun classificatore fornisce una **decisione discreta** (classe assegnata) e la combinazione avviene direttamente sulle etichette.
 Le tecniche più comuni sono:
 - **Voto di maggioranza**: la classe finale è quella più frequentemente predetta dai classificatori;
 - **Voto pesato**: a ciascun classificatore viene assegnato un peso proporzionale alla sua affidabilità, e la decisione finale tiene conto di tali pesi.
 Queste tecniche sono semplici e non richiedono informazioni aggiuntive oltre alla classe predetta.
-#### Fusione a livello di confidenza
+#### Fusione a Livello Di Confidenza
 In questo caso ciascun classificatore fornisce, oltre alla decisione, un **valore di confidenza** (ad esempio una probabilità o uno score).
 Le tecniche più comuni sono:
 - **Media delle confidenze**;
@@ -565,7 +565,7 @@ Le tecniche più comuni sono:
 
 La classe finale è quella che massimizza la confidenza combinata.  
 Questo approccio è generalmente più informativo rispetto alla fusione a livello di decisione, poiché sfrutta anche il grado di certezza dei singoli classificatori.
-### Nell’ambito di CNN, che cosa si intende con transfer learning? Quali sono le tecniche di transfer learning utilizzabili?
+### Nell’ambito Di CNN, Che Cosa Si Intende Con Transfer Learning? Quali Sono Le Tecniche Di Transfer Learning Utilizzabili?
 Nel contesto delle **Convolutional Neural Networks (CNN)**, il **transfer learning** consiste nel riutilizzare una rete neurale già addestrata su un grande dataset per risolvere un **nuovo problema**, generalmente con una quantità limitata di dati.
 L’idea di base è che i primi strati della rete apprendono **feature generiche**, riutilizzabili anche in domini differenti.
 Le principali tecniche di transfer learning nelle CNN sono:
@@ -577,6 +577,70 @@ Le principali tecniche di transfer learning nelle CNN sono:
   Oltre al classificatore finale, vengono riaddestrati anche alcuni **strati interni** della rete:
   - tipicamente gli strati più profondi;
   - consente un migliore adattamento al nuovo task.
+### Come Può Essere Scelto Nella Pratica Il Numero Di Cluster in Un Algoritmo Di Clustering come K-means?
+Nella pratica, il numero di cluster $K$ nell’algoritmo **K-means** non è noto a priori e viene scelto tramite criteri empirici.
+Le strategie più comuni sono:
+- **Analisi della funzione obiettivo**: si osserva l’andamento della somma delle distanze intra-cluster al variare di $K$ e si sceglie un valore oltre il quale il miglioramento diventa marginale;
+- **Metodo del gomito (elbow method)**: si individua il punto in cui la riduzione dell’errore rallenta significativamente;
+- **Conoscenza del dominio applicativo**: informazioni a priori sul problema possono suggerire un numero plausibile di cluster.
+
+In generale, la scelta di $K$ rappresenta un compromesso tra accuratezza della rappresentazione e semplicità del modello.
+### Cosa Si Intende per Funzione Obiettivo E Loss Function?
+La **funzione obiettivo** è la funzione matematica che un algoritmo di apprendimento cerca di **ottimizzare** (minimizzare o massimizzare) durante il training. Essa formalizza ciò che si desidera ottenere dal modello.
+La **loss function** è una funzione che misura l’**errore** commesso dal modello su un singolo pattern o su un insieme di pattern, confrontando l’output predetto con quello desiderato.
+In molti casi, la funzione obiettivo è definita come la **somma o la media delle loss function** sui dati di training.
+### Cosa Si Intende per Risoluzione Dei Problemi Con Approccio “forza bruta”. Si Tratta Di Intelligenza Artificiale?
+L’approccio **a forza bruta** consiste nel risolvere un problema esplorando **tutte le possibili soluzioni**, selezionando quella che soddisfa i vincoli o ottimizza un certo criterio.
+Questo approccio:
+- non utilizza modelli, apprendimento o rappresentazioni della conoscenza;
+- è spesso computazionalmente inefficiente per problemi complessi.
+
+In generale, la forza bruta **non è considerata intelligenza artificiale**, poiché manca di capacità di apprendimento, adattamento o generalizzazione.  
+Tuttavia, può essere utilizzata come metodo di riferimento o come parte di sistemi più complessi.
+### Qual È la Differenza Sostanziale dell’approccio “On-line” Rispetto a “SGD Con mini-batch“ per Il Training Di Reti Neurali?
+La differenza principale riguarda la **quantità di dati utilizzata per ogni aggiornamento dei pesi**.
+- **Approccio On-line**:
+  - i pesi vengono aggiornati **dopo ogni singolo pattern**;
+  - l’aggiornamento è molto frequente e rumoroso;
+  - adatto a contesti con flussi di dati continui.
+- **SGD con mini-batch**:
+  - i pesi vengono aggiornati dopo aver elaborato un **piccolo sottoinsieme di pattern** (mini-batch);
+  - rappresenta un compromesso tra stabilità e velocità;
+  - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
+
+In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
+### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
+Il **vettore di media μ** determina la **posizione** dell’ellissoide:
+  - μ rappresenta il **centro** della distribuzione;
+  - traslando μ, l’intero ellissoide si sposta nello spazio.
+La **matrice di covarianza Σ** determina la **forma, dimensione e orientamento** dell’ellissoide:
+  - gli **autovalori** di Σ controllano l’estensione dell’ellissoide lungo ciascuna direzione;
+  - gli **autovettori** di Σ determinano l’orientamento dell’ellissoide;
+  - covarianze nulle producono ellissoidi allineati agli assi, covarianze non nulle producono ellissoidi inclinati.
+### Nell’ambito Dei Multi-classificatori come Si Può Ottenere Indipendenza Tra I Singoli Classificatori Utilizzati?
+Nei **multi-classificatori**, l’efficacia dipende dalla **diversità** (o bassa correlazione degli errori) tra i classificatori base.
+L’indipendenza può essere ottenuta tramite:
+- **uso di diversi sottoinsiemi di dati** di training (es. campionamento bootstrap);
+- **uso di diversi sottoinsiemi di feature**;
+- **uso di modelli o parametri differenti** per i classificatori base;
+- **inizializzazioni diverse** dei modelli.
+
+Queste strategie portano i classificatori a commettere errori diversi, migliorando le prestazioni della combinazione.
+### Nell’ambito Delle Reti Neurali, Quali Sono Le Principali Differenze Di CNN Rispetto a MLP?
+Le **Convolutional Neural Networks (CNN)** si differenziano dalle **Multi-Layer Perceptron (MLP)** principalmente per la struttura delle connessioni e il modo in cui trattano i dati.
+Le principali differenze sono:
+1. **Connessioni locali**:
+  - nelle CNN ogni neurone è connesso solo a una regione locale dell’input;
+  - nelle MLP le connessioni sono completamente dense.
+2. **Condivisione dei pesi**:
+  - le CNN utilizzano gli stessi filtri su diverse regioni dell’input;
+  - le MLP hanno pesi distinti per ogni connessione.
+3. **Riduzione del numero di parametri**:
+  - le CNN hanno molti meno parametri rispetto alle MLP;
+4. **Invarianza a traslazioni**:
+  - le CNN sono più robuste a traslazioni locali dell’input.
+
+Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -732,5 +796,3 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
-
-![[Pasted image 20251229184718.png]]
