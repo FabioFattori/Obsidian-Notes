@@ -11,7 +11,7 @@ Per la suddivisione si tende ad usare una distribuzione standard come segue:
 
 Esempio 70%|15%|15%.
 Ma può essere messa in atto quando si ha un dataset di medi/grandi dimensioni, se invece si ha a disposizione pochi dati si può decidere di non avere un validation set a favore dell'applicazione della k-fold  cross validation per ottimizzare gli iper parametri.
-### Nella Formulazione dell’SVM Lineare la Funzione Obiettivo Richiede Di Massimizzare Il Margine. L’ottimizzazione È Però Vincolata; in Cosa Consistono I Vicoli? Quanti Sono?
+### Nella formulazione dell’SVM lineare la funzione obiettivo richiede di massimizzare il margine. L’ottimizzazione è però vincolata; in cosa consistono i vincoli? quanti sono? #Ricapitato_1_volta 
 Hard Margin
 Dato un dataset dove $x_i$ è l'i-esimo dato e $y_i \in \{-1,+1\}$ si richiede che tutti i dati siano classificati correttamente e fuori dal margine, quindi:
 $$y_i(w*x_i+b)-1 \geq 0\\\ per \\\ i=1...n$$
@@ -119,7 +119,7 @@ L’algoritmo procede in modo **iterativo**, alternando due fasi:
 - **Expectation step (E-step)**: si stima, per ogni pattern, la **probabilità di appartenenza** a ciascuna gaussiana, dati i parametri correnti del modello;
 - **Maximization step (M-step)**: si aggiornano i **parametri delle gaussiane** massimizzando la **verosimiglianza** dei dati pesata dalle probabilità stimate nell’E-step.
 Questo processo viene ripetuto fino a convergenza, portando a una stima dei parametri che **massimizza la likelihood** del modello sui dati osservati .
-### Quali Sono Le Più Comuni Funzioni Di Attivazione Utilizzate per Neuroni Artificiali? Percle Distribuzioni Riportate Nel Grafico Sohé È Necessario Che Siano Non-lineari E Differenziabili (esistenza derivata) ?
+### Quali sono le più comuni funzioni di attivazione utilizzate per neuroni artificiali? Perché è necessario che siano non-lineari e differenziabili (esistenza derivata)? #Ricapitato_1_volta 
 - Relu
 - Eli
 - tanh
@@ -225,7 +225,7 @@ Il procedimento è il seguente:
 - il processo viene ripetuto fino a quando **ogni fold è stato usato una volta come validation set**.
 Le prestazioni finali del modello sono ottenute come **media delle prestazioni** calcolate sui K esperimenti.
 La K-fold cross-validation permette di ottenere una **stima più affidabile della capacità di generalizzazione** del modello rispetto a una singola suddivisione training/validation, soprattutto quando il dataset disponibile è limitato.
-### Indicare Le Differenze Tra Reti Neurali Feedforward E Le Reti Neurali Ricorrenti, Disegnando Un Esempio Di Entrambe
+### Indicare Le Differenze Tra Reti Neurali Feedforward E Le Reti Neurali Ricorrenti, Disegnando Un Esempio Di Entrambe #Ricapitato_1_volta 
 - Feedforward: 
 	nelle reti feedforward le connessioni collegano i neuroni di un livello con i neuroni di un livello successivo. Non sono consentite connessioni all’indietro o connessioni verso lo stesso livello.
 - Ricorrenti: 
@@ -455,7 +455,7 @@ Alcuni esempi di applicazioni del clustering sono:
 - **Riconoscimento di pattern** e analisi esplorativa dei dati, per individuare strutture nascoste nei dataset.
 
 Il clustering è spesso utilizzato come strumento di **analisi esplorativa**, utile per comprendere la struttura interna dei dati prima di applicare modelli supervisionati.
-### Nell’ambito dell’apprendimento Automatico Quali Sono Le Principali Cause Di Overfitting?
+### Nell’ambito dell’apprendimento Automatico Quali Sono Le Principali Cause Di Overfitting? #Ricapitato_1_volta 
 L’**overfitting** si verifica quando un modello apprende in modo eccessivamente accurato i dati di training, includendo anche il **rumore**, e perde quindi capacità di **generalizzazione** su dati non visti.
 Le principali cause di overfitting sono:
 - **Modello troppo complesso** rispetto alla quantità di dati disponibili (elevato numero di parametri);
@@ -496,7 +496,7 @@ Esempi pratici:
 - in un sistema basato su regole *if–then*, si applicano le regole per ottenere una decisione.
 
 In questo caso, la conoscenza è **esplicitamente codificata** e il sistema si limita ad applicarla.
-### Nella Regressione Lineare (sia Rispetto Ai Parametri Sia Rispetto Alla Variabile indipendente) I Dati Con Cosa Sono Approssimati Nel Caso 2D E 3D?
+### Nella Regressione Lineare (sia Rispetto Ai Parametri Sia Rispetto Alla Variabile indipendente) I Dati Con Cosa Sono Approssimati Nel Caso 2D E 3D? #Ricapitato_1_volta 
 Nella **regressione lineare**, i dati vengono approssimati tramite **modelli lineari**, la cui forma dipende dalla dimensionalità dello spazio dei dati.
 
 - **Caso 2D** (una variabile indipendente):
@@ -509,7 +509,7 @@ Nella **regressione lineare**, i dati vengono approssimati tramite **modelli lin
   - il modello ha la forma:$$
     y = w_0 + w_1 x_1 + w_2 x_2$$
 In generale, all’aumentare della dimensionalità, la regressione lineare approssima i dati con un **iperpiano** nello spazio delle feature.
-### Quali Sono Le Più Note Tecniche Di Riduzione Di Dimensionalità? Quali I Loro Tipici Utilizzi?
+### Quali Sono Le Più Note Tecniche Di Riduzione Di Dimensionalità? Quali I Loro Tipici Utilizzi? #Ricapitato_1_volta 
 Le tecniche di **riduzione di dimensionalità** hanno l’obiettivo di rappresentare i dati in uno spazio di dimensione inferiore preservando l’informazione rilevante.
 Le più note sono:
 - **PCA (Principal Component Analysis)**  
@@ -585,7 +585,7 @@ Le strategie più comuni sono:
 - **Conoscenza del dominio applicativo**: informazioni a priori sul problema possono suggerire un numero plausibile di cluster.
 
 In generale, la scelta di $K$ rappresenta un compromesso tra accuratezza della rappresentazione e semplicità del modello.
-### Cosa Si Intende per Funzione Obiettivo E Loss Function?
+### Cosa Si Intende per Funzione Obiettivo E Loss Function? #Ricapitato_1_volta 
 La **funzione obiettivo** è la funzione matematica che un algoritmo di apprendimento cerca di **ottimizzare** (minimizzare o massimizzare) durante il training. Essa formalizza ciò che si desidera ottenere dal modello.
 La **loss function** è una funzione che misura l’**errore** commesso dal modello su un singolo pattern o su un insieme di pattern, confrontando l’output predetto con quello desiderato.
 In molti casi, la funzione obiettivo è definita come la **somma o la media delle loss function** sui dati di training.
@@ -713,6 +713,13 @@ Questi metodi sono utilizzati, ad esempio, nel clustering basato su **modelli pr
 ###  Come si misurano le prestazioni di un classificatore?
 Fondamenti
 ### Dal punto di vista pratico nell’approccio di Parzen che differenza c’è se si usa una funzione finestra ipercubo piuttosto che multinormale?
+Classificazione 1 
+
+### Quanti sono i parametri indipendenti di una distribuzione multinormale nel caso 3-dimensionale? Motivare la risposta
+classificazione 1
+
+### Quando una rete neurale si definisce deep (profonda)?
+Deep Learning 
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
