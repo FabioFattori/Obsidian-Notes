@@ -1,6 +1,6 @@
 # <a href="http://bias.csr.unibo.it/maltoni/ml/SoluzioniEsami/">Prove D'esame</a> Domande Teoriche, Ripetute Con Meno Frequenza
 ## 07/12/2016
-### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi #Ricapitato_1_volta
+### Dare la Definizione Di Training, Validation E Test Set E Discutere Una Possibile Suddivisione Dei Dati Nei Tre Insiemi. #Ricapitato_N_volta
 _Per training set_ si intende una partizione del dataset atta all'addestramento interno del modello, quindi all'aggiornamento dei pesi e dei coefficenti del modello.
 _Per Validation set_ si intende un sottoinsieme del dataset utilizzato per l'ottimizzazione degli iperparametri del modello, usato anche per attuare tecniche come early-stopping.
 Mentre per _Test set_ si intende una partizione del dataset usata solo alla fine per stimare le prestazioni finali del modello.
@@ -49,7 +49,7 @@ Nella pratica lo stesso filtro viene fatto passare su tutte le zone locali dell'
 Il Support Vector Machine si basa sul principio di individuare l'iperpiano di separazione ottimale per, appunto, separare le classi fra loro con distanza maggiore dall'iperpiano individuato.
 Il margine è la minima distanza tra i support vectors delle due classi del training set dall'iperpiano, ovvero i campioni più vicini all'iperpiano individuato delle classi.
 Il massimizzare il margine è legata alla generalizzazione, di fatti se le classi del training set hanno un ampio margine, quindi sono facilmente separabili, ci si aspetta che anche quel test set lo siano.
-### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli? #Ricapitato_1_volta
+### Perché Le Recenti Reti Neurali Deep Sono Più Efficaci Delle MLP a Tre Livelli? #Ricapitato_N_volta
 Le recenti reti neurali deep sono più efficaci delle MLP a tre livelli perché la **profondità** consente di rappresentare alcune funzioni in modo **molto più efficiente**.  
 Sebbene il _universal approximation theorem_ garantisca che una MLP con un solo livello hidden possa approssimare qualsiasi funzione, **l’esistenza di una soluzione non implica efficienza**: esistono funzioni che possono essere rappresentate con **complessità polinomiale usando più livelli**, ma che richiedono **complessità esponenziale** se realizzate con un livello in meno.
 L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
@@ -70,7 +70,7 @@ L'organizzazione gerarchica delle DNN porta con se diversi vantaggi:
 Nella regressione per variabile indipendente si intende la variabile, o insieme di variabili, di input x mentre per variabile dipendente si intende la variabile di output y, quindi quello che il modello di regressione produce.
 Inoltre si può dire che la variabile indipendente x si considera sempre come priva di errori mentre la variabile dipendente y va sempre considerata come influenzata da errori.
 ## 17/2/2017
-### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano? #Ricapitato_1_volta
+### Cosa Si Intende per Iperparametri? Fornire Esempi Pratici Di Iperparametri. Come Si Ottimizzano? #Ricapitato_N_volta
 Per iperparametri si intendono dei valori che definiscono i dettagli archietturali del modello e della corrispondente procedura di training, tali valori non vengono appresi in autonomia dal modello sui dati, ma bensì passati ed utilizzati per la definizione del modello stesso.
 Esempi:
 - learning rate
@@ -94,7 +94,7 @@ Il learning rate è un iperparametro che regola l'ampiezza di aggiornamento dei 
 Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la direzione opposta al gradiente della funzione di errore, questo rende, di fatto, la scelta di questo iperparametro cruciale, infatti:
 - quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete convergerà più lentamente con maggiori probabilità di rimanere bloccati in un minimo locale
 - invece quando lo si sceglie troppo grande otterremo delle oscillazioni indesiderate dei pesi facendo divergere il processo di training 
-### Quali Sono I Più Noti Algoritmi Di Clustering?
+### Quali Sono I Più Noti Algoritmi Di Clustering? #Ricapitato_1_volta 
 - **Clustering partizionale**
     - **K-means**  
         È uno degli algoritmi di clustering più noti. Suddivide i dati in kkk cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
@@ -142,7 +142,7 @@ Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza
 Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
 minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi$$J_e=\sum_{i=1,...s}\sum_{x\in C_i}||x-\overline x_i||^2,\quad\overline x_i = \frac{1}{n_i}\sum_{x\in C_i}x$$
 dove $C_i$ è l’i-esimo cluster, $n_i$ il numero di pattern che contiene e $\overline x_i$ il suo centroide (media).
-### Come Opera Un Livello Di Pooling in Una CNN?
+### Come Opera Un Livello Di Pooling in Una CNN? #Ricapitato_1_volta 
 Un livello di **pooling** esegue un’**aggregazione locale** delle informazioni nel volume di input, producendo feature map di **dimensione spaziale inferiore**.  
 L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazioni dell’input** (ad esempio traslazioni), mantenendo allo stesso tempo le informazioni più significative per la discriminazione dei pattern.
 
@@ -165,8 +165,7 @@ Lo scopo finale è ottenere un modello che approssimi correttamente la relazione
 - Clustering hard (esclusivo): un pattern è assegnato (in modo esclusivo) a un solo cluster.
 - Clustering soft (fuzzy): i pattern appartengono a diversi cluster con un certo grado di appartenenza (es. tra 0 e 1). 
 Fuzzy ha il vantaggio che è più efficace nel gestire pattern vicino al bordo di due o più clusters e outliers. L’assegnazione può diventare esclusiva scegliendo, per ogni pattern, il cluster verso cui il grado di appartenenza è massimo.
-### Cosa È Possibile Apprendere Mediante Tecniche Di Reinforcement Learning? Fare Un Esempio
-
+### Cosa È Possibile Apprendere Mediante Tecniche Di Reinforcement Learning? Fare Un Esempio #Ricapitato_1_volta 
 Mediante le tecniche di **Reinforcement Learning (RL)** è possibile apprendere una **politica di comportamento**, cioè una strategia che indica quale **azione** un agente deve compiere in ogni **stato** dell’ambiente, al fine di **massimizzare una ricompensa cumulativa** nel tempo.
 
 Nel Reinforcement Learning l’apprendimento avviene tramite **interazione diretta con l’ambiente**: l’agente osserva lo stato corrente, seleziona un’azione, riceve una ricompensa e aggiorna la propria politica sulla base dell’esperienza accumulata. Non sono quindi disponibili etichette corrette a priori, ma solo segnali di rinforzo.
@@ -347,7 +346,7 @@ L’efficacia del Deep Learning dipende anche dall’uso di:
 - tecniche che facilitano l’addestramento di reti profonde e migliorano la generalizzazione.
 
 In sintesi, il Deep Learning è più efficace quando si dispone di **molti dati**, **problemi complessi**, **potenza di calcolo sufficiente** e **modelli profondi ben progettati**. In assenza di queste condizioni, approcci di Machine Learning più semplici possono risultare preferibili.
-### La Formula Di Distanza Di Un Pattern dall’iperpiano SVM Dipende Da Tutti I Pattern Di Training?
+### La Formula Di Distanza Di Un Pattern dall’iperpiano SVM Dipende Da Tutti I Pattern Di Training? #Ricapitato_1_volta 
 La **formula della distanza di un pattern dall’iperpiano** risultante dal training di una **SVM** dipende **solo da una parte dei pattern del training set**, e non da tutti.
 In particolare, dipende esclusivamente dai **support vector**.
 Infatti, l’iperpiano di separazione ottimale è determinato unicamente da quei pattern che:
@@ -464,7 +463,7 @@ Le principali cause di overfitting sono:
 - **Assenza o insufficiente regolarizzazione**, che non penalizza modelli troppo complessi.
 
 In queste condizioni il modello ottiene buone prestazioni sul training set ma scarse prestazioni sul validation o test set.
-### Nel Caso Di Pattern Non-linearmente Separabili, Nella Formulazione Di SVM Lineare come Si Approccia Il Problema?
+### Nel Caso Di Pattern Non-linearmente Separabili, Nella Formulazione Di SVM Lineare come Si Approccia Il Problema? #Ricapitato_1_volta 
 Nel caso in cui i pattern **non siano linearmente separabili**, nella formulazione di **SVM lineare** si introduce il concetto di **soft margin**.
 In particolare:
 - si ammette che alcuni pattern possano violare il margine o essere classificati erroneamente;
@@ -526,7 +525,7 @@ Le più note sono:
     - riduzione di dimensionalità a fini di classificazione.
 
 Queste tecniche sono spesso impiegate per contrastare la **curse of dimensionality** e semplificare l’addestramento dei modelli.
-### Nell’ambito Di Classificazione Con SVM Cosa Si Intende per Pattern Linearmente Separabili E Non Linearmente Separabili? Fare Esempio Grafico Dei due Casi
+### Nell’ambito Di Classificazione Con SVM Cosa Si Intende per Pattern Linearmente Separabili E Non Linearmente Separabili? Fare Esempio Grafico Dei due Casi. #Ricapitato_1_volta 
 Nel contesto delle **Support Vector Machine (SVM)**:
 - **Pattern linearmente separabili**  
   Sono pattern per i quali esiste almeno un **iperpiano** che separa perfettamente le classi senza errori.
@@ -724,6 +723,8 @@ Deep Learning
 ### Che cosa denota la matrice Ʃ nella definizione della distribuzione multinormale?
 scritto qui:
 [[#Quali Sono I Parametri Di Una Distribuzione Multinormale?]]
+### Nel classificatore di Bayes cosa si intende per densità di probabilità condizionale e probabilità a priori.
+Classificazione 1
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -863,7 +864,7 @@ dati di training?
 ![[Pasted image 20251229005205.png]]
 ### Svolgimento
 ![[Pasted image 20251229005233.png]]
-## Crazy Exercise, Chiede Tipo Tutto Porco
+## Crazy Exercise, Chiede Tipo Tutto Porco #Ricapitato_1_volta 
 ![[Pasted image 20251229005703.png]]
 ### Svolgimento
 ![[Pasted image 20251229005720.png]]
