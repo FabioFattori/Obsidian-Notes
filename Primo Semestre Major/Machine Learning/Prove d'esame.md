@@ -642,11 +642,29 @@ Le principali differenze sono:
 
 Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
 ### In classificazione cosa si intende per superficie decisionale o di separazione? Riportare anche un esempio grafico.
+In un problema di **classificazione**, la **superficie decisionale** (o superficie di separazione) è l’insieme dei punti dello spazio delle feature per i quali il classificatore è **indifferente tra due o più classi**.  
+Essa divide lo spazio delle feature in **regioni di decisione**, ciascuna associata a una classe.
 
+- In **2D** la superficie decisionale è una **retta**;
+- In **3D** è un **piano**;
+- In dimensioni superiori è un **iperpiano** (o, in generale, una superficie non lineare).
 ### Qual è l’idea di base dell’algoritmo backpropagation per l’addestramento di reti neurali?
+L’algoritmo di **backpropagation** è una procedura iterativa utilizzata per addestrare le **reti neurali** tramite **discesa del gradiente**.
+L’idea di base è:
+- calcolare l’errore tra l’output prodotto dalla rete e l’output desiderato;
+- propagare tale errore **all’indietro**, dallo strato di output verso gli strati interni;
+- aggiornare i pesi della rete in modo proporzionale al **gradiente della funzione di errore** rispetto ai pesi.
 
+In questo modo, a ogni iterazione, i pesi vengono modificati per **ridurre la loss**, portando progressivamente il modello verso una soluzione ottimale.
 ### Quali sono i parametri di una distribuzione multinormale?
+Una **distribuzione multinormale** è completamente definita da due parametri:
+- il **vettore di media** $\mu$:
+  - determina la posizione (centro) della distribuzione;
+- la **matrice di covarianza** $\Sigma$:
+  - descrive la dispersione dei dati;
+  - determina forma, dimensione e orientamento dell’ellissoide associato alla distribuzione.
 
+Questi due parametri sono sufficienti a descrivere completamente la distribuzione di probabilità.
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
