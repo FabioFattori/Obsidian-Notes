@@ -136,7 +136,7 @@ Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il 
 - una semplificazione dell'addestramento dei modelli; scartando dati futili o rumorosi può portare anche ad un miglioramento delle prestazioni del modello stesso.
 Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per ridurne la quantità.
 ## 17/07/2017
-### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio
+### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio #Ricapitato_1_volta 
 I criteri di clustering sono **funzioni obiettivo** che descrivono cosa si vuole ottenere da una partizione dei dati, specificando il **grado di ottimalità** di ogni soluzione ammissibile.  
 Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza** il criterio scelto.
 Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
@@ -152,7 +152,7 @@ Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
 Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
-### Qual È l’obiettivo Di Una Tecnica Di Regressione? #Ricapitato_1_volta
+### Qual È l’obiettivo Di Una Tecnica Di Regressione? #Ricapitato_N_volta
 
 L’obiettivo di una tecnica di **regressione** è stimare una funzione $f$ che approssimi la relazione tra le **variabili indipendenti** $x$ e la **variabile dipendente** $y$, a partire da un insieme di dati di training.
 
@@ -172,7 +172,7 @@ Mediante le tecniche di **Reinforcement Learning (RL)** è possibile apprendere 
 Nel Reinforcement Learning l’apprendimento avviene tramite **interazione diretta con l’ambiente**: l’agente osserva lo stato corrente, seleziona un’azione, riceve una ricompensa e aggiorna la propria politica sulla base dell’esperienza accumulata. Non sono quindi disponibili etichette corrette a priori, ma solo segnali di rinforzo.
 
 Un esempio tipico è l’apprendimento del comportamento di un **agente che gioca a un videogioco**, il quale impara progressivamente quali azioni intraprendere per massimizzare il punteggio finale, ricevendo ricompense positive o negative in base alle conseguenze delle proprie azioni.
-### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato
+### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato  #Ricapitato_1_volta 
 Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
@@ -641,6 +641,8 @@ Le principali differenze sono:
   - le CNN sono più robuste a traslazioni locali dell’input.
 
 Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
+### In classificazione cosa si intende per superficie decisionale o di separazione? Riportare anche un esempio grafico.
+
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
