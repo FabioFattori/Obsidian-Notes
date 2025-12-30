@@ -712,8 +712,20 @@ Non assumono una forma prefissata della distribuzione.
 - Esempio: **stima di densità di Parzen**, in cui la densità viene stimata sommando contributi locali dei pattern tramite una finestra o kernel.
 
 Questi metodi sono utilizzati, ad esempio, nel clustering basato su **modelli probabilistici**.
-###  Come si misurano le prestazioni di un classificatore?
-Fondamenti
+### Come si misurano le prestazioni di un classificatore?
+Le prestazioni di un **classificatore** vengono misurate confrontando le **etichette predette** con le **etichette reali** sui dati di test o di validazione.
+Gli strumenti principali sono:
+- **Matrice di confusione**, che riassume:
+  - veri positivi,
+  - veri negativi,
+  - falsi positivi,
+  - falsi negativi.
+
+A partire dalla matrice di confusione si definiscono indicatori di prestazione, tra cui:
+- **accuratezza**, che misura la frazione di pattern correttamente classificati;
+- **tasso di errore**, complementare all’accuratezza.
+
+Queste misure permettono di valutare la **capacità di generalizzazione** del classificatore.
 ### Dal punto di vista pratico nell’approccio di Parzen che differenza c’è se si usa una funzione finestra ipercubo piuttosto che multinormale?
 Classificazione 1 
 
