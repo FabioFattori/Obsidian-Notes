@@ -371,7 +371,7 @@ L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
    - oppure le assegnazioni dei pattern restano invariate.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
-### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_1_volta
+### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_N_volta
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
 - $X \in \mathbb{R}^{n \times (d+1)}$ la **matrice dei dati** (con la colonna di 1 per l’intercetta),
@@ -404,7 +404,7 @@ Il funzionamento, a grandi linee, è il seguente:
 - la classificazione finale è ottenuta tramite **voto di maggioranza** delle predizioni dei singoli alberi.
 
 Questo approccio riduce la **varianza** del modello rispetto a un singolo albero e limita il rischio di overfitting.
-### Descrivere a Grandi Linee Un Classificatore AdaBoost
+### Descrivere a grandi linee l’approccio di classificazione AdaBoost. #Ricapitato_1_volta 
 **AdaBoost (Adaptive Boosting)** è un metodo di **boosting**, che costruisce un classificatore forte combinando iterativamente più **classificatori deboli**
 Il procedimento è il seguente:
 - inizialmente tutti i pattern del training set hanno lo stesso peso;
@@ -427,7 +427,7 @@ L’algoritmo procede in modo iterativo secondo i seguenti passi:
    I passi di assegnazione e aggiornamento vengono ripetuti fino a quando le assegnazioni dei pattern o i centroidi non cambiano più.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che è la somma dei quadrati delle distanze dei pattern dai rispettivi centroidi.
-### Come È Definita la Funzione Di Attivazione Relu? Perché Consente Di Addestrare Reti Neurali Profonde Limitando Il Problema Del Vanishing Gradient?
+### Come È Definita la Funzione Di Attivazione Relu? Perché Consente Di Addestrare Reti Neurali Profonde Limitando Il Problema Del Vanishing Gradient? #Ricapitato_1_volta 
 La funzione di attivazione **ReLU (Rectified Linear Unit)** è definita come:
 $$
 \text{ReLU}(x) = \max(0, x)
@@ -547,7 +547,7 @@ La loss e l'accuratezza hanno il seguente comportamento durante la convergenza:
 
 Quando loss e accuratezza diventano quasi costanti, l’algoritmo può essere considerato convergente.
 ![[Pasted image 20251229182235.png]]
-### Nell’ambito Dei Multi-classificatori Quali Sono Le Più Comuni Tecniche Di Fusione a Livello Di Decisione E Di Confidenza?
+### Nell’ambito Dei Multi-classificatori Quali Sono Le Più Comuni Tecniche Di Fusione a Livello Di Decisione E Di Confidenza? #Ricapitato_1_volta 
 Nei **multi-classificatori**, la fusione delle informazioni può avvenire a **livello di decisione** oppure a **livello di confidenza**, a seconda del tipo di output prodotto dai classificatori base.
 #### Fusione a Livello Di Decisione
 In questo caso ciascun classificatore fornisce una **decisione discreta** (classe assegnata) e la combinazione avviene direttamente sulle etichette.
@@ -564,7 +564,7 @@ Le tecniche più comuni sono:
 
 La classe finale è quella che massimizza la confidenza combinata.  
 Questo approccio è generalmente più informativo rispetto alla fusione a livello di decisione, poiché sfrutta anche il grado di certezza dei singoli classificatori.
-### Nell’ambito Di CNN, Che Cosa Si Intende Con Transfer Learning? Quali Sono Le Tecniche Di Transfer Learning Utilizzabili?
+### Nell’ambito Di CNN, Che Cosa Si Intende Con Transfer Learning? Quali Sono Le Tecniche Di Transfer Learning Utilizzabili? #Ricapitato_1_volta 
 Nel contesto delle **Convolutional Neural Networks (CNN)**, il **transfer learning** consiste nel riutilizzare una rete neurale già addestrata su un grande dataset per risolvere un **nuovo problema**, generalmente con una quantità limitata di dati.
 L’idea di base è che i primi strati della rete apprendono **feature generiche**, riutilizzabili anche in domini differenti.
 Le principali tecniche di transfer learning nelle CNN sono:
@@ -608,7 +608,9 @@ La differenza principale riguarda la **quantità di dati utilizzata per ogni agg
   - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
 
 In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
-### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
+Per l’addestramento di una rete neurale che cosa si intende con vettore di output desiderato? Come può essere
+definito? Come si può calcolare l’errore da retro-propagare a partire dal vettore desiderato e dal valore calcolato
+dalla rete per un pattern? Oltre alla spiegazione riportare un esempio### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
 Il **vettore di media μ** determina la **posizione** dell’ellissoide:
   - μ rappresenta il **centro** della distribuzione;
   - traslando μ, l’intero ellissoide si sposta nello spazio.
@@ -683,7 +685,8 @@ Il **Borda count** è una tecnica di **fusione a livello di decisione** utilizza
 Il funzionamento è il seguente:
 - ogni classificatore assegna un **ranking** alle classi;
 - a ciascuna posizione nel ranking viene associato un **punteggio**;
-- i punteggi assegnati dalle diverse classifiche vengono **sommati** per ogni classe;
+- i punteggi assegnati dalle diverse classifiche vengono **sommati** per ogni classe;Nell’ambito delle reti neurali che cosa si intende per problema del vanishing gradient? Come può essere
+risolto?
 - la classe con il punteggio totale più alto viene scelta come decisione finale.
 
 Il Borda count sfrutta quindi l’informazione contenuta nell’ordinamento delle classi, non solo nella classe vincente. [[# Tabella Borda Count Di Un Multiclassificatore]] 
@@ -725,6 +728,12 @@ scritto qui:
 [[#Quali Sono I Parametri Di Una Distribuzione Multinormale?]]
 ### Nel classificatore di Bayes cosa si intende per densità di probabilità condizionale e probabilità a priori.
 Classificazione 1
+### Per l’addestramento di una rete neurale che cosa si intende con vettore di output desiderato? Come può essere definito? Come si può calcolare l’errore da retro-propagare a partire dal vettore desiderato e dal valore calcolato dalla rete per un pattern? Oltre alla spiegazione riportare un esempio.
+Reti Neurali
+### Cosa si intende per approccio parametrico e non-parametrico nell’ambito della classificazione? Fare un esempio di classificatore parametrico e non parametrico.
+Classificazione 1
+### Nell’ambito delle reti neurali che cosa si intende per problema del vanishing gradient? Come può essere risolto?
+Deep learning 1
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
