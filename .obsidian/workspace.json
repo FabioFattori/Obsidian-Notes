@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
+          },
+          {
+            "id": "4547daf69cc8f72e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3_ML_Classificazione"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +198,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "92eb498364c3d6ba",
+  "active": "4547daf69cc8f72e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
+    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182235.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182030.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182011.png",
@@ -199,16 +214,13 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es19.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229010639.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229010629.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229010325.png",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/Non confermato 380408.crdownload",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/slides/5_ML_Regressione.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/IMG_7745.heic",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",

@@ -136,7 +136,7 @@ Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il 
 - una semplificazione dell'addestramento dei modelli; scartando dati futili o rumorosi può portare anche ad un miglioramento delle prestazioni del modello stesso.
 Riducendo le dimensioni porta a combinare le dimensioni in maniera opportuna per ridurne la quantità.
 ## 17/07/2017
-### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio #Ricapitato_1_volta 
+### Che Cosa Sono I Criteri Di Clustering? Fare Un Esempio #Ricapitato_1_volta
 I criteri di clustering sono **funzioni obiettivo** che descrivono cosa si vuole ottenere da una partizione dei dati, specificando il **grado di ottimalità** di ogni soluzione ammissibile.  
 Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza** il criterio scelto.
 Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
@@ -172,7 +172,7 @@ Mediante le tecniche di **Reinforcement Learning (RL)** è possibile apprendere 
 Nel Reinforcement Learning l’apprendimento avviene tramite **interazione diretta con l’ambiente**: l’agente osserva lo stato corrente, seleziona un’azione, riceve una ricompensa e aggiorna la propria politica sulla base dell’esperienza accumulata. Non sono quindi disponibili etichette corrette a priori, ma solo segnali di rinforzo.
 
 Un esempio tipico è l’apprendimento del comportamento di un **agente che gioca a un videogioco**, il quale impara progressivamente quali azioni intraprendere per massimizzare il punteggio finale, ricevendo ricompense positive o negative in base alle conseguenze delle proprie azioni.
-### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato  #Ricapitato_1_volta 
+### Definire Consa Si Intende per Apprendimento Supervisionato E Non Supervisionato #Ricapitato_1_volta
 Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
@@ -208,7 +208,7 @@ La retta divide il piano in due semipiani, ciascuno associato a una classe.
 #### Superficie Di Separazione per D = 3
 Quando $d = 3$, lo spazio delle feature è tridimensionale e la superficie di separazione è un **piano**.  
 Anche in questo caso, il piano divide lo spazio in due regioni, una per ciascuna classe.
-### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta 
+### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta
 Rispetto a **K-means**, l’approccio di clustering **EM con Gaussian Mixture** consente una maggiore flessibilità perché non assume cluster sferici di uguale dimensione e introduce una **modellazione probabilistica** dei dati.
 In particolare, EM con Gaussian Mixture:
 - permette di modellare cluster con **forme ellittiche**, grazie all’uso di **matrici di covarianza** complete;
@@ -234,7 +234,7 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 #### Disegno
 [[reti feed and ricorrenti]]
 ## 22/06/18
-### Indicare le principali “stagioni” nello sviluppo dell’intelligenza artificiale e machine learning #Ricapitato_N_volta 
+### Indicare Le Principali “stagioni” Nello Sviluppo dell’intelligenza Artificiale E Machine Learning #Ricapitato_N_volta
 Lo sviluppo dell’**Intelligenza Artificiale (AI)** e del **Machine Learning (ML)** può essere suddiviso in alcune principali *stagioni storiche*, ciascuna caratterizzata da differenti approcci e tecniche.
 #### 1. AI Simbolica (anni ’50–’70)
 La prima fase è caratterizzata dall’**approccio simbolico**, in cui l’intelligenza viene modellata tramite:
@@ -395,7 +395,7 @@ $$
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
 ### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
-### Descrivere a Grandi Linee Un Classificatore Random Forest #Ricapitato_1_volta 
+### Descrivere a Grandi Linee Un Classificatore Random Forest #Ricapitato_1_volta
 Un **Random Forest** è un classificatore basato su un **insieme (ensemble) di alberi di decisione**.  
 L’idea di base è combinare le decisioni di più modelli deboli (alberi) per ottenere un classificatore più robusto e accurato.
 
@@ -415,7 +415,7 @@ Il procedimento è il seguente:
 
 La decisione finale è ottenuta tramite una **combinazione pesata** delle decisioni dei classificatori deboli.  
 AdaBoost si concentra progressivamente sui pattern più difficili da classificare.
-### Descrivere a Grandi Linee l’algoritmo Di Clustering K-means. #Ricapitato_1_volta 
+### Descrivere a Grandi Linee l’algoritmo Di Clustering K-means. #Ricapitato_1_volta
 L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **K cluster**, minimizzando la distanza intra-cluster.
 L’algoritmo procede in modo iterativo secondo i seguenti passi:
 1. **Inizializzazione**  
@@ -641,14 +641,13 @@ Le principali differenze sono:
   - le CNN sono più robuste a traslazioni locali dell’input.
 
 Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
-### In classificazione cosa si intende per superficie decisionale o di separazione? Riportare anche un esempio grafico.
+### In Classificazione Cosa Si Intende per Superficie Decisionale O Di Separazione? Riportare Anche Un Esempio Grafico
 In un problema di **classificazione**, la **superficie decisionale** (o superficie di separazione) è l’insieme dei punti dello spazio delle feature per i quali il classificatore è **indifferente tra due o più classi**.  
 Essa divide lo spazio delle feature in **regioni di decisione**, ciascuna associata a una classe.
-
 - In **2D** la superficie decisionale è una **retta**;
 - In **3D** è un **piano**;
 - In dimensioni superiori è un **iperpiano** (o, in generale, una superficie non lineare).
-### Qual è l’idea di base dell’algoritmo backpropagation per l’addestramento di reti neurali?
+### Qual È l’idea Di Base dell’algoritmo Backpropagation per l’addestramento Di Reti Neurali?
 L’algoritmo di **backpropagation** è una procedura iterativa utilizzata per addestrare le **reti neurali** tramite **discesa del gradiente**.
 L’idea di base è:
 - calcolare l’errore tra l’output prodotto dalla rete e l’output desiderato;
@@ -656,7 +655,7 @@ L’idea di base è:
 - aggiornare i pesi della rete in modo proporzionale al **gradiente della funzione di errore** rispetto ai pesi.
 
 In questo modo, a ogni iterazione, i pesi vengono modificati per **ridurre la loss**, portando progressivamente il modello verso una soluzione ottimale.
-### Quali sono i parametri di una distribuzione multinormale?
+### Quali Sono I Parametri Di Una Distribuzione Multinormale?
 Una **distribuzione multinormale** è completamente definita da due parametri:
 - il **vettore di media** $\mu$:
   - determina la posizione (centro) della distribuzione;
