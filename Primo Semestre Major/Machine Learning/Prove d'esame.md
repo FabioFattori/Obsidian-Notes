@@ -443,7 +443,7 @@ La ReLU consente di addestrare reti neurali profonde limitando il problema del *
 - il gradiente non tende a zero durante la backpropagation, a differenza di funzioni sigmoidi o tangente iperbolica;
 - ciò permette una propagazione più efficace del gradiente negli strati profondi della rete.
 Di conseguenza, l’uso della ReLU rende l’addestramento delle **Deep Neural Networks** più stabile ed efficiente.
-### Che Cosa Si Intende per Clustering? Fare Esempi Di Applicazioni
+### Che Cosa Si Intende per Clustering? Fare Esempi Di Applicazioni. #Ricapitato_1_volta 
 Il **clustering** è una tecnica di **apprendimento non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **gruppi (cluster)**, in modo tale che i pattern appartenenti allo stesso cluster siano **più simili tra loro** rispetto a quelli appartenenti a cluster diversi, secondo una opportuna misura di similarità o distanza.
 
 Nel clustering non sono disponibili etichette di classe a priori: la struttura dei gruppi viene individuata direttamente a partire dai dati.
@@ -481,7 +481,7 @@ Un multi-classificatore è efficace quando:
 - la regola di combinazione (ad esempio voto di maggioranza o combinazione pesata) è adeguata al problema.
 
 In queste condizioni, il multi-classificatore riesce a ottenere prestazioni migliori rispetto ai singoli classificatori che lo compongono.
-### Fare Esempi Pratici Di Ragionamento Induttivo E Deduttivo
+### Fare Esempi Pratici Di Ragionamento Induttivo E Deduttivo. #Ricapitato_1_volta 
 Il **ragionamento induttivo** consiste nel ricavare **regole generali** o modelli a partire da **osservazioni particolari**.  
 È il principio alla base del **Machine Learning**, in cui un modello apprende dai dati esempi.
 Alcuni esempi pratici possono essere:
@@ -647,6 +647,7 @@ Essa divide lo spazio delle feature in **regioni di decisione**, ciascuna associ
 - In **2D** la superficie decisionale è una **retta**;
 - In **3D** è un **piano**;
 - In dimensioni superiori è un **iperpiano** (o, in generale, una superficie non lineare).
+![undefined](https://upload.wikimedia.org/wikipedia/commons/9/97/Linear_Decision_Boundary.png)
 ### Qual È l’idea Di Base dell’algoritmo Backpropagation per l’addestramento Di Reti Neurali?
 L’algoritmo di **backpropagation** è una procedura iterativa utilizzata per addestrare le **reti neurali** tramite **discesa del gradiente**.
 L’idea di base è:
