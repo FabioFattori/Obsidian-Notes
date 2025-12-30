@@ -753,21 +753,66 @@ Il numero totale di parametri indipendenti è quindi:
 $$
 3 \;(\mu) + 6 \;(\Sigma) = 9
 $$
-
 La simmetria della matrice di covarianza riduce il numero di parametri indipendenti rispetto ai 9 elementi totali della matrice.
-
 ### Quando una rete neurale si definisce deep (profonda)?
-Deep Learning 
+Una **rete neurale** si definisce **deep (profonda)** quando è composta da **più di uno strato nascosto** tra lo strato di input e lo strato di output.  
+La presenza di **più livelli di neuroni** consente alla rete di apprendere **rappresentazioni gerarchiche** dei dati:  
+- gli strati più vicini all’input estraggono feature più semplici;
+- gli strati più profondi estraggono feature via via più astratte.
 
+Questa profondità distingue il **Deep Learning** dalle reti neurali tradizionali con un solo hidden layer.
 ### Che cosa denota la matrice Ʃ nella definizione della distribuzione multinormale?
 scritto qui:
 [[#Quali Sono I Parametri Di Una Distribuzione Multinormale?]]
 ### Nel classificatore di Bayes cosa si intende per densità di probabilità condizionale e probabilità a priori.
-Classificazione 1
+Nel **classificatore di Bayes**:
+- la **densità di probabilità condizionale** $p(x \mid \omega_i)$ rappresenta la probabilità di osservare il pattern $x$ **assumendo che esso appartenga alla classe $\omega_i$**;
+- la **probabilità a priori** $P(\omega_i)$ rappresenta la probabilità che un pattern appartenga alla classe $\omega_i$ **prima di osservare i dati**.
+
+Il classificatore di Bayes combina queste quantità per stimare la probabilità a posteriori e assegnare il pattern alla classe più probabile.
 ### Per l’addestramento di una rete neurale che cosa si intende con vettore di output desiderato? Come può essere definito? Come si può calcolare l’errore da retro-propagare a partire dal vettore desiderato e dal valore calcolato dalla rete per un pattern? Oltre alla spiegazione riportare un esempio.
-Reti Neurali
+Il **vettore di output desiderato** rappresenta l’output corretto che la rete dovrebbe produrre per un determinato pattern di input durante la fase di training.
+#### Definizione
+- È un vettore $d$ che contiene i valori target associati al pattern;
+- Nei problemi di classificazione è spesso definito tramite **codifica one-hot**.
+#### Calcolo dell’errore
+L’errore viene calcolato confrontando:
+- il vettore di output desiderato $d$;
+- il vettore di output prodotto dalla rete $y$.
+
+Un errore tipico è dato dalla **differenza** tra output desiderato e output calcolato:
+$$
+e = d - y
+$$
+Questo errore viene poi utilizzato dalla **backpropagation** per aggiornare i pesi della rete.
+#### Esempio
+Problema di classificazione a **3 classi**:
+- pattern appartenente alla classe 2  
+- vettore desiderato:
+$$
+d = [0,\;1,\;0]
+$$
+- output della rete:
+$$
+y = [0.1,\;0.7,\;0.2]
+$$
+- errore:
+$$
+e = d - y = [-0.1,\;0.3,\;-0.2]
+$$
+Questo vettore di errore viene propagato all’indietro per correggere i pesi della rete.
 ### Cosa si intende per approccio parametrico e non-parametrico nell’ambito della classificazione? Fare un esempio di classificatore parametrico e non parametrico.
-Classificazione 1
+Nell’ambito della **classificazione**, un approccio può essere **parametrico** o **non-parametrico** a seconda delle assunzioni fatte sul modello dei dati.
+- **Approccio parametrico**  
+  Assume che i dati seguano una **distribuzione di forma nota**, descritta da un numero finito di parametri.  
+  Il modello viene appreso stimando tali parametri a partire dai dati.
+  **Esempio**:  
+  - **Classificatore di Bayes** con densità **multinormali**, descritte da vettore di media $\mu$ e matrice di covarianza $\Sigma$.
+- **Approccio non-parametrico**  
+  Non assume una forma funzionale prefissata per la distribuzione dei dati.  
+  La complessità del modello cresce con il numero di pattern disponibili.
+  **Esempio**:  
+  - **Classificatore basato su Parzen**, che stima la densità tramite finestre centrate sui pattern del training set.
 ### Nell’ambito delle reti neurali che cosa si intende per problema del vanishing gradient? Come può essere risolto?
 Deep learning 1
 ### Come può essere matematicamente definita la loss function (su un singolo pattern) per l’addestramento di una rete neurale?
