@@ -666,9 +666,28 @@ Una **distribuzione multinormale** è completamente definita da due parametri:
 
 Questi due parametri sono sufficienti a descrivere completamente la distribuzione di probabilità.
 ### Quali sono le limitazioni di Q learning per risolvere problemi complessi? Le tecniche di deep learning possono essere di aiuto in questo caso? Come?
+Il **Q-learning** classico presenta importanti limitazioni quando applicato a problemi complessi:
+- richiede una **tabella Q** che cresce rapidamente con il numero di stati e azioni;
+- diventa impraticabile in spazi di stato **grandi o continui**;
+- soffre fortemente della **curse of dimensionality**;
+- la memorizzazione e l’aggiornamento della Q-table risultano computazionalmente costosi.
 
+Le **tecniche di Deep Learning** possono essere di aiuto sostituendo la Q-table con una **rete neurale profonda** che approssima la funzione $Q(s,a)$.  
+In questo modo:
+- non è più necessario memorizzare esplicitamente tutti gli stati;
+- la rete generalizza tra stati simili;
+- è possibile affrontare problemi con spazi di stato complessi.
+
+Questo approccio prende il nome di **Deep Q-Learning**.
 ### Nell’ambito dei multi-classificatori che cosa è e come funziona il Borda count?
+Il **Borda count** è una tecnica di **fusione a livello di decisione** utilizzata nei multi-classificatori quando ciascun classificatore produce una **classifica delle classi**.
+Il funzionamento è il seguente:
+- ogni classificatore assegna un **ranking** alle classi;
+- a ciascuna posizione nel ranking viene associato un **punteggio**;
+- i punteggi assegnati dalle diverse classifiche vengono **sommati** per ogni classe;
+- la classe con il punteggio totale più alto viene scelta come decisione finale.
 
+Il Borda count sfrutta quindi l’informazione contenuta nell’ordinamento delle classi, non solo nella classe vincente. [[# Tabella Borda Count Di Un Multiclassificatore]] 
 ### Come opera un livello di convoluzione di una CNN?
 
 ### La densità locale di pattern con quali metodi (parametrici e non-parametrici) può essere stimata? Fare un esempio.
@@ -828,3 +847,7 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
+## Numero complessivo di addestramenti da effettuare di una grid search combinata a k-fold cross-validation
+![[Pasted image 20251230183010.png]]
+### Svolgimento
+![[Pasted image 20251230183025.png]]
