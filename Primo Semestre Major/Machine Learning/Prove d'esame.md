@@ -29,7 +29,7 @@ Questo vincolo permette:
 - $\xi_i>1$ punto misclassificato
 
 Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono aggiunti altri $n$ vincoli di non negatività per le slack variables, per un totale di $2n$ vincoli.
-#### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means
+#### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means. #Ricapitato_1_volta 
 1. Necessità di fornire k a priori
 	Ovvero, K-means richiede che k (numero di cluster) venga definito e fornito come dato di input, quindi richiede di sapere il numero di cluster a priori, se viene fornito un k non consono ai dati il risultato ottenuto non potrà essere ottimale.
 2. Sensibilità all'inizializzazione
@@ -39,7 +39,7 @@ Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono agg
 	K-means funziona in maniera corretta con cluster della stessa dimensione, sferici e convessi, con cluster di forme complesse o di dimensioni diverse si possono ottenere risultati non affidabili.
 4. Limitazioni basate sulla misura della distanza intra-cluster
 	L’uso tipico della distanza euclidea rende K-means poco adatto a dati non numerici o a contesti in cui tale misura non rappresenta correttamente la similarità tra i pattern.
-##### Nell’ambito Di CNN, Che Cosa Si Intende per Connessioni Locali E Condivisione Di Pesi?
+##### Nell’ambito Di CNN, Che Cosa Si Intende per Connessioni Locali E Condivisione Di Pesi? #Ricapitato_1_volta 
 Per Connessioni locali si intende che ogni neurone del layer convoluzionale è collegato ad una regione locale dell'immagine e non a tutta come accade nelle reti fully connected, permettendo di ridurre il costo computazionale ed il numero di parametri, questo viene fatto inoltre per rilevare con maggiore precisione dei pattern locali come bordi o texture.
 
 Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o kernel, per posizioni diverse dell'input, producendo gli stessi risultati per un determinato pattern.
@@ -81,7 +81,7 @@ Esempi:
 - numero di cluster per quanto riguarda l'algoritmo K-means
 - ecc...
 Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
-### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$?
+### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$? #Ricapitato_1_volta 
 Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb{R}^d$.
 Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo costruire $X$ , $y$ e $\beta$ nel seguente modo:
 - per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n × (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima colonna che viene riempita da $1$ per rappresentare l'intercetta.
@@ -129,7 +129,7 @@ Questo processo viene ripetuto fino a convergenza, portando a una stima dei para
 Le funzioni di attivazioni devono essere non lineari e differenziabili perchè:
 - Non lineare per permettere alla rete di eseguire un mapping complesso delle informazioni di input
 - Differenziabile per permettere l'applicazione dell'algoritmo di backpropagation
-### Qual È l’obiettivo Delle Tecniche Di Riduzione Di Dimensionalità?
+### Qual È l’obiettivo Delle Tecniche Di Riduzione Di Dimensionalità? #Ricapitato_1_volta 
 L'obiettivo è quello di eseguire un mapping dallo spazio iniziale $\mathbb{R}^d$ ad uno spazio di dimensione inferiore tale che $\mathbb{R}^k,\quad k<d$.
 Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il problema di interesse per ottenere:
 - alleviare i problemi legati alla curse of dimensionality, perchè operare in grandi spazi di dati richiede una mole di dati per il training elevata.
@@ -176,7 +176,7 @@ Un esempio tipico è l’apprendimento del comportamento di un **agente che gioc
 Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
-### Nelle SVM Non Lineari Cosa Si Intende per Kernel? Quali Sono I Kernel Più Utilizzati?
+### Nelle SVM Non Lineari Cosa Si Intende per Kernel? Quali Sono I Kernel Più Utilizzati? #Ricapitato_1_volta 
 Nelle **SVM non lineari**, un **kernel** è una funzione che consente di calcolare il **prodotto scalare tra due pattern nello spazio delle feature** senza eseguire esplicitamente il mapping in uno spazio di dimensione più elevata.  
 Formalmente, il kernel è definito come:
 $$
@@ -189,7 +189,7 @@ Sono funzioni kernel:
 - RBF di ampiezza $\alpha$  
 - Polinomio di grado $q$
 ## 15/02/2018
-### Cosa Si Intende Con SVM Lineari? Cosa Sono Le Superfici Di Separazione Nel Caso d=2 E d=3?
+### Cosa Si Intende Con SVM Lineari? Cosa Sono Le Superfici Di Separazione Nel Caso d=2 E d=3? #Ricapitato_1_volta 
 Le **SVM lineari** sono classificatori che cercano una **funzione di decisione lineare** nello spazio delle feature, con l’obiettivo di separare le classi tramite un **iperpiano** che massimizza il **margine** tra i campioni delle diverse classi.
 Nel caso lineare, la funzione di decisione ha la forma:
 $$
@@ -229,7 +229,7 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 - Feedforward: 
 	nelle reti feedforward le connessioni collegano i neuroni di un livello con i neuroni di un livello successivo. Non sono consentite connessioni all’indietro o connessioni verso lo stesso livello.
 - Ricorrenti: 
-	nelle reti ricorrenti sono previste connessioni di feedback (in genere verso neuroni dello stesso livello, ma anche all’indietro). Questo complica notevolmente il flusso delle informazioni e l’addestramento, richiedendo di considerare il comportamento in più istanti temporali.
+	nelle reti ricorrenti sono previste connessioni di feedback (in genere verso neuroni dello stesso livello, ma anche all’indietro). Questo complica notevolmente il flusso delle informazioni e l’addestramento, richiedendo di considerare il comportamento in più istanti temporali.Come si imposta un problema di multiple linear regression? Come sono popolati
 	Questo tipo di reti presenzia un effetto memoria, molto utile quando il tipo di dato è del genere delle sequenze.
 #### Disegno
 [[reti feed and ricorrenti]]
@@ -597,7 +597,7 @@ Questo approccio:
 
 In generale, la forza bruta **non è considerata intelligenza artificiale**, poiché manca di capacità di apprendimento, adattamento o generalizzazione.  
 Tuttavia, può essere utilizzata come metodo di riferimento o come parte di sistemi più complessi.
-### Qual È la Differenza Sostanziale dell’approccio “On-line” Rispetto a “SGD Con mini-batch“ per Il Training Di Reti Neurali?
+### Qual È la Differenza Sostanziale dell’approccio “On-line” Rispetto a “SGD Con mini-batch“ per Il Training Di Reti Neurali? #Ricapitato_1_volta 
 La differenza principale riguarda la **quantità di dati utilizzata per ogni aggiornamento dei pesi**.
 - **Approccio On-line**:
   - i pesi vengono aggiornati **dopo ogni singolo pattern**;
@@ -720,6 +720,10 @@ classificazione 1
 
 ### Quando una rete neurale si definisce deep (profonda)?
 Deep Learning 
+
+### Che cosa denota la matrice Ʃ nella definizione della distribuzione multinormale?
+scritto qui:
+[[#Quali Sono I Parametri Di Una Distribuzione Multinormale?]]
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -875,7 +879,7 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
-## Numero Complessivo Di Addestramenti Da Effettuare Di Una Grid search Combinata a K-fold Cross-validation
+## Numero Complessivo Di Addestramenti Da Effettuare Di Una Grid search Combinata a K-fold Cross-validation #Ricapitato_1_volta 
 ![[Pasted image 20251230183010.png]]
 ### Svolgimento
 ![[Pasted image 20251230183025.png]]
