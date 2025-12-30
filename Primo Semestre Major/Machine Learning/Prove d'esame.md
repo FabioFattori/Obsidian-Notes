@@ -148,7 +148,7 @@ L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazi
 
 L’operazione di pooling viene applicata **indipendentemente a ciascuna feature map**, in modo tale che il **numero di feature map in uscita rimanga uguale** a quello in ingresso.  
 Esempi comuni di pooling sono il **max pooling** e l’**average pooling**.
-### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? #Ricapitato_1_volta
+### Nell’ambito dell’apprendimento Automatico Cosa Si Intende per Generalizzazione E Overfitting? #Ricapitato_N_volta
 Per generalizzazione si intende la capacità di trasferire l'elevata accuratezza raggiunta sul training set al validation set.
 Si parla di overfitting quando la generalizzazione non ha luogo, ovvero quando si raggiunge un'elevata accuratezza sul training set ma alcontempo si otteggono scarsi risultati sul validation.
 Spesso si ottiene overfitting con una piccola quantità di pattern nel training set, oppure quando vi è un'elevato grado di libertà del modello rispetto alla complessità del problema.
@@ -208,7 +208,7 @@ La retta divide il piano in due semipiani, ciascuno associato a una classe.
 #### Superficie Di Separazione per D = 3
 Quando $d = 3$, lo spazio delle feature è tridimensionale e la superficie di separazione è un **piano**.  
 Anche in questo caso, il piano divide lo spazio in due regioni, una per ciascuna classe.
-### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture?
+### Rispetto a K-means, Quali Maggiori Flessibilità Consente l’approccio Di Clustering EM Con Gaussian Mixture? #Ricapitato_1_volta 
 Rispetto a **K-means**, l’approccio di clustering **EM con Gaussian Mixture** consente una maggiore flessibilità perché non assume cluster sferici di uguale dimensione e introduce una **modellazione probabilistica** dei dati.
 In particolare, EM con Gaussian Mixture:
 - permette di modellare cluster con **forme ellittiche**, grazie all’uso di **matrici di covarianza** complete;
@@ -234,7 +234,7 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 #### Disegno
 [[reti feed and ricorrenti]]
 ## 22/06/18
-### Principali “stagioni” Nello Sviluppo dell’Intelligenza Artificiale E Del Machine Learning
+### Indicare le principali “stagioni” nello sviluppo dell’intelligenza artificiale e machine learning #Ricapitato_N_volta 
 Lo sviluppo dell’**Intelligenza Artificiale (AI)** e del **Machine Learning (ML)** può essere suddiviso in alcune principali *stagioni storiche*, ciascuna caratterizzata da differenti approcci e tecniche.
 #### 1. AI Simbolica (anni ’50–’70)
 La prima fase è caratterizzata dall’**approccio simbolico**, in cui l’intelligenza viene modellata tramite:
@@ -308,7 +308,7 @@ dove:
 - $w_i$ sono i **pesi sinaptici** associati a ciascun input;
 - $b$ è il **bias**, che permette di traslare la funzione di decisione.
 Il valore $net$ rappresenta l’ingresso della **funzione di attivazione**, che produce l’output del neurone.
-### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA? #Ricapitato_1_volta
+### Indicare Le Differenze Tra Le Tecniche Di Riduzione Di Dimensionalità PCA E LDA? #Ricapitato_N_volta
 La **PCA (Principal Component Analysis)** e la **LDA (Linear Discriminant Analysis)** sono entrambe tecniche di riduzione di dimensionalità, ma si basano su **obiettivi e criteri differenti**.
 #### Differenze Principali
 - **Tipo di apprendimento**:
@@ -395,7 +395,7 @@ $$
 Questa funzione misura la **somma dei quadrati degli errori** tra i valori reali e quelli stimati dal modello, e viene minimizzata per ottenere la stima dei parametri $\beta$.
 ### Indicare la Formula Di Bayes per la Probabilità a Posteriori, Definendo I Termini #Ricapitato_1_volta
 Guarda [[#Classificatore Di Bayes Multinormale, Calcolare per Il Punto X Ricapitato1volta]]
-### Descrivere a Grandi Linee Un Classificatore Random Forest
+### Descrivere a Grandi Linee Un Classificatore Random Forest #Ricapitato_1_volta 
 Un **Random Forest** è un classificatore basato su un **insieme (ensemble) di alberi di decisione**.  
 L’idea di base è combinare le decisioni di più modelli deboli (alberi) per ottenere un classificatore più robusto e accurato.
 
@@ -415,7 +415,7 @@ Il procedimento è il seguente:
 
 La decisione finale è ottenuta tramite una **combinazione pesata** delle decisioni dei classificatori deboli.  
 AdaBoost si concentra progressivamente sui pattern più difficili da classificare.
-### Descrivere a Grandi Linee l’algoritmo Di Clustering K-means
+### Descrivere a Grandi Linee l’algoritmo Di Clustering K-means. #Ricapitato_1_volta 
 L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la suddivisione di un insieme di pattern in **K cluster**, minimizzando la distanza intra-cluster.
 L’algoritmo procede in modo iterativo secondo i seguenti passi:
 1. **Inizializzazione**  
@@ -643,6 +643,10 @@ Le principali differenze sono:
 Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
 ### In classificazione cosa si intende per superficie decisionale o di separazione? Riportare anche un esempio grafico.
 
+### Qual è l’idea di base dell’algoritmo backpropagation per l’addestramento di reti neurali?
+
+### Quali sono i parametri di una distribuzione multinormale?
+
 
 ---
 # Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
@@ -670,7 +674,7 @@ Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli c
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
 ## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ricapitato_1_volta
-
+backpropaga
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
 ### Svolgimento
 $n$ => numero dei pattern forniti dall'esercizio
@@ -698,7 +702,7 @@ $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
 ## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
-### Svolgimento
+backpropaga### Svolgimento
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
 Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
