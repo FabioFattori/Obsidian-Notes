@@ -13,7 +13,7 @@ Realizzare dei DFA che riconoscono i seguenti linguaggi:
 
 SI bbb,bababb
 
-NO $\epsilon$,bbaa,bababa
+NO \epsilon,bbaa,bababa
 
 5 - stringhe che contengono la sottostringa aaa o
 la sottostringa aba (contengono almeno una delle due)
