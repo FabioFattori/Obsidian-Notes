@@ -33,7 +33,8 @@
               "title": "es1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +196,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "03cc910b59516a96",
+  "active": "e1bdfba9641b6ebd",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi",
