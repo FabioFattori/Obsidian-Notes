@@ -1,3 +1,4 @@
+# Esercitazione 1
 ** Costruzione di DFA **
 
 Consideriamo l'alfabeto {a,b}. 
