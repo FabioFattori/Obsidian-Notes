@@ -11,7 +11,7 @@ Per la suddivisione si tende ad usare una distribuzione standard come segue:
 
 Esempio 70%|15%|15%.
 Ma può essere messa in atto quando si ha un dataset di medi/grandi dimensioni, se invece si ha a disposizione pochi dati si può decidere di non avere un validation set a favore dell'applicazione della k-fold  cross validation per ottimizzare gli iper parametri.
-### Nella formulazione dell’SVM lineare la funzione obiettivo richiede di massimizzare il margine. L’ottimizzazione è però vincolata; in cosa consistono i vincoli? quanti sono? #Ricapitato_1_volta 
+### Nella Formulazione dell’SVM Lineare la Funzione Obiettivo Richiede Di Massimizzare Il Margine. L’ottimizzazione È Però Vincolata; in Cosa Consistono I Vincoli? Quanti Sono? #Ricapitato_1_volta
 Hard Margin
 Dato un dataset dove $x_i$ è l'i-esimo dato e $y_i \in \{-1,+1\}$ si richiede che tutti i dati siano classificati correttamente e fuori dal margine, quindi:
 $$y_i(w*x_i+b)-1 \geq 0\\\ per \\\ i=1...n$$
@@ -29,7 +29,7 @@ Questo vincolo permette:
 - $\xi_i>1$ punto misclassificato
 
 Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono aggiunti altri $n$ vincoli di non negatività per le slack variables, per un totale di $2n$ vincoli.
-#### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means. #Ricapitato_1_volta 
+#### Descrivere Le Principali Criticità E Limitazioni dell’algoritmo Di Clustering K-means. #Ricapitato_1_volta
 1. Necessità di fornire k a priori
 	Ovvero, K-means richiede che k (numero di cluster) venga definito e fornito come dato di input, quindi richiede di sapere il numero di cluster a priori, se viene fornito un k non consono ai dati il risultato ottenuto non potrà essere ottimale.
 2. Sensibilità all'inizializzazione
@@ -39,7 +39,7 @@ Come in Hard Margin, per questa formula abbiamo $n$ vincoli, in più vengono agg
 	K-means funziona in maniera corretta con cluster della stessa dimensione, sferici e convessi, con cluster di forme complesse o di dimensioni diverse si possono ottenere risultati non affidabili.
 4. Limitazioni basate sulla misura della distanza intra-cluster
 	L’uso tipico della distanza euclidea rende K-means poco adatto a dati non numerici o a contesti in cui tale misura non rappresenta correttamente la similarità tra i pattern.
-##### Nell’ambito Di CNN, Che Cosa Si Intende per Connessioni Locali E Condivisione Di Pesi? #Ricapitato_1_volta 
+##### Nell’ambito Di CNN, Che Cosa Si Intende per Connessioni Locali E Condivisione Di Pesi? #Ricapitato_1_volta
 Per Connessioni locali si intende che ogni neurone del layer convoluzionale è collegato ad una regione locale dell'immagine e non a tutta come accade nelle reti fully connected, permettendo di ridurre il costo computazionale ed il numero di parametri, questo viene fatto inoltre per rilevare con maggiore precisione dei pattern locali come bordi o texture.
 
 Per Condivisione di pesi si intende l'utilizzo degli stessi pesi, quali filtri o kernel, per posizioni diverse dell'input, producendo gli stessi risultati per un determinato pattern.
@@ -81,7 +81,7 @@ Esempi:
 - numero di cluster per quanto riguarda l'algoritmo K-means
 - ecc...
 Gli iperparametri vengono ottimizzati valutando diverse configurazioni tramite tecniche come **grid search** o **random search**, generalmente abbinate alla **k-fold cross-validation**, al fine di selezionare la configurazione che massimizza le prestazioni sul validation set.
-### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$? #Ricapitato_1_volta 
+### Come Si Imposta Un Problema Di Multiple Linear Regression? Come Sono Popolati X, Y E $\beta$? #Ricapitato_1_volta
 Nel seguente caso abbiamo che la variabile indipendente è un vettore tale che $x\in \mathbb{R}^d$.
 Dato un training set composto da $n$ pattern, per impostare il problema dobbiamo costruire $X$ , $y$ e $\beta$ nel seguente modo:
 - per quanto riguarda $X$, che ha forma $X\in \mathbb{R}^{n × (d+1)}$ viene calcolata inserendo sulle righe i $n$ pattern tralasciando l'ultima colonna che viene riempita da $1$ per rappresentare l'intercetta.
@@ -94,7 +94,7 @@ Il learning rate è un iperparametro che regola l'ampiezza di aggiornamento dei 
 Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la direzione opposta al gradiente della funzione di errore, questo rende, di fatto, la scelta di questo iperparametro cruciale, infatti:
 - quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete convergerà più lentamente con maggiori probabilità di rimanere bloccati in un minimo locale
 - invece quando lo si sceglie troppo grande otterremo delle oscillazioni indesiderate dei pesi facendo divergere il processo di training 
-### Quali Sono I Più Noti Algoritmi Di Clustering? #Ricapitato_1_volta 
+### Quali Sono I Più Noti Algoritmi Di Clustering? #Ricapitato_1_volta
 - **Clustering partizionale**
     - **K-means**  
         È uno degli algoritmi di clustering più noti. Suddivide i dati in kkk cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
@@ -119,7 +119,7 @@ L’algoritmo procede in modo **iterativo**, alternando due fasi:
 - **Expectation step (E-step)**: si stima, per ogni pattern, la **probabilità di appartenenza** a ciascuna gaussiana, dati i parametri correnti del modello;
 - **Maximization step (M-step)**: si aggiornano i **parametri delle gaussiane** massimizzando la **verosimiglianza** dei dati pesata dalle probabilità stimate nell’E-step.
 Questo processo viene ripetuto fino a convergenza, portando a una stima dei parametri che **massimizza la likelihood** del modello sui dati osservati .
-### Quali sono le più comuni funzioni di attivazione utilizzate per neuroni artificiali? Perché è necessario che siano non-lineari e differenziabili (esistenza derivata)? #Ricapitato_1_volta 
+### Quali Sono Le Più Comuni Funzioni Di Attivazione Utilizzate per Neuroni Artificiali? Perché È Necessario Che Siano Non-lineari E Differenziabili (esistenza derivata)? #Ricapitato_1_volta
 - Relu
 - Eli
 - tanh
@@ -129,7 +129,7 @@ Questo processo viene ripetuto fino a convergenza, portando a una stima dei para
 Le funzioni di attivazioni devono essere non lineari e differenziabili perchè:
 - Non lineare per permettere alla rete di eseguire un mapping complesso delle informazioni di input
 - Differenziabile per permettere l'applicazione dell'algoritmo di backpropagation
-### Qual È l’obiettivo Delle Tecniche Di Riduzione Di Dimensionalità? #Ricapitato_1_volta 
+### Qual È l’obiettivo Delle Tecniche Di Riduzione Di Dimensionalità? #Ricapitato_1_volta
 L'obiettivo è quello di eseguire un mapping dallo spazio iniziale $\mathbb{R}^d$ ad uno spazio di dimensione inferiore tale che $\mathbb{R}^k,\quad k<d$.
 Di fatto si va a scartare le informazioni non rilevanti o meno rilevanti per il problema di interesse per ottenere:
 - alleviare i problemi legati alla curse of dimensionality, perchè operare in grandi spazi di dati richiede una mole di dati per il training elevata.
@@ -142,7 +142,7 @@ Un algoritmo di clustering cerca quindi di trovare la partizione che **ottimizza
 Un esempio è la minimizzazione distanza dai centroidi (usado da K-Means):
 minimizza la somma dei quadrati delle distanze dei pattern 𝐱 dai centroidi delle classi$$J_e=\sum_{i=1,...s}\sum_{x\in C_i}||x-\overline x_i||^2,\quad\overline x_i = \frac{1}{n_i}\sum_{x\in C_i}x$$
 dove $C_i$ è l’i-esimo cluster, $n_i$ il numero di pattern che contiene e $\overline x_i$ il suo centroide (media).
-### Come Opera Un Livello Di Pooling in Una CNN? #Ricapitato_1_volta 
+### Come Opera Un Livello Di Pooling in Una CNN? #Ricapitato_1_volta
 Un livello di **pooling** esegue un’**aggregazione locale** delle informazioni nel volume di input, producendo feature map di **dimensione spaziale inferiore**.  
 L’obiettivo è quello di conferire **invarianza rispetto a piccole trasformazioni dell’input** (ad esempio traslazioni), mantenendo allo stesso tempo le informazioni più significative per la discriminazione dei pattern.
 
@@ -165,7 +165,7 @@ Lo scopo finale è ottenere un modello che approssimi correttamente la relazione
 - Clustering hard (esclusivo): un pattern è assegnato (in modo esclusivo) a un solo cluster.
 - Clustering soft (fuzzy): i pattern appartengono a diversi cluster con un certo grado di appartenenza (es. tra 0 e 1). 
 Fuzzy ha il vantaggio che è più efficace nel gestire pattern vicino al bordo di due o più clusters e outliers. L’assegnazione può diventare esclusiva scegliendo, per ogni pattern, il cluster verso cui il grado di appartenenza è massimo.
-### Cosa È Possibile Apprendere Mediante Tecniche Di Reinforcement Learning? Fare Un Esempio #Ricapitato_1_volta 
+### Cosa È Possibile Apprendere Mediante Tecniche Di Reinforcement Learning? Fare Un Esempio #Ricapitato_1_volta
 Mediante le tecniche di **Reinforcement Learning (RL)** è possibile apprendere una **politica di comportamento**, cioè una strategia che indica quale **azione** un agente deve compiere in ogni **stato** dell’ambiente, al fine di **massimizzare una ricompensa cumulativa** nel tempo.
 
 Nel Reinforcement Learning l’apprendimento avviene tramite **interazione diretta con l’ambiente**: l’agente osserva lo stato corrente, seleziona un’azione, riceve una ricompensa e aggiorna la propria politica sulla base dell’esperienza accumulata. Non sono quindi disponibili etichette corrette a priori, ma solo segnali di rinforzo.
@@ -175,7 +175,7 @@ Un esempio tipico è l’apprendimento del comportamento di un **agente che gioc
 Per Learning supervisionato si intende quando le classi dei pattern del training set sono note a priori, quindi il training set è etichettato.
 La situazione tipica del learning supervisionato è la classificazione o la regressione.
 Il learning non supervisionato è, invece, quando il training set non è etichettato, una situazione tipica è il clustering. 
-### Nelle SVM Non Lineari Cosa Si Intende per Kernel? Quali Sono I Kernel Più Utilizzati? #Ricapitato_1_volta 
+### Nelle SVM Non Lineari Cosa Si Intende per Kernel? Quali Sono I Kernel Più Utilizzati? #Ricapitato_1_volta
 Nelle **SVM non lineari**, un **kernel** è una funzione che consente di calcolare il **prodotto scalare tra due pattern nello spazio delle feature** senza eseguire esplicitamente il mapping in uno spazio di dimensione più elevata.  
 Formalmente, il kernel è definito come:
 $$
@@ -188,7 +188,7 @@ Sono funzioni kernel:
 - RBF di ampiezza $\alpha$  
 - Polinomio di grado $q$
 ## 15/02/2018
-### Cosa Si Intende Con SVM Lineari? Cosa Sono Le Superfici Di Separazione Nel Caso d=2 E d=3? #Ricapitato_1_volta 
+### Cosa Si Intende Con SVM Lineari? Cosa Sono Le Superfici Di Separazione Nel Caso d=2 E d=3? #Ricapitato_1_volta
 Le **SVM lineari** sono classificatori che cercano una **funzione di decisione lineare** nello spazio delle feature, con l’obiettivo di separare le classi tramite un **iperpiano** che massimizza il **margine** tra i campioni delle diverse classi.
 Nel caso lineare, la funzione di decisione ha la forma:
 $$
@@ -224,7 +224,7 @@ Il procedimento è il seguente:
 - il processo viene ripetuto fino a quando **ogni fold è stato usato una volta come validation set**.
 Le prestazioni finali del modello sono ottenute come **media delle prestazioni** calcolate sui K esperimenti.
 La K-fold cross-validation permette di ottenere una **stima più affidabile della capacità di generalizzazione** del modello rispetto a una singola suddivisione training/validation, soprattutto quando il dataset disponibile è limitato.
-### Indicare Le Differenze Tra Reti Neurali Feedforward E Le Reti Neurali Ricorrenti, Disegnando Un Esempio Di Entrambe #Ricapitato_1_volta 
+### Indicare Le Differenze Tra Reti Neurali Feedforward E Le Reti Neurali Ricorrenti, Disegnando Un Esempio Di Entrambe #Ricapitato_1_volta
 - Feedforward: 
 	nelle reti feedforward le connessioni collegano i neuroni di un livello con i neuroni di un livello successivo. Non sono consentite connessioni all’indietro o connessioni verso lo stesso livello.
 - Ricorrenti: 
@@ -346,7 +346,7 @@ L’efficacia del Deep Learning dipende anche dall’uso di:
 - tecniche che facilitano l’addestramento di reti profonde e migliorano la generalizzazione.
 
 In sintesi, il Deep Learning è più efficace quando si dispone di **molti dati**, **problemi complessi**, **potenza di calcolo sufficiente** e **modelli profondi ben progettati**. In assenza di queste condizioni, approcci di Machine Learning più semplici possono risultare preferibili.
-### La Formula Di Distanza Di Un Pattern dall’iperpiano SVM Dipende Da Tutti I Pattern Di Training? #Ricapitato_1_volta 
+### La Formula Di Distanza Di Un Pattern dall’iperpiano SVM Dipende Da Tutti I Pattern Di Training? #Ricapitato_1_volta
 La **formula della distanza di un pattern dall’iperpiano** risultante dal training di una **SVM** dipende **solo da una parte dei pattern del training set**, e non da tutti.
 In particolare, dipende esclusivamente dai **support vector**.
 Infatti, l’iperpiano di separazione ottimale è determinato unicamente da quei pattern che:
@@ -404,7 +404,7 @@ Il funzionamento, a grandi linee, è il seguente:
 - la classificazione finale è ottenuta tramite **voto di maggioranza** delle predizioni dei singoli alberi.
 
 Questo approccio riduce la **varianza** del modello rispetto a un singolo albero e limita il rischio di overfitting.
-### Descrivere a grandi linee l’approccio di classificazione AdaBoost. #Ricapitato_1_volta 
+### Descrivere a Grandi Linee l’approccio Di Classificazione AdaBoost. #Ricapitato_1_volta
 **AdaBoost (Adaptive Boosting)** è un metodo di **boosting**, che costruisce un classificatore forte combinando iterativamente più **classificatori deboli**
 Il procedimento è il seguente:
 - inizialmente tutti i pattern del training set hanno lo stesso peso;
@@ -427,7 +427,7 @@ L’algoritmo procede in modo iterativo secondo i seguenti passi:
    I passi di assegnazione e aggiornamento vengono ripetuti fino a quando le assegnazioni dei pattern o i centroidi non cambiano più.
 
 L’algoritmo converge a un **minimo locale** della funzione obiettivo, che è la somma dei quadrati delle distanze dei pattern dai rispettivi centroidi.
-### Come È Definita la Funzione Di Attivazione Relu? Perché Consente Di Addestrare Reti Neurali Profonde Limitando Il Problema Del Vanishing Gradient? #Ricapitato_1_volta 
+### Come È Definita la Funzione Di Attivazione Relu? Perché Consente Di Addestrare Reti Neurali Profonde Limitando Il Problema Del Vanishing Gradient? #Ricapitato_1_volta
 La funzione di attivazione **ReLU (Rectified Linear Unit)** è definita come:
 $$
 \text{ReLU}(x) = \max(0, x)
@@ -454,7 +454,7 @@ Alcuni esempi di applicazioni del clustering sono:
 - **Riconoscimento di pattern** e analisi esplorativa dei dati, per individuare strutture nascoste nei dataset.
 
 Il clustering è spesso utilizzato come strumento di **analisi esplorativa**, utile per comprendere la struttura interna dei dati prima di applicare modelli supervisionati.
-### Nell’ambito dell’apprendimento Automatico Quali Sono Le Principali Cause Di Overfitting? #Ricapitato_1_volta 
+### Nell’ambito dell’apprendimento Automatico Quali Sono Le Principali Cause Di Overfitting? #Ricapitato_1_volta
 L’**overfitting** si verifica quando un modello apprende in modo eccessivamente accurato i dati di training, includendo anche il **rumore**, e perde quindi capacità di **generalizzazione** su dati non visti.
 Le principali cause di overfitting sono:
 - **Modello troppo complesso** rispetto alla quantità di dati disponibili (elevato numero di parametri);
@@ -463,7 +463,7 @@ Le principali cause di overfitting sono:
 - **Assenza o insufficiente regolarizzazione**, che non penalizza modelli troppo complessi.
 
 In queste condizioni il modello ottiene buone prestazioni sul training set ma scarse prestazioni sul validation o test set.
-### Nel Caso Di Pattern Non-linearmente Separabili, Nella Formulazione Di SVM Lineare come Si Approccia Il Problema? #Ricapitato_1_volta 
+### Nel Caso Di Pattern Non-linearmente Separabili, Nella Formulazione Di SVM Lineare come Si Approccia Il Problema? #Ricapitato_1_volta
 Nel caso in cui i pattern **non siano linearmente separabili**, nella formulazione di **SVM lineare** si introduce il concetto di **soft margin**.
 In particolare:
 - si ammette che alcuni pattern possano violare il margine o essere classificati erroneamente;
@@ -495,7 +495,7 @@ Esempi pratici:
 - in un sistema basato su regole *if–then*, si applicano le regole per ottenere una decisione.
 
 In questo caso, la conoscenza è **esplicitamente codificata** e il sistema si limita ad applicarla.
-### Nella Regressione Lineare (sia Rispetto Ai Parametri Sia Rispetto Alla Variabile indipendente) I Dati Con Cosa Sono Approssimati Nel Caso 2D E 3D? #Ricapitato_1_volta 
+### Nella Regressione Lineare (sia Rispetto Ai Parametri Sia Rispetto Alla Variabile indipendente) I Dati Con Cosa Sono Approssimati Nel Caso 2D E 3D? #Ricapitato_1_volta
 Nella **regressione lineare**, i dati vengono approssimati tramite **modelli lineari**, la cui forma dipende dalla dimensionalità dello spazio dei dati.
 
 - **Caso 2D** (una variabile indipendente):
@@ -508,7 +508,7 @@ Nella **regressione lineare**, i dati vengono approssimati tramite **modelli lin
   - il modello ha la forma:$$
     y = w_0 + w_1 x_1 + w_2 x_2$$
 In generale, all’aumentare della dimensionalità, la regressione lineare approssima i dati con un **iperpiano** nello spazio delle feature.
-### Quali Sono Le Più Note Tecniche Di Riduzione Di Dimensionalità? Quali I Loro Tipici Utilizzi? #Ricapitato_1_volta 
+### Quali Sono Le Più Note Tecniche Di Riduzione Di Dimensionalità? Quali I Loro Tipici Utilizzi? #Ricapitato_1_volta
 Le tecniche di **riduzione di dimensionalità** hanno l’obiettivo di rappresentare i dati in uno spazio di dimensione inferiore preservando l’informazione rilevante.
 Le più note sono:
 - **PCA (Principal Component Analysis)**  
@@ -525,7 +525,7 @@ Le più note sono:
     - riduzione di dimensionalità a fini di classificazione.
 
 Queste tecniche sono spesso impiegate per contrastare la **curse of dimensionality** e semplificare l’addestramento dei modelli.
-### Nell’ambito Di Classificazione Con SVM Cosa Si Intende per Pattern Linearmente Separabili E Non Linearmente Separabili? Fare Esempio Grafico Dei due Casi. #Ricapitato_1_volta 
+### Nell’ambito Di Classificazione Con SVM Cosa Si Intende per Pattern Linearmente Separabili E Non Linearmente Separabili? Fare Esempio Grafico Dei due Casi. #Ricapitato_1_volta
 Nel contesto delle **Support Vector Machine (SVM)**:
 - **Pattern linearmente separabili**  
   Sono pattern per i quali esiste almeno un **iperpiano** che separa perfettamente le classi senza errori.
@@ -547,7 +547,7 @@ La loss e l'accuratezza hanno il seguente comportamento durante la convergenza:
 
 Quando loss e accuratezza diventano quasi costanti, l’algoritmo può essere considerato convergente.
 ![[Pasted image 20251229182235.png]]
-### Nell’ambito Dei Multi-classificatori Quali Sono Le Più Comuni Tecniche Di Fusione a Livello Di Decisione E Di Confidenza? #Ricapitato_1_volta 
+### Nell’ambito Dei Multi-classificatori Quali Sono Le Più Comuni Tecniche Di Fusione a Livello Di Decisione E Di Confidenza? #Ricapitato_1_volta
 Nei **multi-classificatori**, la fusione delle informazioni può avvenire a **livello di decisione** oppure a **livello di confidenza**, a seconda del tipo di output prodotto dai classificatori base.
 #### Fusione a Livello Di Decisione
 In questo caso ciascun classificatore fornisce una **decisione discreta** (classe assegnata) e la combinazione avviene direttamente sulle etichette.
@@ -564,7 +564,7 @@ Le tecniche più comuni sono:
 
 La classe finale è quella che massimizza la confidenza combinata.  
 Questo approccio è generalmente più informativo rispetto alla fusione a livello di decisione, poiché sfrutta anche il grado di certezza dei singoli classificatori.
-### Nell’ambito Di CNN, Che Cosa Si Intende Con Transfer Learning? Quali Sono Le Tecniche Di Transfer Learning Utilizzabili? #Ricapitato_1_volta 
+### Nell’ambito Di CNN, Che Cosa Si Intende Con Transfer Learning? Quali Sono Le Tecniche Di Transfer Learning Utilizzabili? #Ricapitato_1_volta
 Nel contesto delle **Convolutional Neural Networks (CNN)**, il **transfer learning** consiste nel riutilizzare una rete neurale già addestrata su un grande dataset per risolvere un **nuovo problema**, generalmente con una quantità limitata di dati.
 L’idea di base è che i primi strati della rete apprendono **feature generiche**, riutilizzabili anche in domini differenti.
 Le principali tecniche di transfer learning nelle CNN sono:
@@ -584,7 +584,7 @@ Le strategie più comuni sono:
 - **Conoscenza del dominio applicativo**: informazioni a priori sul problema possono suggerire un numero plausibile di cluster.
 
 In generale, la scelta di $K$ rappresenta un compromesso tra accuratezza della rappresentazione e semplicità del modello.
-### Cosa Si Intende per Funzione Obiettivo E Loss Function? #Ricapitato_1_volta 
+### Cosa Si Intende per Funzione Obiettivo E Loss Function? #Ricapitato_1_volta
 La **funzione obiettivo** è la funzione matematica che un algoritmo di apprendimento cerca di **ottimizzare** (minimizzare o massimizzare) durante il training. Essa formalizza ciò che si desidera ottenere dal modello.
 La **loss function** è una funzione che misura l’**errore** commesso dal modello su un singolo pattern o su un insieme di pattern, confrontando l’output predetto con quello desiderato.
 In molti casi, la funzione obiettivo è definita come la **somma o la media delle loss function** sui dati di training.
@@ -596,7 +596,7 @@ Questo approccio:
 
 In generale, la forza bruta **non è considerata intelligenza artificiale**, poiché manca di capacità di apprendimento, adattamento o generalizzazione.  
 Tuttavia, può essere utilizzata come metodo di riferimento o come parte di sistemi più complessi.
-### Qual È la Differenza Sostanziale dell’approccio “On-line” Rispetto a “SGD Con mini-batch“ per Il Training Di Reti Neurali? #Ricapitato_1_volta 
+### Qual È la Differenza Sostanziale dell’approccio “On-line” Rispetto a “SGD Con mini-batch“ per Il Training Di Reti Neurali? #Ricapitato_1_volta
 La differenza principale riguarda la **quantità di dati utilizzata per ogni aggiornamento dei pesi**.
 - **Approccio On-line**:
   - i pesi vengono aggiornati **dopo ogni singolo pattern**;
@@ -642,7 +642,7 @@ Le principali differenze sono:
   - le CNN sono più robuste a traslazioni locali dell’input.
 
 Per questi motivi, le CNN sono particolarmente adatte a dati con **struttura spaziale**, come le immagini.
-### In Classificazione Cosa Si Intende per Superficie Decisionale O Di Separazione? Riportare Anche Un Esempio Grafico. #Ricapitato_1_volta 
+### In Classificazione Cosa Si Intende per Superficie Decisionale O Di Separazione? Riportare Anche Un Esempio Grafico. #Ricapitato_1_volta
 In un problema di **classificazione**, la **superficie decisionale** (o superficie di separazione) è l’insieme dei punti dello spazio delle feature per i quali il classificatore è **indifferente tra due o più classi**.  
 Essa divide lo spazio delle feature in **regioni di decisione**, ciascuna associata a una classe.
 - In **2D** la superficie decisionale è una **retta**;
@@ -712,7 +712,7 @@ Non assumono una forma prefissata della distribuzione.
 - Esempio: **stima di densità di Parzen**, in cui la densità viene stimata sommando contributi locali dei pattern tramite una finestra o kernel.
 
 Questi metodi sono utilizzati, ad esempio, nel clustering basato su **modelli probabilistici**.
-### Come si misurano le prestazioni di un classificatore?
+### Come Si Misurano Le Prestazioni Di Un Classificatore?
 Le prestazioni di un **classificatore** vengono misurate confrontando le **etichette predette** con le **etichette reali** sui dati di test o di validazione.
 Gli strumenti principali sono:
 - **Matrice di confusione**, che riassume:
@@ -726,7 +726,7 @@ A partire dalla matrice di confusione si definiscono indicatori di prestazione, 
 - **tasso di errore**, complementare all’accuratezza.
 
 Queste misure permettono di valutare la **capacità di generalizzazione** del classificatore.
-### Dal punto di vista pratico nell’approccio di Parzen che differenza c’è se si usa una funzione finestra ipercubo piuttosto che multinormale?
+### Dal Punto Di Vista Pratico nell’approccio Di Parzen Che Differenza c’è Se Si Usa Una Funzione Finestra Ipercubo Piuttosto Che Multinormale?
 Nell’approccio di **stima di densità di Parzen**, la differenza tra le due finestre riguarda il modo in cui i pattern contribuiscono alla densità locale.
 - **Finestra ipercubo**:
   - assegna un contributo **costante** ai pattern che cadono all’interno della finestra;
@@ -738,7 +738,7 @@ Nell’approccio di **stima di densità di Parzen**, la differenza tra le due fi
   - produce stime di densità **più lisce e regolari**.
 
 Dal punto di vista pratico, la finestra multinormale fornisce una stima più stabile e realistica, a costo di un maggiore carico computazionale.
-### Quanti sono i parametri indipendenti di una distribuzione multinormale nel caso 3-dimensionale? Motivare la risposta
+### Quanti Sono I Parametri Indipendenti Di Una Distribuzione Multinormale Nel Caso 3-dimensionale? Motivare la Risposta
 Una **distribuzione multinormale** è definita da:
 - un **vettore di media** $\mu$;
 - una **matrice di covarianza** $\Sigma$.
@@ -754,23 +754,23 @@ $$
 3 \;(\mu) + 6 \;(\Sigma) = 9
 $$
 La simmetria della matrice di covarianza riduce il numero di parametri indipendenti rispetto ai 9 elementi totali della matrice.
-### Quando una rete neurale si definisce deep (profonda)?
+### Quando Una Rete Neurale Si Definisce Deep (profonda)?
 Una **rete neurale** si definisce **deep (profonda)** quando è composta da **più di uno strato nascosto** tra lo strato di input e lo strato di output.  
 La presenza di **più livelli di neuroni** consente alla rete di apprendere **rappresentazioni gerarchiche** dei dati:  
 - gli strati più vicini all’input estraggono feature più semplici;
 - gli strati più profondi estraggono feature via via più astratte.
 
 Questa profondità distingue il **Deep Learning** dalle reti neurali tradizionali con un solo hidden layer.
-### Che cosa denota la matrice Ʃ nella definizione della distribuzione multinormale?
+### Che Cosa Denota la Matrice Ʃ Nella Definizione Della Distribuzione Multinormale?
 scritto qui:
 [[#Quali Sono I Parametri Di Una Distribuzione Multinormale?]]
-### Nel classificatore di Bayes cosa si intende per densità di probabilità condizionale e probabilità a priori.
+### Nel Classificatore Di Bayes Cosa Si Intende per Densità Di Probabilità Condizionale E Probabilità a Priori
 Nel **classificatore di Bayes**:
 - la **densità di probabilità condizionale** $p(x \mid \omega_i)$ rappresenta la probabilità di osservare il pattern $x$ **assumendo che esso appartenga alla classe $\omega_i$**;
 - la **probabilità a priori** $P(\omega_i)$ rappresenta la probabilità che un pattern appartenga alla classe $\omega_i$ **prima di osservare i dati**.
 
 Il classificatore di Bayes combina queste quantità per stimare la probabilità a posteriori e assegnare il pattern alla classe più probabile.
-### Per l’addestramento di una rete neurale che cosa si intende con vettore di output desiderato? Come può essere definito? Come si può calcolare l’errore da retro-propagare a partire dal vettore desiderato e dal valore calcolato dalla rete per un pattern? Oltre alla spiegazione riportare un esempio.
+### Per l’addestramento Di Una Rete Neurale Che Cosa Si Intende Con Vettore Di Output Desiderato? Come Può Essere Definito? Come Si Può Calcolare l’errore Da Retro-propagare a Partire Dal Vettore Desiderato E Dal Valore Calcolato Dalla Rete per Un Pattern? Oltre Alla Spiegazione Riportare Un Esempio
 Il **vettore di output desiderato** rappresenta l’output corretto che la rete dovrebbe produrre per un determinato pattern di input durante la fase di training.
 #### Definizione
 - È un vettore $d$ che contiene i valori target associati al pattern;
@@ -801,7 +801,7 @@ $$
 e = d - y = [-0.1,\;0.3,\;-0.2]
 $$
 Questo vettore di errore viene propagato all’indietro per correggere i pesi della rete.
-### Cosa si intende per approccio parametrico e non-parametrico nell’ambito della classificazione? Fare un esempio di classificatore parametrico e non parametrico.
+### Cosa Si Intende per Approccio Parametrico E Non-parametrico nell’ambito Della Classificazione? Fare Un Esempio Di Classificatore Parametrico E Non Parametrico
 Nell’ambito della **classificazione**, un approccio può essere **parametrico** o **non-parametrico** a seconda delle assunzioni fatte sul modello dei dati.
 - **Approccio parametrico**  
   Assume che i dati seguano una **distribuzione di forma nota**, descritta da un numero finito di parametri.  
@@ -813,7 +813,7 @@ Nell’ambito della **classificazione**, un approccio può essere **parametrico*
   La complessità del modello cresce con il numero di pattern disponibili.
   **Esempio**:  
   - **Classificatore basato su Parzen**, che stima la densità tramite finestre centrate sui pattern del training set.
-### Nell’ambito delle reti neurali che cosa si intende per problema del vanishing gradient? Come può essere risolto?
+### Nell’ambito Delle Reti Neurali Che Cosa Si Intende per Problema Del Vanishing Gradient? Come Può Essere Risolto?
 Il **problema del vanishing gradient** si verifica durante l’addestramento di **reti neurali profonde**, quando il gradiente dell’errore, propagandosi all’indietro attraverso molti strati, tende a diventare **molto piccolo**.
 Di conseguenza:
 - i pesi degli strati più profondi vengono aggiornati in modo trascurabile;
@@ -822,7 +822,7 @@ Di conseguenza:
 Il problema può essere mitigato utilizzando:
 - **funzioni di attivazione come ReLU**, che non saturano per valori positivi;
 - architetture profonde progettate per facilitare la propagazione del gradiente.
-### Come può essere matematicamente definita la loss function (su un singolo pattern) per l’addestramento di una rete neurale?
+### Come Può Essere Matematicamente Definita la Loss Function (su Un Singolo pattern) per l’addestramento Di Una Rete Neurale?
 La **loss function** su un singolo pattern misura l’errore tra:
 - il **vettore di output desiderato** $d$;
 - l’**output prodotto dalla rete** $y$.
@@ -832,7 +832,7 @@ $$
 L(d, y) = \frac{1}{2} \sum_{j} (d_j - y_j)^2
 $$
 Questa funzione quantifica lo scostamento tra output desiderato e output calcolato ed è utilizzata dalla **backpropagation** per aggiornare i pesi della rete.
-### Con quali tecniche si può estendere SVM da 2 a più classi?
+### Con Quali Tecniche Si Può Estendere SVM Da 2 a Più Classi?
 Le **Support Vector Machine (SVM)** sono nate per problemi di **classificazione binaria**, ma possono essere estese al caso **multi-classe** tramite strategie di decomposizione del problema.
 Le tecniche più comuni sono:
 - **One-vs-All (OvA)**  
@@ -845,7 +845,7 @@ Le tecniche più comuni sono:
   - la decisione finale è ottenuta tramite **voto di maggioranza**.
 
 Questi approcci permettono di utilizzare SVM binarie anche in contesti multi-classe.
-### Che cosa codifica la funzione Q nell’ambito dell’approccio Q-learning? Quali sono gli input che ne determinano il valore?
+### Che Cosa Codifica la Funzione Q nell’ambito dell’approccio Q-learning? Quali Sono Gli Input Che Ne Determinano Il Valore?
 Nell’ambito del **Q-learning**, la **funzione Q** codifica la **qualità** (o valore atteso) dell’esecuzione di una certa azione in uno stato.
 Formalmente, la funzione:
 $$
@@ -999,7 +999,7 @@ dati di training?
 ![[Pasted image 20251229005205.png]]
 ### Svolgimento
 ![[Pasted image 20251229005233.png]]
-## Crazy Exercise, Chiede Tipo Tutto Porco #Ricapitato_1_volta 
+## Crazy Exercise, Chiede Tipo Tutto Porco #Ricapitato_1_volta
 ![[Pasted image 20251229005703.png]]
 ### Svolgimento
 ![[Pasted image 20251229005720.png]]
@@ -1015,7 +1015,7 @@ dati di training?
 ![[Pasted image 20251229010629.png]]
 ### Svolgimento
 ![[Pasted image 20251229010639.png]]
-## Numero Complessivo Di Addestramenti Da Effettuare Di Una Grid search Combinata a K-fold Cross-validation #Ricapitato_1_volta 
+## Numero Complessivo Di Addestramenti Da Effettuare Di Una Grid search Combinata a K-fold Cross-validation #Ricapitato_1_volta
 ![[Pasted image 20251230183010.png]]
 ### Svolgimento
 ![[Pasted image 20251230183025.png]]
