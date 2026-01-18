@@ -10,6 +10,7 @@
           {
             "id": "03cc910b59516a96",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,32 +18,21 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Consegna"
             }
           },
           {
-            "id": "76a2917926b4d624",
+            "id": "533ebf812e9823cb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es2"
-            }
-          },
-          {
-            "id": "e1bdfba9641b6ebd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "es1"
+              "title": "es3"
             }
           }
         ],
@@ -208,9 +198,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "236d99eeb2bf1ece",
+  "active": "533ebf812e9823cb",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
@@ -254,7 +245,6 @@
     "Primo Semestre Major/Compilatori/Drawing 2025-10-14 10.55.15.excalidraw.md",
     "Terzo anno Triennale/Tesi Shit/Bozza Discorso.md",
     "Terzo anno Triennale/Tesi Shit/AmbrogioAI.md",
-    "Tesi Shit/Senza nome.md",
-    "Ottimi.md"
+    "Tesi Shit/Senza nome.md"
   ]
 }
