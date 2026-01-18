@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "76a2917926b4d624",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "es2"
+            }
+          },
+          {
             "id": "e1bdfba9641b6ebd",
             "type": "leaf",
             "state": {
@@ -196,9 +208,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "e1bdfba9641b6ebd",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
