@@ -26,3 +26,11 @@ Guarda questo per piangere fortissimo
 ![[NFA2RE]]Ulteriore esempio
 ![[Pasted image 20260119203837.png]]
 ![[Pasted image 20260119203852.png]]
+## Da Espressioni Regolari a $\epsilon$-NFA
+Prendi questi blocchettini:
+- $R+S$
+	![[Pasted image 20260119204227.png]]
+- $RS$
+	![[Pasted image 20260119204239.png]]
+- $R$* 
+	![[Pasted image 20260119204251.png]]
