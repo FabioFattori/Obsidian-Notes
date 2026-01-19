@@ -40,3 +40,10 @@ Esempio:
 trasformiamo $(0+1)$* $1(0+1)$ ottengo questo:
 ![[Pasted image 20260119210555.png]]
 che se ci pensi ci sta, qui è letteralmente come giocare con i lego.
+## Pumping Lemma
+![[Pasted image 20260119223836.png]]
+![[Pasted image 20260119223857.png]]
+Per gli esercizi, spesso viene chiesto che tipo di linguaggio è un linguaggio fornito, per capire se NON è regolare ti tocca fare il pumping lemma:
+- supponi che sia regolare, quindi rispetta il pumping lemma
+- definisci tutto le cagate di formule del pumping lemma, specialmente w, che raffigura la nostra word, quindi una stringa
+- poi provi a spare 
