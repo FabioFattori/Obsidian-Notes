@@ -19,3 +19,5 @@ Poi si esegue in maniera iterativa il seguente algoritmo:
 	Parto da $q_0$ avente come simbolo il + ed ho come sottoinsieme $\{q_1\}$, poi parto da $q_1$ e non vado da nessuna parte quindi facendo l'unione tra $\{q_1\}$ e insieme vuoto otterrò un sottoinsieme che mi rappresenta un nuovo stato del DFA. 
 2. Finiti i simboli dell'alfabeto da provare per ogni stato del sottoinsieme (ovvero il nuovo stato del DFA finale) si procede in maniera iterativa per ogni nuovo stato individuato
 3. Il DFA è completo quando non vi sono più nuovi sottoinsiemi individuati
+## Da DFA/NFA a Espressione Regolare
+![[Pasted image 20260119201706.png]]
