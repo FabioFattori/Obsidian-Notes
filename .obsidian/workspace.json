@@ -34,31 +34,21 @@
               "icon": "lucide-file",
               "title": "Consegna"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7061c84222ee82f5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5acff5169d1fa408",
+            "id": "0641ecd008904663",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Transformazioni Linguaggi.md",
-                "mode": "source",
-                "source": false
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md"
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Transformazioni Linguaggi"
+              "icon": "excalidraw-icon",
+              "title": "NFA2RE"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,13 +210,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "98a3db8ec8b53cf7",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Transformazioni Linguaggi.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
     "Pasted image 20260119180715.png",
     "Pasted image 20260119174606.png",
     "Pasted image 20260119174313.png",
@@ -251,7 +243,6 @@
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
     "Primo Semestre Major/Machine Learning/slides/9_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/slides/Non confermato 380408.crdownload",
-    "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
