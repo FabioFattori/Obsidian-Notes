@@ -56,4 +56,17 @@ Esempio:
 Prendiamo per esempio A ed E:
 ![[Pasted image 20260119232324.png]]
 Allora teoricamente dovresti provare un pò tutte le combo di $w$ ma, dato che stiamo parlando di un DFA ha quindi senso provare solo le $w$ con lunghezza massima $n$ che rappresenta in numero di stati presenti nel DFA.
-Nell'esempio $A\equiv E$ perchè i singoli char dell'alfabeto portano i due stati negli stessi stati
+Nell'esempio $A\equiv E$ perchè i singoli char dell'alfabeto portano i due stati negli stessi stati quindi bella sono equivalenti.
+![[Pasted image 20260119232644.png]]
+quelli con le $x$ sono distinguibili.
+### Equivalenza Tra Linguaggi Regolari
+![[Pasted image 20260119232734.png]]
+Il punto 3 è quello importante, di fatto si svolge così:
+![[Pasted image 20260119232823.png]]
+### Minimizzazione
+Prendendo sempre questo DFA come esempio:
+![[Pasted image 20260119231946.png]]
+lui ha le seguenti classi di equivalenza:
+{{A, E}, {B, H}, {C}, {D, F }, {G}} quindi:
+![[Pasted image 20260119232955.png]]
+abbastanza easy.
