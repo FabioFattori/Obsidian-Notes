@@ -34,8 +34,23 @@
               "icon": "lucide-file-text",
               "title": "3_ML_Classificazione"
             }
+          },
+          {
+            "id": "963cabd7dc282990",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "1 - linguaggi regolari"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "88847ce415c059b6",
@@ -198,8 +212,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "92eb498364c3d6ba",
+  "active": "963cabd7dc282990",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
@@ -209,7 +224,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi",
     "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Pasted image 20251230183025.png",
     "Pasted image 20251230183010.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182235.png",
