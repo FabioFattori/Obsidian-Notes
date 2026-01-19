@@ -23,3 +23,6 @@ Poi si esegue in maniera iterativa il seguente algoritmo:
 Per quanto riguarda SOLO la parte finale
 ![[Pasted image 20260119201706.png]]
 Guarda questo per piangere fortissimo
+![[NFA2RE]]Ulteriore esempio
+![[Pasted image 20260119203837.png]]
+![[Pasted image 20260119203852.png]]
