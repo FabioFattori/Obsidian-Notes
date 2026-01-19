@@ -37,4 +37,6 @@ Prendi questi blocchettini:
 - $R$* 
 	![[Pasted image 20260119204251.png]]
 Esempio:
-trasformiamo $(0+1)*1$
+trasformiamo $(0+1)$* $1(0+1)$ ottengo questo:
+![[Pasted image 20260119210555.png]]
+che se ci pensi ci sta, qui è letteralmente come giocare con i lego.
