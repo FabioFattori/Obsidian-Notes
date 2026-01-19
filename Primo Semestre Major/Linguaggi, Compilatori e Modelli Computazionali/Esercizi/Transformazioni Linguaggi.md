@@ -9,3 +9,4 @@ otteniamo la tabella (che è la cosa che ci permette di ottenere il DFA)
 e poi lavoriamo con i sottoinsiemi partendo da $\{q_0\}$ e quindi si ottiene questo:
 ![[Pasted image 20260119174313.png]]
 ## Da $\epsilon$-NFA a DFA
+![[Pasted image 20260119174606.png]]
