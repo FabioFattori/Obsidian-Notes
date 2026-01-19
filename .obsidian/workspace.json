@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92eb498364c3d6ba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/Prove d'esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Prove d'esame"
-            }
-          },
-          {
-            "id": "4547daf69cc8f72e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3_ML_Classificazione"
-            }
-          },
-          {
             "id": "963cabd7dc282990",
             "type": "leaf",
             "pinned": true,
@@ -49,16 +21,16 @@
               "title": "1 - linguaggi regolari"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7061c84222ee82f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a85ff4075920df6a",
+            "id": "5acff5169d1fa408",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -66,6 +38,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Transformazioni Linguaggi"
             }
@@ -234,23 +207,23 @@
   },
   "active": "963cabd7dc282990",
   "lastOpenFiles": [
+    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
+    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Transformazioni Linguaggi.md",
-    "Pasted image 20260119180715.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
+    "Pasted image 20260119180715.png",
     "Pasted image 20260119174606.png",
     "Pasted image 20260119174313.png",
     "Pasted image 20260119174214.png",
     "Pasted image 20260119174157.png",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi",
-    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Pasted image 20251230183025.png",
     "Pasted image 20251230183010.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182235.png",
