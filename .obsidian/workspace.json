@@ -186,7 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Crea nuova Base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -200,8 +200,8 @@
   },
   "active": "e096bf1a626a7fac",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es4.md",
