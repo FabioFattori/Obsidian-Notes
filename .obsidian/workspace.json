@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03cc910b59516a96",
+            "id": "92eb498364c3d6ba",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
+                "file": "Primo Semestre Major/Machine Learning/Prove d'esame.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Consegna"
+              "title": "Prove d'esame"
             }
           },
           {
-            "id": "e096bf1a626a7fac",
+            "id": "4547daf69cc8f72e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md"
+                "file": "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "es5"
+              "icon": "lucide-file-text",
+              "title": "3_ML_Classificazione"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Ricapitato_1_volta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Ricerca"
+              "title": "Search"
             }
           },
           {
@@ -187,34 +186,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crea nuova Base": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "markdown-importer:Apri importazione Markdown": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e096bf1a626a7fac",
+  "active": "92eb498364c3d6ba",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es4.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi",
+    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "Primo Semestre Major/Machine Learning/Prove d'esame.md",
     "Pasted image 20251230183025.png",
     "Pasted image 20251230183010.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182235.png",
+    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182030.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229182011.png",
-    "Pasted image 20251229184718.png",
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Machine Learning/slides/10_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es25.png",
@@ -222,7 +222,6 @@
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es23.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es20.png",
     "Primo Semestre Major/Machine Learning/imgs/Esercizi/es19.png",
-    "Primo Semestre Major/Machine Learning/imgs/Esercizi/Pasted image 20251229010639.png",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
     "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "Primo Semestre Major/Machine Learning/slides/7_ML_RiduzioneDimensionalita.pdf",
@@ -230,12 +229,12 @@
     "Primo Semestre Major/Machine Learning/slides/Non confermato 380408.crdownload",
     "Primo Semestre Major/Machine Learning/slides/8_ML_RetiNeurali.pdf",
     "Primo Semestre Major/Machine Learning/slides/4_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
     "Primo Semestre Major/Modalità d'esame.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
