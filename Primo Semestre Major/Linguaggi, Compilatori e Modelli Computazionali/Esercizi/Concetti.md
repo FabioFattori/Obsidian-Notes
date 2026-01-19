@@ -53,3 +53,7 @@ Per gli esercizi, spesso viene chiesto che tipo di linguaggio è un linguaggio f
 due stati si definiscono equivalenti ($\equiv$) quando una stringa $w$ viene accettata o respinta dal linguaggio partendo da entrambi i due stati.
 Esempio:
 ![[Pasted image 20260119231946.png]]
+Prendiamo per esempio A ed E:
+![[Pasted image 20260119232324.png]]
+Allora teoricamente dovresti provare un pò tutte le combo di $w$ ma, dato che stiamo parlando di un DFA ha quindi senso provare solo le $w$ con lunghezza massima $n$ che rappresenta in numero di stati presenti nel DFA.
+Nell'esempio $A\equiv E$ perchè i singoli char dell'alfabeto portano i due stati negli stessi stati
