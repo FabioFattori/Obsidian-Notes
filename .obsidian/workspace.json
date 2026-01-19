@@ -48,7 +48,14 @@
               "icon": "lucide-file-text",
               "title": "1 - linguaggi regolari"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7061c84222ee82f5",
+        "type": "tabs",
+        "children": [
           {
             "id": "a85ff4075920df6a",
             "type": "leaf",
@@ -63,8 +70,7 @@
               "title": "Transformazioni Linguaggi"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
