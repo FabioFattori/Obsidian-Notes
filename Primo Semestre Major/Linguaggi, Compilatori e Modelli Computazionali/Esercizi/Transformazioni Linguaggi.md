@@ -20,4 +20,6 @@ Poi si esegue in maniera iterativa il seguente algoritmo:
 2. Finiti i simboli dell'alfabeto da provare per ogni stato del sottoinsieme (ovvero il nuovo stato del DFA finale) si procede in maniera iterativa per ogni nuovo stato individuato
 3. Il DFA è completo quando non vi sono più nuovi sottoinsiemi individuati
 ## Da DFA/NFA a Espressione Regolare
+Per quanto riguarda SOLO la parte finale
 ![[Pasted image 20260119201706.png]]
+Guarda questo per piangere fortissimo
