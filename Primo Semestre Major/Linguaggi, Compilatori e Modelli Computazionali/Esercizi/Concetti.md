@@ -47,4 +47,9 @@ Per gli esercizi, spesso viene chiesto che tipo di linguaggio è un linguaggio f
 - supponi che sia regolare, quindi rispetta il pumping lemma
 - definisci tutto le cagate di formule del pumping lemma, specialmente w, che raffigura la nostra word, quindi una stringa
 - poi provi a spare $k=2$(raddoppi la lunghezza di y) oppure $k=0$(elimini y) e vedi se le stringhe ottenute appartengono comunque al linguaggio, se no, stai pur sicuro che non è regolare lo zio.
-## 
+## Proprietà Di Chiusura ???
+## Proprietà Di Decisione ??? no Idea a Che Cazzo Servano PORCODIO
+## Equivalenza E Minimizzazione
+due stati si definiscono equivalenti ($\equiv$) quando una stringa $w$ viene accettata o respinta dal linguaggio partendo da entrambi i due stati.
+Esempio:
+![[Pasted image 20260119231946.png]]
