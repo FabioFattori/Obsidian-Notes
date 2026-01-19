@@ -16,5 +16,6 @@ poi si trova la $ENCLOSE(q_0)$ in questo caso $\{q_0, q_1\}$ e questo è lo stat
 Poi si esegue in maniera iterativa il seguente algoritmo:
 1. si trovano l'insieme di stati che si riesce a raggiungere  per ogni simbolo dell'alfabeto partendo da ciascuno stato del sottoinsieme:
 	Esempio:
-	Parto da $q_0$ avente come simbolo il +
-2. trovati tutti i  sottoinsiemi per 
+	Parto da $q_0$ avente come simbolo il + ed ho come sottoinsieme $\{q_1\}$, poi parto da $q_1$ e non vado da nessuna parte quindi facendo l'unione tra $\{q_1\}$ e insieme vuoto otterrò un sottoinsieme che mi rappresenta un nuovo stato del DFA. 
+2. Finiti i simboli dell'alfabeto da provare per ogni stato del sottoinsieme (ovvero il nuovo stato del DFA finale) si procede in maniera iterativa per ogni nuovo stato individuato
+3. Il DFA è completo quando non vi sono più nuovi sottoinsiemi individuati
