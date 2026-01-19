@@ -20,22 +20,6 @@
               "icon": "lucide-file-text",
               "title": "1 - linguaggi regolari"
             }
-          },
-          {
-            "id": "3f6d656bab54bc42",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Concetti"
-            }
           }
         ]
       }
@@ -199,11 +183,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "963cabd7dc282990",
+  "floating": {
+    "id": "65192e989028c7ea",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2745d74974112a76",
+        "type": "window",
+        "children": [
+          {
+            "id": "5a3f0db29b482880",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f6d656bab54bc42",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Concetti"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1096,
+        "y": 200,
+        "width": 1646,
+        "height": 1008,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3f6d656bab54bc42",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Pasted image 20260119223857.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Pasted image 20260119223836.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20251230183010.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260119210555.png",
