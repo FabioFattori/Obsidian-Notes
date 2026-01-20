@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Concetti"
             }
-          },
-          {
-            "id": "3ddfcd6fe9b657e8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1 - linguaggi regolari"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +185,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ddfcd6fe9b657e8",
+  "active": "e817346795ccbb0e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - bottom-up parsing.pdf",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Pasted image 20260120172607.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260119223836.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260119232955.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260119232823.png",
