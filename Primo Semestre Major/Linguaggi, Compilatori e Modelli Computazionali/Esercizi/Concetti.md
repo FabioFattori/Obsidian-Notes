@@ -87,3 +87,7 @@ Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi
 ![[Pasted image 20260120194444.png]]
 ### IMPORTANTISSIMO PORCODIO
 ![[Pasted image 20260120201204.png]]
+### Da CFG a PDA
+![[Pasted image 20260120201521.png]]
+Di fatto fai questo:
+![[Pasted image 20260120201600.png]]
