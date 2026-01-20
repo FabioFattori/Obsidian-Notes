@@ -100,3 +100,4 @@ Quindi:
 - per **ogni simbolo terminale $a∈Σ$**,  
     si definisce  $δ(q,a,a)=\{(q,ϵ)\}$ che serve a **consumare il simbolo dall’input e dallo stack**
 ### Da PDA a CFG
+![[Pasted image 20260120230522.png]]
