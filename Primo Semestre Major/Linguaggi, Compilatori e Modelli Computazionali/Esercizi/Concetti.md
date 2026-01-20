@@ -101,3 +101,9 @@ Quindi:
     si definisce  $δ(q,a,a)=\{(q,ϵ)\}$ che serve a **consumare il simbolo dall’input e dallo stack**
 ### Da PDA a CFG
 ![[Pasted image 20260120230522.png]]
+Esempio 1:
+![[Pasted image 20260120230756.png]]
+Cosa succede:
+- $V$ è l'unione tra $S$ e tutte le possibili combinazioni tra gli stati e i valori possibili della pila, in questo caso con un solo stato($q$) ed un solo valore della pila si ha che questo insieme è pari a $[qZq]$ ma se avessimo avuto anche solo un altro stato sarebbe stato di lunghezza $4$ date le possibili combinazioni. 
+- $R$ è l'insieme delle trasformazioni del CFG finale:
+	1. Si parte dalla trasformazione iniziale $S$ che va 
