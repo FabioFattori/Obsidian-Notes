@@ -80,8 +80,8 @@ abbastanza easy.
 ![[Pasted image 20260120175129.png]]
 Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi sintattici se e solo se $w$ ha due distinte derivazioni a sinistra dal simbolo iniziale. (anche destra)
 ![[Pasted image 20260120175841.png]]L'ambiguità si può rimuovere dando una precedenza tra gli operatori e dando delle regole di raggruppamento per lo stesso operatore.
-### Da PDA ad accettazione per pila vuota a PDA ad accettazione per stato finale
+### Da PDA Ad Accettazione per Pila Vuota a PDA Ad Accettazione per Stato Finale
 ![[Pasted image 20260120194158.png]]
-### Da PDA ad accettazione per stato finale a PDA ad accettazione per pila vuota
+### Da PDA Ad Accettazione per Stato Finale a PDA Ad Accettazione per Pila Vuota
 ![[Pasted image 20260120194344.png]]
 ![[Pasted image 20260120194444.png]]
