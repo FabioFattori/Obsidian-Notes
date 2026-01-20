@@ -37,8 +37,7 @@
               "title": "Compilatori"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e53c6c6a40bc357e",
+  "active": "e817346795ccbb0e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Pasted image 20260120175841.png",
     "Pasted image 20260120175129.png",
@@ -238,7 +238,6 @@
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
     "Primo Semestre Major/Modalità d'esame.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
     "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md",
