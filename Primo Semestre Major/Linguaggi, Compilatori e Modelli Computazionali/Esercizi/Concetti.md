@@ -91,3 +91,7 @@ Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi
 ![[Pasted image 20260120201521.png]]
 Di fatto fai questo:
 ![[Pasted image 20260120201600.png]]
+Quindi:
+- il PDA ha solo uno stato che è $q$
+- Parti facendo la transformazione $\delta(q,\epsilon,$ Simbolo di start$)$ (simbolo di start in questo caso è $S$) e gli schiaffi tutti i risultati dati dalla grammatica come sopra.
+- dopo di che prendi tutti i simboli presenti in $\Sigma$* e li metti nella funzione delta come letti sullo stack (terzo elemento nella funzione) insieme ad $\epsilon$ come secondo elemento: il risultato a tale trasformazione deve mangiare lo stack quindi sarà molto
