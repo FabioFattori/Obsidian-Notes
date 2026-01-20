@@ -93,5 +93,13 @@ Di fatto fai questo:
 ![[Pasted image 20260120201600.png]]
 Quindi:
 - il PDA ha solo uno stato che è $q$
-- Parti facendo la transformazione $\delta(q,\epsilon,$ Simbolo di start$)$ (simbolo di start in questo caso è $S$) e gli schiaffi tutti i risultati dati dalla grammatica come sopra.
-- dopo di che prendi tutti i simboli presenti in $\Sigma$* e li metti nella funzione delta come letti sullo stack (terzo elemento nella funzione) insieme ad $\epsilon$ come secondo elemento: il risultato a tale trasformazione deve mangiare lo stack quindi sarà molto
+- si parte definendo la trasformazione  
+    δ(q,ϵ,S)\delta(q, \epsilon, S)δ(q,ϵ,S), dove $S$ è il simbolo di start,  
+    e come risultati si mettono **tutte le produzioni della grammatica** con SSS a sinistra
+- per **ogni non terminale $A$**,  
+    $\delta(q, \epsilon, A)$ restituisce **le produzioni di $A$** nella CFG
+- per **ogni simbolo terminale a∈Σ**,  
+    si definisce  
+    δ(q,a,a)={(q,ϵ)}\delta(q, a, a) = \{(q, \epsilon)\}δ(q,a,a)={(q,ϵ)}  
+    che serve a **consumare il simbolo dall’input e dallo stack**
+- i simboli terminali **non hanno espansioni**, quindi non compaiono come terzo argomento con ε nel secondo
