@@ -71,12 +71,12 @@ lui ha le seguenti classi di equivalenza:
 {{A, E}, {B, H}, {C}, {D, F }, {G}} quindi:
 ![[Pasted image 20260119232955.png]]
 abbastanza easy.
-## CFG e CFL (linguaggi liberi)
-### Albero sintattico
+## CFG E CFL (linguaggi liberi)
+### Albero Sintattico
 ![[Pasted image 20260120174349.png]]
-#### Prodotto di un albero sintattico
+#### Prodotto Di Un Albero Sintattico
 ![[Pasted image 20260120174710.png]]
-#### Ambiguità delle grammatiche
+#### Ambiguità Delle Grammatiche
 ![[Pasted image 20260120175129.png]]
 Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi sintattici se e solo se $w$ ha due distinte derivazioni a sinistra dal simbolo iniziale. (anche destra)
 ![[Pasted image 20260120175841.png]]L'ambiguità si può rimuovere dando una precedenza tra gli operatori e dando delle regole di raggruppamento per lo stesso operatore.

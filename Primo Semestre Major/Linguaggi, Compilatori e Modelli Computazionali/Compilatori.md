@@ -188,8 +188,7 @@ Punto 2 $\rightarrow$ il PDA ad ogni carattere prende due strade, la prima per p
 
 ![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/22_10_2025/4.png]]
 in cima alla pila, dove c'è scritto $0,Z_0 /0\ Z_0$ che rappresenta questo:
-- il primo zero limita l'input $
-ightarrow$ ci deve essere lo zero in input e ci deve essere lo $Z_0$ sulla cima della pila
+- il primo zero limita l'input $\rightarrow$ ci deve essere lo zero in input e ci deve essere lo $Z_0$ sulla cima della pila
 - mentre lo $/0 \ Z_0$ rapprenta la stringa da sostituire rendendo la pila in questo modo qui:
 	  - Posizione 0 $\rightarrow$ $Z_0$ 
 	  - Posizione 1 (prossimo pop) $\rightarrow$ 0
