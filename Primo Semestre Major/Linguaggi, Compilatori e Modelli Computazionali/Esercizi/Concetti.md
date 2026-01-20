@@ -78,3 +78,4 @@ abbastanza easy.
 ![[Pasted image 20260120174710.png]]
 #### Ambiguità delle grammatiche
 ![[Pasted image 20260120175129.png]]
+Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi sintattici se e solo se $w$ ha due distinte derivazioni a sinistra dal simbolo iniziale. (anche destra)
