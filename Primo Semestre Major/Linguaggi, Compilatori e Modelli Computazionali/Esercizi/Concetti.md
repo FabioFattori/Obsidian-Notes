@@ -104,7 +104,10 @@ Quindi:
 Esempio 1:
 ![[Pasted image 20260120230756.png]]
 Cosa succede:
-- $V$ è l'unione tra $S$ e tutte le possibili combinazioni tra gli stati e i valori possibili della pila, in questo caso con un solo stato($q$) ed un solo valore della pila si ha che questo insieme è pari a $[qZq]$ ma se avessimo avuto anche solo un altro stato sarebbe stato di lunghezza $4$ date le possibili combinazioni. 
-- $R$ è l'insieme delle trasformazioni del CFG finale:
-	1. Si parte dalla trasformazione iniziale $S$ che ha come primo stato nella "tripla" $[qZp]$ lo stato iniziale del PDA, quindi per $S$ bisogna scrivere tutte le combinazioni dello stato iniziale nella parte sinistra.
-	2. In seguito ad $R$ viene unito anche ???
+- L’insieme $V$ contiene il simbolo iniziale $S$ e tutte le variabili della forma $[pZq]$, che rappresentano le stringhe che portano il PDA dallo stato $p$ allo stato $q$ consumando esattamente un simbolo $Z$ dallo stack.
+	In questo esempio, essendoci un solo stato $q$ e un solo simbolo di stack $Z$, l’unica variabile possibile è $[qZq]$.
+- Le produzioni $R$ si costruiscono così:
+    - $S→[qZq]$, perché il PDA parte in $q$, deve eliminare lo $Z$ iniziale e terminare in $q$.
+    - Ogni coppia di transizioni push/pop compatibili genera una produzione del tipo $a[rZs][tZu]$.
+    - Ogni pop diretto genera una produzione verso $ε$.
+- Rinominando $[qZq]$ con $A$ si ottiene la grammatica finale $A→iAA∣ε$.
