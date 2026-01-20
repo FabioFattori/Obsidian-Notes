@@ -105,6 +105,8 @@ Esempio 1:
 ![[Pasted image 20260120230756.png]]
 Cosa succede:
 ![[Pasted image 20260120232833.png]]
+Questo passaggio va fatto senza guardare le trasformazioni, bisogna mettere tutte le combinazioni boia cane.
+
 ![[Pasted image 20260120232839.png]]
 In maniera più specifica => S è composto (tramite la pipe | ) da tutte le trasformazioni (che non sono indicate mannaggia alla madonna) che portano l'automa in accettazione, ovvero a stack vuoto.
 Dobbiamo considerare che partiamo dallo stato iniziale $q_0$ e abbiamo $Z_0$ nello stack, quindi dobbiamo scrivere al posto di $q_f$ tutti gli altri stati :

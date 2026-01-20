@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +206,7 @@
   },
   "active": "e53c6c6a40bc357e",
   "lastOpenFiles": [
+    "Pasted Image 20260120234935_937.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-20 23.29.38.excalidraw.md",
     "Pasted Image 20260120233015_647.png",
