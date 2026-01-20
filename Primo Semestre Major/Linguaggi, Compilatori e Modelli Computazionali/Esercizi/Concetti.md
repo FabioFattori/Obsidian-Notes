@@ -94,12 +94,9 @@ Di fatto fai questo:
 Quindi:
 - il PDA ha solo uno stato che è $q$
 - si parte definendo la trasformazione  
-    δ(q,ϵ,S)\delta(q, \epsilon, S)δ(q,ϵ,S), dove $S$ è il simbolo di start,  
-    e come risultati si mettono **tutte le produzioni della grammatica** con SSS a sinistra
+    $δ(q,ϵ,S)$, dove $S$ è il simbolo di start, e come risultati si mettono **tutte le produzioni della grammatica** con $S$ a sinistra
 - per **ogni non terminale $A$**,  
     $\delta(q, \epsilon, A)$ restituisce **le produzioni di $A$** nella CFG
-- per **ogni simbolo terminale a∈Σ**,  
-    si definisce  
-    δ(q,a,a)={(q,ϵ)}\delta(q, a, a) = \{(q, \epsilon)\}δ(q,a,a)={(q,ϵ)}  
-    che serve a **consumare il simbolo dall’input e dallo stack**
-- i simboli terminali **non hanno espansioni**, quindi non compaiono come terzo argomento con ε nel secondo
+- per **ogni simbolo terminale $a∈Σ$**,  
+    si definisce  $δ(q,a,a)=\{(q,ϵ)\}$ che serve a **consumare il simbolo dall’input e dallo stack**
+### Da PDA a CFG
