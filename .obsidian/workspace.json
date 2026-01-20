@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe96abfda0256ca",
+        "id": "d73ce9d21ea5b871",
         "type": "tabs",
         "children": [
           {
-            "id": "963cabd7dc282990",
+            "id": "e3ee107249cdc4a7",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "1 - linguaggi regolari"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -215,7 +211,7 @@
         ],
         "direction": "vertical",
         "x": 1096,
-        "y": 200,
+        "y": 72,
         "width": 1646,
         "height": 1008,
         "maximize": true,
