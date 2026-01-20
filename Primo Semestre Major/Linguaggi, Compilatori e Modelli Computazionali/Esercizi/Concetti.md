@@ -71,3 +71,8 @@ lui ha le seguenti classi di equivalenza:
 {{A, E}, {B, H}, {C}, {D, F }, {G}} quindi:
 ![[Pasted image 20260119232955.png]]
 abbastanza easy.
+## CFG e CFL (linguaggi liberi)
+### Albero sintattico
+![[Pasted image 20260120174349.png]]
+####
+
