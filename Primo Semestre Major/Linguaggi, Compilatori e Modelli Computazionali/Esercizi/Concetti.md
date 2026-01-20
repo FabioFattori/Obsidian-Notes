@@ -106,4 +106,5 @@ Esempio 1:
 Cosa succede:
 - $V$ è l'unione tra $S$ e tutte le possibili combinazioni tra gli stati e i valori possibili della pila, in questo caso con un solo stato($q$) ed un solo valore della pila si ha che questo insieme è pari a $[qZq]$ ma se avessimo avuto anche solo un altro stato sarebbe stato di lunghezza $4$ date le possibili combinazioni. 
 - $R$ è l'insieme delle trasformazioni del CFG finale:
-	1. Si parte dalla trasformazione iniziale $S$ che va 
+	1. Si parte dalla trasformazione iniziale $S$ che ha come primo stato nella "tripla" $[qZp]$ lo stato iniziale del PDA, quindi per $S$ bisogna scrivere tutte le combinazioni dello stato iniziale nella parte sinistra.
+	2. In seguito ad $R$ viene unito anche ???
