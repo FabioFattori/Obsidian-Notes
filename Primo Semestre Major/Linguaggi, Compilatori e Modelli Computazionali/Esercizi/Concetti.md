@@ -85,3 +85,5 @@ Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi
 ### Da PDA Ad Accettazione per Stato Finale a PDA Ad Accettazione per Pila Vuota
 ![[Pasted image 20260120194344.png]]
 ![[Pasted image 20260120194444.png]]
+### IMPORTANTISSIMO PORCODIO
+![[Pasted image 20260120201204.png]]
