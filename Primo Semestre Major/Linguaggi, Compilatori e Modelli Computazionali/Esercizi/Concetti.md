@@ -74,5 +74,7 @@ abbastanza easy.
 ## CFG e CFL (linguaggi liberi)
 ### Albero sintattico
 ![[Pasted image 20260120174349.png]]
-####
-
+#### Prodotto di un albero sintattico
+![[Pasted image 20260120174710.png]]
+#### Ambiguità delle grammatiche
+![[Pasted image 20260120175129.png]]
