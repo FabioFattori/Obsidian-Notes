@@ -82,4 +82,6 @@ Teorema 5.29: Data una CFG $G$, una stringa terminale $w$ ha due distinti alberi
 ![[Pasted image 20260120175841.png]]L'ambiguità si può rimuovere dando una precedenza tra gli operatori e dando delle regole di raggruppamento per lo stesso operatore.
 ### Da PDA ad accettazione per pila vuota a PDA ad accettazione per stato finale
 ![[Pasted image 20260120194158.png]]
-### Da 
+### Da PDA ad accettazione per stato finale a PDA ad accettazione per pila vuota
+![[Pasted image 20260120194344.png]]
+![[Pasted image 20260120194444.png]]
