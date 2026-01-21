@@ -122,3 +122,8 @@ quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
 Se invece della $\epsilon$ nella tripla hai un terminale avrai questo:$$(p,a,A)\rightarrow (q,\epsilon) \\\ [pAq]\rightarrow a$$![[PDA2CFG]]
 ## Forma Normale di Chomsky
 Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciamo prima questi passaggi:
+1. Eliminiamo i simboli non generanti e poi i simboli non raggiungibili
+	Per non generanti si intende i simboli per i quali non vi è una trasformazione:
+	![[Pasted image 20260121172251.png]]
+	$B$ in questo caso non è generante quindi si elimina TUTTA la trasformazione $S\rightarrow AB$ facendo diventare la grammatica $$S\rightarrow a,A\rightarrow b$$
+	Mentre per simboli non raggiungibili si intendono quei simboli che, partendo da $S$ non possono essere MAI raggiunti, usando l'esempio di prima $A$ è non raggiungibile, quindi possiamo tirare nel casino $A\rightarrow b$ lasciando solo $ 
