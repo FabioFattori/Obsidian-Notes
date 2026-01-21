@@ -126,4 +126,6 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	Per non generanti si intende i simboli per i quali non vi è una trasformazione:
 	![[Pasted image 20260121172251.png]]
 	$B$ in questo caso non è generante quindi si elimina TUTTA la trasformazione $S\rightarrow AB$ facendo diventare la grammatica $$S\rightarrow a,A\rightarrow b$$
-	Mentre per simboli non raggiungibili si intendono quei simboli che, partendo da $S$ non possono essere MAI raggiunti, usando l'esempio di prima $A$ è non raggiungibile, quindi possiamo tirare nel casino $A\rightarrow b$ lasciando solo $ 
+	Mentre per simboli non raggiungibili si intendono quei simboli che, partendo da $S$ non possono essere MAI raggiunti, usando l'esempio di prima $A$ è non raggiungibile, quindi possiamo tirare nel casino $A\rightarrow b$ lasciando solo $S\rightarrow a$ 
+2. Eliminiamo le produzione $\epsilon$
+	
