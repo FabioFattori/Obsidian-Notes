@@ -144,4 +144,6 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	In questo esempio infatti abbiamo che:
 	- $A\rightarrow C \\\ | \\\ b$
 	- poi devo rifare per $C$ quindi ottengo $A\rightarrow A \\\ | \\\ c \\\ | \\\ b$ 
-	- ed infine $A\rightarrow B \\\ | \\\ \\\ | \\\ c \\\ | \\\ b$
+	- ed infine $A\rightarrow B \\\ | \\\ a \\\ | \\\ c \\\ | \\\ b$
+	- Noto che la trasformazione $A\rightarrow B$ l'ho già fatta quindi la tiro nel casino ed $A$ alla fine è così $A\rightarrow a \\\ | \\\ c \\\ | \\\ b$
+### Ora possiamo trasformare il CFG semplificato nella forma CNF seguendo i passaggi:
