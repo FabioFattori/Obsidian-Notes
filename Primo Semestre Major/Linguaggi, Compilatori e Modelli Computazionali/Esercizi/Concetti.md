@@ -113,8 +113,7 @@ Dobbiamo considerare che partiamo dallo stato iniziale $q_0$ e abbiamo $Z_0$ nel
 Esempio:
 se io ho due stati $q$ e $p$ con stato iniziale $q$ e $Z_0$ come valore iniziale di stack ho che:
 $S\rightarrow [qZ_0q]\\\ |\\\ [qZ_0p]$.
-
-![[Pasted image 20260120232850.png]]
+QUANDO hai una cosa di questo tipo $δ(p,a,A)=(q,B)$ applichi la seguente formula:$$[pAr]→a[qBr]$$
 QUANDO hai una situazione del tipo $\delta(q,a,A)=\{(q,BC)\}$ con $B$ che può essere uguale ad $A$ fai questo:
 ![[Pasted image 20260121162520.png]]
 quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
