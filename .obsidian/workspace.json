@@ -24,24 +24,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0c1ae56b46ff333c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46546e14baa9eb47",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/PDA2CFG.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PDA2CFG"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

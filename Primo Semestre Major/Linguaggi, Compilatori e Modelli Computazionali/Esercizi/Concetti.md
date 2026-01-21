@@ -128,4 +128,7 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	$B$ in questo caso non è generante quindi si elimina TUTTA la trasformazione $S\rightarrow AB$ facendo diventare la grammatica $$S\rightarrow a,A\rightarrow b$$
 	Mentre per simboli non raggiungibili si intendono quei simboli che, partendo da $S$ non possono essere MAI raggiunti, usando l'esempio di prima $A$ è non raggiungibile, quindi possiamo tirare nel casino $A\rightarrow b$ lasciando solo $S\rightarrow a$ 
 2. Eliminiamo le produzione $\epsilon$
-	
+	Ovvero vanno AGGIUNTE tutte le possibili combinazioni quando un simbolo ha una trasformazione che lo porta ad annullarsi ($\epsilon$).
+	Per fare ciò bisogna seguire la seguente procedura:
+	- se ho $B\rightarrow \alpha A \beta$ con $\alpha$ e $\beta$ che sono variabili oppure simboli terminali
+	- AGGIUNGO alla trasformazione $B$ questo: $B\rightarrow \alpha\beta$ 
