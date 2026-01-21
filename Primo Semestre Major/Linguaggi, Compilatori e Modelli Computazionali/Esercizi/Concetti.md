@@ -120,3 +120,5 @@ QUANDO HAI QUESTO FAI COSì:
 quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
 ![[Pasted image 20260120232859.png]]
 Se invece della $\epsilon$ nella tripla hai un terminale avrai questo:$$(p,a,A)\rightarrow (q,\epsilon) \\\ [pAq]\rightarrow a$$![[PDA2CFG]]
+## Forma Normale di Chomsky
+Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciamo prima questi passaggi:
