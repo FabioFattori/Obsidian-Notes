@@ -135,4 +135,7 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	- AGGIUNGO alla trasformazione $B$ questo: $B\rightarrow \alpha\beta$
 	- Quindi ottengo questo: $B\rightarrow \alpha A \beta \\\ | \\\ \alpha\beta$ 
 	Continuo in maniera iterativa fino a che non ci sono più trasformazioni del tipo $A \rightarrow \epsilon$ 
-3. 
+3. Eliminiamo le produzioni unità
+	Ovvero eliminiamo le produzioni semplici del tipo $A\rightarrow B$, tale eliminazione avviene espandendo la produzione, ovvero sostituendo $B$ con tutte le sue trasformazioni:
+	$$\begin{split}A → B | a \\	B → C | b\end{split}$$
+	quindi in questo caso abbiamo che $A\rightarrow B$ può essere espansa e diventa pari a $A\rightarrow C \\\ | \\\ b$ e quindi si ottiene: $$ 
