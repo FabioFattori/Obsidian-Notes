@@ -115,4 +115,5 @@ se io ho due stati $q$ e $p$ con stato iniziale $q$ e $Z_0$ come valore iniziale
 $S\rightarrow [qZ_0q]\\\ |\\\ [qZ_0p]$.
 
 ![[Pasted image 20260120232850.png]]
+QUANDO hai una situazione del tipo $\delta(q,a,A)\eq \{(q,BC)\}$ 
 ![[Pasted image 20260120232859.png]]
