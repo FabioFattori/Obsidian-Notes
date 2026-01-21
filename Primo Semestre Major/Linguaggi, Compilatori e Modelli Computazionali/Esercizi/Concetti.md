@@ -156,3 +156,8 @@ BENE! ora sei un figo ed hai la CFG in forma CNF.
 Anche questo è usato per dire se un linguaggio NON è un linguaggio libero dal contesto.
 ## Macchine di Turing
 ![[Pasted image 20260121231107.png]]
+## Linguaggi Ricorsivamente Enumerabili
+![[Pasted image 20260121234230.png]]
+## Linguaggi Ricorsivi
+![[Pasted image 20260121234350.png]]
+ogni linguaggio per cui sia possibile in modo automatico verificare se una data stringa vi appartiene oppure no è ricorsivo
