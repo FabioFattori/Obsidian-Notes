@@ -147,3 +147,7 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	- ed infine $A\rightarrow B \\\ | \\\ a \\\ | \\\ c \\\ | \\\ b$
 	- Noto che la trasformazione $A\rightarrow B$ l'ho già fatta quindi la tiro nel casino ed $A$ alla fine è così $A\rightarrow a \\\ | \\\ c \\\ | \\\ b$
 ### Ora possiamo trasformare il CFG semplificato nella forma CNF seguendo i passaggi:
+- Mettere TUTTI i simboli terminali in una nuova variabile singolarmente ($B\rightarrow x$) a meno che non siano già in questa forma
+- SE una trasformazione ha come risultato un corpo di lunghezza $>2$ prendere tutte le variabili tralasciando la prima e metterle in una variabile:
+	$A → B1B2 · · · Bk$ con $k>2$ allora devo fare così:$$\begin{split}A → B1C1\\ C1 → B2C2\\ · · ·\\ Ck−3 → Bk−2Ck−2 \\ Ck−2 → Bk−1Bk\end{split}$$
+BENE! ora sei un figo ed hai la CFG in forma CNF.
