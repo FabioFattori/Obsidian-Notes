@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "091dd4460c8e5107",
-        "type": "tabs",
-        "dimension": 51.4580801944107,
-        "children": [
-          {
-            "id": "e53c6c6a40bc357e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted Image 20260120234935_937.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260120234935_937"
-            }
-          }
-        ]
-      },
-      {
         "id": "699bf31b9b72259a",
         "type": "tabs",
-        "dimension": 48.5419198055893,
         "children": [
           {
             "id": "e817346795ccbb0e",
@@ -42,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Concetti"
             }
+          },
+          {
+            "id": "46546e14baa9eb47",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-20 23.29.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-20 23.29.38.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,12 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e817346795ccbb0e",
+  "active": "46546e14baa9eb47",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted Image 20260120234935_937.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted Image 20260120233015_647.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-20 23.29.38.excalidraw.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260120230756.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom",
