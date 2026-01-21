@@ -22,7 +22,13 @@
               "icon": "lucide-file",
               "title": "Concetti"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0c1ae56b46ff333c",
+        "type": "tabs",
+        "children": [
           {
             "id": "46546e14baa9eb47",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "Drawing 2026-01-20 23.29.38.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
