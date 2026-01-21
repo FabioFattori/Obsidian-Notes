@@ -115,5 +115,7 @@ se io ho due stati $q$ e $p$ con stato iniziale $q$ e $Z_0$ come valore iniziale
 $S\rightarrow [qZ_0q]\\\ |\\\ [qZ_0p]$.
 
 ![[Pasted image 20260120232850.png]]
-QUANDO hai una situazione del tipo $\delta(q,a,A)\eq \{(q,BC)\}$ 
+QUANDO hai una situazione del tipo $\delta(q,a,A)=\{(q,BC)\}$ con $B$ che può essere uguale ad $A$ fai questo:
+![[Pasted image 20260121162520.png]]
+quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
 ![[Pasted image 20260120232859.png]]
