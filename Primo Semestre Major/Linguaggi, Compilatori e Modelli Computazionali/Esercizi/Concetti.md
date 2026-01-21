@@ -131,4 +131,8 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	Ovvero vanno AGGIUNTE tutte le possibili combinazioni quando un simbolo ha una trasformazione che lo porta ad annullarsi ($\epsilon$).
 	Per fare ciò bisogna seguire la seguente procedura:
 	- se ho $B\rightarrow \alpha A \beta$ con $\alpha$ e $\beta$ che sono variabili oppure simboli terminali
-	- AGGIUNGO alla trasformazione $B$ questo: $B\rightarrow \alpha\beta$ 
+	- tolgo con cattiveria $A \rightarrow \epsilon$ 
+	- AGGIUNGO alla trasformazione $B$ questo: $B\rightarrow \alpha\beta$
+	- Quindi ottengo questo: $B\rightarrow \alpha A \beta \\\ | \\\ \alpha\beta$ 
+	Continuo in maniera iterativa fino a che non ci sono più trasformazioni del tipo $A \rightarrow \epsilon$ 
+3. 
