@@ -119,4 +119,4 @@ QUANDO hai una situazione del tipo $\delta(q,a,A)=\{(q,BC)\}$ con $B$ che può e
 QUANDO HAI QUESTO FAI COSì:
 quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
 ![[Pasted image 20260120232859.png]]
-Se invece della $\epsilon$ nella tripla hai un terminale avrai come risultato questo:$$(p,\epsilon,A)\\\ [pAq]\rightarrow a$$
+Se invece della $\epsilon$ nella tripla hai un terminale avrai questo:$$(p,a,A)\rightarrow (q,\epsilon) \\\ [pAq]\rightarrow a$$
