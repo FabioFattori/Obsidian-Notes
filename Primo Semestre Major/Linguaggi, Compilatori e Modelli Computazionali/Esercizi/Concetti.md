@@ -116,5 +116,7 @@ $S\rightarrow [qZ_0q]\\\ |\\\ [qZ_0p]$.
 QUANDO hai una cosa di questo tipo $δ(p,a,A)=(q,B)$ applichi la seguente formula:$$[pAr]→a[qBr]$$
 QUANDO hai una situazione del tipo $\delta(q,a,A)=\{(q,BC)\}$ con $B$ che può essere uguale ad $A$ fai questo:
 ![[Pasted image 20260121162520.png]]
+QUANDO HAI QUESTO FAI COSì:
 quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
 ![[Pasted image 20260120232859.png]]
+Se invece della $\epsilon$ nella tripla hai un terminale avrai come risultato questo:$$(p,\epsilon,A)\\\ [pAq]\rightarrow a$$
