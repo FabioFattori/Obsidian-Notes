@@ -41,7 +41,7 @@ Esempio:
 trasformiamo $(0+1)$* $1(0+1)$ ottengo questo:
 ![[Pasted image 20260119210555.png]]
 che se ci pensi ci sta, qui è letteralmente come giocare con i lego.
-## Pumping Lemma
+## Pumping Lemma LR
 ![[Pasted image 20260119223836.png]]
 ![[Pasted image 20260119223857.png]]
 Per gli esercizi, spesso viene chiesto che tipo di linguaggio è un linguaggio fornito, per capire se NON è regolare ti tocca fare il pumping lemma:
