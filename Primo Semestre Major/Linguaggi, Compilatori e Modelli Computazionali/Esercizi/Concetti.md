@@ -154,3 +154,5 @@ BENE! ora sei un figo ed hai la CFG in forma CNF.
 ## Pumping Lemma per CFG in forma CNF
 ![[Pasted image 20260121182032.png]]
 Anche questo è usato per dire se un linguaggio NON è un linguaggio libero dal contesto.
+## Macchine di Turing
+![[Pasted image 20260121231107.png]]
