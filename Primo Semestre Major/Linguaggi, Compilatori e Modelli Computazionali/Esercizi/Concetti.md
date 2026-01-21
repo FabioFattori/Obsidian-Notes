@@ -151,4 +151,6 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 - SE una trasformazione ha come risultato un corpo di lunghezza $>2$ prendere tutte le variabili tralasciando la prima e metterle in una variabile:
 	$A → B1B2 · · · Bk$ con $k>2$ allora devo fare così:$$\begin{split}A → B1C1\\ C1 → B2C2\\ · · ·\\ Ck−3 → Bk−2Ck−2 \\ Ck−2 → Bk−1Bk\end{split}$$
 BENE! ora sei un figo ed hai la CFG in forma CNF.
-## Pumping Lemma 
+## Pumping Lemma per CFG in forma CNF
+![[Pasted image 20260121182032.png]]
+Anche questo è usato per dire se un linguaggio NON è un linguaggio libero dal contesto.
