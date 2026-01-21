@@ -138,4 +138,10 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 3. Eliminiamo le produzioni unità
 	Ovvero eliminiamo le produzioni semplici del tipo $A\rightarrow B$, tale eliminazione avviene espandendo la produzione, ovvero sostituendo $B$ con tutte le sue trasformazioni:
 	$$\begin{split}A → B | a \\	B → C | b\end{split}$$
-	quindi in questo caso abbiamo che $A\rightarrow B$ può essere espansa e diventa pari a $A\rightarrow C \\\ | \\\ b$ e quindi si ottiene: $$ 
+	quindi in questo caso abbiamo che $A\rightarrow B$ può essere espansa e diventa pari a $A\rightarrow C \\\ | \\\ b$ e quindi si ottiene: $A\rightarrow C \\\ | \\\ b \\\ | \\\ a$.
+	**CI POSSONO ESSERE DEI CICLI** perchè siamo gay noi ce ne sbattiamo più o meno il cazzo perchè quando torniamo nella situazione iniziale TIRIAMO NEL CASINO la produzione risultante:
+	$$\begin{split}A → B | a \\	B → C | b \\ C → A | c\end{split}$$
+	In questo esempio infatti abbiamo che:
+	- $A\rightarrow C \\\ | \\\ b$
+	- poi devo rifare per $C$ quindi ottengo $A\rightarrow A \\\ | \\\ c \\\ | \\\ b$ 
+	- ed infine $A\rightarrow B \\\ | \\\ \\\ | \\\ c \\\ | \\\ b$
