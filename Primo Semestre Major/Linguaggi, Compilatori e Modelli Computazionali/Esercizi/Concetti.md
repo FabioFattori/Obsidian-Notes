@@ -161,3 +161,5 @@ Anche questo è usato per dire se un linguaggio NON è un linguaggio libero dal 
 ## Linguaggi Ricorsivi
 ![[Pasted image 20260121234350.png]]
 ogni linguaggio per cui sia possibile in modo automatico verificare se una data stringa vi appartiene oppure no è ricorsivo
+## Linguaggio Diagonale
+![[Pasted image 20260122184423.png]]
