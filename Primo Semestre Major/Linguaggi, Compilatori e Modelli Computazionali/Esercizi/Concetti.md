@@ -167,3 +167,4 @@ ogni linguaggio per cui sia possibile in modo automatico verificare se una data 
 ## Linguaggio universale
 ![[Pasted image 20260122184744.png]]
 ![[Pasted image 20260122184802.png]]
+![[Pasted image 20260122185014.png]]
