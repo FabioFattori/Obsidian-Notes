@@ -170,3 +170,6 @@ ogni linguaggio per cui sia possibile in modo automatico verificare se una data 
 ![[Pasted image 20260122185014.png]]
 ## Logica di base
 ![[Pasted image 20260122191503.png]]
+### Propositional Logic
+![[Pasted image 20260122191952.png]]
+![[Pasted image 20260122192340.png]]
