@@ -181,6 +181,7 @@ Le logiche temporali permettono di esprimere proprietà temporali:
 ![[Pasted image 20260123143305.png]]
 
 $\diamondsuit$ rappresenta la frase "**adesso** o **in un futuro** la condizione si avvera"
-$\square$ rappresenta la frase "la condizione è **sempre vera ora e nei mondi ** futuri"
+$\square$ rappresenta la frase "la condizione è **sempre vera ora e nei mondi  futuri**" 
+$u$  Usato per mettere in relazione due proposizioni, una vera ora ed in tutti momenti successivi fino ad un momento in cui è vera la seconda
 
 ![[Pasted image 20260123143729.png]]
