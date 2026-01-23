@@ -199,3 +199,7 @@ $$\square \diamondsuit ready \rightarrow \square \diamondsuit run$$
 ![[Pasted image 20260123145731.png]]
 ### formalmente
 ![[Pasted image 20260123145745.png]]
+## LTS soddisfa LTL
+![[Pasted image 20260123150533.png]]
+### formalmente 
+![[Pasted image 20260123150559.png]]
