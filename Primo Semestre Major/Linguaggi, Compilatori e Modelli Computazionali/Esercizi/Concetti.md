@@ -179,3 +179,8 @@ Le logiche temporali permettono di esprimere proprietà temporali:
 > I “mondi” considerati corrispondono a diversi momenti temporali
 ![[Pasted image 20260123143050.png]]
 ![[Pasted image 20260123143305.png]]
+
+$\diamondsuit$ rappresenta la frase "**adesso** o **in un futuro** la condizione si avvera"
+$\square$ rappresenta la frase "la condizione è **sempre vera ora e nei mondi ** futuri"
+
+![[Pasted image 20260123143729.png]]
