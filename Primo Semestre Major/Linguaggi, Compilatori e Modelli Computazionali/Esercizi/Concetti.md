@@ -226,3 +226,5 @@ Le azioni non comprese dentro all'insieme della $@$ vengono rappresentate come u
 ## Reti di Pretri
 Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei processi.
 ![[Pasted image 20260123173628.png]]
+### formale 
+![[Pasted image 20260123174112.png]]
