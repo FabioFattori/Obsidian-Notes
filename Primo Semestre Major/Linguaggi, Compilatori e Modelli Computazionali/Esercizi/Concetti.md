@@ -211,3 +211,8 @@ Le “process algebra” sono un modo naturale per rappresentare sistemi di ques
 Un processo è rappresentato come un LTS: 
 - si danno nomi agli stati 
 - per ogni stato si descrivono le transizioni che lo stato può fare
+![[Pasted image 20260123160219.png]]
+![[Pasted image 20260123160413.png]]
+![[Pasted image 20260123160422.png]]
+![[Pasted image 20260123160557.png]]
+![[Pasted image 20260123160612.png]]
