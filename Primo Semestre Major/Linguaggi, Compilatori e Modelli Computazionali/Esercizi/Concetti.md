@@ -186,6 +186,13 @@ $u$  Usato per mettere in relazione due proposizioni, una vera ora ed in tutti m
 ![[Pasted image 20260123143729.png]]
 ### Annotazione alternativa
 ![[Pasted image 20260123144724.png]]
-#### Safety
-
+#### Proprietà Safety
+non si raggiungono mai stati con errori
 Normalmente espresse così: $\square \neg...$   
+#### Proprietà Liveness
+prima o poi si eseguirà una certa azione
+Normalmente espresse così:$\diamondsuit...$ 
+#### Proprietà Fairness
+se si richiede una cosa infinite volte, questa verrà eseguita infinite volte
+$$\square \diamondsuit ready \rightarrow \square \diamondsuit run$$
+## LTS
