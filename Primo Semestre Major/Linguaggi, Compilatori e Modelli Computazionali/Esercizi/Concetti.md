@@ -173,3 +173,8 @@ ogni linguaggio per cui sia possibile in modo automatico verificare se una data 
 ### Propositional Logic
 ![[Pasted image 20260122191952.png]]
 ![[Pasted image 20260122192340.png]]
+## LTL
+Le logiche temporali permettono di esprimere proprietà temporali: 
+	vere in alcuni “mondi”, false in altri.
+> I “mondi” considerati corrispondono a diversi momenti temporali
+![[Pasted image 20260123143050.png]]
