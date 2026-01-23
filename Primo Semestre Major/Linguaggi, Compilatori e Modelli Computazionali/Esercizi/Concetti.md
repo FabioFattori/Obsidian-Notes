@@ -196,3 +196,6 @@ Normalmente espresse così:$\diamondsuit...$
 se si richiede una cosa infinite volte, questa verrà eseguita infinite volte
 $$\square \diamondsuit ready \rightarrow \square \diamondsuit run$$
 ## LTS
+![[Pasted image 20260123145731.png]]
+### formalmente
+![[Pasted image 20260123145745.png]]
