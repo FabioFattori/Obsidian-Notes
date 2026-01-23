@@ -178,3 +178,4 @@ Le logiche temporali permettono di esprimere proprietà temporali:
 	vere in alcuni “mondi”, false in altri.
 > I “mondi” considerati corrispondono a diversi momenti temporali
 ![[Pasted image 20260123143050.png]]
+![[Pasted image 20260123143305.png]]
