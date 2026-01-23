@@ -216,3 +216,6 @@ Un processo è rappresentato come un LTS:
 ![[Pasted image 20260123160422.png]]
 ![[Pasted image 20260123160557.png]]
 ![[Pasted image 20260123160612.png]]
+### Proprietà 
+![[Pasted image 20260123160811.png]]
+![[Pasted image 20260123160739.png]]
