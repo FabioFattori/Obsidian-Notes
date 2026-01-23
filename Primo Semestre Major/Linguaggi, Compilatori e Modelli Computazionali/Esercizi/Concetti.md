@@ -203,3 +203,11 @@ $$\square \diamondsuit ready \rightarrow \square \diamondsuit run$$
 ![[Pasted image 20260123150533.png]]
 ### formalmente 
 ![[Pasted image 20260123150559.png]]
+## Algebra dei processi
+I sistemi modellati da tali automi (LTS) sono solitamente “sistemi concorrenti”.
+Le “process algebra” sono un modo naturale per rappresentare sistemi di questo tipo 
+- Descrivere ogni processo da solo
+- Combinare le descrizioni di tali processi per ottenere l’intero sistema
+Un processo è rappresentato come un LTS: 
+- si danno nomi agli stati 
+- per ogni stato si descrivono le transizioni che lo stato può fare
