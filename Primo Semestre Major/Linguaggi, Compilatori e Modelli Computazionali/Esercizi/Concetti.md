@@ -219,3 +219,10 @@ Un processo è rappresentato come un LTS:
 ### Proprietà 
 ![[Pasted image 20260123160811.png]]
 ![[Pasted image 20260123160739.png]]
+### Hiding 
+definisce tramite la $@$ quali stati sono "visibili" e quindi sincronizzabili:
+![[Pasted image 20260123173341.png]]
+Le azioni non comprese dentro all'insieme della $@$ vengono rappresentate come un'azione "tau".
+## Reti di Pretri
+Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei processi.
+![[Pasted image 20260123173628.png]]
