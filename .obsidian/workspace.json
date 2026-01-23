@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +186,8 @@
   },
   "active": "e817346795ccbb0e",
   "lastOpenFiles": [
+    "Pasted image 20260123174544.png",
+    "Pasted image 20260123174418.png",
     "Pasted image 20260123174112.png",
     "Pasted image 20260123173628.png",
     "Pasted image 20260123173341.png",
@@ -196,8 +197,6 @@
     "Pasted image 20260123160557.png",
     "Pasted image 20260123160422.png",
     "Pasted image 20260123160413.png",
-    "Pasted image 20260123160219.png",
-    "Pasted image 20260123150559.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/PDA2CFG.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",

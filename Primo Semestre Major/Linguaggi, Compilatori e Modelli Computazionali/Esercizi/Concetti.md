@@ -228,3 +228,7 @@ Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei proce
 ![[Pasted image 20260123173628.png]]
 ### formale 
 ![[Pasted image 20260123174112.png]]
+### Marking graph
+![[Pasted image 20260123174418.png]]
+![[Pasted image 20260123174544.png]]
+continuo a pagina 79
