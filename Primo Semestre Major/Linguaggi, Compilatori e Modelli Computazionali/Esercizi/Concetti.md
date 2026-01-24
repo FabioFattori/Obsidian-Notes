@@ -233,7 +233,7 @@ Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei proce
 ![[Pasted image 20260123174544.png]]
 ![[Pasted image 20260124134448.png]]
 # How To
-## Classificazione dei linguaggi
+## Classificazione Dei Linguaggi
 esempio:
 > Si consideri il seguente linguaggio su alfabeto {0,1}: L = { vwvRwR | v e w sono numeri binari (inclusa la stringa vuota) } Classificare il linguaggio dicendo se è un linguaggio regolare, libero, ricorsivo, ricorsivamente enumerabile, o nemmeno ricorsivamente enumerabile. Giustificare formalmente la risposta.
 

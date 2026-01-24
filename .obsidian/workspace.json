@@ -26,31 +26,19 @@
         ]
       },
       {
-        "id": "4cf46512b03f1662",
+        "id": "ae4ec389445559b9",
         "type": "tabs",
         "children": [
           {
-            "id": "9035f5bb770862e7",
+            "id": "6e8f0717ec263b06",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es1"
-            }
-          },
-          {
-            "id": "ebe8e533b96e6235",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "es1"
+              "title": "es2"
             }
           }
         ]
@@ -215,11 +203,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9035f5bb770862e7",
+  "active": "e817346795ccbb0e",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md",
@@ -261,7 +250,6 @@
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
-    "Primo Semestre Major/Modalità d'esame.md",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md"
+    "Primo Semestre Major/Modalità d'esame.md"
   ]
 }
