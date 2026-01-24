@@ -273,4 +273,4 @@ Steps:
 	NOTA => devi mettere una x diversa all'esame dato che ogni step che stiamo facendo è una PASSATA diversa da quella precedente, per esempio metti "xx"
 3. Da qui in poi la lunghezza della stringa aumenta di 1 ad ogni passata (step) e con essa le diverse combinazioni che dobbiamo testare.
 	Quindi dopo lo step 2 la stringa da dare in input al delta aumenta di uno, ma il meccanismo è sempre quello, se le due trasformazioni mi portano ad una coppia di stati che ha una x, metto una x, altrimenti mi faccio i CAZZI miei.
-> Continuare fino a che avviene una passata che non mi fa mettere nessuna n 
+> Continuare fino a che avviene una passata che non mi fa mettere nessuna nuova x 

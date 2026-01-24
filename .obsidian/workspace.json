@@ -40,21 +40,8 @@
               "icon": "excalidraw-icon",
               "title": "es2"
             }
-          },
-          {
-            "id": "a2df91c773d47094",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/esempio.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "esempio"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +203,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e817346795ccbb0e",
+  "active": "6e8f0717ec263b06",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/esempio.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/esempio.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
     "Pasted Image 20260124184418_242.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
