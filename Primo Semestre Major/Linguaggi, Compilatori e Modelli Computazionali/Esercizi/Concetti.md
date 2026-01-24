@@ -265,3 +265,5 @@ Steps:
 4. Controllo RE:
 	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta, ed invece non termina MAI se $x\not\in L$ andando avanti all'infinito.
 	Problema SEMI-DECIDIBILE
+## Algoritmo riempi tabella
+1. metti una $\markx$    
