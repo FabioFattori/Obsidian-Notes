@@ -269,4 +269,8 @@ Steps:
 1. metti una x per le coppie del seguente tipo: 
 	(stato d'accettazione, non stato d'accettazione)![[esempio]]
 2. ora per ogni tipo di carattere dell'alfabeto segui le freccie delle coppie rimanenti, esempio:
-	$\delta(q_1,a) \rightarrow q_2 \\\, \\\ \delta(q_3,a) \rightarrow q_1$   
+	$\delta(q_1,a) \rightarrow q_2 \\\ , \\\ \delta(q_3,a) \rightarrow q_1$  $(q_2,q_3)$ questa coppia di stati ottenuti ha già una x nella tabella QUINDI la mettiamo anche per la coppia $(q_1,q_3)$, se invece avessimo ottenuto una coppia di stati senza x avremmo dovuto fare lo stesso test anche con $b$.
+	NOTA => devi mettere una x diversa all'esame dato che ogni step che stiamo facendo è una PASSATA diversa da quella precedente, per esempio metti "xx"
+3. Da qui in poi la lunghezza della stringa aumenta di 1 ad ogni passata (step) e con essa le diverse combinazioni che dobbiamo testare.
+	Quindi dopo lo step 2 la stringa da dare in input al delta aumenta di uno, ma il meccanismo è sempre quello, se le due trasformazioni mi portano ad una coppia di stati che ha una x, metto una x, altrimenti mi faccio i CAZZI miei.
+> Continuare fino a che avviene una passata che non mi fa mettere nessuna n 
