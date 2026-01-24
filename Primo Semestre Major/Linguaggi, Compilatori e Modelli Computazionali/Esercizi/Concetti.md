@@ -256,4 +256,6 @@ Steps:
 		3. $uv^i w x^i y \in L$ per ogni $i≥0$ 
 		> Per Entrambi i pumping lemma solitamente si sceglie una $i$ uguale a $0$ oppure a $2$ che tipicamente rompe $\in L$.
 		
-	2. Chiusura dei 
+	2. Chiusura dei CFL:
+		si scompone il linguaggio dato in due sottolinguaggi e si cerca di dimostrare che $L_1$ ed $L_2$ siano uno regolare e l'altro libero, oppure entrambi liberi perchè $L_1 \in REG, \\\ L_2 \in CFL, \\\ L_1\cap L_2 \in CFG$ e $L_1\cap L_2 = L$ che è il linguaggio fornito.
+3. 
