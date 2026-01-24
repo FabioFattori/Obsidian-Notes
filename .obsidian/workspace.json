@@ -30,15 +30,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b1739303adedeee",
+            "id": "e4f07c92f3459602",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es3"
+              "title": "es4"
             }
           }
         ]
@@ -203,10 +203,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b1739303adedeee",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/Untitled.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
@@ -249,7 +250,6 @@
     "Random Notes/Distributed project proposal.md",
     "Primo Semestre Major/Modalità d'esame.md",
     "Primo Semestre Major/Distributed System/Distributed Systems.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md",
-    "Excalidraw/Drawing 2025-11-11 14.31.14.excalidraw.md"
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md"
   ]
 }
