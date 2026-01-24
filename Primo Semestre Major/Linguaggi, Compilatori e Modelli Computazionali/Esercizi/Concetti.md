@@ -249,4 +249,11 @@ Steps:
 2. Controllo CFL
 	Usare o il pumping lemma per CFL oppure la chiusura dei CFL:
 	1. Pumping lemma:
+		Se $L$ è un linguaggio context-free, allora esiste una costante $p>0$ tale che **ogni stringa $s∈L$ con $∣s∣≥ p$ può essere scritta come**: $s=uvwxy$
+		con:
+		1. $∣vwx∣≤p$
+		2. $∣vx∣≥1$ (cioè almeno un simbolo in $v$ o $w$)
+		3. $uv^i w x^i y \in L$ per ogni $i≥0$ 
+		> Per Entrambi i pumping lemma solitamente si sceglie una $i$ uguale a $0$ oppure a $2$ che tipicamente rompe $\in L$.
 		
+	2. Chiusura dei 
