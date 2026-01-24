@@ -258,5 +258,10 @@ Steps:
 		
 	2. Chiusura dei CFL:
 		si scompone il linguaggio dato in due sottolinguaggi e si cerca di dimostrare che $L_1$ ed $L_2$ siano uno regolare e l'altro libero, oppure entrambi liberi perchè $L_1 \in REG, \\\ L_2 \in CFL, \\\ L_1\cap L_2 \in CFG$ e $L_1\cap L_2 = L$ che è il linguaggio fornito.
-1. Controllo Ricorsivo
-	Se esiste una TM (algoritmo) che termina 
+3. Controllo Ricorsivo
+	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta oppure termina se $x \not\in L$ se non accetta.
+	Se un linguaggio è ricorsivo è perforza anche RE, e se non è RE non è neanche Ricorsivo.
+	Problema DECIDIBILE, se un linguaggio è CFL allora è anche Ricorsivo.
+4. Controllo RE:
+	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta, ed invece non termina MAI se $x\not\in L$ andando avanti all'infinito.
+	Problema SEMI-DECIDIBILE
