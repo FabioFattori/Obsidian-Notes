@@ -258,4 +258,5 @@ Steps:
 		
 	2. Chiusura dei CFL:
 		si scompone il linguaggio dato in due sottolinguaggi e si cerca di dimostrare che $L_1$ ed $L_2$ siano uno regolare e l'altro libero, oppure entrambi liberi perchè $L_1 \in REG, \\\ L_2 \in CFL, \\\ L_1\cap L_2 \in CFG$ e $L_1\cap L_2 = L$ che è il linguaggio fornito.
-3. 
+1. Controllo Ricorsivo
+	Se esiste una TM (algoritmo) che 
