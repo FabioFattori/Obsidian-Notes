@@ -243,3 +243,10 @@ Steps:
 	1. $∣xy∣≤p$
 	2. $∣y∣>0$
 	3. $xy^i z \in L$ per ogni $i≥0$ 
+	Tipicamente se ci sono simmetrie e/o conteggi troppo grandi non è regolare:
+	>i linguaggi regolari non possono "contare" o memorizzare lunghezze arbitrariamente grandi
+	
+2. Controllo CFL
+	Usare o il pumping lemma per CFL oppure la chiusura dei CFL:
+	1. Pumping lemma:
+		
