@@ -30,15 +30,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4f07c92f3459602",
+            "id": "9035f5bb770862e7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es4"
+              "title": "es1"
             }
           }
         ]
@@ -203,11 +203,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e817346795ccbb0e",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/Untitled.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
@@ -243,13 +245,11 @@
     "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Machine Learning/slides/10_ML_DeepLearning.pdf",
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
-    "Primo Semestre Major/Machine Learning/slides/6_ML_Clustering.pdf",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
     "Random Notes/Preventivo Soul Pida.md",
     "Primo Semestre Major/Machine Learning/Machine Learning.md",
     "Random Notes/Distributed project proposal.md",
     "Primo Semestre Major/Modalità d'esame.md",
-    "Primo Semestre Major/Distributed System/Distributed Systems.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/draws/14_10_2025.md"
+    "Primo Semestre Major/Distributed System/Distributed Systems.md"
   ]
 }
