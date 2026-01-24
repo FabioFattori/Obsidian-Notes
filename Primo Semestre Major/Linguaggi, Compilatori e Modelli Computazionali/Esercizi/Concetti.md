@@ -233,7 +233,7 @@ Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei proce
 ![[Pasted image 20260123174544.png]]
 ![[Pasted image 20260124134448.png]]
 # How To
-## Classificazione Dei Linguaggi
+## Classificazione dei linguaggi
 esempio:
 > Si consideri il seguente linguaggio su alfabeto {0,1}: L = { vwvRwR | v e w sono numeri binari (inclusa la stringa vuota) } Classificare il linguaggio dicendo se è un linguaggio regolare, libero, ricorsivo, ricorsivamente enumerabile, o nemmeno ricorsivamente enumerabile. Giustificare formalmente la risposta.
 
@@ -261,7 +261,7 @@ Steps:
 3. Controllo Ricorsivo
 	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta oppure termina se $x \not\in L$ se non accetta.
 	Se un linguaggio è ricorsivo è perforza anche RE, e se non è RE non è neanche Ricorsivo.
-	Problema DECIDIBILE, se un linguaggio è CFL allora è anche Ricorsivo.
+	Problema DECIDIBILE, se un linguaggio è CFL allora è anche Ricorsibi
 4. Controllo RE:
 	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta, ed invece non termina MAI se $x\not\in L$ andando avanti all'infinito.
 	Problema SEMI-DECIDIBILE
