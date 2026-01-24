@@ -265,6 +265,8 @@ Steps:
 4. Controllo RE:
 	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta, ed invece non termina MAI se $x\not\in L$ andando avanti all'infinito.
 	Problema SEMI-DECIDIBILE
-## Algoritmo riempi tabella
+## Algoritmo Riempi Tabella
 1. metti una x per le coppie del seguente tipo: 
-	(stato d'accettazione, non stato d'accettazione)
+	(stato d'accettazione, non stato d'accettazione)![[esempio]]
+2. ora per ogni tipo di carattere dell'alfabeto segui le freccie delle coppie rimanenti, esempio:
+	$\delta(q_1,a) \rightarrow q_2 \\\, \\\ \delta(q_3,a) \rightarrow q_1$   
