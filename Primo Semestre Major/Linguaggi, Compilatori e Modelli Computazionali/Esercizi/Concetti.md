@@ -231,4 +231,4 @@ Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei proce
 ### Marking graph
 ![[Pasted image 20260123174418.png]]
 ![[Pasted image 20260123174544.png]]
-continuo a pagina 79
+![[Pasted image 20260124134448.png]]
