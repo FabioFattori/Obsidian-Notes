@@ -120,7 +120,7 @@ QUANDO HAI QUESTO FAI COSì:
 quindi di fatto fai tutte le possibili combinazioni di $r$ ed $s$.
 ![[Pasted image 20260120232859.png]]
 Se invece della $\epsilon$ nella tripla hai un terminale avrai questo:$$(p,a,A)\rightarrow (q,\epsilon) \\\ [pAq]\rightarrow a$$![[PDA2CFG]]
-## Forma Normale di Chomsky
+## Forma Normale Di Chomsky
 Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciamo prima questi passaggi:
 1. Eliminiamo i simboli non generanti e poi i simboli non raggiungibili
 	Per non generanti si intende i simboli per i quali non vi è una trasformazione:
@@ -146,15 +146,15 @@ Per prima cosa bisogna semplificare la CFG associata al CFL, e per farlo facciam
 	- poi devo rifare per $C$ quindi ottengo $A\rightarrow A \\\ | \\\ c \\\ | \\\ b$ 
 	- ed infine $A\rightarrow B \\\ | \\\ a \\\ | \\\ c \\\ | \\\ b$
 	- Noto che la trasformazione $A\rightarrow B$ l'ho già fatta quindi la tiro nel casino ed $A$ alla fine è così $A\rightarrow a \\\ | \\\ c \\\ | \\\ b$
-### Ora possiamo trasformare il CFG semplificato nella forma CNF seguendo i passaggi:
+### Ora Possiamo Trasformare Il CFG Semplificato Nella Forma CNF Seguendo I Passaggi
 - Mettere TUTTI i simboli terminali in una nuova variabile singolarmente ($B\rightarrow x$) a meno che non siano già in questa forma
 - SE una trasformazione ha come risultato un corpo di lunghezza $>2$ prendere tutte le variabili tralasciando la prima e metterle in una variabile:
 	$A → B1B2 · · · Bk$ con $k>2$ allora devo fare così:$$\begin{split}A → B1C1\\ C1 → B2C2\\ · · ·\\ Ck−3 → Bk−2Ck−2 \\ Ck−2 → Bk−1Bk\end{split}$$
 BENE! ora sei un figo ed hai la CFG in forma CNF.
-## Pumping Lemma per CFG in forma CNF
+## Pumping Lemma per CFG in Forma CNF
 ![[Pasted image 20260121182032.png]]
 Anche questo è usato per dire se un linguaggio NON è un linguaggio libero dal contesto.
-## Macchine di Turing
+## Macchine Di Turing
 ![[Pasted image 20260121231107.png]]
 ## Linguaggi Ricorsivamente Enumerabili
 ![[Pasted image 20260121234230.png]]
@@ -164,11 +164,11 @@ ogni linguaggio per cui sia possibile in modo automatico verificare se una data 
 ## Linguaggio Diagonale
 ![[Pasted image 20260122184423.png]]![[Pasted image 20260122184614.png]]
 ![[Pasted image 20260122184627.png]]
-## Linguaggio universale
+## Linguaggio Universale
 ![[Pasted image 20260122184744.png]]
 ![[Pasted image 20260122184802.png]]
 ![[Pasted image 20260122185014.png]]
-## Logica di base
+## Logica Di Base
 ![[Pasted image 20260122191503.png]]
 ### Propositional Logic
 ![[Pasted image 20260122191952.png]]
@@ -184,7 +184,7 @@ $\diamondsuit$ rappresenta la frase "**adesso** o **in un futuro** la condizione
 $\square$ rappresenta la frase "la condizione è **sempre vera ora e nei mondi  futuri**" 
 $u$  Usato per mettere in relazione due proposizioni, una vera ora ed in tutti momenti successivi fino ad un momento in cui è vera la seconda
 ![[Pasted image 20260123143729.png]]
-### Annotazione alternativa
+### Annotazione Alternativa
 ![[Pasted image 20260123144724.png]]
 #### Proprietà Safety
 non si raggiungono mai stati con errori
@@ -197,13 +197,13 @@ se si richiede una cosa infinite volte, questa verrà eseguita infinite volte
 $$\square \diamondsuit ready \rightarrow \square \diamondsuit run$$
 ## LTS
 ![[Pasted image 20260123145731.png]]
-### formalmente
+### Formalmente
 ![[Pasted image 20260123145745.png]]
-## LTS soddisfa LTL
+## LTS Soddisfa LTL
 ![[Pasted image 20260123150533.png]]
-### formalmente 
+### Formalmente
 ![[Pasted image 20260123150559.png]]
-## Algebra dei processi
+## Algebra Dei Processi
 I sistemi modellati da tali automi (LTS) sono solitamente “sistemi concorrenti”.
 Le “process algebra” sono un modo naturale per rappresentare sistemi di questo tipo 
 - Descrivere ogni processo da solo
@@ -216,19 +216,19 @@ Un processo è rappresentato come un LTS:
 ![[Pasted image 20260123160422.png]]
 ![[Pasted image 20260123160557.png]]
 ![[Pasted image 20260123160612.png]]
-### Proprietà 
+### Proprietà
 ![[Pasted image 20260123160811.png]]
 ![[Pasted image 20260123160739.png]]
-### Hiding 
+### Hiding
 definisce tramite la $@$ quali stati sono "visibili" e quindi sincronizzabili:
 ![[Pasted image 20260123173341.png]]
 Le azioni non comprese dentro all'insieme della $@$ vengono rappresentate come un'azione "tau".
-## Reti di Pretri
+## Reti Di Pretri
 Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei processi.
 ![[Pasted image 20260123173628.png]]
-### formale 
+### Formale
 ![[Pasted image 20260123174112.png]]
-### Marking graph
+### Marking Graph
 ![[Pasted image 20260123174418.png]]
 ![[Pasted image 20260123174544.png]]
 ![[Pasted image 20260124134448.png]]
