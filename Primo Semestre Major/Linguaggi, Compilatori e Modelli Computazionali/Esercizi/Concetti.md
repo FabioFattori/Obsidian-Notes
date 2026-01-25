@@ -282,6 +282,7 @@ Per ogni modello fornito devi fare le seguenti cose:
 	Dato che questa formula ha il $\forall$, **basta un solo numero** per il quale la formula non è vera per renderla **non soddisfatta**. 
 Ripeti per ogni modello switchando il contesto.
 ## LL(1) Con Tabella
+![[Drawing 2026-01-26 00.14.46.excalidraw]]
 ### Calcolo First
 nella trasformazione prendi il primo simbolo terminale se presente, altrimenti prendi il first del simbolo non terminale e lo unisci con il first che stai calcolando, le condizioni in or sono anche esse da calcolare e da unire con il first che hai già calcolato.
 S -> aBb
@@ -297,3 +298,12 @@ B -> ε
 
 first(B) = {$\epsilon$} 
 e basta il first di S non c'è 
+![[Pasted image 20260126004231.png]]
+### Calcolo Follow
+1. follow iniziale:
+	si calcolano solo i follow degli stati non terminali e partono tutti come insieme vuoto TRANNE lo stato iniziale ($S$) che ha un $ dentro.
+	Follow(S) = {$}
+	Follow(A) = {}
+	...
+2. Guardo la prima produzione (S):
+	guardo la posizione del primo non terminale che becco
