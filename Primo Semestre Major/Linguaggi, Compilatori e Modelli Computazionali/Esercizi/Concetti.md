@@ -237,6 +237,7 @@ Altro modo di rappresentare i sistemi concorrenti rispetto all'algebra dei proce
 esempio:
 > Si consideri il seguente linguaggio su alfabeto {0,1}: L = { vwvRwR | v e w sono numeri binari (inclusa la stringa vuota) } Classificare il linguaggio dicendo se è un linguaggio regolare, libero, ricorsivo, ricorsivamente enumerabile, o nemmeno ricorsivamente enumerabile. Giustificare formalmente la risposta.
 
+Gli step vanno seguiti in fila, dato che $$\text{Regolari}⊂\text{Liberi dal contesto}⊂\text{Ricorsivi}⊂\text{Ricorsivamente enumerabili}$$
 Steps:
 1. Controllo della regolarità (REG)
 	Se $L$ fosse regolare, esisterebbe un $p>0$ (costante di pumping) tale che ogni stringa $s \in L$ con $∣s∣≥p$ si può scrivere come $s=xyz$ con:
