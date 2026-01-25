@@ -1,0 +1,62 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+Si considerino le seguenti formule della logica dei predicati su C={}, F={ times/2 }
+e P={ =/2 }, con “=” in notazione infissa:
+ x y x=times(y,y) x y x=times(times(y,y),y)
+Come modelli si considerino M1, M2 ed M3 definiti come segue. M1 ha come universo A di valori
+i numeri Naturali, cioè A=N (incluso lo 0); M2 ha come universo A i numeri Reali nonnegativi, cioè A={rR | r ≥ 0}; infine M3 ha come universo A tutti i numeri Reali, cioè A=R.
+Inoltre in M1, M2 ed M3 il predicato “=” è l’uguaglianza tra numeri e la funzione "times" calcola
+il prodotto di due numeri, cioè times(u,v) dà il numero u∙v. Per ogni formula dire se è soddisfatta
+o meno, considerando ciascuno dei modelli M1, M2 ed M3. Giustificare le risposte. ^bEXwNyms
+
+Procedimento per M1:
+A = N incluso 0
+
+ ^PKOiIBQV
+
+%%
+## Drawing
+```compressed-json
+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
+
+eiyGyOEJ/ohCAIhEAA==
+```
+%%
