@@ -26,19 +26,19 @@
         ]
       },
       {
-        "id": "ae4ec389445559b9",
+        "id": "394bf6c188c0068b",
         "type": "tabs",
         "children": [
           {
-            "id": "6e8f0717ec263b06",
+            "id": "0ce218e0f6608e6c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es2"
+              "title": "es3"
             }
           }
         ]
@@ -203,10 +203,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f7b507691702c05e",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es3.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/esempio.md",
     "Pasted Image 20260124184418_242.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
@@ -249,7 +250,6 @@
     "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
     "New Drawings/Drawing 2025-12-15 10.48.24.excalidraw.md",
     "Random Notes/Preventivo Soul Pida.md",
-    "Primo Semestre Major/Machine Learning/Machine Learning.md",
-    "Random Notes/Distributed project proposal.md"
+    "Primo Semestre Major/Machine Learning/Machine Learning.md"
   ]
 }
