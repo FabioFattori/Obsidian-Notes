@@ -6,7 +6,6 @@
       {
         "id": "699bf31b9b72259a",
         "type": "tabs",
-        "dimension": 43.256379100850545,
         "children": [
           {
             "id": "e817346795ccbb0e",
@@ -22,25 +21,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Concetti"
-            }
-          }
-        ]
-      },
-      {
-        "id": "394bf6c188c0068b",
-        "type": "tabs",
-        "dimension": 56.74362089914945,
-        "children": [
-          {
-            "id": "261bf11784d51576",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "es4"
             }
           }
         ]
@@ -205,11 +185,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "261bf11784d51576",
+  "active": "e817346795ccbb0e",
   "lastOpenFiles": [
+    "Pasted image 20260125215528.png",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Pasted image 20260125193741.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md",
