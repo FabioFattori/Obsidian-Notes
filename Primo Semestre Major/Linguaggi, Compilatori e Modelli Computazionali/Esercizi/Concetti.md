@@ -281,3 +281,6 @@ Per ogni modello fornito devi fare le seguenti cose:
 	per ogni numero naturale ($x$) esiste un altro numero naturale ($y$) tale che il prodotto tra $y * y = x$ quindi ti sta dicendo che ogni numero naturale può essere rappresentato tramite il quadrato di un altro numero naturale.
 	Dato che questa formula ha il $\forall$, **basta un solo numero** per il quale la formula non è vera per renderla **non soddisfatta**. 
 Ripeti per ogni modello switchando il contesto.
+## LL(1) Con Tabella
+### Calcolo First
+nella trasformazione prendi il primo simbolo terminale se presente, altrimenti prendi il first del simbolo non terminale e lo unisci con il first che stai calcolando, le condizioni in or sono anche esse da calcolare e da unire con il first che hai già calcolato

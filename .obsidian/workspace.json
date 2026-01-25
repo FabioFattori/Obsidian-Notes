@@ -22,7 +22,13 @@
               "icon": "lucide-file",
               "title": "Concetti"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4db48c61b740925f",
+        "type": "tabs",
+        "children": [
           {
             "id": "f3bfebc78a58dc1b",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "Drawing 2026-01-26 00.14.46.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +203,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3bfebc78a58dc1b",
+  "active": "e817346795ccbb0e",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/Drawing 2026-01-26 00.14.46.excalidraw.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1",
     "Pasted image 20260125215528.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es4.md",
