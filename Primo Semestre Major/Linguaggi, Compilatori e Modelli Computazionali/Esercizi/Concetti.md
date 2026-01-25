@@ -276,11 +276,11 @@ Steps:
 	Quindi dopo lo step 2 la stringa da dare in input al delta aumenta di uno, ma il meccanismo è sempre quello, se le due trasformazioni mi portano ad una coppia di stati che ha una x, metto una x, altrimenti mi faccio i CAZZI miei.
 > Continuare fino a che avviene una passata che non mi fa mettere nessuna nuova x 
 
-## Formule logiche dei predicati rispettate per dei modelli
+## Formule Logiche Dei Predicati Rispettate per Dei Modelli
 ![[Pasted image 20260125193741.png]]
 Per ogni modello fornito devi fare le seguenti cose:
 - capire bene su che universo si basa il modello, $M_1$ ad esempio si basa sui numeri naturali.
 - identificare la formula cosa dice, esempio della prima formula in relazione con $M_1$:
 	per ogni numero naturale ($x$) esiste un altro numero naturale ($y$) tale che il prodotto tra $y * y = x$ quindi ti sta dicendo che ogni numero naturale può essere rappresentato tramite il quadrato di un altro numero naturale.
 	Dato che questa formula ha il $\forall$, **basta un solo numero** per il quale la formula non è vera per renderla **non soddisfatta**. 
-Ripeti per ogni modello switchando il contesto, q
+Ripeti per ogni modello switchando il contesto.
