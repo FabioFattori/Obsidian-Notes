@@ -307,7 +307,12 @@ e basta il first di S non c'è
 	...
 2. Guardo la prima produzione (S):
 	guardo il risultato della produzione skippando tutti i terminali fino a che non trovo un terminale, quando lo trovo:
-	1. dopo c'è un terminale:
+	- dopo c'è un terminale:
 		esempio: S -> aBc.
 		il Follow(B) diventa l'unione con il corrente Follow(B) e {c}.
-		
+	-  dopo c'è un non terminale:
+		esempio: S -> aBCd.
+		il Follow(B) diventa l'unione con il corrente Follow(B) e First(C) -{$\epsilon$}.
+		Ora fai un check: $\epsilon \in \text{First}(C)$?
+		- se si continui rifacendo il passo 2, quindi se c'è un terminale ecc...
+		- se no bella hai finito e passi alla prossima produzione in questa maniera
