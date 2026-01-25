@@ -1,8 +1,6 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
@@ -17,7 +15,53 @@ appartengono al linguaggio mentre ε, a, b, ab, aabb, abb, abaa non vi apparteng
 il linguaggio L dicendo se è un linguaggio regolare, libero, ricorsivo, ricorsivamente
 enumerabile, o nemmeno ricorsivamente enumerabile. Giustificare la risposta. ^afzP4RQT
 
-verifichiamo se L è regolare  ^xXko1Fm1
+L ad occhio non è un linguaggio regolare data la simmetria richiesta
+dallo stesso linguaggio, ma verifichiamo se L è regolare utilizzando
+pumping lemma:
+
+supponiamo che L sia regolare e quindi esiste un p > 0 : ogni 
+stringa s appartenente ad L con |s|>=p si può scrivere come s=xyz con
+
+- |xy| <= p
+- |y| > 0
+- xy^iz appartiene ad L per ogni i>=0
+
+possiamo supporre che il blocco y contenga dentro di se parte di w,
+sia parte di w e sia parte di w' in base alle stringhe arbitrarie.
+
+Prendiamo in considerazione i = 0, quindi la stringa s = xz:
+- y contenuto nella stringa w:
+    i casi nei quali il numero di a e di b rimane uguale non è uguale
+    al numero totale dei possibili casi quindi avremo che w non appartiene
+    più ad L_eq e quindi ww' non appartiene più ad L.
+- y è un sottoinsieme sia di w e sia di w':
+    caso analogo a quello di y contenuto in w.
+
+Quindi per assurdo L non è un linguaggio regolare ^xXko1Fm1
+
+L ad occhio non è un linguaggio regolare data la simmetria richiesta
+dallo stesso linguaggio, ma verifichiamo se L è regolare utilizzando
+pumping lemma:
+
+supponiamo che L sia regolare e quindi esiste un p > 0 : ogni 
+stringa s appartenente ad L con |s|>=p si può scrivere come s=xyz con
+
+- |xy| <= p
+- |y| > 0
+- xy^iz appartiene ad L per ogni i>=0
+
+possiamo supporre che il blocco y contenga dentro di se parte di w,
+sia parte di w e sia parte di w' in base alle stringhe arbitrarie.
+
+Prendiamo in considerazione i = 0, quindi la stringa s = xz:
+- y contenuto nella stringa w:
+    i casi nei quali il numero di a e di b rimane uguale non è uguale
+    al numero totale dei possibili casi quindi avremo che w non appartiene
+    più ad L_eq e quindi ww' non appartiene più ad L.
+- y è un sottoinsieme sia di w e sia di w':
+    caso analogo a quello di y contenuto in w.
+
+Quindi per assurdo L non è un linguaggio regolare ^F2ENQEfZ
 
 %%
 ## Drawing
@@ -36,16 +80,44 @@ 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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 ```
 %%
