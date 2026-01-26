@@ -363,4 +363,9 @@ Una volta ottenuto il modello parallelo devi verificare se le espressioni logich
 > basta un caso in cui esse non siano verificate per renderle false.
 
 Ricordandosi che:
-- <> => prima o poi acca
+- <> => prima o poi accadrà quello che c'è dopo (esempio: <> a)
+- $\alpha => ()\beta$ => la presenza di $\alpha$ implica che poi otterrò $\beta$.
+- \[\] => ottengo SEMPRE quello che c'è dopo
+- \\/ => or, o uno o l'altro
+- /\ => and
+- $\neg$ => not
