@@ -315,4 +315,12 @@ e basta il first di S non c'è
 		il Follow(B) diventa l'unione con il corrente Follow(B) e First(C) -{$\epsilon$}.
 		Ora fai un check: $\epsilon \in \text{First}(C)$?
 		- se si continui rifacendo il passo 2, quindi se c'è un terminale ecc...
-		- se no bella hai finito e passi alla prossima produzione in questa maniera
+		- se no bella hai finito e continui a leggere la produzione fino alla fine.
+	- dopo non c'è un beneamato cazzo:
+		esempio: S -> aB.
+		il Follow(S) diventa l'unione con il corrente Follow(S) e Follow(B)
+3. continui con tutte le produzioni.
+### Creazione della tabella
+Sulle righe gli stati non terminali, sulle colonne gli stati terminali.
+Leggi una produzione:
+1. prendi il first di tale produzione
