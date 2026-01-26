@@ -30,15 +30,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa9ece824d5a2262",
+            "id": "47368c1d56c35bfc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es3"
+              "title": "es4"
             }
           }
         ]
@@ -203,10 +203,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa9ece824d5a2262",
+  "active": "236d99eeb2bf1ece",
   "lastOpenFiles": [
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Pasted image 20260126190738.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
