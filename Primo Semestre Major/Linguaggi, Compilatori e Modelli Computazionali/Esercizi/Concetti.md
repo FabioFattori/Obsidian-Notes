@@ -327,6 +327,8 @@ Leggi una produzione:
 	è $= \epsilon$?		
 	- NO:
 		Ottieni una coppia: Stato finale di origini della produzione e valore del first i-esimo:
-		esempio => S -> aB, first(S) = {a} 
+		esempio => S -> Ba, first(S) = {b}
+		coppia \[S,b\] = Ba
+		La coppia sono le coordinate della tabella dove bisogna scrivere il risultato della produzione 
 	- SI:
-		
+		dici fanculo porcodio e inizi a ciclare su tutti i valori del Follow facendo la stessa cosa che fai quando hai un valore del first non 
