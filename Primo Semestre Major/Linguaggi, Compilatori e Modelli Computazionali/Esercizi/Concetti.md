@@ -282,7 +282,7 @@ Per ogni modello fornito devi fare le seguenti cose:
 	Dato che questa formula ha il $\forall$, **basta un solo numero** per il quale la formula non è vera per renderla **non soddisfatta**. 
 Ripeti per ogni modello switchando il contesto.
 ## LL(1) Con Tabella
-![[Drawing 2026-01-26 00.14.46.excalidraw]]
+![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/es1]]
 ### Calcolo First
 nella trasformazione prendi il primo simbolo terminale se presente, altrimenti prendi il first del simbolo non terminale e lo unisci con il first che stai calcolando, le condizioni in or sono anche esse da calcolare e da unire con il first che hai già calcolato.
 S -> aBb
@@ -320,15 +320,15 @@ e basta il first di S non c'è
 		esempio: S -> aB.
 		il Follow(S) diventa l'unione con il corrente Follow(S) e Follow(B)
 3. continui con tutte le produzioni.
-### Creazione della tabella
+### Creazione Della Tabella
 Sulle righe gli stati non terminali, sulle colonne gli stati terminali.
 Leggi una produzione:
 1. prendi il first di tale produzione e per ogni elemento fai questo:
-	è $= \epsilon$?		
+	è $= \epsilon$?
 	- NO:
 		Ottieni una coppia: Stato finale di origini della produzione e valore del first i-esimo:
 		esempio => S -> Ba, first(S) = {b}
 		coppia \[S,b\] = Ba
 		La coppia sono le coordinate della tabella dove bisogna scrivere il risultato della produzione 
 	- SI:
-		dici fanculo porcodio e inizi a ciclare su tutti i valori del Follow facendo la stessa cosa che fai quando hai un valore del first non 
+		dici fanculo porcodio e inizi a ciclare su tutti i valori del Follow facendo la stessa cosa che fai quando hai un valore del first non $= \epsilon$.
