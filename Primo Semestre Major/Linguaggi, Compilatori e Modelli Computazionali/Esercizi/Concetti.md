@@ -323,4 +323,10 @@ e basta il first di S non c'è
 ### Creazione della tabella
 Sulle righe gli stati non terminali, sulle colonne gli stati terminali.
 Leggi una produzione:
-1. prendi il first di tale produzione
+1. prendi il first di tale produzione e per ogni elemento fai questo:
+	è $= \epsilon$?		
+	- NO:
+		Ottieni una coppia: Stato finale di origini della produzione e valore del first i-esimo:
+		esempio => S -> aB, first(S) = {a} 
+	- SI:
+		
