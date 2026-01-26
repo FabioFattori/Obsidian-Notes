@@ -357,5 +357,10 @@ Poi li dovrai mettere in parallelo quindi fai questo:
 	la transizione è in comune?
 	- SI => entrambi gli stati la devono poter fare per essere effettivamente presente nel modello parallelo
 	- NO => solo uno degli stati la può fare quindi basta che tale stato ci sia nella coppia per farla accadere
-3. SE la transizione può accadere hai un nuovo stato dato dalla coppia dei due oppure uno stato di arrivo della 
-ad esempio se devi fare $A||X$ ottieni questo:
+3. SE la transizione può accadere hai un nuovo stato dato dalla coppia dei due (oppure uno nel caso della transizione NON in comune) stato di arrivo della transizione.
+Ad esempio se devi fare $A||X$ ottieni questo:![[AAA]]
+Una volta ottenuto il modello parallelo devi verificare se le espressioni logiche fornite dall'esercizio siano verificate, ovvero possono accadere.
+> basta un caso in cui esse non siano verificate per renderle false.
+
+Ricordandosi che:
+- <> => prima o poi acca

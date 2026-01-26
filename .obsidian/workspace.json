@@ -24,24 +24,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "11076664c2c0d9a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9764cddbdadf51fe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/AAA.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AAA"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
