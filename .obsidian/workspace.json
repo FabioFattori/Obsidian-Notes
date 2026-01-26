@@ -30,15 +30,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "339f2839aab67db7",
+            "id": "aa9ece824d5a2262",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md"
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "es2"
+              "title": "es3"
             }
           }
         ]
@@ -203,11 +203,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "339f2839aab67db7",
+  "active": "e817346795ccbb0e",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
     "Pasted Image 20260126134730_696.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13",
@@ -234,7 +235,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123174544.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123174418.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123174112.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123173628.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/PDA2CFG.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom",

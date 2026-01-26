@@ -332,3 +332,9 @@ Leggi una produzione:
 		La coppia sono le coordinate della tabella dove bisogna scrivere il risultato della produzione 
 	- SI:
 		dici fanculo porcodio e inizi a ciclare su tutti i valori del Follow facendo la stessa cosa che fai quando hai un valore del first non $= \epsilon$.
+## Da $\epsilon$-NFA a DFA
+> consiglio: ti calcoli tutti gli $\epsilon \text{-ENCLOSE}$ degli stati forniti.
+
+Parti dall'ENCLOSE dello stato iniziale dell'NFA.
+ti fai la tabella con sulle colonne ogni carattere dell'alfabeto, e sulle righe solo ENCLOSE dello stato iniziale che è lo stato iniziale anche dell'DFA.
+Ora parti da OGNI stato appartenente all'ENCLOSE e vedi se riesci ad arrivare in qualche altro stato utilizzando il carattere corrente () 
