@@ -337,4 +337,10 @@ Leggi una produzione:
 
 Parti dall'ENCLOSE dello stato iniziale dell'NFA.
 ti fai la tabella con sulle colonne ogni carattere dell'alfabeto, e sulle righe solo ENCLOSE dello stato iniziale che è lo stato iniziale anche dell'DFA.
-Ora parti da OGNI stato appartenente all'ENCLOSE e vedi se riesci ad arrivare in qualche altro stato utilizzando il carattere corrente () 
+Ora parti da OGNI stato appartenente all'ENCLOSE e vedi se riesci ad arrivare in qualche altro stato utilizzando il carattere corrente (lo devi fare per tutti $\in \Sigma$).
+Ora prendi tutti gli stati ottenuti da questo processo, li unisci in un unico insieme e devi calcolare l'$\epsilon \text{-ENCLOSE}$ di tale insieme (SE hai culo è pari ad un $\epsilon \text{-ENCLOSE}$ che hai già calcolato).
+PARTE FINALE DI OGNI ITERAZIONE:
+prendi $\epsilon \text{-ENCLOSE}$ che hai appena ottenuto e la schiaffi nella riga e nella colonna correnti.
+
+E VAI AVANTI FINO A CHE NON TI SI AGGIUNGONO **STATI NUOVI** alla tabella, perchè ogni $\epsilon \text{-ENCLOSE}$ che inserisci nella tabella rappresenterà poi nel DFA un singolo stato e quindi ogni stato nuovo che metti nel corpo della tabella corrisponde ad una RIGA in più nella tabella stessa.
+![[Pasted image 20260126190738.png]]
