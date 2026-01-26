@@ -344,3 +344,7 @@ prendi $\epsilon \text{-ENCLOSE}$ che hai appena ottenuto e la schiaffi nella ri
 
 E VAI AVANTI FINO A CHE NON TI SI AGGIUNGONO **STATI NUOVI** alla tabella, perchè ogni $\epsilon \text{-ENCLOSE}$ che inserisci nella tabella rappresenterà poi nel DFA un singolo stato e quindi ogni stato nuovo che metti nel corpo della tabella corrisponde ad una RIGA in più nella tabella stessa.
 ![[Pasted image 20260126190738.png]]
+## Algebra Dei Processi LTS
+Per prima cosa ti vengono forniti degli automi singoli e tu li devi fare, non c'è molto da dire se non che ogni transizione si trasforma in uno stato, ad esempio : X = (b->c->X) diventa un automa come segue:
+![[ltsTONfa]]
+Oppure A = (b->A | a->STOP):
