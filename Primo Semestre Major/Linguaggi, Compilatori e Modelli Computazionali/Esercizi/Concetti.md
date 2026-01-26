@@ -348,3 +348,4 @@ E VAI AVANTI FINO A CHE NON TI SI AGGIUNGONO **STATI NUOVI** alla tabella, perch
 Per prima cosa ti vengono forniti degli automi singoli e tu li devi fare, non c'è molto da dire se non che ogni transizione si trasforma in uno stato, ad esempio : X = (b->c->X) diventa un automa come segue:
 ![[ltsTONfa]]
 Oppure A = (b->A | a->STOP):![[ltsTONFA2]]
+Poi li dovrai mettere in parallelo quindi fai le coppie di CIASCUNO stato ed ricopi le transizioni quindi se ad esempio se devi fare $A||X$ ottieni questo:
