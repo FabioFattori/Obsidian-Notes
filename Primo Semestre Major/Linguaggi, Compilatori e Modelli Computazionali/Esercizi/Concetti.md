@@ -347,4 +347,4 @@ E VAI AVANTI FINO A CHE NON TI SI AGGIUNGONO **STATI NUOVI** alla tabella, perch
 ## Algebra Dei Processi LTS
 Per prima cosa ti vengono forniti degli automi singoli e tu li devi fare, non c'è molto da dire se non che ogni transizione si trasforma in uno stato, ad esempio : X = (b->c->X) diventa un automa come segue:
 ![[ltsTONfa]]
-Oppure A = (b->A | a->STOP):
+Oppure A = (b->A | a->STOP):![[ltsTONFA2]]
