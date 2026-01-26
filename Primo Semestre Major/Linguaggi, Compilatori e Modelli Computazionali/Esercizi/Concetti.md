@@ -348,4 +348,14 @@ E VAI AVANTI FINO A CHE NON TI SI AGGIUNGONO **STATI NUOVI** alla tabella, perch
 Per prima cosa ti vengono forniti degli automi singoli e tu li devi fare, non c'è molto da dire se non che ogni transizione si trasforma in uno stato, ad esempio : X = (b->c->X) diventa un automa come segue:
 ![[ltsTONfa]]
 Oppure A = (b->A | a->STOP):![[ltsTONFA2]]
-Poi li dovrai mettere in parallelo quindi fai le coppie di CIASCUNO stato in base alle transizioni in comune (stessa variabile per la transizion) quindi se ad esempio se devi fare $A||X$ ottieni questo:
+Poi li dovrai mettere in parallelo quindi fai questo:
+0. identifichi quali sono le transizioni in comuni e quali no perchè:
+	- Quelle in COMUNE possono essere fatte quando ENTRAMBI gli stati la prevedono nei modelli singoli
+	- Quelle NON in comune possono essere fatte da un singolo stato, che cambia, e l'altro rimane invariato 
+1. parti da entrambi gli stati iniziali dei due modelli, e la loro copia è uno stato
+2. PER OGNI carattere nell'insieme delle transizioni possibili ti fai le seguenti domande:
+	la transizione è in comune?
+	- SI => entrambi gli stati la devono poter fare per essere effettivamente presente nel modello parallelo
+	- NO => solo uno degli stati la può fare quindi basta che tale stato ci sia nella coppia per farla accadere
+3. SE la transizione può accadere hai un nuovo stato dato dalla coppia dei due oppure uno stato di arrivo della 
+ad esempio se devi fare $A||X$ ottieni questo:
