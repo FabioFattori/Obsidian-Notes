@@ -22,8 +22,7 @@ Esistono $i \neq j$ tali che $A_i = A_j$ (assumiamo che $i, j$ siano fra le ulti
 esempio:
 > Si consideri il seguente linguaggio su alfabeto {0,1}: L = { vwvRwR | v e w sono numeri binari (inclusa la stringa vuota) } Classificare il linguaggio dicendo se è un linguaggio regolare, libero, ricorsivo, ricorsivamente enumerabile, o nemmeno ricorsivamente enumerabile. Giustificare formalmente la risposta.
 
-Gli step vanno seguiti in fila, dato che $\text{Regolari}\subset Liberi dal contesto\subset Ricorsivi \subset Ricorsivamente enumerabili$
-Steps:
+Gli step vanno seguiti in fila, dato che $$\text{Regolari}\subset\text{Liberi dal contesto}\subset\text{Ricorsivi}\subset\text{Ricorsivamente enumerabili}$$Steps:
 1. Controllo della regolarità (REG)
 	Se $L$ fosse regolare, esisterebbe un $p>0$ (costante di pumping) tale che ogni stringa $s \in L$ con $∣s∣≥p$ si può scrivere come $s=xyz$ con:
 	1. $∣xy∣≤p$
