@@ -191,3 +191,9 @@ Ora guarda SOLO le transizioni da stato $q_i$ e riempi la tabella per ogni carat
 La casella rimane vuota solo se queste due condizioni sono vere:
 - non ci sono trasformazione con il carattere/simbolo terminale
 - non si può ridurre perchè non c'è il simbolo che stiamo valutando dopo la virgola in nessuna transizione dello stato di partenza.
+## Reti di Petri
+![[Pasted image 20260127203040.png]]
+### Prima fase: Capire se è bounded
+Voglio capire se **esiste un modo per far crescere all’infinito il numero di token in qualche posto**:
+- se SI => unbounded
+- se NO => bounded
