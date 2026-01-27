@@ -200,7 +200,7 @@ Voglio capire se **esiste un modo per far crescere all’infinito il numero di t
 - se SI => unbounded
 - se NO => bounded
 Per capirlo facciamoci una piccola tabella per ogni quadrato ($t_i$) nella quale ci scriviamo quanti token produce e consuma, se esiste un $t$ che ne produce $n+1$ ma ne consuma $n$ allora è unbound.
->Consiglio => conta le freccie in entrata nei $t$  
+>Consiglio => conta le freccie in entrata nei $t$ per sapere quanto produce e quelle in uscita per sapere quanto consuma  
 
 Esempio con il grafo sopra:
 
@@ -211,3 +211,4 @@ Esempio con il grafo sopra:
 | $t_2$ | 1       | 1       |
 | $t_3$ | 2       | 2       |
 Quindi la rete è Bound.
+### Seconda fase: SE è bounded fare il marking graph
