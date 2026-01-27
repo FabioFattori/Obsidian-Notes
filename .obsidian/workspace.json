@@ -22,13 +22,7 @@
               "icon": "lucide-file",
               "title": "Esame del porcodio"
             }
-          }
-        ]
-      },
-      {
-        "id": "6bbdc4589b2ab9cd",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "05c973d1dcbc809e",
             "type": "leaf",
@@ -41,7 +35,8 @@
               "title": "Drawing 2026-01-27 21.04.32.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
