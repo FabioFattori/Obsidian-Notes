@@ -7,7 +7,11 @@
 ![[Pasted image 20260127005556.png]]
 ### Pumping Lemma REG Con Dimostrazione
 ![[Pasted image 20260127005541.png]]
-
+### Pumping Lemma CFL Con Dimostrazione
+![[Pasted image 20260121182032.png]]
+![[Pasted image 20260127010150.png]]
+Consideriamo un cammino $A0$,$A1$ … $Aka$ di lunghezza massima: ha lunghezza $≥ m + 1$.
+Esistono $i  j$ tali che Ai = Aj (assumiamo che i, j siano fra le ultime m + 1 variabili del cammino)
 ## How To Esercizi
 ## Classificazione Dei Linguaggi
 esempio:
