@@ -1,6 +1,7 @@
 # Esame Del Porcodio
 
 ## Teoria
+### Regex To $\epsilon$-NFA
 ### $\epsilon$-NFA To DFA
 ![[Pasted image 20260120172607.png]]
 ### CFG to PDA
@@ -11,7 +12,10 @@
 ![[Pasted image 20260121182032.png]]
 ![[Pasted image 20260127010150.png]]
 Consideriamo un cammino $A0$,$A1$ … $Aka$ di lunghezza massima: ha lunghezza $≥ m + 1$.
-Esistono $i  j$ tali che Ai = Aj (assumiamo che i, j siano fra le ultime m + 1 variabili del cammino)
+Esistono $i \neq j$ tali che $A_i = A_j$ (assumiamo che $i, j$ siano fra le ultime $m + 1$ variabili del cammino)
+- Osservazione 1: l’albero radicato in $A_i$ ha altezza $≤ m + 1$, quindi la stringa corrispondente ha lunghezza $≤ 2^m = n$ (cioe’ $|vwx| ≤ n$) 
+- Osservazione 2: le stringhe $v$ e $x$ non possono essere entrambe vuote in quanto $A_i$ (essendo la grammatica in CNF) genera due variabili entrambe non annullabili (quindi $|vx| > 0$) 
+- Osservazione 3: l’albero sintattico ottenuto ripetendo un numero arbitrario di volte (possibilmente anche $0$ volte) la parte di albero radicato in $A_i$ meno l’albero radicato in $A_j$, continua ad essere un albero sintattico corretto (quindi $\forall i ≥ 0, uv^iwx^iy ∈ L$)
 ## How To Esercizi
 ## Classificazione Dei Linguaggi
 esempio:
