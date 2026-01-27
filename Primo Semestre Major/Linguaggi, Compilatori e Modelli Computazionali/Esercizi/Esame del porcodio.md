@@ -199,4 +199,15 @@ La freccia che va da un cerchio ad un quadrato **PRODUCE** un token.
 Voglio capire se **esiste un modo per far crescere all’infinito il numero di token in qualche posto**:
 - se SI => unbounded
 - se NO => bounded
-Per capirlo facciamoci una piccola tabella per ogni quadrato ($t_i$) nella quale ci scriviamo quanti token produce e consuma, se esiste un $t$ che ne produce 2 ma ne consuma 1 allora è unbound.
+Per capirlo facciamoci una piccola tabella per ogni quadrato ($t_i$) nella quale ci scriviamo quanti token produce e consuma, se esiste un $t$ che ne produce $n+1$ ma ne consuma $n$ allora è unbound.
+>Consiglio => conta le freccie in entrata nei $t$  
+
+Esempio con il grafo sopra:
+
+|       | Consuma | Produce |
+| ----- | ------- | ------- |
+| $t_0$ | 1       | 1       |
+| $t_1$ | 2       | 2       |
+| $t_2$ | 1       | 1       |
+| $t_3$ | 2       | 2       |
+Quindi la rete è Bound.
