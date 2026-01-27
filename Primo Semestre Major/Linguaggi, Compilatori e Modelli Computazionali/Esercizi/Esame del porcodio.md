@@ -179,4 +179,4 @@ Ora l'automa ha degli stati che siano $q_0,q_1,...,q_n$, prendi quelli stati e t
 Ora vedi le transizioni da stato $q_i$ tramite il simbolo dell'alfabeto o il simbolo non terminale e SE c'è una transizione scrivi come segue, dove $q_j$ è lo stato di arrivo:
 - $s,q_j$ => prefisso $s$ se la transizione avviene con un simbolo dell'alfabeto
 - $g,q_j$ => prefisso $g$ se la transizione avviene con un simbolo non terminale
-- $r,q_j$ => 
+- $r,X\rightarrow \gamma$ => prefisso $r$ quando fai una riduzione, ovvero quando 
