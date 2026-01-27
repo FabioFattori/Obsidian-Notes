@@ -182,4 +182,5 @@ Ora guarda SOLO le transizioni da stato $q_i$ e riempi la tabella per ogni carat
 - $r,X\rightarrow \gamma$ => prefisso $r$ quando fai una riduzione, ovvero quando nell'insieme di $q_i$ c'è una trasformazione che ha il punto alla fine ($A\rightarrow \gamma .,\beta$) e tu stai valutando nella tabella proprio il $\beta$
 - $accept$ => SOLO IN QUESTO CASO => lo stato ha $S'\rightarrow S.\\\ ,\$$ e tu stai valutando proprio il $\$$.
 La casella rimane vuota solo se queste due condizioni sono vere:
-- non ci sono trasformazione con i
+- non ci sono trasformazione con il carattere/simbolo terminale
+- non si può ridurre perchè non c'è il simbolo che stiamo valutando dopo la virgola in nessuna transizione dello stato di partenza.
