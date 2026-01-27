@@ -162,4 +162,7 @@ Ricordandosi che:
 	- parti da $S'$->$S$ e scrivi nell'insieme $S'$->$.S,$$
 	- Ora devi espandere S scrivendo le sue produzioni nell'insieme AGGIUNGENDO a ciascuna il punto all'inizio del risultato della produzione mettendo a ciascuna il => $,$$ alla fine.
 	- ORA se ci sono dei simboli non terminali devi seguire questo algoritmo:
-		avrai una roba di questo tipo $[A → α · B β , x]$ dove $B$ è terminale tu devi solo creare questa espansione nuova da aggiungere all'insieme: $[B → · γ , FIRST(β x)]$ 
+		avrai una roba di questo tipo $[A → α · B β , x]$ dove $B$ è terminale tu devi solo creare questa espansione nuova da aggiungere all'insieme: $[B → · γ , \text{FIRST}(β x)]$  dove $\gamma$ è il risultato delle produzioni di $B$ (questo procedimento è da fare per ogniuna delle produzioni) ricordandosi che il $FIRST(\$) = \$$.
+	Continui fino a che non puoi più espandere perchè quello che ottieni non è più della forma $[A → α · B β , x]$, NON IMPORTA SE $\beta$ è non terminale.
+3. Ora il tuo insieme è uno stato dell'automa LR(1), e mo dobbiamo fare le transizioni, per farle e capire quali fare dobbiamo solo spostare il punto di una posizione verso destra:
+	ESEMPIO => $S \rightarrow . Bb, \$$
