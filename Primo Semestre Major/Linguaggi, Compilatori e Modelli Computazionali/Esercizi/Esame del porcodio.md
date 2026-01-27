@@ -191,11 +191,11 @@ Ora guarda SOLO le transizioni da stato $q_i$ e riempi la tabella per ogni carat
 La casella rimane vuota solo se queste due condizioni sono vere:
 - non ci sono trasformazione con il carattere/simbolo terminale
 - non si può ridurre perchè non c'è il simbolo che stiamo valutando dopo la virgola in nessuna transizione dello stato di partenza.
-## Reti di Petri
+## Reti Di Petri
 La freccia che va da un quadrato ad un cerchio **CONSUMA** un token.
 La freccia che va da un cerchio ad un quadrato **PRODUCE** un token.
 ![[Pasted image 20260127203040.png]]
-### Prima fase: Capire se è bounded
+### Prima Fase: Capire Se È Bounded
 Voglio capire se **esiste un modo per far crescere all’infinito il numero di token in qualche posto**:
 - se SI => unbounded
 - se NO => bounded
@@ -211,7 +211,7 @@ Esempio con il grafo sopra:
 | $t_2$ | 1       | 1       |
 | $t_3$ | 2       | 2       |
 Quindi la rete è Bound.
-### Seconda fase: SE è bounded fare il marking graph
+### Seconda Fase: SE È Bounded Fare Il Marking Graph
 Per prima cosa scrivi $M_0$ che è il primo marcamento fornito dall'esercizio, nello specifico un marcamento è composto da il numero di token presenti in ogni piazza (cerchi), quindi, nel nostro esempio:
 $M_0 = (p_0=1,p_1=1,p_2=1,p_3=0) = (1,1,1,0)$
 Ora $\forall t$ ti fai questo:
@@ -221,4 +221,4 @@ Ora $\forall t$ ti fai questo:
 	- Se SI => esegui la transizione e calcolati un nuovo $M_i$:
 		Se è nuovo lo aggiungi al grafo, se no disegna la transizione $t$ che va alla marcatura già presente nel grafo.
 2. Una volta finite le transizioni $t$ controllare se sono stati trovati nuovi $M$, se si ripetere il punto 1) per ogni nuovo $M$ altrimenti fermarsi.
-Esempio con il grafo
+Esempio con il grafo di prima:
