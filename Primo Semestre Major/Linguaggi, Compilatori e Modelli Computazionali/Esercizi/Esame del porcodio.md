@@ -155,3 +155,6 @@ Ricordandosi che:
 - \\/ => or, o uno o l'altro
 - /\ => and
 - $\neg$ => not
+## Grammatica LR(1)
+1. Ti verrà fornita una grammatica, ad essa aggiungi un nuovo stato iniziale allo stato iniziale già presente così $S'$->$S$.
+2. Ora parti dallo stato che hai appena creato e ne crei uno nuovo che sarà un stato dell'automa LR 
