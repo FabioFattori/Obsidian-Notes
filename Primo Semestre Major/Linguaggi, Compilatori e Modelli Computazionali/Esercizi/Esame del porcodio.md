@@ -12,8 +12,11 @@ RICORDA => se eliminando degli stati :
 La formula la applichi SOLO quando arrivi in una situazione del genere, dopo aver eliminando n stati.
 ### $\epsilon$-NFA To DFA
 ![[Pasted image 20260120172607.png]]
+## PDA to CFG 
+![[Pasted image 20260127221232.png]]
 ### CFG to PDA
 ![[Pasted image 20260127005556.png]]
+ACCETTAZIONE DEL PDA => per pila vuota.
 ### Pumping Lemma REG Con Dimostrazione
 ![[Pasted image 20260127005541.png]]
 ### Pumping Lemma CFL Con Dimostrazione
