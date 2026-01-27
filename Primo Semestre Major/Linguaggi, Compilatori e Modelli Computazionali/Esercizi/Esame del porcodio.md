@@ -212,3 +212,5 @@ Esempio con il grafo sopra:
 | $t_3$ | 2       | 2       |
 Quindi la rete è Bound.
 ### Seconda fase: SE è bounded fare il marking graph
+Per prima cosa scrivi $M_0$ che è il primo marcamento fornito dall'esercizio, nello specifico un marcamento è composto da il numero di token presenti in ogni piazza (cerchi), quindi, nel nostro esempio:
+$M_0 = (p_0=1,p_1=1,p_2=1,p_3=0) = (1,1,1,0)$
