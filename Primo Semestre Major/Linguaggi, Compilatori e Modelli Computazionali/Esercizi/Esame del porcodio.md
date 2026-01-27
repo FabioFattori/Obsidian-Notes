@@ -214,3 +214,11 @@ Quindi la rete è Bound.
 ### Seconda fase: SE è bounded fare il marking graph
 Per prima cosa scrivi $M_0$ che è il primo marcamento fornito dall'esercizio, nello specifico un marcamento è composto da il numero di token presenti in ogni piazza (cerchi), quindi, nel nostro esempio:
 $M_0 = (p_0=1,p_1=1,p_2=1,p_3=0) = (1,1,1,0)$
+Ora $\forall t$ ti fai questo:
+1. $t$ è abilitata?
+	Per abilitata si intende che $t$ può essere eseguita, ovvero che ogni piazza da cui consuma abbia almeno un token.
+	- Se NO => skippa 
+	- Se SI => esegui la transizione e calcolati un nuovo $M_i$:
+		Se è nuovo lo aggiungi al grafo, se no disegna la transizione $t$ che va alla marcatura già presente nel grafo.
+2. Una volta finite le transizioni $t$ controllare se sono stati trovati nuovi $M$, se si ripetere il punto 1) per ogni nuovo $M$ altrimenti fermarsi.
+Esempio con il grafo
