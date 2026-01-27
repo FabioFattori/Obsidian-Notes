@@ -2,7 +2,14 @@
 
 ## Teoria
 ### Regex To $\epsilon$-NFA
-????
+![[Pasted image 20260127175136.png]]
+![[Pasted image 20260127175152.png]]
+## DFA/NFA To Regex
+![[Pasted image 20260119201706.png]]
+RICORDA => se eliminando degli stati :
+- unione tra archi => OR = +
+- se due archi devono accadere per creare il nuovo arco => CONCATENAZIONE 
+La formula la applichi SOLO quando arrivi in una situazione del genere, dopo aver eliminando n stati.
 ### $\epsilon$-NFA To DFA
 ![[Pasted image 20260120172607.png]]
 ### CFG to PDA

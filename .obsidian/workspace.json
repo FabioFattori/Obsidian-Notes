@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "a8c7acf2c592fcc0",
+            "id": "57d6a0565afc63ae",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -49,8 +49,7 @@
               "title": "NFA2RE"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a8c7acf2c592fcc0",
+  "active": "0cea4a4f7f81db72",
   "lastOpenFiles": [
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Esame del porcodio.md",
+    "Pasted image 20260127175152.png",
+    "Pasted image 20260127175136.png",
     "Pasted image 20260127010150.png",
     "Pasted image 20260127005556.png",
     "Pasted image 20260127005541.png",
@@ -242,13 +244,10 @@
     "Pasted image 20260125215528.png",
     "Pasted image 20260125193741.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/esempio.md",
-    "Pasted Image 20260124184418_242.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/Untitled.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260121162520.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/PDA2CFG.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom",
