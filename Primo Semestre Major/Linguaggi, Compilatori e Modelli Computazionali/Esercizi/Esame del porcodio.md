@@ -157,4 +157,9 @@ Ricordandosi che:
 - $\neg$ => not
 ## Grammatica LR(1)
 1. Ti verrà fornita una grammatica, ad essa aggiungi un nuovo stato iniziale allo stato iniziale già presente così $S'$->$S$.
-2. Ora parti dallo stato che hai appena creato e ne crei uno nuovo che sarà un stato dell'automa LR 
+2. Ora parti dallo stato che hai appena creato e ne crei uno nuovo che sarà un stato dell'automa LR che mo facciamo:
+	Le regole sono queste:
+	- parti da $S'$->$S$ e scrivi nell'insieme $S'$->$.S,$$
+	- Ora devi espandere S scrivendo le sue produzioni nell'insieme AGGIUNGENDO a ciascuna il punto all'inizio del risultato della produzione mettendo a ciascuna il => $,$$ alla fine.
+	- ORA se ci sono dei simboli non terminali devi seguire questo algoritmo:
+		avrai una roba di questo tipo $[A → α · B β , x]$ dove $B$ è terminale tu devi solo creare questa espansione nuova da aggiungere all'insieme: $[B → · γ , FIRST(β x)]$ 
