@@ -2,6 +2,7 @@
 
 ## Teoria
 ### Regex To $\epsilon$-NFA
+????
 ### $\epsilon$-NFA To DFA
 ![[Pasted image 20260120172607.png]]
 ### CFG to PDA
@@ -21,7 +22,7 @@ Esistono $i \neq j$ tali che $A_i = A_j$ (assumiamo che $i, j$ siano fra le ulti
 esempio:
 > Si consideri il seguente linguaggio su alfabeto {0,1}: L = { vwvRwR | v e w sono numeri binari (inclusa la stringa vuota) } Classificare il linguaggio dicendo se è un linguaggio regolare, libero, ricorsivo, ricorsivamente enumerabile, o nemmeno ricorsivamente enumerabile. Giustificare formalmente la risposta.
 
-Gli step vanno seguiti in fila, dato che $$\text{Regolari}⊂\text{Liberi dal contesto}⊂\text{Ricorsivi}⊂\text{Ricorsivamente enumerabili}$$
+Gli step vanno seguiti in fila, dato che $\text{Regolari}\subset Liberi dal contesto\subset Ricorsivi \subset Ricorsivamente enumerabili$
 Steps:
 1. Controllo della regolarità (REG)
 	Se $L$ fosse regolare, esisterebbe un $p>0$ (costante di pumping) tale che ogni stringa $s \in L$ con $∣s∣≥p$ si può scrivere come $s=xyz$ con:
@@ -45,8 +46,7 @@ Steps:
 		si scompone il linguaggio dato in due sottolinguaggi e si cerca di dimostrare che $L_1$ ed $L_2$ siano uno regolare e l'altro libero, oppure entrambi liberi perchè $L_1 \in REG, \\\ L_2 \in CFL, \\\ L_1\cap L_2 \in CFG$ e $L_1\cap L_2 = L$ che è il linguaggio fornito.
 3. Controllo Ricorsivo
 	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta oppure termina se $x \not\in L$ se non accetta.
-	Se un linguaggio è ricorsivo è perforza anche RE, e se non è RE non è neanche Ricorsivo.
-	Problema DECIDIBILE, se un linguaggio è CFL allora è anche Ricorsibi
+	Problemi DECIDIBILI.	
 4. Controllo RE:
 	Se esiste una TM (algoritmo) che termina se $x\in L$ e accetta, ed invece non termina MAI se $x\not\in L$ andando avanti all'infinito.
 	Problema SEMI-DECIDIBILE
