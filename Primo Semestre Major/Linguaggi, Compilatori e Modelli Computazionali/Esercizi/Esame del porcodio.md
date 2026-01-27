@@ -168,3 +168,11 @@ Ricordandosi che:
 	ESEMPIO => $S \rightarrow . Bb, \$$ diventa $S \rightarrow B . b, \$$ quindi la Transizione ha come valore $B$ che porta in un nuovo stato che ha come insieme $S \rightarrow B . b, \$$ e ATTENZIONE che se la trasformazione ottenuta ha dopo il punto uno stato terminale DEVI fare l'espansione come spiegato nel punto 2) lista 3).
 
 Ora hai l'automa e devi fare la tabella per verificare se sia effettivamente un LR(1):
+Ora l'automa ha degli stati che siano $q_0,q_1,...,q_n$, prendi quelli stati e tutti i simboli della grammatica + i simboli non terminali e costruisci la tabella che ha sulle righe gli stati e sulle colonne i simboli della grammatica + i simboli non terminali:
+
+|       | a   | b   | c   | A   | B   |
+| ----- | --- | --- | --- | --- | --- |
+| $q_0$ |     |     |     |     |     |
+| $q_1$ |     |     |     |     |     |
+| ...   |     |     |     |     |     |
+| $q_n$ |     |     |     |     |     |
