@@ -222,3 +222,4 @@ Ora $\forall t$ ti fai questo:
 		Se è nuovo lo aggiungi al grafo, se no disegna la transizione $t$ che va alla marcatura già presente nel grafo.
 2. Una volta finite le transizioni $t$ controllare se sono stati trovati nuovi $M$, se si ripetere il punto 1) per ogni nuovo $M$ altrimenti fermarsi.
 Esempio con il grafo di prima:
+![[Drawing 2026-01-27 21.04.32.excalidraw]]
