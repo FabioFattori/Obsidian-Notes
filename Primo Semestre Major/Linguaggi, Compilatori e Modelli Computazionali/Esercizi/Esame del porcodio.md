@@ -192,8 +192,11 @@ La casella rimane vuota solo se queste due condizioni sono vere:
 - non ci sono trasformazione con il carattere/simbolo terminale
 - non si può ridurre perchè non c'è il simbolo che stiamo valutando dopo la virgola in nessuna transizione dello stato di partenza.
 ## Reti di Petri
+La freccia che va da un quadrato ad un cerchio **CONSUMA** un token.
+La freccia che va da un cerchio ad un quadrato **PRODUCE** un token.
 ![[Pasted image 20260127203040.png]]
 ### Prima fase: Capire se è bounded
 Voglio capire se **esiste un modo per far crescere all’infinito il numero di token in qualche posto**:
 - se SI => unbounded
 - se NO => bounded
+Per capirlo facciamoci una piccola tabella per ogni quadrato ($t_i$) nella quale ci scriviamo quanti token produce e consuma, se esiste un $t$ che ne produce 2 ma ne consuma 1 allora è unbound.
