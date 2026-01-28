@@ -165,19 +165,19 @@ Ricordandosi che:
 - \\/ => or, o uno o l'altro
 - /\ => and
 - $\neg$ => not
-## Grammatica LR(1)
-1. Ti verrà fornita una grammatica, ad essa aggiungi un nuovo stato iniziale allo stato ini+a1+aaziale già presente così $S'$->$S$.
-2. Ora parti dallo stato che hai appena creato e ne crei uno nuovo che sarà un stato dell'automa LR che mo facciamo:
+## Grammatica SLR(1)
+1. Ti verrà fornita una grammatica, ad essa aggiungi un nuovo stato iniziale allo stato iniziale già presente così $S'$->$S$.
+2. Ora parti dallo stato che hai appena creato e ne crei uno nuovo che sarà un stato dell'automa SLR che mo facciamo:
 	Le regole sono queste:
-	1. parti da $S'$->$S$ e scrivi nell'insieme $S'$->$.S,$$
-	2. Ora devi espandere S scrivendo le sue produzioni nell'insieme AGGIUNGENDO a ciascuna il punto all'inizio del risultato della produzione mettendo a ciascuna il => $,$$ alla fine.
+	1. parti da $S'$->$S$ e scrivi nell'insieme $S'$->$.S$
+	2. Ora devi espandere S scrivendo le sue produzioni nell'insieme perchè il punto ha DAVANTI a se un simbolo non terminale.
 	3. ORA se ci sono dei simboli non terminali devi seguire questo algoritmo:
-		avrai una roba di questo tipo $[A → α · B β , x]$ dove $B$ è terminale tu devi solo creare questa espansione nuova da aggiungere all'insieme: $[B → · γ , \text{FIRST}(β x)]$  dove $\gamma$ è il risultato delle produzioni di $B$ (questo procedimento è da fare per ogniuna delle produzioni) ricordandosi che il $FIRST(\$) = \$$.
-	Continui fino a che non puoi più espandere perchè quello che ottieni non è più della forma $[A → α · B β , x]$, NON IMPORTA SE $\beta$ è non terminale.
-3. Ora il tuo insieme è uno stato dell'automa LR(1), e mo dobbiamo fare le transizioni, per farle e capire quali fare dobbiamo solo spostare il punto di una posizione verso destra:
-	ESEMPIO => $S \rightarrow . Bb, \$$ diventa $S \rightarrow B . b, \$$ quindi la Transizione ha come valore $B$ che porta in un nuovo stato che ha come insieme $S \rightarrow B . b, \$$ e ATTENZIONE che se la trasformazione ottenuta ha dopo il punto uno stato terminale DEVI fare l'espansione come spiegato nel punto 2) lista 3).
+		avrai una roba di questo tipo $A → α · B β$ dove $B$ è terminale tu devi solo creare questa espansione nuova da aggiungere all'insieme: $B → · γ$  dove $\gamma$ è il risultato delle produzioni di $B$ (questo procedimento è da fare per ogniuna delle produzioni).
+	Continui fino a che non puoi più espandere perchè quello che ottieni non è più della forma $A → α · B β$, NON IMPORTA SE $\beta$ è non terminale.
+3. Ora il tuo insieme è uno stato dell'automa SLR(1), e mo dobbiamo fare le transizioni, per farle e capire quali fare dobbiamo solo spostare il punto di una posizione verso destra:
+	ESEMPIO => $S \rightarrow . Bb$ diventa $S \rightarrow B . b$ quindi la Transizione ha come valore $B$ che porta in un nuovo stato che ha come insieme $S \rightarrow B . b$ e ATTENZIONE che se la trasformazione ottenuta ha dopo il punto uno stato terminale DEVI fare l'espansione come spiegato nel punto 2) lista 3).
 
-Ora hai l'automa e devi fare la tabella per verificare se sia effettivamente un LR(1):
+Ora hai l'automa e devi fare la tabella per verificare se sia effettivamente un SLR(1):
 Ora l'automa ha degli stati che siano $q_0,q_1,...,q_n$, prendi quelli stati e tutti i simboli della grammatica + i simboli non terminali e costruisci la tabella che ha sulle righe gli stati e sulle colonne i simboli della grammatica + i simboli non terminali:
 
 |       | a   | b   | c   | A   | B   |
