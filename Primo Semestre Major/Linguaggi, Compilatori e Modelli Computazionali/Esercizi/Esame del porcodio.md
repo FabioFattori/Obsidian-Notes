@@ -166,7 +166,7 @@ Ricordandosi che:
 - /\ => and
 - $\neg$ => not
 ## Grammatica LR(1)
-1. Ti verrà fornita una grammatica, ad essa aggiungi un nuovo stato iniziale allo stato iniziale già presente così $S'$->$S$.
+1. Ti verrà fornita una grammatica, ad essa aggiungi un nuovo stato iniziale allo stato ini+a1+aaziale già presente così $S'$->$S$.
 2. Ora parti dallo stato che hai appena creato e ne crei uno nuovo che sarà un stato dell'automa LR che mo facciamo:
 	Le regole sono queste:
 	1. parti da $S'$->$S$ e scrivi nell'insieme $S'$->$.S,$$
