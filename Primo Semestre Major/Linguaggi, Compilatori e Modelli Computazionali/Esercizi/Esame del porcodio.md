@@ -191,9 +191,10 @@ Ora l'automa ha degli stati che siano $q_0,q_1,...,q_n$, prendi quelli stati e t
 Ora guarda SOLO le transizioni da stato $q_i$ e riempi la tabella per ogni carattere dell'alfabeto e simbolo terminale, dove $q_j$ è lo stato di arrivo:
 - $s,q_j$ => prefisso $s$ se la transizione avviene con un simbolo dell'alfabeto
 - $g,q_j$ => prefisso $g$ se la transizione avviene con un simbolo non terminale
-- $r,X\rightarrow \gamma$ => prefisso $r$ quando fai una riduzione, ovvero quando nell'insieme di $q_i$ c'è una trasformazione che ha il punto alla fine ($A\rightarrow \gamma .$) e tu stai valutando nella tabella un simbolo che APPARTIENE al FOLLOW di tale transformazione. CRAZY!
+- $r,X\rightarrow \gamma$ => prefisso $r$ quando fai una riduzione, ovvero quando nell'insieme di $q_i$ c'è una trasformazione che ha il punto alla fine ($A\rightarrow \beta .$) e tu stai valutando nella tabella un simbolo che APPARTIENE al FOLLOW di tale transformazione. CRAZY!
+  $X\rightarrow \gamma$ è la trasformazione INIZIALE, quella fornita dalla grammatica. 
 - $accept$ => SOLO IN QUESTO CASO => lo stato ha $S'\rightarrow S.$ e tu stai valutando proprio il $\$$.
-	L'*accept* di fatto è un sottoinsieme del *reduce*,  
+	L'*accept* di fatto è un sottoinsieme del *reduce*, dico questo perchè il follow di $S'\rightarrow S$ è pari a $\$$ 
 La casella rimane vuota solo se queste due condizioni sono vere:
 - non ci sono trasformazione con il carattere/simbolo terminale
 - non si può ridurre perchè non c'è il simbolo che stiamo valutando dopo la virgola in nessuna transizione dello stato di partenza.
