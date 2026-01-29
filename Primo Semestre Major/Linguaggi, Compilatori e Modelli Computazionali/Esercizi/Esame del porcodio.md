@@ -3,6 +3,7 @@
 ## Teoria
 ## NFA to DFA
 ![[Pasted image 20260129005227.png]]
+![[Pasted image 20260129005240.png]]
 ### Regex To $\epsilon$-NFA
 ![[Pasted image 20260127175136.png]]
 ![[Pasted image 20260127175152.png]]
