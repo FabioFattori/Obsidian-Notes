@@ -1,3 +1,4 @@
+# Esame Del Porcodio
 ![[Pasted image 20260127175152.png]]
 ## How To Esercizi
 ## Classificazione Dei Linguaggi
