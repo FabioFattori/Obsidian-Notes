@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "Concetti"
             }
+          },
+          {
+            "id": "3766ed8b3f819690",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "NFA2RE"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +212,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cea4a4f7f81db72",
+  "active": "3766ed8b3f819690",
   "lastOpenFiles": [
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Esame del porcodio.md",
     "Pasted image 20260129005240.png",
     "Pasted image 20260129005227.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Esame del porcodio.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Untitled",
     "Pasted image 20260127221232.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-27 21.04.32.excalidraw.md",
@@ -228,7 +241,6 @@
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
-    "Pasted image 20260126190738.png",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es1.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/es1.md",
