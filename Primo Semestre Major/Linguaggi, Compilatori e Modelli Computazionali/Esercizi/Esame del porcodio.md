@@ -1,35 +1,4 @@
-# Esame Del Porcodio
-
-## Teoria
-## NFA to DFA
-![[Pasted image 20260129005227.png]]
-![[Pasted image 20260129005240.png]]
-### Regex To $\epsilon$-NFA
-![[Pasted image 20260127175136.png]]
 ![[Pasted image 20260127175152.png]]
-## DFA/NFA To Regex
-![[Pasted image 20260119201706.png]]
-RICORDA => se eliminando degli stati :
-- unione tra archi => OR = +
-- se due archi devono accadere per creare il nuovo arco => CONCATENAZIONE 
-La formula la applichi SOLO quando arrivi in una situazione del genere, dopo aver eliminando n stati.
-### $\epsilon$-NFA To DFA
-![[Pasted image 20260120172607.png]]
-## PDA to CFG
-![[Pasted image 20260127221232.png]]
-### CFG to PDA
-![[Pasted image 20260127005556.png]]
-ACCETTAZIONE DEL PDA => per pila vuota.
-### Pumping Lemma REG Con Dimostrazione
-![[Pasted image 20260127005541.png]]
-### Pumping Lemma CFL Con Dimostrazione
-![[Pasted image 20260121182032.png]]
-![[Pasted image 20260127010150.png]]
-Consideriamo un cammino $A0$,$A1$ … $Aka$ di lunghezza massima: ha lunghezza $≥ m + 1$.
-Esistono $i \neq j$ tali che $A_i = A_j$ (assumiamo che $i, j$ siano fra le ultime $m + 1$ variabili del cammino)
-- Osservazione 1: l’albero radicato in $A_i$ ha altezza $≤ m + 1$, quindi la stringa corrispondente ha lunghezza $≤ 2^m = n$ (cioe’ $|vwx| ≤ n$) 
-- Osservazione 2: le stringhe $v$ e $x$ non possono essere entrambe vuote in quanto $A_i$ (essendo la grammatica in CNF) genera due variabili entrambe non annullabili (quindi $|vx| > 0$) 
-- Osservazione 3: l’albero sintattico ottenuto ripetendo un numero arbitrario di volte (possibilmente anche $0$ volte) la parte di albero radicato in $A_i$ meno l’albero radicato in $A_j$, continua ad essere un albero sintattico corretto (quindi $\forall i ≥ 0, uv^iwx^iy ∈ L$)
 ## How To Esercizi
 ## Classificazione Dei Linguaggi
 esempio:
