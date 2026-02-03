@@ -97,16 +97,13 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 ### Quali Sono I Più Noti Algoritmi Di Clustering? #Ricapitato_1_volta
 - **Clustering partizionale**
     - **K-means**  
-        È uno degli algoritmi di clustering più noti. Suddivide i dati in kkk cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
+        È uno degli algoritmi di clustering più noti. Suddivide i dati in k cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
 - **Clustering gerarchico**
     - **Hierarchical Clustering** (agglomerativo o divisivo)  
         Costruisce una gerarchia di cluster senza richiedere la scelta preventiva del numero di cluster, rappresentabile tramite dendrogramma.
 - **Clustering basato sulla densità**
     - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**  
         Identifica cluster come regioni ad alta densità di punti ed è in grado di individuare outlier come rumore.
-- **Clustering probabilistico / model-based**
-    - **Gaussian Mixture Models (GMM)**  
-        Assume che i dati siano generati da una combinazione di distribuzioni gaussiane e assegna i punti ai cluster in modo probabilistico.
 ## 23/06/2017
 ### Nel Classificatore SVM Cosa Sono I Support Vectors?
 Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
