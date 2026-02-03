@@ -353,21 +353,6 @@ Infatti, l’iperpiano di separazione ottimale è determinato unicamente da quei
 Tutti gli altri pattern del training set, che si trovano a distanza maggiore dal margine, **non influenzano la posizione dell’iperpiano** e non compaiono nella formula della funzione di decisione.
 Questo avviene perché, nella formulazione duale della SVM, solo i support vector hanno **moltiplicatori di Lagrange non nulli**; di conseguenza, solo essi contribuiscono alla definizione del vettore dei pesi e quindi al calcolo della distanza dall’iperpiano.
 In conclusione, la distanza di un pattern dall’iperpiano SVM dipende **solo dai support vector**, rendendo la SVM un modello sparso.
-### Descrizione a Grandi Linee dell’algoritmo Di Clustering K-means
-L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la partizione di un insieme di pattern in **K cluster**, in modo da minimizzare la distanza intra-cluster.
-L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
-1. **Inizializzazione**  
-   Si sceglie il numero di cluster $K$ e si inizializzano i **centroidi** dei cluster, tipicamente in modo casuale.
-2. **Assegnazione dei pattern**  
-   Ogni pattern viene assegnato al cluster il cui centroide è **più vicino**, secondo una misura di distanza (tipicamente la distanza euclidea).
-3. **Aggiornamento dei centroidi**  
-   Per ciascun cluster si ricalcola il centroide come **media dei pattern** attualmente assegnati al cluster.
-4. **Iterazione fino a convergenza**  
-   I passi di assegnazione e aggiornamento vengono ripetuti fino a quando:
-   - i centroidi non cambiano più;
-   - oppure le assegnazioni dei pattern restano invariate.
-
-L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
 ### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_N_volta
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
