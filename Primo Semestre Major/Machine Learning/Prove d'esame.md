@@ -231,7 +231,6 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 [[reti feed and ricorrenti]]
 ## 22/06/18
 ### Indicare Le Principali “stagioni” Nello Sviluppo dell’intelligenza Artificiale E Machine Learning #Ricapitato_N_volta
-![[1.jpeg|700]]
 ### Definire I Problemi Di Classificazione E Regressione Evidenziandone Le Differenze E Fornendo per Ciascuno Esempi Reali Della Loro Applicazione. #Ricapitato_1_volta
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
 #### Problema Di Classificazione
