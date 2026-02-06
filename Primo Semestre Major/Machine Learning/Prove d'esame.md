@@ -231,6 +231,67 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 [[reti feed and ricorrenti]]
 ## 22/06/18
 ### Indicare Le Principali “stagioni” Nello Sviluppo dell’intelligenza Artificiale E Machine Learning #Ricapitato_N_volta
+
+## 1940–1974 – La nascita e gli anni d’oro
+- Primi calcolatori elettronici (relè e valvole termoioniche) nascono in epoca II guerra mondiale.
+- Teoria della computazione di Turing e Test di Turing.
+- Teoria dell’Informazione di Shannon.
+- Neuroni artificiali (McCullock and Pitts, 1943).
+- Nascita ufficiale e conio del nome al Dartmouth Workshop (1956).
+  Pionieri: McCarthy, Minsky, Shannon, Newell, Simon.
+- Primi importanti risultati nel symbolic reasoning, problem solving (es. GPS),
+  natural language processing (es. Eliza).
+- Grande entusiasmo e previsioni troppo ottimistiche.
+  - 1970, Marvin Minsky:
+    "In from three to eight years we will have a machine with the general intelligence of an average human being."
+
+## 1974–1980 – Il primo inverno
+- Risultati non all’altezza delle aspettative, drastica riduzione dei finanziamenti.
+- Problemi:
+  - scarsa capacità computazionale
+  - esplosione combinatoria e non trattabilità
+  - dataset di piccole dimensioni
+- Ridimensionamento dell’approccio connessionistico (reti neurali).
+
+## 1980–1987 – Nuova primavera
+- Nascita dei sistemi esperti: conoscenza + regole logiche.
+- Nuova linfa alle reti neurali grazie all’algoritmo Backpropagation
+  (Rumelhart, Hinton & Williams, 1986).
+- Finanziamento governativo giapponese per la Quinta Generazione di Calcolatori:
+  calcolatori “intelligenti”.
+
+## 1987–1993 – Il secondo inverno
+- Flop della Quinta generazione, nuovo stop ai finanziamenti.
+- Hardware specializzato non più competitivo con PC, calo del business.
+- Risultati concreti dei sistemi esperti solo in campi specifici.
+- Reti neurali non scalano a problemi complessi.
+
+## 1993–2011 – Tempi moderni
+- Hardware sempre più potente.
+- Bayesian Networks, Intelligent Agents.
+- Classificatori robusti:
+  - SVM
+  - Multi-classificatori (Random Forest, Adaboost)
+- Hidden Markov Models (HMM).
+- Maturità delle tecniche di feature extraction (hand-crafted) in diversi domini
+  (SIFT, Dictionaries & Bag of Words).
+- Deep Blue, Watson, DARPA Grand Challenge (guida automatica).
+- Successi in numerose discipline:
+  visione, sistemi biometrici, riconoscimento del parlato, robotica,
+  guida automatica, diagnosi mediche, data mining,
+  motori di ricerca, videogames.
+
+## 2011–oggi – Deep learning
+- CNN (Convolutional Neural Network) introdotte da Yann LeCun nel 1989,
+  ma con risultati inizialmente inferiori ad altre tecniche.
+- Mancavano due ingredienti fondamentali:
+  - big data
+  - potenza di calcolo
+- Possibilità di addestrare reti deep con milioni di parametri.
+- 2012: rivoluzione in Computer Vision.
+  - Una CNN chiamata AlexNet vince (con ampio margine) l’ImageNet Challenge.
+  - Task: object classification e detection.
+  - Dataset: milioni di immagini, 1000 classi.
 ### Definire I Problemi Di Classificazione E Regressione Evidenziandone Le Differenze E Fornendo per Ciascuno Esempi Reali Della Loro Applicazione. #Ricapitato_1_volta
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
 #### Problema Di Classificazione
