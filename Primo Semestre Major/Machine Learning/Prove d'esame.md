@@ -231,30 +231,7 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 [[reti feed and ricorrenti]]
 ## 22/06/18
 ### Indicare Le Principali “stagioni” Nello Sviluppo dell’intelligenza Artificiale E Machine Learning #Ricapitato_N_volta
-Lo sviluppo dell’**Intelligenza Artificiale (AI)** e del **Machine Learning (ML)** può essere suddiviso in alcune principali *stagioni storiche*, ciascuna caratterizzata da differenti approcci e tecniche.
-#### 1. AI Simbolica (anni ’50–’70)
-La prima fase è caratterizzata dall’**approccio simbolico**, in cui l’intelligenza viene modellata tramite:
-- regole logiche esplicite;
-- sistemi basati su conoscenza e inferenza;
-- rappresentazioni simboliche del sapere.
-
-In questa fase l’intelligenza è vista come **manipolazione di simboli**, con poca o nessuna capacità di apprendimento dai dati.
-#### 2. Primo Entusiasmo per Le Reti Neurali (anni ’60–’80)
-Emergono i primi modelli di **reti neurali artificiali**, come il **percettrone**.  
-Tuttavia, limitazioni teoriche e computazionali portano a un ridimensionamento dell’interesse (prima “AI winter”).
-#### 3. Machine Learning Classico (anni ’90–2000)
-Con l’aumento della disponibilità di dati e potenza di calcolo si sviluppa il **Machine Learning statistico**, basato su:
-- modelli supervisionati e non supervisionati;
-- metodi come regressione, classificatori lineari, SVM, clustering.
-
-L’attenzione si sposta dall’uso di regole esplicite all’**apprendimento dai dati**.
-#### 4. Deep Learning (anni 2010–oggi)
-La fase più recente è caratterizzata dall’affermazione del **Deep Learning**, grazie a:
-- reti neurali profonde;
-- grandi quantità di dati;
-- elevata potenza computazionale.
-
-Le DNN consentono di apprendere **rappresentazioni gerarchiche** dei dati e hanno portato a risultati rilevanti in visione, linguaggio e decision making.
+![[1.jpeg|700]]
 ### Definire I Problemi Di Classificazione E Regressione Evidenziandone Le Differenze E Fornendo per Ciascuno Esempi Reali Della Loro Applicazione. #Ricapitato_1_volta
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
 #### Problema Di Classificazione
