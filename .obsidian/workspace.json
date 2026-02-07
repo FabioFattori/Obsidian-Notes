@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Prove d'esame"
             }
-          },
-          {
-            "id": "b7789c7a20958334",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "reti feed and ricorrenti"
-            }
           }
         ]
       }

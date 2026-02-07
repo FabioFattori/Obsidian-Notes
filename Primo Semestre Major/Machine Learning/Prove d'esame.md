@@ -892,7 +892,7 @@ $p(x) = p(x|w_0)*p(w_0) + ... \\\ per \\\ ogni \\\ i \in \{0,...,d\}$ => densit�
 $p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
 Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
-![[1-sol.png]]
+![[1-sol.png|600]]
 ## Calcolo Dei Pesi Di Una NN Durante Il front Propagation #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
@@ -948,7 +948,7 @@ il calcolo dei pesi diventa => ((3 × 11 × 11)+1) × 96 = 34944
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
-## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP
+## Calcolo Del Numero Di Somme E Moltiplicazioni in Un NN VARIANTE Del MLP
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png]]
 ### Svolgimento
 ![[es14.png]]
@@ -985,7 +985,6 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 ## Calcolo Del Numero Di Pesi Di Una MLP CON BAYAS (simile Ma Diverso Dal Calcolo Che È Stato Fatto Nell'esercizio precedente)
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png]]
 ### Svolgimento
-il calcolo è praticamente uguale a quello fatto qua [[#Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP]] ma è diverso perchè c'è il bayas quindi bisogna fare questo:
 $(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
 Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
 ## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K #Ricapitato_1_volta
