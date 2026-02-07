@@ -876,11 +876,12 @@ rappresenta la **ricompensa cumulativa attesa** che un agente può ottenere:
 
 Gli **input** che determinano il valore della funzione Q sono quindi:
 - lo **stato** dell’ambiente $s$;
-- l’**azione** $a$ eseguita dall’agente.
+- l’**azione** $a$ eseguita dal l'agente.
 
 La funzione Q guida la scelta dell’azione che massimizza la ricompensa nel processo di apprendimento per rinforzo.
+
 ---
-# Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
+# Esercizi
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
