@@ -228,11 +228,11 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 	nelle reti ricorrenti sono previste connessioni di feedback (in genere verso neuroni dello stesso livello, ma anche all’indietro). Questo complica notevolmente il flusso delle informazioni e l’addestramento, richiedendo di considerare il comportamento in più istanti temporali.Come si imposta un problema di multiple linear regression? Come sono popolati
 	Questo tipo di reti presenzia un effetto memoria, molto utile quando il tipo di dato è del genere delle sequenze.
 #### Disegno
-[[reti feed and ricorrenti]]
+![[reti feed and ricorrenti]]
 ## 22/06/18
 ### Indicare Le Principali “stagioni” Nello Sviluppo dell’intelligenza Artificiale E Machine Learning #Ricapitato_N_volta
 
-## 1940–1974 – La nascita e gli anni d’oro
+## 1940–1974 – La Nascita E Gli Anni d’oro
 - Primi calcolatori elettronici (relè e valvole termoioniche) nascono in epoca II guerra mondiale.
 - Teoria della computazione di Turing e Test di Turing.
 - Teoria dell’Informazione di Shannon.
@@ -245,7 +245,7 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
   - 1970, Marvin Minsky:
     "In from three to eight years we will have a machine with the general intelligence of an average human being."
 
-## 1974–1980 – Il primo inverno
+## 1974–1980 – Il Primo Inverno
 - Risultati non all’altezza delle aspettative, drastica riduzione dei finanziamenti.
 - Problemi:
   - scarsa capacità computazionale
@@ -253,20 +253,20 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
   - dataset di piccole dimensioni
 - Ridimensionamento dell’approccio connessionistico (reti neurali).
 
-## 1980–1987 – Nuova primavera
+## 1980–1987 – Nuova Primavera
 - Nascita dei sistemi esperti: conoscenza + regole logiche.
 - Nuova linfa alle reti neurali grazie all’algoritmo Backpropagation
   (Rumelhart, Hinton & Williams, 1986).
 - Finanziamento governativo giapponese per la Quinta Generazione di Calcolatori:
   calcolatori “intelligenti”.
 
-## 1987–1993 – Il secondo inverno
+## 1987–1993 – Il Secondo Inverno
 - Flop della Quinta generazione, nuovo stop ai finanziamenti.
 - Hardware specializzato non più competitivo con PC, calo del business.
 - Risultati concreti dei sistemi esperti solo in campi specifici.
 - Reti neurali non scalano a problemi complessi.
 
-## 1993–2011 – Tempi moderni
+## 1993–2011 – Tempi Moderni
 - Hardware sempre più potente.
 - Bayesian Networks, Intelligent Agents.
 - Classificatori robusti:
@@ -281,7 +281,7 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
   guida automatica, diagnosi mediche, data mining,
   motori di ricerca, videogames.
 
-## 2011–oggi – Deep learning
+## 2011–oggi – Deep Learning
 - CNN (Convolutional Neural Network) introdotte da Yann LeCun nel 1989,
   ma con risultati inizialmente inferiori ad altre tecniche.
 - Mancavano due ingredienti fondamentali:
