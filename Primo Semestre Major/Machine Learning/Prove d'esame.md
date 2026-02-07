@@ -627,12 +627,11 @@ La differenza principale riguarda la **quantità di dati utilizzata per ogni agg
   - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
 
 In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
-Per l’addestramento di una rete neurale che cosa si intende con vettore di output desiderato? Come può essere
-definito? Come si può calcolare l’errore da retro-propagare a partire dal vettore desiderato e dal valore calcolato
-dalla rete per un pattern? Oltre alla spiegazione riportare un esempio### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
+### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
 Il **vettore di media μ** determina la **posizione** dell’ellissoide:
   - μ rappresenta il **centro** della distribuzione;
   - traslando μ, l’intero ellissoide si sposta nello spazio.
+
 La **matrice di covarianza Σ** determina la **forma, dimensione e orientamento** dell’ellissoide:
   - gli **autovalori** di Σ controllano l’estensione dell’ellissoide lungo ciascuna direzione;
   - gli **autovettori** di Σ determinano l’orientamento dell’ellissoide;
