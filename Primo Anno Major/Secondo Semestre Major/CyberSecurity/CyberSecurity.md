@@ -11,3 +11,16 @@ Per esame quindi è necessario studiare:
 - Letture obbligatorie fornite dal professore durante le lezioni
 - Tutorial forniti dal prof che spesso si traducono in laboratori
 ![[Screenshot 2026-02-17 alle 09.53.31.png]]
+### Esempio di domande 
+esempi delle prime quattro => devi guardare quelle del **LM ISI**
+
+>Detailed description of the most technical aspects is *mandatory* in LM ISI
+>Detailed description of the digital transformation
+
+aspects (e.g., economic issues) is *suggested* in LM_ISI
+
+https://virtuale.unibo.it/mod/forum/discuss.php?d=215607
+
+Domande sulle letture obbligatorie
+
+> It is required to carefully *SUMMARIZE* the paper AND then to discuss it based on *your* OPINIONS (i.e., critical thinking) and KNOWLEDGE
