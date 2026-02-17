@@ -10,3 +10,4 @@ Per esame quindi è necessario studiare:
 - Libro SOLO le parti mandatory del documento sopra
 - Letture obbligatorie fornite dal professore durante le lezioni
 - Tutorial forniti dal prof che spesso si traducono in laboratori
+![[Screenshot 2026-02-17 alle 09.53.31.png]]
