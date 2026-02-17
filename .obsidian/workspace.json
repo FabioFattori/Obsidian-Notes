@@ -1,16 +1,15 @@
 {
   "main": {
-    "id": "5d19c9f3f537370e",
+    "id": "092c319ee6ef50f5",
     "type": "split",
     "children": [
       {
-        "id": "699bf31b9b72259a",
+        "id": "77f682fb691ea501",
         "type": "tabs",
         "children": [
           {
-            "id": "e817346795ccbb0e",
+            "id": "b67892895f983441",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,27 +17,8 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Concetti"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4db48c61b740925f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "339f2839aab67db7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "es2"
             }
           }
         ]
@@ -47,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "de87ff6043e2ceb9",
+    "id": "581913a0769927a2",
     "type": "split",
     "children": [
       {
-        "id": "87b0a49a6c70b1f9",
+        "id": "b5d92ac8e336c391",
         "type": "tabs",
         "children": [
           {
-            "id": "236d99eeb2bf1ece",
+            "id": "0c68e30dac42d4ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
-            "id": "0a701b24c16b6039",
+            "id": "c162d8c8c65e89dd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ricapitato_1_volta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,11 +61,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
-            "id": "6758cb9dbefd28c1",
+            "id": "65120141720755ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 300
   },
   "right": {
-    "id": "88847ce415c059b6",
+    "id": "874a710f4c55ca53",
     "type": "split",
     "children": [
       {
-        "id": "cffb387111320d69",
+        "id": "ea072811bd49e39c",
         "type": "tabs",
         "children": [
           {
-            "id": "379fdf104cd9949a",
+            "id": "a3c7ac72816113e5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Applicazioni Data Intensive"
+              "title": "Riferimenti a es2"
             }
           },
           {
-            "id": "dbb49bdf972d6937",
+            "id": "6a83f0950e554050",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Intensive Notes/Applicazioni Data Intensive.md",
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Applicazioni Data Intensive"
+              "title": "Collegamenti in uscita da es2"
             }
           },
           {
-            "id": "9317ead2d61bd298",
+            "id": "e1a1142c9c7de200",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,32 +137,21 @@
             }
           },
           {
-            "id": "a2edb2b57b7c4526",
+            "id": "6a55dd2c10e9240a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primo Semestre Major/Machine Learning/slides/1_ML_Introduzione.pdf",
+                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 1_ML_Introduzione"
-            }
-          },
-          {
-            "id": "6ceab9df1fe4b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Struttura di es2"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,65 +160,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
+      "bases:Crea nuova Base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "339f2839aab67db7",
+  "active": "b67892895f983441",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13",
-    "Pasted image 20260126004231.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1",
-    "Pasted image 20260125215528.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es4.md",
-    "Pasted image 20260125193741.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es3.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es3.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es4.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/esempio.md",
-    "Pasted Image 20260124184418_242.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/es2.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19/Untitled.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2/NFA2RE.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260121162520.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2016-2-19",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260124134448.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123174544.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123174418.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123174112.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/29_10_2025/Pasted image 20260123173628.png",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/PDA2CFG.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Compilatori.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Untitled.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/algoritmi di parsing - bottom-up parsing.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/slides/1 - linguaggi regolari.pdf",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/Consegna.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2",
-    "Primo Semestre Major/Machine Learning/slides/3_ML_Classificazione.pdf",
-    "Primo Semestre Major/Machine Learning/Prove d'esame.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es4.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es1.md",
-    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
-    "conflict-files-obsidian-git.md"
+    "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md"
   ]
 }
