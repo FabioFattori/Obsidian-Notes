@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌓",
+      "🥙",
       "☔",
       "🔱",
-      "🗣",
-      "LiAtom",
-      "🌳"
+      "🗣"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -53,18 +53,20 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Primo Semestre Major": "📚",
   "Terzo anno Triennale": {
     "iconName": "LiGraduationCap",
     "iconColor": "#00e1ff"
   },
   "Terzo anno Triennale/Tesi Shit": "LiNewspaper",
   "Terzo anno Triennale/Data Intensive Notes": "LiDatabase",
-  "Primo Semestre Major/Sistemi Informativi": "LiInfo",
-  "Primo Semestre Major/Distributed System": "🌳",
-  "Primo Semestre Major/Machine Learning": "LiWashingMachine",
-  "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": "LiAtom",
   "Code Interviews Concepts": "🗣",
   "Code Interviews Concepts/OOP": "🔱",
-  "Random Notes": "☔"
+  "Random Notes": "☔",
+  "Primo Anno Major/Primo Semestre Major": "📚",
+  "Primo Anno Major/Primo Semestre Major/Distributed System": "🌳",
+  "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": "LiAtom",
+  "Primo Anno Major/Primo Semestre Major/Machine Learning": "LiWashingMachine",
+  "Primo Anno Major/Primo Semestre Major/Sistemi Informativi": "LiInfo",
+  "Primo Anno Major/Secondo Semestre Major": "🥙",
+  "Primo Anno Major": "🌓"
 }

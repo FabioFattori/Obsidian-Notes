@@ -50,7 +50,7 @@ Per ogni modello fornito devi fare le seguenti cose:
 	Dato che questa formula ha il $\forall$, **basta un solo numero** per il quale la formula non è vera per renderla **non soddisfatta**. 
 Ripeti per ogni modello switchando il contesto.
 ## LL(1) Con Tabella
-![[Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/es1]]
+![[Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1/es1]]
 ### Calcolo First
 nella trasformazione prendi il primo simbolo terminale se presente, altrimenti prendi il first del simbolo non terminale e lo unisci con il first che stai calcolando, le condizioni in or sono anche esse da calcolare e da unire con il first che hai già calcolato.
 S -> aBb

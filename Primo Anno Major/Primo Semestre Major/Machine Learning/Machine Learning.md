@@ -11,13 +11,13 @@ Machine Learning => ragionamento di tipo induttivo dato che parte da degli esemp
 	Esempi nell'AI => Prompt to Image, comporre musica ecc.
 - Abduttivo:
 	Ragionamento probabilistico, come gli altri, ma che ha di diverso che invece di generalizzare ci si muove in maniera laterale ipotizzando quindi che un'implicazione valga anche al contrario:
-	![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/2.jpeg]]
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/3.jpeg]]
+	![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/2.jpeg]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/3.jpeg]]
 ### AI E Machine Learning
 Termini ombrello che ricoprono diverse discipline:
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/1.jpeg]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/1.jpeg]]
 ### Machine Learning
-Un modello di Machine Learning (apprendimento automatico) durante la fase di training apprende a partire da esempi. Successivamente è in grado di generalizzare e gestire nuovi dati nello stesso dominio applicativo.![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/4.jpeg]]
+Un modello di Machine Learning (apprendimento automatico) durante la fase di training apprende a partire da esempi. Successivamente è in grado di generalizzare e gestire nuovi dati nello stesso dominio applicativo.![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/4.jpeg]]
 ### AI E Brute Force
 - Brute force (ricerca esaustiva): in alcuni domini applicativi un calcolatore può andare a calcolare e valutare tutte le possibili soluzioni.
   Nella maggior parte dei casi però non sono gestibili a livello computazionale.
@@ -85,50 +85,50 @@ Quindi quando si parla di Pattern Recognition si intende la disciplina che studi
 ### Approcci Non Parametrici E Stima Della Densità
 - Curse of Dimensionality 
 #### Stima Della Densità
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/5.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/5.png]]
 Da ricordare l'ultima formula.
 Si vuole ”migliorare" (rendere più pulita la funzione) quindi:
 ##### Parzen Window
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/6.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/6.png]]
 ### Classificatore Nearest Neighbor (NN)
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/7.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/7.png]]
 ### k-Nearest-Neighbor (k-NN)
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/8.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/8.png]]
 continua fino a pag 33.
 ### NN E Prototipi Di Classi
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/9.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/9.png]]
 Sta roba funziona bene o male in base ai dai che abbiamo, è una semplificazione stretta, perchè si da per scontato che i gruppi di dati siano fatti in maniera circolare, cosa che non corrisponde molto spesso alla realtà.
 ### METRIC LEARNING NON SI FA
 ## Similarità Coseno E Distanza Coseno
 Variante della distanza euclidea.
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/10.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/10.png]]
 La distanza coseno non è una metrica dato che non rispetta la diseguaglianza triangolare.
 # 20/10/2025 Inizio Quarto Pdf, Nello Specifico Da SVM
 ## Support Vector Machines (SVM)
 Invece di stimare le densità di probabilità delle classi ovvero determinare le superfici decisionali tra le classi (<span style="color:rgb(255, 0, 0)">classification boundaries</span>).
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/11.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/11.png]]
 ## Idea Alla Base (separazione E margine)
 Date due classi di pattern multidimensionali linearmente separabili, tra tutti i possibili iperpiani di separazione, SVM determina quello in grado di separare le classi con il **maggior margine possibile**.
 >_Il margine_ è la distanza minima di punti delle due classi nel training set dall’ iperpiano individuato.
 
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/12.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/12.png]]
 La massimizzazione del margine è legata alla <span style="color:rgb(255, 0, 0)">generalizzazione</span>. Se i pattern del training set sono classificati con ampio margine si può «sperare» che anche pattern del test set vicini al confine tra le classi siano gestiti correttamente.
 ### SVM Lineari: Pattern Separabili
 Fatto un pò alla buona la parte matematica, l'importante è capire cosa succede e bona.
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/13.png]]
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/14.png]]
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/15.png]]
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/16.png]]![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/17.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/13.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/14.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/15.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/16.png]]![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/17.png]]
 ### SVM Lineari: Pattern Non Separabili
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/18.png]]
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/19.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/18.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/19.png]]
 ## SVM Non Lineari
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/20.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/20.png]]
 ### SVM Non Lineari: Kernel Functions
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/21.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/21.png]]
 $\sigma$ fa le veci di un regolarizzatore, permettendo delle gaussiane più piccole (come l'$h$ di Parzen).
 ## SVM: Estensione Multiclasse
-![[Primo Semestre Major/Machine Learning/imgs/22_10_2025/22.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/22_10_2025/22.png]]
 ### SVM in Pratica
 _**Quando usare SVM:**_
 SVM offre una buona reliability su _**dati numerici omogenei**_, ma è meno performante di modelli basati su alberi decisionali, come il RandomForest, su dati _**tabulari eterogenei**_.
@@ -141,7 +141,7 @@ Approccio per il quale si usano diversi classificatori in parallelo, in cascata 
 Nella pratica è stato dimostrato come investire tempo nell’ottimizzazione «spinta» di un singolo classificatore è in genere meno conveniente rispetto all’affiancamento dello stesso ad altri classificatori.
 #### Warning
 L'affiancamento è efficace però solo quando i modelli affiancati sono indipendenti fra loro, ovvero _**non commetto gli stessi errori**_.
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/1.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/1.png]]
 > La combinazione può essere eseguti a livello di decisione o a livello di confidenza.
 
 ### Fusione a Livello Di Decisione
@@ -152,21 +152,21 @@ Ogni singolo modello restituisce in output la sua decisione, che corrisponde all
 > L’approccio One-Against-One, consente di risolvere un problema di classificazione multi-classe, attraverso classificatori binari.
 
 ### Fusione a Livello Di Confidenza
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/2.png]]
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.png]]
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/4.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/2.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/4.png]]
 ## Classificatori Basati Su Alberi Decisionali
 ### Random Forest
 Basato sulla tecnica di Bagging, quindi viene sotto campionato il training set:
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/5.png]]
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/6.png]]
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/7.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/5.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/6.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/7.png]]
 _**Iperparametri classici**_:
 - n_estimators $\rightarrow$ numero di alberi nella forest, aumentare n_estimators oltre al valore ottimale in genere non produce overfitting (ma rende il sistema meno efficiente).
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/8.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/8.png]]
 ### AdaBoost
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/9.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/9.png]]
 Al termine dell’addestramento, il classificatore finale (strong) è la media pesata dei weak classifiers.
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/10.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/10.png]]
 ## Gradient Boosting
-![[Primo Semestre Major/Machine Learning/imgs/27_10_2025/11.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/11.png]]

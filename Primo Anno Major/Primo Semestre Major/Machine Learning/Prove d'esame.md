@@ -884,7 +884,7 @@ La funzione Q guida la scelta dell’azione che massimizza la ricompensa nel pro
 # Esercizi
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
 
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
 ### Svolgimento
 $d$ => numero di classi. 
 $p(x | w_i)$ => densità di probabilità condizionale di $w_i$ 
@@ -894,27 +894,27 @@ Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
 ![[1-sol.png|600]]
 ## Calcolo Dei Pesi Di Una NN Durante Il front Propagation #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
 ![[es2.png]]
 ## Majority Vote Rule Di Una Multiclassificatore #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/3.png]]
 ### Svolgimento
 Qui banalmente devi scegliere la classe che viene prodotta di più dai singoli classificatori per ogni riga, il numero scritto in grassetto è quello che dovresti scrivere all'esame.
 ## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Una MLP #Ricapitato_1_volta_senza_bias
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/4.png]]
 ### Svolgimento
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/5.png]]
 ## Calcolo Del Vettore Medio E Della Matrica Di Covarianza #Ricapitato_1_volta
 backpropaga
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/6.png]]
 ### Svolgimento
 $n$ => numero dei pattern forniti dall'esercizio
 $\mu$ => vettore media dei pattern forniti, per questo esercizio in particolare bisogna fare la media del primo elemento dei singoli pattern e del secondo elemento:
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/7.png]]
 per quanto riguarda la matrice basta applicare la formula, è lunga ma si fa, ricordati che la dimensione di $\sum{}{}$ è la dimensione del singolo pattern per la dimensione di $\mu$ perchè alla fine della fiera è una moltiplicazione tra matrici.
 ## Prima Iterazione Dell'algoritmo K-means per I Seguenti Pattern #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/8.png]]
 ### Svolgimento
 Per quanto riguarda l'appartenenza ai centroidi bisogna calcolare la distanza euclidea di ogni punto da ciascuno dei due, la minore ci dice a quale cluster appartiene il pattern:
 $$d(p_i,c_i) = \sqrt{(x_{p_i} - x_{c_i})^2 + (y_{p_i} - y_{c_i})^2}$$
@@ -931,37 +931,37 @@ quindi per i nuovi centroidi dovremo fare questo:
 $x_{c_1} = \frac{x_{p_2} + x_{p_3}}{2}$
 $y_{c_1} = \frac{y_{p_2} + y_{p_3}}{2}$
 è una media bel, se non ti fidi controlla questo risultato che sono i nuovi centroidi trovati dal prof come soluzione dell'esercizio:
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/9.png]]
 ## Tabella Multiclassificatore Con Somma, Prodotto, Massimo E Minimo #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/10.png]]
 backpropaga### Svolgimento
 Questo è abbastanza semplice, basta prendere i dati dei singoli classificatore e applicare le singole strategie per riempire la tabella e poi prendi il massimo per determinare l'out delle singole strategie.
 Le cifre in grassetto sono da calcolare per questo esercizio specifico:
 ![[es10.png]]
 ## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN #Ricapitato_1_volta_con_variante_del_bias
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/11.png]]
 Ogni neurone del livello di output (96 × 55 × 55) è connesso con tanti neuroni del livello di input pari alla dimensione del filtro (3 × 11 × 11). Pertanto il numero totale di connessioni è (96 × 55 × 55) ∙ (3 × 11 × 11) = 105 415 200. Il numero totale di pesi, invece, risulta molto più piccolo giacché in una CNN i pesi di ciascun filtro sono condivisi da tutti i neuroni contenuti in una stessa feature map. Visto che il numero di feature map è uguale a 96, ed il numero di input per ciascun filtro è pari a (3 × 11 × 11), il numero totale di pesi (senza considerare il bias) è (3 × 11 × 11) × 96 = 34 848.
 ### Variante Bias
 Calcolo delle connessioni rimane uguale.
 il calcolo dei pesi diventa => ((3 × 11 × 11)+1) × 96 = 34944
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X VARIANTE #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
 ## Calcolo Del Numero Di Somme E Moltiplicazioni in Un NN VARIANTE Del MLP
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png]]
 ### Svolgimento
 ![[es14.png]]
 ## Calcolo Del Numero Di Connessioni E Dei Pesi Di Un Livello Di Una CNN VARIANTE Con Anche Un MLP
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/15.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/15.png]]
 ### Svolgimento
 ![[es15.png]]
 ## Calcolo Del Numero Di Run E Della Partizione Del Training Set E Validation Set Durante L'algoritmo K-fold Cross-Validation
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/16.png]]
 ### Svolgimento
 ![[es16.png]]
 ## Tabella Borda Count Di Un Multiclassificatore
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/17.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/17.png]]
 ### Svolgimento
 Qui è importante la classifica che il testo fa, quindi:
 - prima posizione => vale 10
@@ -983,34 +983,34 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 - $p_2$ => 1 classe con 27
 - $p_3$ => 3 classe con 27
 ## Calcolo Del Numero Di Pesi Di Una MLP CON BAYAS (simile Ma Diverso Dal Calcolo Che È Stato Fatto Nell'esercizio precedente)
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png]]
 ### Svolgimento
 $(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
 Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
 ## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/19.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/19.png]]
 ### Svolgimento
 ![[es19.png]]
 ## Formulare Il Problema Di Multiple Linear Regressor Definendo X Ed Y
 ![[es20.png]]
 ### Svolgimento
 Come spiegato anche nella domanda di teoria, la pratica si fa nell'esatto modo:
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/20.png]]
 ## PCA E LDA
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/21.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/21.png]]
 ### Svolgimento
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/22.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/22.png]]
 ## Calcolo Delle Dimensioni Delle Feature Map Prodotte Da Una CNN
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/23.png]]
 ### Svolgimento
 ![[es23.png]]
 ## Numero Di _run_ E Numero Di Pattern Di Training E Validation Di K-fold Cross Validation
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/24.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/24.png]]
 ### Svolgimento
 ![[es24.png]]Cosa si intende per K-fold cross-validation? Quali sono i vantaggi rispetto a un semplice split a due dei
 dati di training?
 ## Numero Di Neuroni E Pesi Addestrabili in Una Rete Ricorrente Nella Sua Versione Unfolded #Ricapitato_1_volta
-![[Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
+![[Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/Esercizi/25.png]]
 ### Svolgimento
 ![[es25.png]]
 ## Calcolo Del Volume Di Output Di Una CNN Data Una Immagine #Ricapitato_1_volta
