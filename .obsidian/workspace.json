@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a es2"
+              "title": "Riferimenti a CyberSecurity"
             }
           },
           {
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Struttura di es2"
             }
+          },
+          {
+            "id": "ef605dff0dc83cd1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
