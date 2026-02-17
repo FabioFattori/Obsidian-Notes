@@ -22,3 +22,5 @@ https://virtuale.unibo.it/mod/forum/discuss.php?d=215607
 Domande sulle letture obbligatorie
 
 > It is required to carefully *SUMMARIZE* the paper AND then to discuss it based on *your* OPINIONS (i.e., critical thinking) and KNOWLEDGE
+
+Tipicamente ci sono 4/5 letture obbligatorie
