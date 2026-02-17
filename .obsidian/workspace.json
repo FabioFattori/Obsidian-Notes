@@ -11,10 +11,14 @@
             "id": "78eac4d725fb39b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "CyberSecurity"
             }
           }
         ]
@@ -168,8 +172,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "78eac4d725fb39b1",
   "lastOpenFiles": [
+    "Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.jpeg",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity",
     "Senza nome",
     "Primo Anno Major",
     "Primo Anno Major/Secondo Semestre Major",
