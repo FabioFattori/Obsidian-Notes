@@ -5,3 +5,8 @@ La situa è weird perchè a sto giro il libro è MANDATORY, usa questo documento
 
 > Le slides sono SOLO per integrare e non sono abbastanza per passare l'esame.
 
+Per esame quindi è necessario studiare:
+- Slide
+- Libro SOLO le parti mandatory del documento sopra
+- Letture obbligatorie fornite dal professore durante le lezioni
+- Tutorial forniti dal prof che spesso si traducono in laboratori
