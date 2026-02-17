@@ -95,18 +95,15 @@ Nello specifico $\eta$ rappresenta l'ampiezza del passo di discesa segue la dire
 - quando si sceglie un $\eta$ troppo piccolo si ottiene che la rete convergerà più lentamente con maggiori probabilità di rimanere bloccati in un minimo locale
 - invece quando lo si sceglie troppo grande otterremo delle oscillazioni indesiderate dei pesi facendo divergere il processo di training 
 ### Quali Sono I Più Noti Algoritmi Di Clustering? #Ricapitato_1_volta
-- **Clustering partizionale**
+Tra le Famiglie degli algoritmi abbiamo:
+- **Clustering basato su centroidi**
     - **K-means**  
-        È uno degli algoritmi di clustering più noti. Suddivide i dati in kkk cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
+        È uno degli algoritmi di clustering più noti. Suddivide i dati in k cluster minimizzando la varianza intra-cluster, utilizzando la distanza euclidea e centroidi aggiornati iterativamente.
+    - Expectation - Maximization (Gaussian Mixture)
 - **Clustering gerarchico**
-    - **Hierarchical Clustering** (agglomerativo o divisivo)  
-        Costruisce una gerarchia di cluster senza richiedere la scelta preventiva del numero di cluster, rappresentabile tramite dendrogramma.
 - **Clustering basato sulla densità**
-    - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**  
+    - **DBSCAN**  
         Identifica cluster come regioni ad alta densità di punti ed è in grado di individuare outlier come rumore.
-- **Clustering probabilistico / model-based**
-    - **Gaussian Mixture Models (GMM)**  
-        Assume che i dati siano generati da una combinazione di distribuzioni gaussiane e assegna i punti ai cluster in modo probabilistico.
 ## 23/06/2017
 ### Nel Classificatore SVM Cosa Sono I Support Vectors?
 Sono i pattern che giacciono sul margine, tali pattern definiscono completamente la soluzione del problema indipendentemente dalla dimensione $d$ e dal numero di pattern $n$.
@@ -231,33 +228,70 @@ La K-fold cross-validation permette di ottenere una **stima più affidabile dell
 	nelle reti ricorrenti sono previste connessioni di feedback (in genere verso neuroni dello stesso livello, ma anche all’indietro). Questo complica notevolmente il flusso delle informazioni e l’addestramento, richiedendo di considerare il comportamento in più istanti temporali.Come si imposta un problema di multiple linear regression? Come sono popolati
 	Questo tipo di reti presenzia un effetto memoria, molto utile quando il tipo di dato è del genere delle sequenze.
 #### Disegno
-[[reti feed and ricorrenti]]
+![[reti feed and ricorrenti]]
 ## 22/06/18
 ### Indicare Le Principali “stagioni” Nello Sviluppo dell’intelligenza Artificiale E Machine Learning #Ricapitato_N_volta
-Lo sviluppo dell’**Intelligenza Artificiale (AI)** e del **Machine Learning (ML)** può essere suddiviso in alcune principali *stagioni storiche*, ciascuna caratterizzata da differenti approcci e tecniche.
-#### 1. AI Simbolica (anni ’50–’70)
-La prima fase è caratterizzata dall’**approccio simbolico**, in cui l’intelligenza viene modellata tramite:
-- regole logiche esplicite;
-- sistemi basati su conoscenza e inferenza;
-- rappresentazioni simboliche del sapere.
 
-In questa fase l’intelligenza è vista come **manipolazione di simboli**, con poca o nessuna capacità di apprendimento dai dati.
-#### 2. Primo Entusiasmo per Le Reti Neurali (anni ’60–’80)
-Emergono i primi modelli di **reti neurali artificiali**, come il **percettrone**.  
-Tuttavia, limitazioni teoriche e computazionali portano a un ridimensionamento dell’interesse (prima “AI winter”).
-#### 3. Machine Learning Classico (anni ’90–2000)
-Con l’aumento della disponibilità di dati e potenza di calcolo si sviluppa il **Machine Learning statistico**, basato su:
-- modelli supervisionati e non supervisionati;
-- metodi come regressione, classificatori lineari, SVM, clustering.
+## 1940–1974 – La Nascita E Gli Anni d’oro
+- Primi calcolatori elettronici (relè e valvole termoioniche) nascono in epoca II guerra mondiale.
+- Teoria della computazione di Turing e Test di Turing.
+- Teoria dell’Informazione di Shannon.
+- Neuroni artificiali (McCullock and Pitts, 1943).
+- Nascita ufficiale e conio del nome al Dartmouth Workshop (1956).
+  Pionieri: McCarthy, Minsky, Shannon, Newell, Simon.
+- Primi importanti risultati nel symbolic reasoning, problem solving (es. GPS),
+  natural language processing (es. Eliza).
+- Grande entusiasmo e previsioni troppo ottimistiche.
+  - 1970, Marvin Minsky:
+    "In from three to eight years we will have a machine with the general intelligence of an average human being."
 
-L’attenzione si sposta dall’uso di regole esplicite all’**apprendimento dai dati**.
-#### 4. Deep Learning (anni 2010–oggi)
-La fase più recente è caratterizzata dall’affermazione del **Deep Learning**, grazie a:
-- reti neurali profonde;
-- grandi quantità di dati;
-- elevata potenza computazionale.
+## 1974–1980 – Il Primo Inverno
+- Risultati non all’altezza delle aspettative, drastica riduzione dei finanziamenti.
+- Problemi:
+  - scarsa capacità computazionale
+  - esplosione combinatoria e non trattabilità
+  - dataset di piccole dimensioni
+- Ridimensionamento dell’approccio connessionistico (reti neurali).
 
-Le DNN consentono di apprendere **rappresentazioni gerarchiche** dei dati e hanno portato a risultati rilevanti in visione, linguaggio e decision making.
+## 1980–1987 – Nuova Primavera
+- Nascita dei sistemi esperti: conoscenza + regole logiche.
+- Nuova linfa alle reti neurali grazie all’algoritmo Backpropagation
+  (Rumelhart, Hinton & Williams, 1986).
+- Finanziamento governativo giapponese per la Quinta Generazione di Calcolatori:
+  calcolatori “intelligenti”.
+
+## 1987–1993 – Il Secondo Inverno
+- Flop della Quinta generazione, nuovo stop ai finanziamenti.
+- Hardware specializzato non più competitivo con PC, calo del business.
+- Risultati concreti dei sistemi esperti solo in campi specifici.
+- Reti neurali non scalano a problemi complessi.
+
+## 1993–2011 – Tempi Moderni
+- Hardware sempre più potente.
+- Bayesian Networks, Intelligent Agents.
+- Classificatori robusti:
+  - SVM
+  - Multi-classificatori (Random Forest, Adaboost)
+- Hidden Markov Models (HMM).
+- Maturità delle tecniche di feature extraction (hand-crafted) in diversi domini
+  (SIFT, Dictionaries & Bag of Words).
+- Deep Blue, Watson, DARPA Grand Challenge (guida automatica).
+- Successi in numerose discipline:
+  visione, sistemi biometrici, riconoscimento del parlato, robotica,
+  guida automatica, diagnosi mediche, data mining,
+  motori di ricerca, videogames.
+
+## 2011–oggi – Deep Learning
+- CNN (Convolutional Neural Network) introdotte da Yann LeCun nel 1989,
+  ma con risultati inizialmente inferiori ad altre tecniche.
+- Mancavano due ingredienti fondamentali:
+  - big data
+  - potenza di calcolo
+- Possibilità di addestrare reti deep con milioni di parametri.
+- 2012: rivoluzione in Computer Vision.
+  - Una CNN chiamata AlexNet vince (con ampio margine) l’ImageNet Challenge.
+  - Task: object classification e detection.
+  - Dataset: milioni di immagini, 1000 classi.
 ### Definire I Problemi Di Classificazione E Regressione Evidenziandone Le Differenze E Fornendo per Ciascuno Esempi Reali Della Loro Applicazione. #Ricapitato_1_volta
 Nel Machine Learning supervisionato si distinguono principalmente due tipologie di problemi: **classificazione** e **regressione**, che differiscono per la natura della variabile di output da predire.
 #### Problema Di Classificazione
@@ -356,21 +390,6 @@ Infatti, l’iperpiano di separazione ottimale è determinato unicamente da quei
 Tutti gli altri pattern del training set, che si trovano a distanza maggiore dal margine, **non influenzano la posizione dell’iperpiano** e non compaiono nella formula della funzione di decisione.
 Questo avviene perché, nella formulazione duale della SVM, solo i support vector hanno **moltiplicatori di Lagrange non nulli**; di conseguenza, solo essi contribuiscono alla definizione del vettore dei pesi e quindi al calcolo della distanza dall’iperpiano.
 In conclusione, la distanza di un pattern dall’iperpiano SVM dipende **solo dai support vector**, rendendo la SVM un modello sparso.
-### Descrizione a Grandi Linee dell’algoritmo Di Clustering K-means
-L’algoritmo di **K-means** è una tecnica di **clustering non supervisionato** che ha come obiettivo la partizione di un insieme di pattern in **K cluster**, in modo da minimizzare la distanza intra-cluster.
-L’algoritmo opera in maniera iterativa secondo i seguenti passi principali:
-1. **Inizializzazione**  
-   Si sceglie il numero di cluster $K$ e si inizializzano i **centroidi** dei cluster, tipicamente in modo casuale.
-2. **Assegnazione dei pattern**  
-   Ogni pattern viene assegnato al cluster il cui centroide è **più vicino**, secondo una misura di distanza (tipicamente la distanza euclidea).
-3. **Aggiornamento dei centroidi**  
-   Per ciascun cluster si ricalcola il centroide come **media dei pattern** attualmente assegnati al cluster.
-4. **Iterazione fino a convergenza**  
-   I passi di assegnazione e aggiornamento vengono ripetuti fino a quando:
-   - i centroidi non cambiano più;
-   - oppure le assegnazioni dei pattern restano invariate.
-
-L’algoritmo converge a un **minimo locale** della funzione obiettivo, che consiste nella **somma dei quadrati delle distanze dei pattern dai rispettivi centroidi**.
 ### Qual È la Funzione Obiettivo in Formato Matriciale Della Multiple Linear Regression? #Ricapitato_N_volta
 Nella **Multiple Linear Regression**, l’obiettivo è stimare il vettore dei parametri $\beta$ in modo da minimizzare l’errore tra i valori osservati $y$ e quelli predetti dal modello lineare.
 Dato:
@@ -608,12 +627,11 @@ La differenza principale riguarda la **quantità di dati utilizzata per ogni agg
   - è l’approccio più utilizzato nella pratica per l’addestramento delle reti neurali.
 
 In sintesi, l’approccio on-line usa batch di dimensione 1, mentre il mini-batch usa batch di dimensione maggiore, ottenendo aggiornamenti più stabili.
-Per l’addestramento di una rete neurale che cosa si intende con vettore di output desiderato? Come può essere
-definito? Come si può calcolare l’errore da retro-propagare a partire dal vettore desiderato e dal valore calcolato
-dalla rete per un pattern? Oltre alla spiegazione riportare un esempio### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
+### La Posizione E Forma dell’ellissoide Di Una Distribuzione Multinormale come È Influenzata Da 𝜇 E Ʃ?
 Il **vettore di media μ** determina la **posizione** dell’ellissoide:
   - μ rappresenta il **centro** della distribuzione;
   - traslando μ, l’intero ellissoide si sposta nello spazio.
+
 La **matrice di covarianza Σ** determina la **forma, dimensione e orientamento** dell’ellissoide:
   - gli **autovalori** di Σ controllano l’estensione dell’ellissoide lungo ciascuna direzione;
   - gli **autovettori** di Σ determinano l’orientamento dell’ellissoide;
@@ -858,11 +876,12 @@ rappresenta la **ricompensa cumulativa attesa** che un agente può ottenere:
 
 Gli **input** che determinano il valore della funzione Q sono quindi:
 - lo **stato** dell’ambiente $s$;
-- l’**azione** $a$ eseguita dall’agente.
+- l’**azione** $a$ eseguita dal l'agente.
 
 La funzione Q guida la scelta dell’azione che massimizza la ricompensa nel processo di apprendimento per rinforzo.
+
 ---
-# Esercizi (si Ripetono Svariate Volte, Sono Bene O Male Sempre questi)
+# Esercizi
 ## Classificatore Di Bayes Multinormale, Calcolare per Il Punto X #Ricapitato_1_volta
 
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/1.png]]
@@ -873,7 +892,7 @@ $p(x) = p(x|w_0)*p(w_0) + ... \\\ per \\\ ogni \\\ i \in \{0,...,d\}$ => densit�
 $p(w_i|x) = \frac{p(x|w_i) * p(w_i)}{p(x)}$ => densità a posteri di $w_i$
 Per trovare l'indice basta che prendi la i della densità a posteri maggiore.
 ![[es1.png]]
-![[1-sol.png]]
+![[1-sol.png|600]]
 ## Calcolo Dei Pesi Di Una NN Durante Il front Propagation #Ricapitato_1_volta
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/2.png]]
 ### Svolgimento
@@ -929,7 +948,7 @@ il calcolo dei pesi diventa => ((3 × 11 × 11)+1) × 96 = 34944
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/12.png]]
 ### Svolgimento
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/13.png]]
-## Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP
+## Calcolo Del Numero Di Somme E Moltiplicazioni in Un NN VARIANTE Del MLP
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/14.png]]
 ### Svolgimento
 ![[es14.png]]
@@ -966,7 +985,6 @@ Ottenuta questa tabella bisogna dire la classe predetta, quindi basta prendere i
 ## Calcolo Del Numero Di Pesi Di Una MLP CON BAYAS (simile Ma Diverso Dal Calcolo Che È Stato Fatto Nell'esercizio precedente)
 ![[Primo Semestre Major/Machine Learning/imgs/Esercizi/18.png]]
 ### Svolgimento
-il calcolo è praticamente uguale a quello fatto qua [[#Calcolo Del Numero Di Addizioni E Moltiplicazioni in Un NN VARIANTE Del MLP]] ma è diverso perchè c'è il bayas quindi bisogna fare questo:
 $(6+1)*8 + (8+1)*5 = 101$ che è il numero di pesi, la formula è uguale ma c'è quel $+1$ aggiunto al numero di neuroni del layer $i$ che va poi moltiplicato con il layer $i+1$ che rappresenta il bayas.
 Motivazione? in una MLP il numero di pesi è pari al numero di connessioni intra layer, con l'aggiunta del +1 per il bayas.
 ## Capire la Classe Predetta Da K-NN Dato Un Grafo E Dei Valori Di K #Ricapitato_1_volta
