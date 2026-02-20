@@ -23,3 +23,5 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ![[Screenshot 2026-02-20 alle 15.08.54.png]]
 #### Opacità
 ![[Screenshot 2026-02-20 alle 15.09.02.png]]
+
+## 
