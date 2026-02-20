@@ -10,4 +10,5 @@ interferenze ed errori in programmi concorrenti possono portare ad errori critic
 ![[Drawing 2026-02-20 10.22.54.excalidraw]]
 > Fine Pdf 1.
 # Da Programmi a Modelli E Viceversa
-
+![[Drawing 2026-02-20 10.28.09.excalidraw]]
+Speed independence assumption
