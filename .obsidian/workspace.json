@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Programmazione concorrente e distribuita"
             }
+          },
+          {
+            "id": "7811f760f55d4737",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/Drawing 2026-02-20 10.22.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-20 10.22.54.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +196,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d3273a08d7f12f5c",
+  "active": "7811f760f55d4737",
   "lastOpenFiles": [
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/Drawing 2026-02-20 10.22.54.excalidraw.md",
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
@@ -197,7 +212,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/imgs",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory",
-    "Primo Anno Major/Secondo Semestre Major/Theory/Senza nome",
     "Primo Anno Major/Secondo Semestre Major/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
     "Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.jpeg",
     "Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/1.jpeg",
