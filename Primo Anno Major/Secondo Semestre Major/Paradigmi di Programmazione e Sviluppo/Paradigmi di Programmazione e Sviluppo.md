@@ -13,3 +13,13 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ![[Screenshot 2026-02-20 alle 14.43.00.png]]
 #### Complessità Inutile
 ![[Screenshot 2026-02-20 alle 14.43.56.png]]
+#### Rigidità
+![[Screenshot 2026-02-20 alle 15.07.17.png]]
+#### Fragilità
+![[Screenshot 2026-02-20 alle 15.07.36.png]]
+#### Immobilità
+![[Screenshot 2026-02-20 alle 15.08.25.png]]
+#### Viscosità
+![[Screenshot 2026-02-20 alle 15.08.54.png]]
+#### Opacità
+![[Screenshot 2026-02-20 alle 15.09.02.png]]
