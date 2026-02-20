@@ -24,6 +24,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "9cb9bdc0b5f212f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e21b2d8b5ea59d5b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "01-quality"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +207,9 @@
   },
   "active": "44aab0065ba01a1e",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/Screenshot 2026-02-20 alle 13.37.30.png",
@@ -210,8 +232,6 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/Non confermato 925568.crdownload",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides/[module-1.1] Concurrent Programming - Introduction.pdf",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/Non confermato 426600.crdownload",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
