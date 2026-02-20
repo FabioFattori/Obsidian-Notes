@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +184,8 @@
   },
   "active": "5fa97ff787c00b37",
   "lastOpenFiles": [
-    "Screenshot 2026-02-20 alle 13.37.30.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
+    "Screenshot 2026-02-20 alle 13.37.30.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
@@ -211,7 +212,6 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
-    "Primo Anno Major/Secondo Semestre Major/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
