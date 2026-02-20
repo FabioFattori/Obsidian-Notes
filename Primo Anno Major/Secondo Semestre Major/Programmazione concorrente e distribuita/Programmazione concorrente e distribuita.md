@@ -34,9 +34,16 @@ I tipi di dato astratti composti da più strutture dati semplici sono genericame
 
 > Recupera da pagina 26 a pagina 28
 
-# Classi Di Proprietà
+# Correctness of Concurrent Programs 
+La correttezza (ovvero che termina) di un programma concorrente è definito in termini di **proprietà**.
+Queste proprietà sono delle condizioni (booleane) che DEVONO poter essere verificate in ogni possibile scenario.
+Le proprietà sono dei seguenti tipi:
 ## Safety Properties
-> Property **MUST BE ALWAYS TRUE** per ogni stato/nodo *s* del grafo.
-![[Screenshot 2026-02-20 alle 11.41.22.png]]
+>  Property **MUST BE ALWAYS TRUE** per ogni stato/nodo *s* del grafo.
+   ![[Screenshot 2026-02-20 alle 11.41.22.png]]
 
 ## Liveness/Progress Properties
+> The property must **eventually become** true.![[Screenshot 2026-02-20 alle 11.43.17.png]]
+### Fairness
+![[Screenshot 2026-02-20 alle 11.47.09.png]]
+![[Screenshot 2026-02-20 alle 11.48.07.png]]
