@@ -32,13 +32,11 @@
           {
             "id": "7811f760f55d4737",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf"
               },
-              "pinned": true,
               "icon": "lucide-file-text",
               "title": "[module-1.2] Modeling Concurrent Program Execution"
             }
