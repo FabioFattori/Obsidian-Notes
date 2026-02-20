@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d7d9559d71f896d3",
+        "id": "e35f83f2d57c23a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa97ff787c00b37",
+            "id": "44aab0065ba01a1e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md"
+                "file": "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ToStudy"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Paradigmi di Programmazione e Sviluppo"
             }
           }
         ]
@@ -76,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -182,20 +185,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5fa97ff787c00b37",
+  "active": "44aab0065ba01a1e",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/imgs/Screenshot 2026-02-20 alle 13.37.30.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
-    "Screenshot 2026-02-20 alle 13.37.30.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.52.52.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.48.07.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.47.09.png",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.43.17.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.41.22.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 10.52.32.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 10.48.52.png",
@@ -204,12 +209,10 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/Non confermato 925568.crdownload",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.1] Concurrent Programming - Introduction.pdf",
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides/[module-1.1] Concurrent Programming - Introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/Non confermato 426600.crdownload",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides",
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
