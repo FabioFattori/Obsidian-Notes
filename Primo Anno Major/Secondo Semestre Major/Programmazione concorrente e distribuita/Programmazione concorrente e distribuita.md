@@ -15,4 +15,7 @@ Questo approccio crea un grafo (rete di Petri con l'aggiunta delle azioni Atomic
 A livello rigoroso per Speed independence assumption si intende:
 > Modellare l'esecuzione di un programma concorrente come una sequenza di azioni ottenute dall' interleaving arbitrario delle azioni dei processi. 
 
-Per **Scenario/Computazione** si intende una sequenza d'esecuzione che può accadere come risultato dell' interleaving.
+> Per **Scenario/Computazione** si intende una sequenza d'esecuzione che può accadere come risultato dell' interleaving.
+
+> I modelli sono utili per capire se un programma va in deadlock oppure no (non ho idea come).
+
