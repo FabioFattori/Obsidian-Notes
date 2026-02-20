@@ -47,3 +47,6 @@ Le proprietà sono dei seguenti tipi:
 ### Fairness
 ![[Screenshot 2026-02-20 alle 11.47.09.png]]
 ![[Screenshot 2026-02-20 alle 11.48.07.png]]
+### Unconditionally Fair scenario
+![[Screenshot 2026-02-20 alle 11.52.52.png]]
+## Il problema della Sezione Critica
