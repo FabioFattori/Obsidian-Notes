@@ -38,3 +38,8 @@ Il testing è essenziale e VA FATTO ad ogni momento dello sviluppo, più tardi l
 
 ### Principi
 ![[Screenshot 2026-02-20 alle 15.40.21.png]]
+## TDD
+> Parte fondamentale dell'agile development
+
+### Le tre leggi
+![[Screenshot 2026-02-20 alle 15.51.05.png]]
