@@ -12,3 +12,7 @@ interferenze ed errori in programmi concorrenti possono portare ad errori critic
 # Da Programmi a Modelli E Viceversa
 ![[drawing 2]]
 Questo approccio crea un grafo (rete di Petri con l'aggiunta delle azioni Atomiche).
+A livello rigoroso per Speed independence assumption si intende:
+> Modellare l'esecuzione di un programma concorrente come una sequenza di azioni ottenute dall' interleaving arbitrario delle azioni dei processi. 
+
+Per **Scenario/Computazione** si intende una sequenza d'esecuzione che può accadere come risultato dell' interleaving.
