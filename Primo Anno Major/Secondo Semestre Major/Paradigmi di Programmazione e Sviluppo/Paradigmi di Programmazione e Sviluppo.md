@@ -23,5 +23,10 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ![[Screenshot 2026-02-20 alle 15.08.54.png]]
 #### Opacità
 ![[Screenshot 2026-02-20 alle 15.09.02.png]]
+## Steps of software developmen
+![[Screenshot 2026-02-20 alle 15.30.07.png]]
+### problemi
+#### Instabilità dei requirements 
+I Requirements tendo a cambiare sempre, quindi, nel modello waterfall 
+#### Difficoltà nel prevedere in maniera dettagliata il design
 
-## 
