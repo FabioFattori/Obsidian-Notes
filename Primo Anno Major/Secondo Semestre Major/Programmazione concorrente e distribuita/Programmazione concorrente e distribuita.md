@@ -8,3 +8,6 @@ interferenze ed errori in programmi concorrenti possono portare ad errori critic
 ## Macchine Concorrenti
 è una macchina che manda in esecuzione un programma concorrente, tale linguaggio implementa e rende disponibili dei costrutti e delle classi per la gestione concorrente.
 ![[Drawing 2026-02-20 10.22.54.excalidraw]]
+> Fine Pdf 1.
+# Da Programmi a Modelli E Viceversa
+
