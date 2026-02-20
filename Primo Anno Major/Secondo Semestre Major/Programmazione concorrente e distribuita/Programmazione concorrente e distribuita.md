@@ -7,8 +7,8 @@ interferenze ed errori in programmi concorrenti possono portare ad errori critic
 - Livelock
 ## Macchine Concorrenti
 è una macchina che manda in esecuzione un programma concorrente, tale linguaggio implementa e rende disponibili dei costrutti e delle classi per la gestione concorrente.
-![[Drawing 2026-02-20 10.22.54.excalidraw]]
+![[drawing 1]]
 > Fine Pdf 1.
 # Da Programmi a Modelli E Viceversa
-![[Drawing 2026-02-20 10.28.09.excalidraw]]
-Speed independence assumption
+![[drawing 2]]
+Questo approccio crea un grafo (rete di Petri con l'aggiunta delle azioni Atomiche).
