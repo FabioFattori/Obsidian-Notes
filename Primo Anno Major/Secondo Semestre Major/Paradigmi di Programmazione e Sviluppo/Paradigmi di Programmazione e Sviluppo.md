@@ -7,13 +7,4 @@ pochi commenti, piuttosto migliora il codice dato che se metti i commenti è per
 
 In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ## A code quality framework
-Difetti che il codice può avere:
-- Inutili ripetizioni
-- Complessità non necessaria
-- Rigidità
-- Fragilità
-- Immobilità
-- Viscosità
-- Opacità
-
-
+![[Screenshot 2026-02-20 alle 14.37.49.png]]
