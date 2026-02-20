@@ -11,7 +11,7 @@ Per esame quindi è necessario studiare:
 - Letture obbligatorie fornite dal professore durante le lezioni
 - Tutorial forniti dal prof che spesso si traducono in laboratori
 ![[Screenshot 2026-02-17 alle 09.53.31.png]]
-### Esempio di domande And Info About Them
+### Esempio Di Domande And Info About Them
 esempi delle prime quattro => devi guardare quelle del **LM ISI**
 
 >Detailed description of the most technical aspects is **mandatory** in LM ISI.
