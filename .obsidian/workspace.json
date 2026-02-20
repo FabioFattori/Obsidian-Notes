@@ -4,41 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b822538fea729eed",
+        "id": "d7d9559d71f896d3",
         "type": "tabs",
         "children": [
           {
-            "id": "df5ebb461d362cf5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Programmazione concorrente e distribuita"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2c193c77ca896e69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7811f760f55d4737",
+            "id": "5fa97ff787c00b37",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf"
+                "file": "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md"
               },
-              "icon": "lucide-file-text",
-              "title": "[module-1.2] Modeling Concurrent Program Execution"
+              "icon": "excalidraw-icon",
+              "title": "ToStudy"
             }
           }
         ]
@@ -186,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +181,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df5ebb461d362cf5",
+  "active": "5fa97ff787c00b37",
   "lastOpenFiles": [
+    "Screenshot 2026-02-20 alle 13.37.30.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale",
+    "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.52.52.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.48.07.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.47.09.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.43.17.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs/Screenshot 2026-02-20 alle 11.41.22.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
@@ -227,10 +210,8 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
     "Primo Anno Major/Secondo Semestre Major/Theory/imgs/Screenshot 2026-02-17 alle 09.53.31.png",
-    "Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/3.jpeg",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",

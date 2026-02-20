@@ -34,7 +34,7 @@ I tipi di dato astratti composti da più strutture dati semplici sono genericame
 
 > Recupera da pagina 26 a pagina 28
 
-# Correctness of Concurrent Programs 
+# Correctness of Concurrent Programs
 La correttezza (ovvero che termina) di un programma concorrente è definito in termini di **proprietà**.
 Queste proprietà sono delle condizioni (booleane) che DEVONO poter essere verificate in ogni possibile scenario.
 Le proprietà sono dei seguenti tipi:
@@ -47,6 +47,6 @@ Le proprietà sono dei seguenti tipi:
 ### Fairness
 ![[Screenshot 2026-02-20 alle 11.47.09.png]]
 ![[Screenshot 2026-02-20 alle 11.48.07.png]]
-### Unconditionally Fair scenario
+### Unconditionally Fair Scenario
 ![[Screenshot 2026-02-20 alle 11.52.52.png]]
-## Il problema della Sezione Critica
+## Il Problema Della Sezione Critica
