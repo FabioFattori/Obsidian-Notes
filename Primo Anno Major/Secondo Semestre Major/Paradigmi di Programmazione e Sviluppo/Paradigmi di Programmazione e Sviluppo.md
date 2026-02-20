@@ -5,5 +5,15 @@
 pochi commenti, piuttosto migliora il codice dato che se metti i commenti è perchè il codice risulta poco leggibile.
 > La linea guida è non usare i commenti.
 
-In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt)
+In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
+## A code quality framework
+Difetti che il codice può avere:
+- Inutili ripetizioni
+- Complessità non necessaria
+- Rigidità
+- Fragilità
+- Immobilità
+- Viscosità
+- Opacità
+
 
