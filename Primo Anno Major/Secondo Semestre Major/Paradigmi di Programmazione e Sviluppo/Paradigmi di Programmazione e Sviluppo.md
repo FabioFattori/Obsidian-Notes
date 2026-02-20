@@ -26,6 +26,11 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ### Software Engineering: Principi
 #### Rigour and Formality
 ![[Screenshot 2026-02-20 alle 16.01.38.png]]
+#### Separazione delle responsabilità
+![[Screenshot 2026-02-20 alle 16.03.56.png]]
+#### Modularità
+![[Screenshot 2026-02-20 alle 16.04.15.png]]
+
 ## Steps of Software Developmen
 ![[Screenshot 2026-02-20 alle 15.30.07.png]]
 ### Problemi
