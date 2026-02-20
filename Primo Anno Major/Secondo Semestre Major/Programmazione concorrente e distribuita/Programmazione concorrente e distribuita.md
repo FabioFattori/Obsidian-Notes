@@ -31,4 +31,12 @@ La parola "atomico" può essere definito sia alle **azioni** ma anche alle **str
 
 Tipicamente i tipi primitivi nei linguaggi concorrenti sono atomici, ma non sempre (*double* in Java non lo è ad esempio).
 I tipi di dato astratti composti da più strutture dati semplici sono genericamente non atomiche.
-## Sezione criti
+
+> Recupera da pagina 26 a pagina 28
+
+# Classi Di Proprietà
+## Safety Properties
+> Property **MUST BE ALWAYS TRUE** per ogni stato/nodo *s* del grafo.
+![[Screenshot 2026-02-20 alle 11.41.22.png]]
+
+## Liveness/Progress Properties
