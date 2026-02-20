@@ -23,5 +23,5 @@ A livello rigoroso per Speed independence assumption si intende:
 ![[Screenshot 2026-02-20 alle 10.48.52.png]]
 ![[Screenshot 2026-02-20 alle 10.47.55.png]]
 
-### Come calcolare il numero di scenari in base al numero di processi ed il numero di azioni che essi hanno (Poco importante)
+### Come Calcolare Il Numero Di Scenari in Base Al Numero Di Processi Ed Il Numero Di Azioni Che Essi Hanno (Poco importante)
 ![[Screenshot 2026-02-20 alle 10.52.32.png]]
