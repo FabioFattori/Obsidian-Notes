@@ -29,4 +29,12 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 #### Instabilità Dei Requirements
 I Requirements tendo a cambiare sempre, quindi, nel modello waterfall, tocca rifare tutti gli steps della pianificazione.
 #### Difficoltà Nel Prevedere in Maniera Dettagliata Il Design
-Idealmente il design dettagliato va fatto prima dell'inizio dello sviluppo, ma il problema è che molte delle scelte di design vengojn0
+Idealmente il design dettagliato va fatto prima dell'inizio dello sviluppo, ma il problema è che molte delle scelte di design vengono fatte con codice alla mano il che rende quasi impossibile/inutile fare un design dettagliato prima di mettersi a lavorare.
+#### Problemi Con Il Late Testing
+Il testing è essenziale e VA FATTO ad ogni momento dello sviluppo, più tardi lo fai peggio sarà.
+## Manifesto Agile
+![[Screenshot 2026-02-20 alle 15.38.19.png]]
+> Incentrata sull'accettazione del cambiamento, prima con il waterfall era quasi impossibile farlo, tramite l'agile questo rende possibile.
+
+### Principi
+![[Screenshot 2026-02-20 alle 15.40.21.png]]
