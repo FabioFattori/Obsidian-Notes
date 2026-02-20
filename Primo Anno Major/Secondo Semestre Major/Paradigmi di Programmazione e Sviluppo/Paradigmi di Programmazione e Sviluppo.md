@@ -43,3 +43,5 @@ Il testing è essenziale e VA FATTO ad ogni momento dello sviluppo, più tardi l
 
 ### Le tre leggi
 ![[Screenshot 2026-02-20 alle 15.51.05.png]]
+### Metodologia
+![[Screenshot 2026-02-20 alle 15.54.41.png]]
