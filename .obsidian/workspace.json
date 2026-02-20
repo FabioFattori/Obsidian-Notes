@@ -6,6 +6,7 @@
       {
         "id": "e35f83f2d57c23a5",
         "type": "tabs",
+        "dimension": 44.81605351170568,
         "children": [
           {
             "id": "44aab0065ba01a1e",
@@ -28,6 +29,7 @@
       {
         "id": "9cb9bdc0b5f212f2",
         "type": "tabs",
+        "dimension": 55.18394648829431,
         "children": [
           {
             "id": "e21b2d8b5ea59d5b",
@@ -205,10 +207,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44aab0065ba01a1e",
+  "active": "e21b2d8b5ea59d5b",
   "lastOpenFiles": [
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides",
