@@ -8,7 +8,7 @@ interferenze ed errori in programmi concorrenti possono portare ad errori critic
 ## Macchine Concorrenti
 è una macchina che manda in esecuzione un programma concorrente, tale linguaggio implementa e rende disponibili dei costrutti e delle classi per la gestione concorrente.
 ![[drawing 1]]
-> Fine Pdf 1.
+> Fine Pdf 1 inizio Pdf 2.
 # Da Programmi a Modelli E Viceversa
 ![[drawing 2]]
 Questo approccio crea un grafo (rete di Petri con l'aggiunta delle azioni Atomiche).
@@ -19,3 +19,9 @@ A livello rigoroso per Speed independence assumption si intende:
 
 > I modelli sono utili per capire se un programma va in deadlock oppure no (non ho idea come).
 
+## Esempio
+![[Screenshot 2026-02-20 alle 10.48.52.png]]
+![[Screenshot 2026-02-20 alle 10.47.55.png]]
+
+### Come calcolare il numero di scenari in base al numero di processi ed il numero di azioni che essi hanno (Poco importante)
+![[Screenshot 2026-02-20 alle 10.52.32.png]]
