@@ -23,10 +23,10 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ![[Screenshot 2026-02-20 alle 15.08.54.png]]
 #### Opacità
 ![[Screenshot 2026-02-20 alle 15.09.02.png]]
-## Steps of software developmen
+## Steps of Software Developmen
 ![[Screenshot 2026-02-20 alle 15.30.07.png]]
-### problemi
-#### Instabilità dei requirements 
-I Requirements tendo a cambiare sempre, quindi, nel modello waterfall 
-#### Difficoltà nel prevedere in maniera dettagliata il design
-
+### Problemi
+#### Instabilità Dei Requirements
+I Requirements tendo a cambiare sempre, quindi, nel modello waterfall, tocca rifare tutti gli steps della pianificazione.
+#### Difficoltà Nel Prevedere in Maniera Dettagliata Il Design
+Idealmente il design dettagliato va fatto prima dell'inizio dello sviluppo, ma il problema è che molte delle scelte di design vengojn0
