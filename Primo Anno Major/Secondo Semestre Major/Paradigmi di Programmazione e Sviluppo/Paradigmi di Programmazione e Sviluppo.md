@@ -26,7 +26,7 @@ In java bisogna sempre mettere la javadoc sui metodi pubblici (usa chatgpt).
 ### Software Engineering: Principi
 #### Rigour and Formality
 ![[Screenshot 2026-02-20 alle 16.01.38.png]]
-#### Separazione delle responsabilità
+#### Separazione Delle Responsabilità
 ![[Screenshot 2026-02-20 alle 16.03.56.png]]
 #### Modularità
 ![[Screenshot 2026-02-20 alle 16.04.15.png]]
@@ -48,7 +48,7 @@ Il testing è essenziale e VA FATTO ad ogni momento dello sviluppo, più tardi l
 ## TDD
 > Parte fondamentale dell'agile development
 
-### Le tre leggi
+### Le Tre Leggi
 ![[Screenshot 2026-02-20 alle 15.51.05.png]]
 ### Metodologia
 ![[Screenshot 2026-02-20 alle 15.54.41.png]]
