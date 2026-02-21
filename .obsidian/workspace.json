@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Sistemi Informativi Notes"
             }
+          },
+          {
+            "id": "6925d5f81a90fd58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appunti X Esame"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +199,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e9a888a0083c7dc6",
+  "active": "6925d5f81a90fd58",
   "lastOpenFiles": [
-    "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
+    "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.04.15.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.03.56.png",
