@@ -24,3 +24,5 @@ Domande sulle letture obbligatorie
 > It is required to carefully *SUMMARIZE* the paper AND then to discuss it based on *your* OPINIONS (i.e., critical thinking) and KNOWLEDGE
 
 Tipicamente ci sono 4/5 letture obbligatorie
+# First Lesson
+> primo pdf da pagina 36 fino a pagina 

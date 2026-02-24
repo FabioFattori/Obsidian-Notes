@@ -10,6 +10,7 @@
           {
             "id": "724ba7bebdb8ecd4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "CyberSecurity"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8247487f6868713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feeeb22a94f71190",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "00-DISI_Cyber-2526_Course_introduction"
             }
           }
         ]
@@ -185,6 +205,9 @@
   },
   "active": "724ba7bebdb8ecd4",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
@@ -209,12 +232,9 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/imgs",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/Non confermato 925568.crdownload",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md",
