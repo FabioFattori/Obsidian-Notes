@@ -8,8 +8,9 @@
 
 Tali legami vengono descritti tramite reticoli che delineano responsabilità e funzioni.
 #### Divisional
-![[Pasted image 20260224212957.png|inlR]]Le persone vengono raggruppate in base al prodotto o servizio che forniscono, non al lavoro che svolgono. Ad esempio, una grande società come la General Electric ha divisioni per l'elettronica, i trasporti e l'aviazione, ognuna con il proprio team di contabili, esperti di marketing, ecc.   
+```avatar
+image: Pasted image 20260224212957.png
+description: This will be displayed as the description!
+size: small
+```
 
-| ![[Pasted image 20260224212957.png\|inlR]] |     |
-| ------------------------------------------ | --- |
-|                                            |     |
