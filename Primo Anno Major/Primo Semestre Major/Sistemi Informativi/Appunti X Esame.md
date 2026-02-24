@@ -8,12 +8,24 @@
 
 Tali legami vengono descritti tramite reticoli che delineano responsabilità e funzioni.
 #### Divisional
-```avatar
-image: Pasted image 20260224212957.png
-description: Le persone vengono raggruppate in base al prodotto o servizio che forniscono, non al lavoro che svolgono. Ad esempio, una grande società come la General Electric ha divisioni per l'elettronica, i trasporti e l'aviazione, ognuna con il proprio team di contabili, esperti di marketing, ecc.
-size: 400
-objectPosition: -10% -50%
-```
+![[Pasted image 20260224212957.png]]
+> Le persone vengono raggruppate in base al prodotto o servizio che forniscono, non al lavoro che svolgono.
 
+Ad esempio, una grande società come la General Electric ha divisioni per l'elettronica, i trasporti e l'aviazione, ognuna con il proprio team di contabili, esperti di marketing, ecc.
+#### Functional
+![[Pasted image 20260224214513.png]]
+> Raggruppa persone che svolgono compiti simili in base alla loro area di specializzazione.
 
+In altre parole, troverai tutti i contabili in finanza e tutti i marketer nel marketing. I manager guidavano ogni area e riferiscono a un direttore o dirigente che potrebbe supervisionare più dipartimenti.
+#### Matrix
+![[Pasted image 20260224214602.png]]
+>  È un ibrido delle strutture funzionali e divisionali. Può coinvolgere dipendenti che riferiscono a capi diversi a seconda del loro attuale incarico.
 
+Ad esempio, uno specialista in progettazione software può riferire al suo capo in IT, ma è anche coinvolto in progetti specifici grazie alla sua esperienza. Quando ciò accade, riferisce al capo progetto.
+### Piramide delle mansioni aziendali
+![[Pasted image 20260224214810.png]]
+Tale piramide è consolidata per la suddivisione delle mansioni aziendali:
+- Strategic Level
+	Si concentra sulle attività necessarie per garantire un posizionamento competitivo e una strategia a lungo termine
+- Middle Level
+	
