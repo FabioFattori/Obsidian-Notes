@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e35f83f2d57c23a5",
+        "id": "16940377a82a0aa2",
         "type": "tabs",
-        "dimension": 44.81605351170569,
         "children": [
           {
-            "id": "44aab0065ba01a1e",
+            "id": "724ba7bebdb8ecd4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Paradigmi di Programmazione e Sviluppo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9cb9bdc0b5f212f2",
-        "type": "tabs",
-        "dimension": 55.18394648829431,
-        "children": [
-          {
-            "id": "e21b2d8b5ea59d5b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "01-quality"
+              "title": "CyberSecurity"
             }
           }
         ]
@@ -190,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +183,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "44aab0065ba01a1e",
+  "active": "724ba7bebdb8ecd4",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+    "conflict-files-obsidian-git.md",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.04.15.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.03.56.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.01.38.png",
@@ -216,11 +196,9 @@
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.40.21.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.38.19.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.30.07.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.09.02.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.08.54.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.08.25.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity.zip",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs",
@@ -238,7 +216,6 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
-    "conflict-files-obsidian-git.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-27 21.04.32.excalidraw.md",
