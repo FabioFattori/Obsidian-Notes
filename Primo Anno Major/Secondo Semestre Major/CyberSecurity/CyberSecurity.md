@@ -25,4 +25,7 @@ Domande sulle letture obbligatorie
 
 Tipicamente ci sono 4/5 letture obbligatorie
 # First Lesson
-> primo pdf da pagina 36 fino a pagina 
+> primo pdf da pagina 36 fino a pagina 53
+
+# Second Lesson
+
