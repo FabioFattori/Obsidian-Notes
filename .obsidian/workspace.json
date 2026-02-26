@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "16940377a82a0aa2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "724ba7bebdb8ecd4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "CyberSecurity"
-            }
-          }
-        ]
-      },
-      {
         "id": "e8247487f6868713",
         "type": "tabs",
         "children": [
@@ -33,12 +11,14 @@
             "id": "feeeb22a94f71190",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf"
+                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "00-DISI_Cyber-2526_Course_introduction"
+              "icon": "lucide-file",
+              "title": "Appunti X Esame"
             }
           }
         ]
@@ -203,14 +183,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "724ba7bebdb8ecd4",
+  "active": "feeeb22a94f71190",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Pasted image 20260224214810.png",
     "Pasted image 20260224214602.png",
     "Pasted image 20260224214513.png",
     "Pasted image 20260224212957.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
@@ -221,7 +201,6 @@
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.54.41.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.51.05.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.40.21.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.38.19.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity.zip",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",

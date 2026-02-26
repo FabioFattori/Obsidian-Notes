@@ -31,4 +31,4 @@ Tale piramide è consolidata per la suddivisione delle mansioni aziendali:
 	Implementa i piani strategici e garantisce che le attività quotidiane siano conformi alla strategia aziendale
 - Operation Level
 	È legato alle operazioni a breve termine di un'azienda, riguarda l'implementazione di beni e servizi
-
+> Riparti da Pagina 24 del primo pdf.
