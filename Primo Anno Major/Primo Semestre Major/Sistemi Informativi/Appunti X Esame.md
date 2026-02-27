@@ -43,4 +43,8 @@ Essi per operare necessitano di informazioni (conoscere le risorse su cui agisco
 > adeguatezza di un’organizzazione rispetto alle necessità di elaborare informazioni a essa imposte dai propri obiettivi e dal contesto in cui opera
 
 Ovvero capacità di un azienda di elaborare informazioni.
-#### Sistema Informa
+#### Sistema Informativo
+> Insieme delle informazioni gestite (generate, utilizzate, elaborate) dai processi aziendali e le modalità per la loro gestione.
+
+##### Sistema Informatico
+> Porzione del sistema informativo in cui le informazioni sono raccolte,
