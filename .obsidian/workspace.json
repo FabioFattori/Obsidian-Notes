@@ -10,6 +10,7 @@
           {
             "id": "feeeb22a94f71190",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Appunti X Esame"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9203aee0e89135f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cda8f997cf2bf3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduzione"
             }
           }
         ]
@@ -183,8 +203,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "feeeb22a94f71190",
+  "active": "8cda8f997cf2bf3a",
   "lastOpenFiles": [
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Pasted image 20260224214810.png",
     "Pasted image 20260224214602.png",
@@ -194,7 +215,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.04.15.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.03.56.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.01.38.png",

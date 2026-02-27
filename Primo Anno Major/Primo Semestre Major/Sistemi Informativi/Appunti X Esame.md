@@ -3,7 +3,7 @@
 > Una azienda/impresa si struttura per compiere la propria missione ed obbiettivi.
    Ovvero un'azienda si struttura definendo una propria struttura organizzativa ed un insieme di processi funzionali che ne definiscono il comportamento.
 
-### Struttura organizzativa
+### Struttura Organizzativa
 > Suddivisione dell'azienda in unità organizzative, le quali devono compiere compiti ed obbiettivi specifici e cooperano attraverso legami di tipo gerarchico e funzionali.
 
 Tali legami vengono descritti tramite reticoli che delineano responsabilità e funzioni.
@@ -22,7 +22,7 @@ In altre parole, troverai tutti i contabili in finanza e tutti i marketer nel ma
 >  È un ibrido delle strutture funzionali e divisionali. Può coinvolgere dipendenti che riferiscono a capi diversi a seconda del loro attuale incarico.
 
 Ad esempio, uno specialista in progettazione software può riferire al suo capo in IT, ma è anche coinvolto in progetti specifici grazie alla sua esperienza. Quando ciò accade, riferisce al capo progetto.
-### Piramide delle mansioni aziendali
+### Piramide Delle Mansioni Aziendali
 ![[Pasted image 20260224214810.png]]
 Tale piramide è consolidata per la suddivisione delle mansioni aziendali:
 - Strategic Level
