@@ -48,3 +48,8 @@ Ovvero capacità di un azienda di elaborare informazioni.
 
 #### Sistema Informatico
 > Porzione del sistema informativo in cui le informazioni sono gestite mediante l'uso di tecnologiche informatiche
+
+I sistemi informatici si sono trasformati da semplici strumenti per migliorare <span style="color:rgb(255, 0, 0)">l’efficienza dei processi</span>, a elementi centrali dell’organizzazione aziendale in grado di rivoluzionare la struttura dei processi aziendali <span style="color:rgb(255, 0, 0)">aumentando drasticamente l’efficacia del sistema azienda</span> (vedi Business Process Reengineering)
+![[Screenshot 2026-02-27 alle 11.06.06.png]]
+##### Efficacia Ed Efficienza
+![[Screenshot 2026-02-27 alle 11.06.48.png]]
