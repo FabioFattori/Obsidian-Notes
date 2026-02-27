@@ -39,3 +39,8 @@ Essi per operare necessitano di informazioni (conoscere le risorse su cui agisco
 ![[Screenshot 2026-02-27 alle 10.28.05.png]]
 > L’analisi dell’azienda come insiemi di processi determina una vista ortogonale rispetto a quella basata sulla sua organizzazione e sulle funzioni svolte dalle diverse divisioni
 
+#### Information Processing Capacità
+> adeguatezza di un’organizzazione rispetto alle necessità di elaborare informazioni a essa imposte dai propri obiettivi e dal contesto in cui opera
+
+Ovvero capacità di un azienda di elaborare informazioni.
+#### Sistema Informa
