@@ -46,5 +46,5 @@ Ovvero capacità di un azienda di elaborare informazioni.
 #### Sistema Informativo
 > Insieme delle informazioni gestite (generate, utilizzate, elaborate) dai processi aziendali e le modalità per la loro gestione.
 
-##### Sistema Informatico
-> Porzione del sistema informativo in cui le informazioni sono raccolte,
+#### Sistema Informatico
+> Porzione del sistema informativo in cui le informazioni sono gestite mediante l'uso di tecnologiche informatiche
