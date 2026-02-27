@@ -53,4 +53,16 @@ I sistemi informatici si sono trasformati da semplici strumenti per migliorare <
 ![[Screenshot 2026-02-27 alle 11.06.06.png]]
 ##### Efficacia Ed Efficienza
 ![[Screenshot 2026-02-27 alle 11.06.48.png]]
-#### Fasi Di Evoluzione dei sistemi info
+#### Fasi Di Evoluzione Dei Sistemi Informatici
+##### Prima Fase
+> automazione delle attività di raccolta, archiviazione e reperimento dei dati di natura operativa (es. stipendi, gestione ordini, fatturazione, ecc.)
+
+![[Screenshot 2026-02-27 alle 11.47.38.png]]
+##### Seconda Fase
+> automazione delle attività di controllo e valutazione dell’andamento aziendale e delle scelte direzionali (es. controllo della produzione, analisi what-if, gestione del budget, ecc.)
+
+![[Screenshot 2026-02-27 alle 11.50.06.png]]
+##### Terza Fase
+> integrazione tra le applicazioni settoriali, informatizzazione delle comunicazioni
+
+![[Screenshot 2026-02-27 alle 11.50.27.png]]
