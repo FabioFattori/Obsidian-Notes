@@ -53,3 +53,4 @@ I sistemi informatici si sono trasformati da semplici strumenti per migliorare <
 ![[Screenshot 2026-02-27 alle 11.06.06.png]]
 ##### Efficacia Ed Efficienza
 ![[Screenshot 2026-02-27 alle 11.06.48.png]]
+#### Fasi Di Evoluzione dei sistemi info
