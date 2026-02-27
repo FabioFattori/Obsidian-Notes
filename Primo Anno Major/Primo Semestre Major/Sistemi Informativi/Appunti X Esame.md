@@ -34,6 +34,8 @@ Tale piramide è consolidata per la suddivisione delle mansioni aziendali:
 ### Processo Aziendale
 > Insieme delle attività tra loro correlate, finalizzate alla realizzazione di un risultato definito e misurabile che contribuisce alla realizzazione dell'obbiettivo aziendale.
 
+Essi per operare necessitano di informazioni (conoscere le risorse su cui agiscono).
+
 ![[Screenshot 2026-02-27 alle 10.28.05.png]]
 > L’analisi dell’azienda come insiemi di processi determina una vista ortogonale rispetto a quella basata sulla sua organizzazione e sulle funzioni svolte dalle diverse divisioni
 
