@@ -33,3 +33,5 @@ Tale piramide è consolidata per la suddivisione delle mansioni aziendali:
 	È legato alle operazioni a breve termine di un'azienda, riguarda l'implementazione di beni e servizi
 ### Processo
 > Insieme delle attività tra loro correlate, finalizzate alla realizzazione di un risultato definito e misurabile che contribuisce alla realizzazione dell'obbiettivo aziendale.
+
+![[Screenshot 2026-02-27 alle 10.28.05.png]]
