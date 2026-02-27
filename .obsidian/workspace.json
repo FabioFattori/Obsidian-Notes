@@ -34,11 +34,13 @@
           {
             "id": "8cda8f997cf2bf3a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf"
               },
+              "pinned": true,
               "icon": "lucide-file-text",
               "title": "Introduzione"
             }
@@ -188,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,14 +208,15 @@
   },
   "active": "feeeb22a94f71190",
   "lastOpenFiles": [
-    "Screenshot 2026-02-27 alle 10.28.05.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 10.28.05.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260224214602.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260224214810.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-    "Pasted image 20260224214810.png",
-    "Pasted image 20260224214602.png",
-    "Pasted image 20260224214513.png",
-    "Pasted image 20260224212957.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260224214513.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260224212957.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
@@ -224,7 +226,6 @@
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 16.01.38.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.54.41.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.51.05.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Screenshot 2026-02-20 alle 15.40.21.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity.zip",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",
@@ -234,7 +235,6 @@
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
