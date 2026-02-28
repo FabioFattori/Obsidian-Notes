@@ -66,3 +66,8 @@ I sistemi informatici si sono trasformati da semplici strumenti per migliorare <
 > integrazione tra le applicazioni settoriali, informatizzazione delle comunicazioni
 
 ![[Screenshot 2026-02-27 alle 11.50.27.png]]
+#### Base Di Dati
+*Non è un sinonimo di Sistema Informativo*
+> Sono un sottoinsieme del _**Sistema Informativo**_, il quale compito è quello di immagazzinare dei dati.
+
+Essi infatti sono un mero supporto informatico
