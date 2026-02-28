@@ -70,4 +70,4 @@ I sistemi informatici si sono trasformati da semplici strumenti per migliorare <
 *Non è un sinonimo di Sistema Informativo*
 > Sono un sottoinsieme del _**Sistema Informativo**_, il quale compito è quello di immagazzinare dei dati.
 
-Essi infatti sono un mero supporto informatico
+Essi infatti sono un mero supporto informatico, _**MA**_ Una modellazione imprecisa della base di dati implica lo scorretto funzionamento del Sistema Informativo.
