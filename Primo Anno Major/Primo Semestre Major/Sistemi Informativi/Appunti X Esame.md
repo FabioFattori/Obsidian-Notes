@@ -89,3 +89,4 @@ La loro importanza in un'azienda va in base alla intensità informativa del sett
 - I SI sono una tecnologia di **_produzione_** nei settori che “vendono” informazioni (es. banche, assicurazioni, telecomunicazioni)
 - I SI sono una tecnologia di **_processo_** quando il prodotto è materiale (es. aziende manifatturiere)
 I SI supportano il coordinamento delle attività (la delocalizzazione aumenta la necessità di coordinamento)
+![[Pasted image 20260304233348.png]]
