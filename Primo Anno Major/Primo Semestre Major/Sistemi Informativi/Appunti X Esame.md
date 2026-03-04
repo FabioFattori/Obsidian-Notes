@@ -91,3 +91,11 @@ La loro importanza in un'azienda va in base alla intensità informativa del sett
 I SI supportano il coordinamento delle attività (la delocalizzazione aumenta la necessità di coordinamento)
 ![[Pasted image 20260304233348.png]]
 ## SI direzionali
+> Supportano il processo decisionale fornendo informazioni ai manager per aiutarli a decidere
+
+![[Pasted image 20260305000942.png]]
+### Differenza tra SI direzionali e SI operativi
+Dal punto di vista informativo, i processi direzionali si differenziano da quelli operativi poiché: 
+- Si basano su indici, ovvero informazioni aggregate e riassuntive. 
+- L’elaborazione non è continua ma periodica 
+- Sono costruiti sopra i SI operativi da cui estraggono le informazioni di base
