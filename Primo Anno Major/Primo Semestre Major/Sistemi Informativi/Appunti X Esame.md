@@ -73,3 +73,9 @@ I sistemi informatici si sono trasformati da semplici strumenti per migliorare <
 
 Essi infatti sono un mero supporto informatico, _**MA**_ Una modellazione imprecisa della base di dati implica lo scorretto funzionamento del Sistema Informativo.
 ![[Pasted image 20260228182813.png]]
+## Ciclo Di Adozione Delle Tecnologie
+![[Pasted image 20260304222129.png]]
+- **_Innovation triggers_**: soggetti innovativi che per primi riconoscono le potenzialità della tecnologia anche in assenza di prove della sua utilità
+- **_Peak of inflated expectations_**: l'attenzione dei media unita a casi di successo, spesso accompagnati da molte adozioni fallite, porta ad un'ampia diffusione di casi d'uso
+- **_Trough of disillusions_**: l’adozione della tecnologia anche in contesti non idonei porta a un aumento dei casi di fallimento
+- **_Slope of illumination_**: proprio questo ampio spettro di applicazioni che consente di identificare i campi di applicazione in cui la tecnologia è efficace e di far evolvere la tecnologia stessa in modo che possa adattarsi ai contesti in cui è effettivamente utile

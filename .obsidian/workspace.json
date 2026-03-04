@@ -6,7 +6,6 @@
       {
         "id": "e8247487f6868713",
         "type": "tabs",
-        "dimension": 47.575250836120404,
         "children": [
           {
             "id": "feeeb22a94f71190",
@@ -22,27 +21,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Appunti X Esame"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f9203aee0e89135f",
-        "type": "tabs",
-        "dimension": 52.4247491638796,
-        "children": [
-          {
-            "id": "8cda8f997cf2bf3a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Introduzione"
             }
           }
         ]
@@ -207,10 +185,50 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "e1b25a46d563eaa7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "27c104758f69bed2",
+        "type": "window",
+        "children": [
+          {
+            "id": "5c050d399ec93271",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8cda8f997cf2bf3a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Introduzione"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2962,
+        "y": 23,
+        "width": 878,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "feeeb22a94f71190",
   "lastOpenFiles": [
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
+    "Pasted image 20260304222129.png",
     "Pasted image 20260228182813.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.06.06.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.50.27.png",
@@ -221,7 +239,6 @@
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 10.28.05.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260224214602.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260224214810.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
