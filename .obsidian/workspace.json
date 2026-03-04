@@ -185,45 +185,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "e1b25a46d563eaa7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "27c104758f69bed2",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c050d399ec93271",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8cda8f997cf2bf3a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "Introduzione"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2962,
-        "y": 23,
-        "width": 878,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "feeeb22a94f71190",
   "lastOpenFiles": [
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",

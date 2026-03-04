@@ -79,3 +79,5 @@ Essi infatti sono un mero supporto informatico, _**MA**_ Una modellazione imprec
 - **_Peak of inflated expectations_**: l'attenzione dei media unita a casi di successo, spesso accompagnati da molte adozioni fallite, porta ad un'ampia diffusione di casi d'uso
 - **_Trough of disillusions_**: l’adozione della tecnologia anche in contesti non idonei porta a un aumento dei casi di fallimento
 - **_Slope of illumination_**: proprio questo ampio spettro di applicazioni che consente di identificare i campi di applicazione in cui la tecnologia è efficace e di far evolvere la tecnologia stessa in modo che possa adattarsi ai contesti in cui è effettivamente utile
+- **_Plateau of productivity_**: fino a quando non diventa maturo, affidabile e ampiamente utilizzato
+# Sistemi Informativi
