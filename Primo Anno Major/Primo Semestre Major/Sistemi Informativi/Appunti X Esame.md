@@ -83,3 +83,9 @@ Essi infatti sono un mero supporto informatico, _**MA**_ Una modellazione imprec
 # Sistemi Informativi
 I SI supportano sia i processi di governo (SI direzionali e analitici), sia i processi operativi (SI operativi).
 ## SI Operativi
+> informatizzano processi volti all'esecuzione di attività o alla loro programmazione
+
+La loro importanza in un'azienda va in base alla intensità informativa del settore di cui fa parte l'azienda stessa:
+- I SI sono una tecnologia di **_produzione_** nei settori che “vendono” informazioni (es. banche, assicurazioni, telecomunicazioni)
+- I SI sono una tecnologia di **_processo_** quando il prodotto è materiale (es. aziende manifatturiere)
+I SI supportano il coordinamento delle attività (la delocalizzazione aumenta la necessità di coordinamento)
