@@ -81,3 +81,5 @@ Essi infatti sono un mero supporto informatico, _**MA**_ Una modellazione imprec
 - **_Slope of illumination_**: proprio questo ampio spettro di applicazioni che consente di identificare i campi di applicazione in cui la tecnologia è efficace e di far evolvere la tecnologia stessa in modo che possa adattarsi ai contesti in cui è effettivamente utile
 - **_Plateau of productivity_**: fino a quando non diventa maturo, affidabile e ampiamente utilizzato
 # Sistemi Informativi
+I SI supportano sia i processi di governo (SI direzionali e analitici), sia i processi operativi (SI operativi).
+## SI Operativi
