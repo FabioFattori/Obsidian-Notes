@@ -179,6 +179,7 @@ Per industria 4.0 si intende => una tendenza dell’automazione industriale che 
 
 ![[Screenshot 2026-03-06 alle 15.05.09.png]]
 #### Sistemi ERP
-> Il termine ERP (Enterprise Resource Planning) è stato coniato agli inizi degli anni ’90 da Gartner Group per indicare una suite di moduli applicativi che supportano l’intera gamma dei processi aziendali
+> Il termine ERP (Enterprise Resource Planning) indica una suite di moduli applicativi che supportano l’intera gamma dei processi aziendali
 
 ![[Screenshot 2026-03-06 alle 15.19.26.png]]
+Tali moduli possono essere ulteriormente estesi dai seguenti moduli opzionali 
