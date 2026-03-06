@@ -216,3 +216,6 @@ L'approccio CRM non è attuabile senza il supporto informatico.
 
 Il ruolo dei CRM varia per forza di cose in base al settore di attività aziendale:
 ![[Pasted image 20260306230327.png]]
+Per i CRM esistono 3 moduli principali:
+- CRM Operativo => informatizza i canali attraverso i quali avviene il contatto con il cliente
+	
