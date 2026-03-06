@@ -177,3 +177,5 @@ Per industria 4.0 si intende => una tendenza dell’automazione industriale che 
 #### Sistemi MES
 > Manufacturing Execution Systems - I MES permettono la gestione della fabbrica nel suo complesso - ricevono ordini dall'ERP, raccolgono informazioni dallo SCADA e forniscono informazioni aggiornate all'ERP
 
+![[Screenshot 2026-03-06 alle 15.05.09.png]]
+#### Sistemi ERP
