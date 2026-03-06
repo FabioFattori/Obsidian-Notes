@@ -212,3 +212,7 @@ I Sistemi ERP incorporano la logica stessa del processo gestionale.
 Cliente è il focus centrale della strategia commerciale.
 L'approccio CRM non è attuabile senza il supporto informatico.
 
+> I sistemi CRM sono i moduli del SI che supportano le relazioni con il cliente e informatizzano i flussi di attività attraverso cui le richieste del cliente vengono servite
+
+Il ruolo dei CRM varia per forza di cose in base al settore di attività aziendale:
+![[Pasted image 20260306230327.png]]
