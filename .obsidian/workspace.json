@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +205,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "active": "feeeb22a94f71190",
   "lastOpenFiles": [
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 10.24.40.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
