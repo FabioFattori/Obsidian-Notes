@@ -182,4 +182,14 @@ Per industria 4.0 si intende => una tendenza dell’automazione industriale che 
 > Il termine ERP (Enterprise Resource Planning) indica una suite di moduli applicativi che supportano l’intera gamma dei processi aziendali
 
 ![[Screenshot 2026-03-06 alle 15.19.26.png]]
-Tali moduli possono essere ulteriormente estesi dai seguenti moduli opzionali 
+Tali moduli possono essere ulteriormente estesi dai seguenti moduli:
+- PLM (Product Lifecycle Mangement) => di supporto alla gestione della documentazione tecnica del prodotto e dei relativi processi produttivi
+- SCM (Supply Chain Management) => di supporto alla pianificazione e al controllo delle attività interaziendali
+- CRM (Customer Relationship Management) =>  supporto all’interazione con il cliente
+- E-procurement
+
+> La suite ERP segue una concezione del sistema informativo basato sulle seguenti caratteristiche:
+> 	-> Unicità dell'informazione
+> 	-> Estensione e modularità funzionale
+> 	-> Prescritività
+
