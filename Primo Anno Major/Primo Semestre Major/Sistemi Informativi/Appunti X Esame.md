@@ -195,7 +195,7 @@ Tali moduli possono essere ulteriormente estesi dai seguenti moduli:
 ##### Unicità
 ![[Pasted image 20260306224718.png]]
 Senza l'unicità (unico DB) i dati perdono di senso portando a processi aziendali errati e privi di senso.
-##### Estensione e modularità
+##### Estensione E Modularità
 I Sistemi ERP sono stati pensati per poter coprire per intero le necessità aziendali e quindi rappresentano un'unica soluzione per il SI
 ![[Pasted image 20260306224953.png]]
 ##### Prescrittività
@@ -206,4 +206,9 @@ I Sistemi ERP incorporano la logica stessa del processo gestionale.
 
 > Gli ERP sono comunque soggetti a personalizzazioni su misura per mitigare l'impatto di cui prima.
 
+#### Sistemi CRM
+> Indica il processo integrato e strutturato per la gestione della relazione con la clientela, il cui scopo è costruire relazioni personalizzate di lungo periodo, capaci di aumentare la soddisfazione del cliente e, conseguentemente, di aumentare il valore dell’impresa per il cliente e del cliente per l’impresa.
+
+Cliente è il focus centrale della strategia commerciale.
+L'approccio CRM non è attuabile senza il supporto informatico.
 
