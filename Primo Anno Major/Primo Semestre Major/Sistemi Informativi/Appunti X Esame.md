@@ -109,3 +109,15 @@ Mantengono la storia del prodotto e permettono di monitorarne l’affidabilità.
 - Si basano su indici, ovvero informazioni aggregate e riassuntive.
 - L’elaborazione non è continua ma periodica
 - Sono costruiti sopra i SI operativi da cui estraggono le informazioni di base
+## Mappa Aziendale Dei SI
+> ovvero scomporre i vari SI di una azienda in module per identificarli e classificarli
+
+### Modulo
+> Un modulo rappresenta un blocco di funzionalità software che supportano una fase di un processo aziendale, omogeneo per frequenza, attore e profilo di casi d’uso
+
+Essi descrivono una esigenza informativa e quindi indica il potenziale impiego di tecnologia informatica
+I moduli sono utili anche per identificare e strutturare delle possibili offerte da vendere.
+I moduli possono essere:
+- **Orizzontali** => non variano al variare del tipo d'azienda 
+- **Verticali** => sono utilizzati in specifici settori produttivi 
+#### Esempio da SAP
