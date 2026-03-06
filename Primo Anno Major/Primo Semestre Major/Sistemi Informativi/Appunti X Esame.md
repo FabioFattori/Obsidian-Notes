@@ -238,3 +238,7 @@ CRM Analitico e Direzionale si basano su dati di sintesi fornitigli dal Data War
 ###### Web
 ![[Pasted image 20260306233826.png]]
 # Pianificazione Dei Sistemi Informativi
+## Legge Di Martec
+> La Tecnologia cambia e si rinnova in maniera esponenziale nel tempo nonostante ciò le organizzazioni si rinnovano in maniera logaritmica.
+![[Pasted image 20260306234929.png]]
+## Ciclo dell'innovazione.
