@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +207,13 @@
   },
   "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
+    "Senza nome.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "Screenshot 2026-03-06 alle 15.19.26.png",
-    "Screenshot 2026-03-06 alle 15.05.09.png",
-    "Screenshot 2026-03-06 alle 13.04.55.png",
-    "Screenshot 2026-03-06 alle 13.01.02.png",
-    "Senza nome.md",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 15.19.26.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 15.05.09.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 13.04.55.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 13.01.02.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 10.24.40.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 11.22.59.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 10.51.49.png",
