@@ -120,4 +120,5 @@ I moduli sono utili anche per identificare e strutturare delle possibili offerte
 I moduli possono essere:
 - **Orizzontali** => non variano al variare del tipo d'azienda 
 - **Verticali** => sono utilizzati in specifici settori produttivi 
-#### Esempio da SAP
+#### Esempio Da SAP
+![[Screenshot 2026-03-06 alle 10.24.40.png]]
