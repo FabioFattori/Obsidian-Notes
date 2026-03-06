@@ -1,5 +1,9 @@
 # Appunti X Esame
 https://drive.google.com/drive/folders/1dFumdBy75CrReBVVrelvAhSGCL1xD9bo
+## Catena Del Valore Di Porter
+La **catena del valore** è un modello che permette di descrivere la struttura di una organizzazione come un insieme limitato di processi.
+Un'organizzazione è vista come un insieme di 9 processi, di cui 5 primari e 4 di supporto. Il modello scompone un’azienda nelle sue attività strategicamente rilevanti al fine di comprendere l’andamento dei costi (e dove si può intervenire per la loro riduzione) e le fonti esistenti.
+![[Screenshot 2026-03-06 alle 10.44.10.png]]
 ## Azienda
 > Una azienda/impresa si struttura per compiere la propria missione ed obbiettivi.
    Ovvero un'azienda si struttura definendo una propria struttura organizzativa ed un insieme di processi funzionali che ne definiscono il comportamento.
@@ -99,3 +103,82 @@ Dal punto di vista informativo, i processi direzionali si differenziano da quell
 - Si basano su indici, ovvero informazioni aggregate e riassuntive. 
 - L’elaborazione non è continua ma periodica 
 - Sono costruiti sopra i SI operativi da cui estraggono le informazioni di base
+## SI Analitici
+> Supportano la comprensione dei fenomeni di business.
+> Sono focalizzati su prodotti, clienti e processi:
+
+ Permettono di profilare i clienti studiando le relative abitudini e comportamenti.
+Mantengono la storia del prodotto e permettono di monitorarne l’affidabilità. Sono utilizzati soprattutto per i beni durevoli
+### SI Analitici E Direzionali: Cose in Comune
+- Si basano su indici, ovvero informazioni aggregate e riassuntive.
+- L’elaborazione non è continua ma periodica
+- Sono costruiti sopra i SI operativi da cui estraggono le informazioni di base
+## Mappa Aziendale Dei SI
+> ovvero scomporre i vari SI di una azienda in module per identificarli e classificarli
+
+### Modulo
+> Un modulo rappresenta un blocco di funzionalità software che supportano una fase di un processo aziendale, omogeneo per frequenza, attore e profilo di casi d’uso
+
+Essi descrivono una esigenza informativa e quindi indica il potenziale impiego di tecnologia informatica
+I moduli sono utili anche per identificare e strutturare delle possibili offerte da vendere.
+I moduli possono essere:
+- **Orizzontali** => non variano al variare del tipo d'azienda 
+- **Verticali** => sono utilizzati in specifici settori produttivi 
+#### Esempio Da SAP
+![[Screenshot 2026-03-06 alle 10.24.40.png]]
+## Portafoglio Applicativo
+> è una possibile mappa dei SI aziendali.
+> Può essere considerato un’esplosione della catena del valore di Porter ottenuta incrociando le fasi del ciclo di trasformazione con la tipologia delle attività applicabili per la pianificazione ed esecuzione di ciascuna fase del ciclo. Ogni incrocio individua un modulo.
+
+![[Screenshot 2026-03-06 alle 10.48.43.png]]
+![[Screenshot 2026-03-06 alle 10.48.53.png]]
+Con il portafoglio applicativo corrisponde un insieme di moduli standard
+![[Screenshot 2026-03-06 alle 10.51.49.png]]
+
+> Il portafoglio applicativo si differenzia in base alla tipologia di azienda (esempio => aziende più incentrate sul prodotto con macchinari specializzati avranno molta enfasi sulla manutenzione ed il monitoraggio degli stessi.)
+
+### Smart Manufactoring CIM
+> Un'architettura multilivello che collega diversi livelli di un sistema di produzione ed è finalizzata all'ottimizzazione dei processi e alla gestione delle risorse.
+
+i PRO:
+- **_Riduzione delle scorte_** attraverso il controllo della produzione e della pianificazione
+- **_Riduzione del tempo di commercializzazione_**
+- **_Aumento della qualità del prodotto_** tramite analisi e controllo del processo di produzione
+- **_Riduzione dei costi grazie alla maggiore efficenza della fabbrica_**
+![[Screenshot 2026-03-06 alle 11.22.59.png]]
+#### Sistemi SCADA
+> Componente del CIM che come scopo ha il controllo dei sistemi industriali, l'acquisizione e l'analisi dei dati da essi prodotti
+
+Quindi gli SCADA sono usati per monitorare e controllare grandi impianti industriali e sistemi meccanici/elettronici distribuiti sul territorio come:
+![[Screenshot 2026-03-06 alle 13.01.02.png]]
+Tali sistemi permettono di risparmiare tempo e denaro:
+- meno spostamenti per i lavoratori
+- meno esigenza di personale (riduzione dei costi di gestione)
+- aumento della produttività
+- maggiore affidabilità degli impianti (maggiore reattività rispetto a situazioni anomale)
+##### Architettura
+![[Screenshot 2026-03-06 alle 13.04.55.png]]
+Composta da:
+- Sensori e attuatori
+- Controllori, fra cui:
+	- PLC => è un qualunque dispositivo programmabile in grado di risolvere una logica che implementa un algoritmo.
+	- RTU => è un terminale che riceve delle istruzioni e le mette in atto, è di fatto un ripetitore presente sul campo.
+- Gateway => Raccolgono le informazioni dai controllori e le trasmettono in real time al sistema centralizzato
+- Front-end server => ricevono i dati dai gateway e li mappano in un formato compatibile con il server SCADA, la separazione con lo stesso SCADA server è presente se viene garantito il real time.
+- Data server => database per salvare lo storico, viene eseguito un campionamento ogni tot tempo, su questi campionamenti viene poi fatta l'analisi (statistiche)
+##### Evoluzione Degli SCADA
+- **_Scalabilità_**: l’incremento del numero degli impianti monitorati e dei segnali raccolti pone il problema dell’enorme mole di dati da gestire (in tempo reale), da memorizzare e da analizzare.
+- **_Capacità di analisi dei dati raccolti_**: ai moduli per il controllo operativo dei sistemi si aggiungono moduli per la valorizzazione dei dati storici raccolti
+- **_Sicurezza_**: i sistemi SCADA controllano infrastrutture critiche. Il livello di sicurezza dei sistemi commerciali è basato su tecnologie che sono 5-10 anni in ritardo rispetto allo stato dell’arte dell’IT.
+  Oggi la sicurezza dei sistemi SCADA è basata sul funzionamento su VPN separate rispetto a quella aziendale.
+> L'IoT e l'industria cambia completamente il modo in cui è organizzato il lavoro
+
+Per industria 4.0 si intende => una tendenza dell’automazione industriale che integra alcune nuove tecnologie produttive per migliorare le condizioni di lavoro e aumentare la produttività e la qualità produttiva degli impianti.
+#### Sistemi MES
+> Manufacturing Execution Systems - I MES permettono la gestione della fabbrica nel suo complesso - ricevono ordini dall'ERP, raccolgono informazioni dallo SCADA e forniscono informazioni aggiornate all'ERP
+
+![[Screenshot 2026-03-06 alle 15.05.09.png]]
+#### Sistemi ERP
+> Il termine ERP (Enterprise Resource Planning) è stato coniato agli inizi degli anni ’90 da Gartner Group per indicare una suite di moduli applicativi che supportano l’intera gamma dei processi aziendali
+
+![[Screenshot 2026-03-06 alle 15.19.26.png]]
