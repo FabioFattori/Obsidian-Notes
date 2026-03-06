@@ -156,3 +156,13 @@ Tali sistemi permettono di risparmiare tempo e denaro:
 - meno esigenza di personale (riduzione dei costi di gestione)
 - aumento della produttività
 - maggiore affidabilità degli impianti (maggiore reattività rispetto a situazioni anomale)
+##### Architettura
+![[Screenshot 2026-03-06 alle 13.04.55.png]]
+Composta da:
+- Sensori e attuatori
+- Controllori, fra cui:
+	- PLC => è un qualunque dispositivo programmabile in grado di risolvere una logica che implementa un algoritmo.
+	- RTU => è un terminale che riceve delle istruzioni e le mette in atto, è di fatto un ripetitore presente sul campo.
+- Gateway => Raccolgono le informazioni dai controllori e le trasmettono in real time al sistema centralizzato
+- Front-end server => ricevono i dati dai gateway e li mappano in un formato compatibile con il server SCADA, la separazione con lo stesso SCADA server è presente se viene garantito il real time.
+- Data server => database per salvare lo storico, viene eseguito un campionamento ogni tot tempo 
