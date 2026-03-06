@@ -147,3 +147,5 @@ i PRO:
 - **_Riduzione dei costi grazie alla maggiore efficenza della fabbrica_**
 ![[Screenshot 2026-03-06 alle 11.22.59.png]]
 #### Sistemi SCADA
+> Componente del CIM che come scopo ha il controllo dei sistemi industriali, l'acquisizione e l'analisi dei dati da essi prodotti
+
