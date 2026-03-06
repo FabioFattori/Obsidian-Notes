@@ -192,4 +192,12 @@ Tali moduli possono essere ulteriormente estesi dai seguenti moduli:
 > 	-> Unicità dell'informazione
 > 	-> Estensione e modularità funzionale
 > 	-> Prescritività
-
+##### Unicità
+![[Pasted image 20260306224718.png]]
+Senza l'unicità (unico DB) i dati perdono di senso portando a processi aziendali errati e privi di senso.
+##### Estensione e modularità
+I Sistemi ERP sono stati pensati per poter coprire per intero le necessità aziendali e quindi rappresentano un'unica soluzione per il SI
+![[Pasted image 20260306224953.png]]
+##### Prescrittività
+I Sistemi ERP incorporano la logica stessa del processo gestionale.
+Esempio:![[Pasted image 20260306225115.png]]
