@@ -1,7 +1,9 @@
 # Appunti X Esame
 https://drive.google.com/drive/folders/1dFumdBy75CrReBVVrelvAhSGCL1xD9bo
-## Catena del valore di porter
-La **catena del valore** è un modello "Modello (scienza)") che permette di descrivere la struttura di una organizzazione come un insieme limitato di processi.
+## Catena Del Valore Di Porter
+La **catena del valore** è un modello che permette di descrivere la struttura di una organizzazione come un insieme limitato di processi.
+Un'organizzazione è vista come un insieme di 9 processi, di cui 5 primari e 4 di supporto. Il modello scompone un’azienda nelle sue attività strategicamente rilevanti al fine di comprendere l’andamento dei costi (e dove si può intervenire per la loro riduzione) e le fonti esistenti.
+![[Screenshot 2026-03-06 alle 10.44.10.png]]
 ## Azienda
 > Una azienda/impresa si struttura per compiere la propria missione ed obbiettivi.
    Ovvero un'azienda si struttura definendo una propria struttura organizzativa ed un insieme di processi funzionali che ne definiscono il comportamento.
@@ -125,5 +127,9 @@ I moduli possono essere:
 #### Esempio Da SAP
 ![[Screenshot 2026-03-06 alle 10.24.40.png]]
 ## Portafoglio Applicativo
-> è una possibile mappa dei SI aziendali
+> è una possibile mappa dei SI aziendali.
+> Può essere considerato un’esplosione della catena del valore di Porter ottenuta incrociando le fasi del ciclo di trasformazione con la tipologia delle attività applicabili per la pianificazione ed esecuzione di ciascuna fase del ciclo. Ogni incrocio individua un modulo.
+
+![[Screenshot 2026-03-06 alle 10.48.43.png]]
+![[Screenshot 2026-03-06 alle 10.48.53.png]]
 
