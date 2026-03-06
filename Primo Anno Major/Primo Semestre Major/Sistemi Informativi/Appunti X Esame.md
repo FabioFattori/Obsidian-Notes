@@ -135,4 +135,5 @@ I moduli possono essere:
 Con il portafoglio applicativo corrisponde un insieme di moduli standard
 ![[Screenshot 2026-03-06 alle 10.51.49.png]]
 
-> Il portafoglio applicativo si differenzia in base alla tipologia di azienda (esempio => aziende più incentrate sul prodotto con macchinari specializzati avranno molta enfasi sulla manutenzione ed il monitoraggio degli stessi)
+> Il portafoglio applicativo si differenzia in base alla tipologia di azienda (esempio => aziende più incentrate sul prodotto con macchinari specializzati avranno molta enfasi sulla manutenzione ed il monitoraggio degli stessi.)
+
