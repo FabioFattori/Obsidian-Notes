@@ -200,7 +200,7 @@ I Sistemi ERP sono stati pensati per poter coprire per intero le necessità azie
 ![[Pasted image 20260306224953.png]]
 ##### Prescrittività
 I Sistemi ERP incorporano la logica stessa del processo gestionale.
-è quindi preferibile per un'azienda adeguare i propri processi a quelli definiti dall'ERP, cosa abbastanza strana, che può avere un impatto sull'organizzazione aziendale elevato ma che rappresenta di fatto la BEST PRACTICE dato che:
+è quindi preferibile per un'azienda adeguare i propri processi a quelli definiti dal ERP, cosa abbastanza strana, che può avere un impatto sull'organizzazione aziendale elevato ma che rappresenta di fatto la BEST PRACTICE dato che:
 - I processi ERP sono basati essi stessi sulle best practice del settore
 - Garantiscono la correttezza e standardizzazione delle operazioni
 
@@ -218,4 +218,9 @@ Il ruolo dei CRM varia per forza di cose in base al settore di attività azienda
 ![[Pasted image 20260306230327.png]]
 Per i CRM esistono 3 moduli principali:
 - CRM Operativo => informatizza i canali attraverso i quali avviene il contatto con il cliente
-	
+- CRM Analitico => informatizza l'analisi della clientela al fine di definire le politiche di promozione e di contatto
+	supporta il settore commerciale e marketing nella pianificazione delle proprie attività
+- CRM Direzionale => permette al management di valutare le performance dell'azienda verso il cliente.
+	supporta la dirigenza nel valutare l'efficienza del settore marketing e commerciale.
+
+CRM Analitico e Direzionale si basano su dati di sintesi fornitigli dal Data Warehouse (DW) aziendale.
