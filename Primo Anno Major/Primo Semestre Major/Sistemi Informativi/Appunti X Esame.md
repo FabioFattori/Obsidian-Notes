@@ -224,3 +224,11 @@ Per i CRM esistono 3 moduli principali:
 	supporta la dirigenza nel valutare l'efficienza del settore marketing e commerciale.
 
 CRM Analitico e Direzionale si basano su dati di sintesi fornitigli dal Data Warehouse (DW) aziendale.
+![[Pasted image 20260306233151.png]]
+##### Paradigmi CRM
+![[Pasted image 20260306233408.png]]
+###### Presenza
+> Il cliente interagisce direttamente con l’azienda.
+> Il CRM da supporto al venditore nelle sue attività di vendita verso il cliente, per questo si parla di applicazioni Sales Force Automation (SFA)
+
+###### Voce e Cor
