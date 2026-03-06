@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b5270367d8d293c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0c177244c5b81e0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "ClassificazioneSI"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -205,6 +185,8 @@
   },
   "active": "c23d8f1e7e499b26",
   "lastOpenFiles": [
+    "Pasted image 20260306233826.png",
+    "Pasted image 20260306233736.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Pasted image 20260306233408.png",
@@ -219,7 +201,6 @@
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 15.19.26.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 15.05.09.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 13.04.55.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 13.01.02.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",

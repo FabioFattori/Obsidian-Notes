@@ -231,4 +231,10 @@ CRM Analitico e Direzionale si basano su dati di sintesi fornitigli dal Data War
 > Il cliente interagisce direttamente con l’azienda.
 > Il CRM da supporto al venditore nelle sue attività di vendita verso il cliente, per questo si parla di applicazioni Sales Force Automation (SFA)
 
-###### Voce e Cor
+###### Voce E Corrispondenza
+> l cliente interagisce via telefono con una rete di operatori assistiti dal sistema CRM, e di sistemi automatici integrati con gli apparati telefonici (call-center)
+
+![[Pasted image 20260306233736.png]]
+###### Web
+![[Pasted image 20260306233826.png]]
+# Pianificazione dei Sistemi Informativi
