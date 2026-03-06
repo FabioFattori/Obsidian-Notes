@@ -149,3 +149,10 @@ i PRO:
 #### Sistemi SCADA
 > Componente del CIM che come scopo ha il controllo dei sistemi industriali, l'acquisizione e l'analisi dei dati da essi prodotti
 
+Quindi gli SCADA sono usati per monitorare e controllare grandi impianti industriali e sistemi meccanici/elettronici distribuiti sul territorio come:
+![[Screenshot 2026-03-06 alle 13.01.02.png]]
+Tali sistemi permettono di risparmiare tempo e denaro:
+- meno spostamenti per i lavoratori
+- meno esigenza di personale (riduzione dei costi di gestione)
+- aumento della produttività
+- maggiore affidabilità degli impianti (maggiore reattività rispetto a situazioni anomale)
