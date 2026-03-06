@@ -122,3 +122,6 @@ I moduli possono essere:
 - **Verticali** => sono utilizzati in specifici settori produttivi 
 #### Esempio Da SAP
 ![[Screenshot 2026-03-06 alle 10.24.40.png]]
+## Portafoglio Applicativo
+> è una possibile mappa dei SI aziendali
+
