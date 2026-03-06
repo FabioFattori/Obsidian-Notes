@@ -105,3 +105,7 @@ Dal punto di vista informativo, i processi direzionali si differenziano da quell
 
  Permettono di profilare i clienti studiando le relative abitudini e comportamenti.
 Mantengono la storia del prodotto e permettono di monitorarne l’affidabilità. Sono utilizzati soprattutto per i beni durevoli
+### SI Analitici E Direzionali: Cose in Comune
+- Si basano su indici, ovvero informazioni aggregate e riassuntive.
+- L’elaborazione non è continua ma periodica
+- Sono costruiti sopra i SI operativi da cui estraggono le informazioni di base
