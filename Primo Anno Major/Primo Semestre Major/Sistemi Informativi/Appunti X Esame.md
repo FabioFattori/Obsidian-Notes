@@ -137,3 +137,10 @@ Con il portafoglio applicativo corrisponde un insieme di moduli standard
 
 > Il portafoglio applicativo si differenzia in base alla tipologia di azienda (esempio => aziende più incentrate sul prodotto con macchinari specializzati avranno molta enfasi sulla manutenzione ed il monitoraggio degli stessi.)
 
+### Smart Manufactoring CIM
+> Un'architettura multilivello che collega diversi livelli di un sistema di produzione ed è finalizzata all'ottimizzazione dei processi e alla gestione delle risorse.
+
+i PRO:
+- **_Riduzione delle scorte_** attraverso il controllo della produzione e della pianificazione
+- **_Riduzione del tempo di commercializzazione_**
+- Aumento della qualità 
