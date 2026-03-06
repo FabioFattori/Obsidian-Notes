@@ -237,4 +237,4 @@ CRM Analitico e Direzionale si basano su dati di sintesi fornitigli dal Data War
 ![[Pasted image 20260306233736.png]]
 ###### Web
 ![[Pasted image 20260306233826.png]]
-# Pianificazione dei Sistemi Informativi
+# Pianificazione Dei Sistemi Informativi

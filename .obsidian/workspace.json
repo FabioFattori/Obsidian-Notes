@@ -10,6 +10,7 @@
           {
             "id": "c23d8f1e7e499b26",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Appunti X Esame"
             }
+          },
+          {
+            "id": "c115ce566a26b089",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done/Introduzione.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduzione"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,26 +198,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c23d8f1e7e499b26",
+  "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
-    "Pasted image 20260306233826.png",
-    "Pasted image 20260306233736.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done/ClassificazioneSI.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306224718.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "Pasted image 20260306233408.png",
-    "Pasted image 20260306233151.png",
-    "Pasted image 20260306230327.png",
-    "Pasted image 20260306225115.png",
-    "Pasted image 20260306224953.png",
-    "Pasted image 20260306224718.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306233826.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306233736.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306233408.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306233151.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306230327.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306225115.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260306224953.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Senza nome.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 15.19.26.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 15.05.09.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-03-06 alle 13.04.55.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done/Introduzione.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
@@ -211,7 +227,6 @@
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity.zip",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
