@@ -90,12 +90,18 @@ La loro importanza in un'azienda va in base alla intensità informativa del sett
 - I SI sono una tecnologia di **_processo_** quando il prodotto è materiale (es. aziende manifatturiere)
 I SI supportano il coordinamento delle attività (la delocalizzazione aumenta la necessità di coordinamento)
 ![[Pasted image 20260304233348.png]]
-## SI direzionali
+## SI Direzionali
 > Supportano il processo decisionale fornendo informazioni ai manager per aiutarli a decidere
 
 ![[Pasted image 20260305000942.png]]
-### Differenza tra SI direzionali e SI operativi
+### Differenza Tra SI Direzionali E SI Operativi
 Dal punto di vista informativo, i processi direzionali si differenziano da quelli operativi poiché: 
 - Si basano su indici, ovvero informazioni aggregate e riassuntive. 
 - L’elaborazione non è continua ma periodica 
 - Sono costruiti sopra i SI operativi da cui estraggono le informazioni di base
+## SI Analitici
+> Supportano la comprensione dei fenomeni di business.
+> Sono focalizzati su prodotti, clienti e processi:
+
+ Permettono di profilare i clienti studiando le relative abitudini e comportamenti.
+Mantengono la storia del prodotto e permettono di monitorarne l’affidabilità. Sono utilizzati soprattutto per i beni durevoli

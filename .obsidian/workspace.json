@@ -24,6 +24,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "b5270367d8d293c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c177244c5b81e0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "ClassificazioneSI"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,20 +207,21 @@
   },
   "active": "feeeb22a94f71190",
   "lastOpenFiles": [
-    "Pasted image 20260305000942.png",
-    "Pasted image 20260304233348.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/ClassificazioneSI.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "Pasted image 20260304222129.png",
-    "Pasted image 20260228182813.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260305000942.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Introduzione.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260304233348.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260304222129.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260228182813.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.06.06.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.50.27.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.50.06.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.47.38.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.06.48.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 11.06.06 1.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Screenshot 2026-02-27 alle 10.28.05.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
@@ -210,9 +231,7 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity.zip",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/Non confermato 829756.crdownload",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
