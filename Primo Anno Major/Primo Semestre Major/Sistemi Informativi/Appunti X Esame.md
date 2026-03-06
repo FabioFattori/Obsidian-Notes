@@ -166,10 +166,12 @@ Composta da:
 - Gateway => Raccolgono le informazioni dai controllori e le trasmettono in real time al sistema centralizzato
 - Front-end server => ricevono i dati dai gateway e li mappano in un formato compatibile con il server SCADA, la separazione con lo stesso SCADA server è presente se viene garantito il real time.
 - Data server => database per salvare lo storico, viene eseguito un campionamento ogni tot tempo, su questi campionamenti viene poi fatta l'analisi (statistiche)
-#### Evoluzione Degli SCADA
+##### Evoluzione Degli SCADA
 - **_Scalabilità_**: l’incremento del numero degli impianti monitorati e dei segnali raccolti pone il problema dell’enorme mole di dati da gestire (in tempo reale), da memorizzare e da analizzare.
 - **_Capacità di analisi dei dati raccolti_**: ai moduli per il controllo operativo dei sistemi si aggiungono moduli per la valorizzazione dei dati storici raccolti
 - **_Sicurezza_**: i sistemi SCADA controllano infrastrutture critiche. Il livello di sicurezza dei sistemi commerciali è basato su tecnologie che sono 5-10 anni in ritardo rispetto allo stato dell’arte dell’IT.
   Oggi la sicurezza dei sistemi SCADA è basata sul funzionamento su VPN separate rispetto a quella aziendale.
 > L'IoT e l'industria cambia completamente il modo in cui è organizzato il lavoro
 
+Per industria 4.0 si intende => una tendenza dell’automazione industriale che integra alcune nuove tecnologie produttive per migliorare le condizioni di lavoro e aumentare la produttività e la qualità produttiva degli impianti.
+#### Sistemi MES
