@@ -200,4 +200,10 @@ I Sistemi ERP sono stati pensati per poter coprire per intero le necessità azie
 ![[Pasted image 20260306224953.png]]
 ##### Prescrittività
 I Sistemi ERP incorporano la logica stessa del processo gestionale.
-Esempio:![[Pasted image 20260306225115.png]]
+è quindi preferibile per un'azienda adeguare i propri processi a quelli definiti dall'ERP, cosa abbastanza strana, che può avere un impatto sull'organizzazione aziendale elevato ma che rappresenta di fatto la BEST PRACTICE dato che:
+- I processi ERP sono basati essi stessi sulle best practice del settore
+- Garantiscono la correttezza e standardizzazione delle operazioni
+
+> Gli ERP sono comunque soggetti a personalizzazioni su misura per mitigare l'impatto di cui prima.
+
+
