@@ -165,4 +165,5 @@ Composta da:
 	- RTU => è un terminale che riceve delle istruzioni e le mette in atto, è di fatto un ripetitore presente sul campo.
 - Gateway => Raccolgono le informazioni dai controllori e le trasmettono in real time al sistema centralizzato
 - Front-end server => ricevono i dati dai gateway e li mappano in un formato compatibile con il server SCADA, la separazione con lo stesso SCADA server è presente se viene garantito il real time.
-- Data server => database per salvare lo storico, viene eseguito un campionamento ogni tot tempo 
+- Data server => database per salvare lo storico, viene eseguito un campionamento ogni tot tempo, su questi campionamenti viene poi fatta l'analisi (statistiche)
+##### 
