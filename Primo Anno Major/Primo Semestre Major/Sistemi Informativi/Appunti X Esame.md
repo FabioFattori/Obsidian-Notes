@@ -251,4 +251,9 @@ in questa fase avviene:
 - la **_definizione degli impegni_** e delle risorse necessarie, sia per i progetti, sia per le attività concorrenti di conduzione e manutenzione dei sistemi in esercizio
 - la **_stesura del documento_** di piano e la correlata definizione del budget e delle responsabilità, con l’approvazione da parte dei vertici
 ### Fase Di Realizzazione
-’elaborazione di studi di fattibilità per tutti i progetti che al momento della pianificazione mancano ancora del livello di approfondimento necessario alla decisione finale sull’investimento e all’avvio operativo; ➢ la definizione di progetti esecutivi e di piani operativi per i progetti previsti e per le attività di conduzione, manutenzione ed evoluzione dei sistemi; ➢ l’acquisizione di prodotti e servizi dal mercato, con la gestione delle relative procedure; ➢ la realizzazione dei progetti; ➢ la conduzione operativa dei sistemi, con l’erogazione dei servizi informativi previsti, insieme alla correlata attività di manutenzione;
+- L’elaborazione di **_studi di fattibilità_** per tutti i progetti che al momento della pianificazione mancano ancora del livello di approfondimento necessario alla decisione finale sull’investimento e all’avvio operativo
+- La **_definizione di progetti esecutivi_** e di piani operativi per i progetti previsti e per le attività di conduzione, manutenzione ed evoluzione dei sistemi
+- L’**_acquisizione di prodotti e servizi dal mercato_**, con la gestione delle relative procedure
+- La **_realizzazione dei progetti_**
+- **_La conduzione operativa dei sistemi, con l’erogazione dei servizi informativi previsti, insieme alla correlata attività di manutenzione_**
+### Fase Di Verifica
