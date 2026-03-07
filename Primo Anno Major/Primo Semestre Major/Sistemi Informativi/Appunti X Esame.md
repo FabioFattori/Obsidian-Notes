@@ -282,4 +282,12 @@ Il Piano è composto da due piani:
 ## Mai Saltare Dei Passaggi
 ![[Pasted image 20260307152724.png]]
 
-## Aziende Data-F
+## Aziende Data-Driven
+> si riferisce ad aziende in cui le decisioni e i processi sono supportate dai dati 
+- Le decisioni si basano su conoscenze quantitative piuttosto che qualitative 
+- I processi e le conoscenze sono una risorsa dell'azienda e non vanno persi se i manager cambiano
+![[Pasted image 20260307201050.png]]
+### Digitalizzazione
+> Quello di digitalizzazione è un percorso che coinvolge tre dimensioni principali. Passare da A a B è un processo pluriennale fatto di obiettivi intermedi, ciascuno dei quali deve essere raggiungibile
+
+![[Pasted image 20260307201325.png]]
