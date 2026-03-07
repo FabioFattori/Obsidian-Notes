@@ -282,3 +282,4 @@ Il Piano è composto da due piani:
 ## Mai Saltare Dei Passaggi
 ![[Pasted image 20260307152724.png]]
 
+## Aziende Data-F
