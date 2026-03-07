@@ -261,3 +261,7 @@ in questa fase avviene:
 ### Fase D'Intervento
 - **_L’elaborazione degli interventi di reingegnerizzazione_** dei processi di servizio, definendo in particolare i requisiti di fondo per lo sviluppo e la revisione dei sistemi applicativi
 - **_L’individuazione di iniziative di reingegnerizzazione dei sistemi informatici_** che si concretizzano in programmi di adeguamento delle infrastrutture informatiche
+## Definizione Degli Obbiettivi
+> Per assicurare il raggiungimento degli obiettivi proposti è necessario che questi vengano individuati esattamente e formalizzati in modo da stabilire responsabilità, tempi e priorità.
+
+Per fare ciò viene redatto il **_piano di informatizzazione_** il quale deve essere valutato e approvato dalle alte sfere prima di essere messo in pratica.
