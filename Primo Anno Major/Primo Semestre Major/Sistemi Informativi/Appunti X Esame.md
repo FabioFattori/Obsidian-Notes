@@ -279,4 +279,6 @@ Il Piano è composto da due piani:
 > Nella pratica si preferisce un approccio ibrido che realizza un compromesso tra le due soluzioni teoriche di cui prima.
 > Un esempio:
 > ![[Pasted image 20260307150138.png]]
+## Mai Saltare dei passaggi
+![[Pasted image 20260307152724.png]]
 
