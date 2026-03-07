@@ -257,3 +257,7 @@ in questa fase avviene:
 - La **_realizzazione dei progetti_**
 - **_La conduzione operativa dei sistemi, con l’erogazione dei servizi informativi previsti, insieme alla correlata attività di manutenzione_**
 ### Fase Di Verifica
+![[Pasted image 20260307144008.png]]
+### Fase D'Intervento
+- **_L’elaborazione degli interventi di reingegnerizzazione_** dei processi di servizio, definendo in particolare i requisiti di fondo per lo sviluppo e la revisione dei sistemi applicativi
+- **_L’individuazione di iniziative di reingegnerizzazione dei sistemi informatici_** che si concretizzano in programmi di adeguamento delle infrastrutture informatiche
