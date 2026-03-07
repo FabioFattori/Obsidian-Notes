@@ -267,4 +267,7 @@ in questa fase avviene:
 Per fare ciò viene redatto il **_piano di informatizzazione_** il quale deve essere valutato e approvato dalle alte sfere prima di essere messo in pratica.
 Il Piano è composto da due piani:
 - **_Piano Strategico_** => Parte appunto strategica/organizzativa del piano, ha una copertura tipica dai 3 ai 5 anni e contiene:
-	-
+	1. Obiettivi strategici dell’informatizzazione. 
+	2. Architetture tecnologiche e applicative come quadro di riferimento complessivo.
+	3. Progetti di grande rilievo che richiedono elevati tempi di realizzazione e risorse.
+- **_Piano Operativo_** => Validità annuale e serve/contiene tutte i dettagli delle operazioni ed interventi da effettuare per rispettare il piano strategico.
