@@ -265,3 +265,6 @@ in questa fase avviene:
 > Per assicurare il raggiungimento degli obiettivi proposti è necessario che questi vengano individuati esattamente e formalizzati in modo da stabilire responsabilità, tempi e priorità.
 
 Per fare ciò viene redatto il **_piano di informatizzazione_** il quale deve essere valutato e approvato dalle alte sfere prima di essere messo in pratica.
+Il Piano è composto da due piani:
+- **_Piano Strategico_** => Parte appunto strategica/organizzativa del piano, ha una copertura tipica dai 3 ai 5 anni e contiene:
+	-
