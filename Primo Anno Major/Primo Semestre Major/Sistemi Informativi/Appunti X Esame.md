@@ -271,3 +271,12 @@ Il Piano è composto da due piani:
 	2. Architetture tecnologiche e applicative come quadro di riferimento complessivo.
 	3. Progetti di grande rilievo che richiedono elevati tempi di realizzazione e risorse.
 - **_Piano Operativo_** => Validità annuale e serve/contiene tutte i dettagli delle operazioni ed interventi da effettuare per rispettare il piano strategico.
+![[Pasted image 20260307145733.png]]
+### Top Down VS Bottom Up
+> per definire gli obbiettivi si seguono in genere due politiche di pensiero
+
+![[Pasted image 20260307145955.png]]
+> Nella pratica si preferisce un approccio ibrido che realizza un compromesso tra le due soluzioni teoriche di cui prima.
+> Un esempio:
+> ![[Pasted image 20260307150138.png]]
+
