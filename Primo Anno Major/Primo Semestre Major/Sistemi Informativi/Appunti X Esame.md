@@ -241,5 +241,14 @@ CRM Analitico e Direzionale si basano su dati di sintesi fornitigli dal Data War
 ## Legge Di Martec
 > La Tecnologia cambia e si rinnova in maniera esponenziale nel tempo nonostante ciò le organizzazioni si rinnovano in maniera logaritmica.
 ![[Pasted image 20260306234929.png]]
-## Ciclo dell'innovazione.
-### Ciclo di Deming
+## Ciclo Dell'innovazione (di Deming)
+![[Pasted image 20260307125229.png]]
+### Fase Di Pianificazione
+in questa fase avviene:
+- La **_formalizzazione delle strategie_** in termini di servizio e di utilizzo delle tecnologie, che individuano gli obiettivi da conseguire e i principali terreni di intervento
+- La **_scelta delle priorità_** nell'attuazione dei vari interventi di automazione
+- La **_validazione dei progetti_** da attivare, che si baserà sulle priorità evidenziate e terrà conto dei vincoli di bilancio e delle relazioni esistenti tra i vari progetti
+- la **_definizione degli impegni_** e delle risorse necessarie, sia per i progetti, sia per le attività concorrenti di conduzione e manutenzione dei sistemi in esercizio
+- la **_stesura del documento_** di piano e la correlata definizione del budget e delle responsabilità, con l’approvazione da parte dei vertici
+### Fase Di Realizzazione
+’elaborazione di studi di fattibilità per tutti i progetti che al momento della pianificazione mancano ancora del livello di approfondimento necessario alla decisione finale sull’investimento e all’avvio operativo; ➢ la definizione di progetti esecutivi e di piani operativi per i progetti previsti e per le attività di conduzione, manutenzione ed evoluzione dei sistemi; ➢ l’acquisizione di prodotti e servizi dal mercato, con la gestione delle relative procedure; ➢ la realizzazione dei progetti; ➢ la conduzione operativa dei sistemi, con l’erogazione dei servizi informativi previsti, insieme alla correlata attività di manutenzione;
