@@ -291,3 +291,13 @@ Il Piano è composto da due piani:
 > Quello di digitalizzazione è un percorso che coinvolge tre dimensioni principali. Passare da A a B è un processo pluriennale fatto di obiettivi intermedi, ciascuno dei quali deve essere raggiungibile
 
 ![[Pasted image 20260307201325.png]]
+## BPR - Business Process Reenginering
+> nasce come completo ripensamento e radicale ridisegno dei fondamentali processi di un’organizzazione alla luce delle potenzialità offerte dai nuovi strumenti informatici.
+
+### Definizione "cliente"
+> è la persona o gruppo che richiede o usa un prodotto o servizio realizzato tramite il processo. Il cliente può essere interno od esterno all’azienda. Ogni output può avere molti clienti e viceversa
+
+![[Pasted image 20260308163748.png]]
+> Il processo e la sua manutenzione sono gli elementi centrali del ciclo di innovazione dei SI
+
+Come primo compito, il progettista deve descrivere e classificare i processi aziendali, con molta enfasi sulle **_classificazione normative_**, le quali 
