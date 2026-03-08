@@ -311,4 +311,22 @@ Tali Classificazione sono necessarie dato che:
 
 Esso può scaturire a seguito di un aggiornamento tecnologico.
 ![[Pasted image 20260308164525.png]]
-
+![[Pasted image 20260308164613.png]]
+### Tre Tipi Di Cambiamento
+- **_Streamlining_** 
+	> Approccio incrementale sui processi.
+	> Si Pianifica il presente
+	
+	Ricerca il miglioramento delle prestazioni modificando il processo attuale.
+	Esempi:
+	- Semplificare le attività
+	- Automatizzare le attività
+	- ecc...
+- **_BPR_**
+	> Approccio RADICALE sui processi.
+	> Pianificare il futuro a parità di Business Rules
+	
+	Ricerca un cambiamento radicale del processo attuale.
+	Esempi:
+	- Eliminare e/o combinare un processo con un altro
+	- 
