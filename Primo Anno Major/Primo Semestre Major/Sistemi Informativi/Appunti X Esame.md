@@ -348,4 +348,7 @@ Esso può scaturire a seguito di un aggiornamento tecnologico.
 	4. Analisi della creazione del valore
 2. Definizione delle priorità di intervento sulla base del loro impatto
 	1. Analisi di Pareto
-3. Reingegnerizzazione 
+3. Reingegnerizzazione dei processi per rimuovere le barriere alla performance
+4. Implementazione del cambiamento
+5. Istituzionalizzazione delle misure per il miglioramento continuo
+
