@@ -372,4 +372,9 @@ Descrivere i processi significa dettagliarli per successivi livelli di approfond
 ##### Key Performance Indicator
 > La capacità di un processo nel soddisfare i requisiti dei clienti si misura tramite i Key Performance Indicator (KPI)
 
-> Un singolo KPI è un 
+> Un singolo KPI è un indicatore quantificabile dell’efficacia (grado di raggiungimento dell’obiettivo) e/o dell’efficienza (economicità nel raggiungimento dell’obiettivo) di un processo o di un sottoprocesso.
+
+I KPI hanno sono quindi:
+- Quantificabili
+- Rilevabili
+- Correlato con l'obbiettivo di business interno del processo
