@@ -342,4 +342,10 @@ Esso può scaturire a seguito di un aggiornamento tecnologico.
 	- ecc...
 ### Fasi Del BPR
 1. Identificazione dei processi da reingegnerizzare
-	 
+	1. Descrivere i processi
+	2. Identificazione del breakthrough
+	3. Analisi dei tempi di ciclo
+	4. Analisi della creazione del valore
+2. Definizione delle priorità di intervento sulla base del loro impatto
+	1. Analisi di Pareto
+3. Reingegnerizzazione 
