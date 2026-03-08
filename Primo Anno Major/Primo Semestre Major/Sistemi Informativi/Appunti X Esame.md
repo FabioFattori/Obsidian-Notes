@@ -329,4 +329,17 @@ Esso può scaturire a seguito di un aggiornamento tecnologico.
 	Ricerca un cambiamento radicale del processo attuale.
 	Esempi:
 	- Eliminare e/o combinare un processo con un altro
-	- 
+	- Ricostruire da zero un processo
+	- ecc...
+- **_Enterprise Transformation_**
+	> Approccio radicale sul Business
+	> Pianifica il Business
+	
+	Ricerca una riconfigurazione del business.
+	Esempi:
+	- Sviluppare alleanze strategiche
+	- Eliminare/Sviluppare combinazioni prodotto/mercato.
+	- ecc...
+### Fasi Del BPR
+1. Identificazione dei processi da reingegnerizzare
+	 
