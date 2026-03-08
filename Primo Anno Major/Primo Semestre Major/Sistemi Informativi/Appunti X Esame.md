@@ -359,3 +359,10 @@ Descrivere i processi significa dettagliarli per successivi livelli di approfond
 - Fase => ha lo scopo di descrivere il modo in cui un processo è implementato. Una fase è una tappa di un processo
 	Il processo “Progettazione” comprende le fasi di: “Sviluppo specifiche” – “Gestione del concurrent engineering*” – “Realizzazione del value engineering**” – “Documentazione delle specifiche di progetto” – “Sviluppo prototipi” – “Gestione delle richieste di brevetto”
 - Attività => è il livello adottato nella fase di studio dei processi. Sono determinate scomponendo ulteriormente le fasi secondo una logica sequenziale
+![[Pasted image 20260308212752.png]]
+![[Pasted image 20260308212916.png]]
+##### LRC - Linea Responsability Charting
+> Tabella che specifica la responsabilità organizzative delle varie divisioni in merito alle attività/fasi di un processo
+
+![[Pasted image 20260308213119.png]]
+##### Risorse Umane
