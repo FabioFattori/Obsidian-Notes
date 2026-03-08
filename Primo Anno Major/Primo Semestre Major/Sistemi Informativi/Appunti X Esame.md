@@ -291,4 +291,3 @@ Il Piano è composto da due piani:
 > Quello di digitalizzazione è un percorso che coinvolge tre dimensioni principali. Passare da A a B è un processo pluriennale fatto di obiettivi intermedi, ciascuno dei quali deve essere raggiungibile
 
 ![[Pasted image 20260307201325.png]]
-\
