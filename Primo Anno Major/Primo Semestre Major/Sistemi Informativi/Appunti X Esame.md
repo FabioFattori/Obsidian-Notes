@@ -300,4 +300,15 @@ Il Piano è composto da due piani:
 ![[Pasted image 20260308163748.png]]
 > Il processo e la sua manutenzione sono gli elementi centrali del ciclo di innovazione dei SI
 
-Come primo compito, il progettista deve descrivere e classificare i processi aziendali, con molta enfasi sulle **_classificazione normative_**, le quali 
+### Classificazione Normativa Dei Processi (Importante)
+> Come primo compito, il progettista deve descrivere e classificare i processi aziendali, con molta enfasi sulle **_classificazione normative_**, le quali indicano come DOVREBBERO essere tali processi in maniera tale da poter suggerire varie ed eventuali best practice fatte in aziende leader.
+
+Tali Classificazione sono necessarie dato che:
+- descrivono la situazione in cui si dovrebbe essere _To Be_
+- poi tali classificazioni vengono mappate nei vari pacchetti software da offrire ai clienti
+### Quindi "Che Cos'è Il BPR"
+> Il BPR è la completa revisione dei processi aziendali al fine di massimizzarne il valore derivante dalle singole componenti, attraverso interventi sia di riduzione dei costi sia di massimizzazione dell’efficacia.
+
+Esso può scaturire a seguito di un aggiornamento tecnologico.
+![[Pasted image 20260308164525.png]]
+
