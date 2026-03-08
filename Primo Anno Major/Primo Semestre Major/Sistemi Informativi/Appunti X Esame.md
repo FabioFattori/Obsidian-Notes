@@ -387,4 +387,20 @@ Nota la mappa è possibile identificare i KPI che devono essere definiti in base
 - Significatività
 	- Collegamento con gli obbiettivi strategici
 - Controllabilità
-	- 
+	- Misurazione di risultati che possono essere influenzati o azioni che possono essere intraprese 
+	- Focalizzazione su un ben definito periodo di tempo (mese, trimestre, anno)
+- Semplicità
+	- Facilità concettuale
+	- Pochi indicatori sono preferibili a un metrica complessa
+	- Possibilità di trade-offs con altri sistemi di misurazione
+- Misurabilità
+	- Disponibilità dei dati
+	- Affidabilità e accuratezza dei dati
+- Equilibrio
+	- Collegamento degli indicatori tecnici (ex-ante) con le attività di un processo
+	- Collegamento degli indicatori di risultato (ex-post) con gli obiettivi e gli output di un processo
+		Gli **_indicatori tecnici_** misurano attività che influenzano le performance.
+		Gli **_indicatori di risultato_** misurano le performance a un momento dato.
+
+<h1>Esempio:</h1>
+![[Pasted image 20260308223643.png]]
