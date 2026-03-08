@@ -366,3 +366,10 @@ Descrivere i processi significa dettagliarli per successivi livelli di approfond
 
 ![[Pasted image 20260308213119.png]]
 ##### Risorse Umane
+> Coloro che determinano la differenza tra il risultato effettivo e il massimo teoricamente possibile da una configurazione del processo dato che sono coloro che cercano figure professionali competenti, che non esistono in azienda e devono essere acquisite nel mercato oppure create internamente, per tecnologie innovative
+
+![[Pasted image 20260308213559.png]]
+##### Key Performance Indicator
+> La capacità di un processo nel soddisfare i requisiti dei clienti si misura tramite i Key Performance Indicator (KPI)
+
+> Un singolo KPI è un 
