@@ -351,4 +351,11 @@ Esso può scaturire a seguito di un aggiornamento tecnologico.
 3. Reingegnerizzazione dei processi per rimuovere le barriere alla performance
 4. Implementazione del cambiamento
 5. Istituzionalizzazione delle misure per il miglioramento continuo
-
+#### Descrivere I Processi
+Descrivere i processi significa dettagliarli per successivi livelli di approfondimento:
+- Macroprocesso => ne è un esempio la catena del valore di Porter. E' utile soprattutto nelle fasi iniziali per strutturare l’analisi e per individuare l’area di intervento
+- Processo => illustra a un livello ragionevolmente dettagliato le operazioni svolte da un’azienda. 
+	Il macroprocesso “Sviluppo prodotti” si decompone in: “Concept” – “Pianificazione” – “Progettazione” – “Prototipazione” – “Test” – “Ingegnerizzazione”
+- Fase => ha lo scopo di descrivere il modo in cui un processo è implementato. Una fase è una tappa di un processo
+	Il processo “Progettazione” comprende le fasi di: “Sviluppo specifiche” – “Gestione del concurrent engineering*” – “Realizzazione del value engineering**” – “Documentazione delle specifiche di progetto” – “Sviluppo prototipi” – “Gestione delle richieste di brevetto”
+- Attività => è il livello adottato nella fase di studio dei processi. Sono determinate scomponendo ulteriormente le fasi secondo una logica sequenziale

@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "39d0dd0bd620515a",
+  "active": "c23d8f1e7e499b26",
   "lastOpenFiles": [
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Pasted image 20260308164613.png",
     "Pasted image 20260308164525.png",
     "Pasted image 20260308163748.png",
