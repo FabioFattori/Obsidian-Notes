@@ -378,3 +378,13 @@ I KPI hanno sono quindi:
 - Quantificabili
 - Rilevabili
 - Correlato con l'obbiettivo di business interno del processo
+
+> Per misurare un processo tramite i KPI è necessaria l'individuazione della **_mappa_** ovvero **_gli obbiettivi, gli output e le attività principali_**.
+
+![[Pasted image 20260308223040.png]]
+###### Proprietà
+Nota la mappa è possibile identificare i KPI che devono essere definiti in base a:
+- Significatività
+	- Collegamento con gli obbiettivi strategici
+- Controllabilità
+	- 
