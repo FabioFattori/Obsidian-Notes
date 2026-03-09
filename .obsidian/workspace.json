@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +207,12 @@
   },
   "active": "c23d8f1e7e499b26",
   "lastOpenFiles": [
+    "Pasted image 20260309155131.png",
+    "Pasted image 20260309155054.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
+    "Pasted image 20260309155022.png",
+    "Pasted image 20260309154938.png",
     "Pasted image 20260309154811.png",
     "Pasted image 20260309154641.png",
     "Pasted image 20260309154530.png",
@@ -213,12 +220,6 @@
     "Pasted image 20260309154217.png",
     "Pasted image 20260309154138.png",
     "Pasted image 20260309154023.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "Pasted image 20260309145946.png",
-    "Pasted image 20260309145658.png",
-    "Pasted image 20260309145507.png",
-    "Pasted image 20260309140522.png",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
