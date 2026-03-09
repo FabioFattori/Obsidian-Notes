@@ -420,5 +420,19 @@ Tale mappa chiarisce:
 	- Determina l’effettiva calcolabilità dell’indicatore
 - Formulazione 
 	- Specifica la formula di calcolo dell’indicatore
-###### Visualizzazione dei KPI
-Per rispettare il criterio di semplicit
+###### Visualizzazione Dei KPI
+Per rispettare il criterio di semplicità si adottano anche opportune visualizzazione per rendere maggiormente chiari i KPI.
+> Lo scatter plot evidenzia i trend di miglioramento e peggioramento rispetto alla rilevazione precedente
+> ![[Pasted image 20260309113900.png]]
+
+> Il bersaglio evidenzia graficamente la performance su gruppi omogenei e disomogenei di KPI
+> ![[Pasted image 20260309113949.png]]
+
+> Il pentagramma evidenzia la performance di un processo
+> ![[Pasted image 20260309114015.png]]
+
+###### OEE - Overall Equipment Effectiveness
+> Principale KPI nella misurazione della capacità di produzione di un'azienda manifatturiera.
+> Spesso usata per raggiungere l'eccellenza operativa
+
+![[Pasted image 20260309114214.png]]
