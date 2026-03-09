@@ -479,5 +479,6 @@ E ancora
 ###### Fasi
 ![[Pasted image 20260309145507.png]]
 ![[Pasted image 20260309145658.png]]
-#### Reingegnerizzazione dei processi per rimuovere le barriere alla performance
-
+#### Reingegnerizzazione Dei Processi per Rimuovere Le Barriere Alla Performance
+Nuovi strumenti analitici aiutano a concepire nuovi modi di organizzare il flusso di lavoro, per esempio:
+![[Pasted image 20260309145946.png]]
