@@ -482,3 +482,9 @@ E ancora
 #### Reingegnerizzazione Dei Processi per Rimuovere Le Barriere Alla Performance
 Nuovi strumenti analitici aiutano a concepire nuovi modi di organizzare il flusso di lavoro, per esempio:
 ![[Pasted image 20260309145946.png]]
+##### Il ruolo della tecnologia nell'innovazione
+![[Pasted image 20260309154023.png]]
+![[Pasted image 20260309154138.png]]
+###### Modello a 6 fasi
+![[Pasted image 20260309154217.png]]
+###### Condivisione degli obbiettivi di business
