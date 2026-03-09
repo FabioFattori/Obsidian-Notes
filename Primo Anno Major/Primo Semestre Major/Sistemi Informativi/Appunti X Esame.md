@@ -451,3 +451,5 @@ Per raccogliere ed analizzare vengono svolte diverse tecniche come:
 - ecc...
 ![[Pasted image 20260309120659.png]]
 ##### Benchmarking
+![[Pasted image 20260309120819.png]]
+#### Analisi Dei Tempi Di Ciclo
