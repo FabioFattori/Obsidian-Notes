@@ -460,3 +460,6 @@ Il tempo di ciclo è composto da:
 ![[Pasted image 20260309121353.png]]
 ###### Obbiettivi Dell'analisi
 ![[Pasted image 20260309121659.png]]
+Tale analisi:
+![[Pasted image 20260309140522.png]]
+#### Definizione delle priorità di intervento sulla base del loro impatto
