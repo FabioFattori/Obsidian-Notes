@@ -439,4 +439,15 @@ Per rispettare il criterio di semplicità si adottano anche opportune visualizza
 #### Identificazione Dei Breakthrough
 > Per Breakthrough si intende un livello di performance di un processo che, se viene raggiunto, porta con se un SIGNIFICATIVO miglioramento a livello di costi, qualità, servizio e tempi di ciclo.
 
-##### Come identificare i Breakthrough
+##### Come Identificare I Breakthrough
+![[Pasted image 20260309120318.png]]
+###### VoC - Voice of the Customer
+> L'analisi della voce del cliente è un processo sistematico attraverso il quale si ascolta, interpreta e si raccolgono le opinioni, esperienze ed aspettative del cliente rispetto ad un prodotto, brand o servizio fornitogli
+
+Per raccogliere ed analizzare vengono svolte diverse tecniche come:
+- Sondaggi e questionari
+- interviste 
+- social media e recensioni online
+- ecc...
+![[Pasted image 20260309120659.png]]
+##### Benchmarking
