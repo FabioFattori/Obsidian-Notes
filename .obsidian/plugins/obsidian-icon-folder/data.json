@@ -64,7 +64,10 @@
   "Random Notes": "☔",
   "Primo Anno Major/Primo Semestre Major": "📚",
   "Primo Anno Major/Primo Semestre Major/Distributed System": "🌳",
-  "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": "LiAtom",
+  "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": {
+    "iconName": "LiAtom",
+    "iconColor": "#eeff00"
+  },
   "Primo Anno Major/Primo Semestre Major/Machine Learning": {
     "iconName": "LiWashingMachine",
     "iconColor": "#00ff00"

@@ -24,26 +24,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c6b050e4e7360314",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39d0dd0bd620515a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "IngegneriadeiProcessi"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,21 +184,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c23d8f1e7e499b26",
+  "active": "ef605dff0dc83cd1",
   "lastOpenFiles": [
-    "Pasted image 20260309155131.png",
-    "Pasted image 20260309155054.png",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309121353.png",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "Pasted image 20260309155022.png",
-    "Pasted image 20260309154938.png",
-    "Pasted image 20260309154811.png",
-    "Pasted image 20260309154641.png",
-    "Pasted image 20260309154530.png",
-    "Pasted image 20260309154357.png",
-    "Pasted image 20260309154217.png",
-    "Pasted image 20260309154138.png",
-    "Pasted image 20260309154023.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309155131.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309155054.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309155022.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154938.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154811.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154641.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154530.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154357.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154217.png",
+    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/imgs/Pasted image 20260309154138.png",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
