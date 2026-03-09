@@ -437,3 +437,6 @@ Per rispettare il criterio di semplicità si adottano anche opportune visualizza
 
 ![[Pasted image 20260309114214.png]]
 #### Identificazione Dei Breakthrough
+> Per Breakthrough si intende un livello di performance di un processo che, se viene raggiunto, porta con se un SIGNIFICATIVO miglioramento a livello di costi, qualità, servizio e tempi di ciclo.
+
+##### Come identificare i Breakthrough
