@@ -465,3 +465,13 @@ Tale analisi:
 #### Definizione delle priorità di intervento sulla base del loro impatto
 > La difficoltà di ridisegno varia in base al tipo di business, ovvero è influenzata dalla complessità socio-politica dell'azienda e dalla sua complessità organizzativa
 
+Inoltre
+> La scelta dei processi da reingegnerizzare deve tenere conto della difficoltà di implementazione (che comprende anche il tempo di implementazione stesso) e del potenziale impatto che tale cambiamento avrà sull'azienda
+
+E ancora
+> La scelta dei processi da reingegnerizzare  dipende dagli obbiettivi della stessa reingegnerizzazione
+
+##### Analisi di Pareto
+> è uno strumento statistico utilizzato per identificare e concentrarsi sugli elementi che hanno il maggior impatto su un determinato fenomeno
+
+
