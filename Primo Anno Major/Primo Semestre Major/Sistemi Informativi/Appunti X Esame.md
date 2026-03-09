@@ -487,4 +487,11 @@ Nuovi strumenti analitici aiutano a concepire nuovi modi di organizzare il fluss
 ![[Pasted image 20260309154138.png]]
 ###### Modello a 6 fasi
 ![[Pasted image 20260309154217.png]]
-###### Condivisione degli obbiettivi di business
+1. **_Condivisione obiettivi di business_**
+	![[Pasted image 20260309154357.png]]
+2. **_Definizione delle linee guida_**
+	![[Pasted image 20260309154530.png]]
+3. **_Analisi di base e benchmark_**
+	![[Pasted image 20260309154641.png]]
+	![[Pasted image 20260309154811.png]]
+4.5.
