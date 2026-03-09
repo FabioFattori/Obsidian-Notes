@@ -462,7 +462,7 @@ Il tempo di ciclo è composto da:
 ![[Pasted image 20260309121659.png]]
 Tale analisi:
 ![[Pasted image 20260309140522.png]]
-#### Definizione delle priorità di intervento sulla base del loro impatto
+#### Definizione Delle Priorità Di Intervento Sulla Base Del Loro Impatto
 > La difficoltà di ridisegno varia in base al tipo di business, ovvero è influenzata dalla complessità socio-politica dell'azienda e dalla sua complessità organizzativa
 
 Inoltre
@@ -471,7 +471,13 @@ Inoltre
 E ancora
 > La scelta dei processi da reingegnerizzare  dipende dagli obbiettivi della stessa reingegnerizzazione
 
-##### Analisi di Pareto
+##### Analisi Di Pareto
 > è uno strumento statistico utilizzato per identificare e concentrarsi sugli elementi che hanno il maggior impatto su un determinato fenomeno
 
+> Ha come obbiettivo principale l'evidenziare le cause principali di un problema, permettendo all'organizzazione di concentrarsi solo sul miglioramento di esse.
+
+###### Fasi
+![[Pasted image 20260309145507.png]]
+![[Pasted image 20260309145658.png]]
+#### Reingegnerizzazione dei processi per rimuovere le barriere alla performance
 
