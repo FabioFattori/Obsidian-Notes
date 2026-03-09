@@ -463,3 +463,5 @@ Il tempo di ciclo è composto da:
 Tale analisi:
 ![[Pasted image 20260309140522.png]]
 #### Definizione delle priorità di intervento sulla base del loro impatto
+> La difficoltà di ridisegno varia in base al tipo di business, ovvero è influenzata dalla complessità socio-politica dell'azienda e dalla sua complessità organizzativa
+
