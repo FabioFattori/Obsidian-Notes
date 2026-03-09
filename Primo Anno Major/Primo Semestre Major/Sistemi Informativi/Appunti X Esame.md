@@ -404,3 +404,21 @@ Nota la mappa è possibile identificare i KPI che devono essere definiti in base
 
 <h1>Esempio:</h1>
 ![[Pasted image 20260308223643.png]]
+###### Mappa Degli Indicatori
+> Per misurare in maniera efficace occorre creare un'ulteriore mappa dei KPI che copra diversi punti di vista a diversi livelli di dettaglio, dato che i KPI catturano un singolo aspetto del fenomeno che misurano
+
+Tale mappa chiarisce:
+- Fenomeno da misurare 
+	- Il processo o il soggetto da valutare 
+- Obiettivi 
+	- Specifica quale scopo deve raggiungere il processo o il soggetto. Conoscendo gli obiettivi è possibile derivare quali sono gli aspetti più importanti da misurare per controllare il raggiungimento dell’obiettivo stesso 
+- Misure 
+	- Identificazione concreta ma ancora qualitativa degli aspetti da monitorare
+- Stakeholder 
+	- Soggetti interessati ai KPI. Soggetti diversi sono interessati ad aspetti diversi dello stesso fenomeno e conseguentemente a indicatori diversi, tipicamente a diversi livelli di aggregazione 
+- Sorgente dati
+	- Determina l’effettiva calcolabilità dell’indicatore
+- Formulazione 
+	- Specifica la formula di calcolo dell’indicatore
+###### Visualizzazione dei KPI
+Per rispettare il criterio di semplicit
