@@ -454,3 +454,9 @@ Per raccogliere ed analizzare vengono svolte diverse tecniche come:
 ![[Pasted image 20260309120819.png]]
 #### Analisi Dei Tempi Di Ciclo
 > L'analisi dei tempi di ciclo (o cycle time analysis) è una tecnica utilizzata per misurare e ottimizzare l'efficienza dei processi produttivi o operativi, analizzando il tempo necessario per completare un ciclo di lavoro.
+
+##### Divisione in Fasi
+Il tempo di ciclo è composto da:
+![[Pasted image 20260309121353.png]]
+###### Obbiettivi Dell'analisi
+![[Pasted image 20260309121659.png]]
