@@ -436,3 +436,4 @@ Per rispettare il criterio di semplicità si adottano anche opportune visualizza
 > Spesso usata per raggiungere l'eccellenza operativa
 
 ![[Pasted image 20260309114214.png]]
+#### Identificazione Dei Breakthrough
