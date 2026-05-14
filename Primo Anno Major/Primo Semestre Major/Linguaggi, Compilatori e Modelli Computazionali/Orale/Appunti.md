@@ -32,3 +32,8 @@ dove il Parse Tree è:
 > Un Parser così come un Lexer può essere generato dando in input una descrizione della struttura sintattica, ovvero come le espressioni, statement e definizioni sono fatte.
 
 #### Generare il Parser
+![[Pasted image 20260514213730.png]]
+![[Pasted image 20260514214111.png]]
+> Le CFG sono una notazione naturale per descrivere strutture ricorsive come la struttura sintattica dei linguaggi.
+
+![[Pasted image 20260514214047.png]]
