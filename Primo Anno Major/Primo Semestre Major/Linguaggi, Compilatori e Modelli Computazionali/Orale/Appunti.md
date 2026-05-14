@@ -12,4 +12,7 @@ Una volta ottenuti tutti i singoli FA dei token si mergiano per ottenere il lexe
 ![[Pasted image 20260514204733.png]]
 quando si parla di continuare a leggere nel punto  4, si intende l'implementare  il look ahead che in questo caso è unbounded => posso fare undo di qualsiasi numero di caratteri letti.
 ![[Pasted image 20260514204937.png]]
-> Nella pratica l'automata è specificato tramite l'utilizzo delle espressioni regolari
+> Nella pratica l'automata è specificato tramite l'utilizzo delle espressioni regolari.
+> ![[Pasted image 20260514205255.png]]
+
+![[Pasted image 20260514205444.png]] 
