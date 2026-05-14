@@ -9,3 +9,7 @@ Lessemi e token => obiettivo dell'analisi lessicale:
 Una volta ottenuti tutti i singoli FA dei token si mergiano per ottenere il lexer automaton:
 ![[Pasted image 20260514204642.png]]
 #### Full declarative lexer
+![[Pasted image 20260514204733.png]]
+quando si parla di continuare a leggere nel punto  4, si intende l'implementare  il look ahead che in questo caso è unbounded => posso fare undo di qualsiasi numero di caratteri letti.
+![[Pasted image 20260514204937.png]]
+> Nella pratica l'automata è specificato tramite l'utilizzo delle espressioni regolari
