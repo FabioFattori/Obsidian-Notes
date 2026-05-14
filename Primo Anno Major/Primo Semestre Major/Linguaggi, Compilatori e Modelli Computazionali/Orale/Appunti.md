@@ -24,3 +24,8 @@ Genera direttamente il FULL DECLARATIVE LEXER con anche le  priorità dei token 
 ### Parser
 ![[Pasted image 20260514212147.png]]
 ![[Pasted image 20260514212208.png]]
+dove il Parse Tree è:
+![[Pasted image 20260514212249.png]]
+![[Pasted image 20260514212427.png]]
+#### Operazioni (task) del parser
+![[Pasted image 20260514212550.png]]
