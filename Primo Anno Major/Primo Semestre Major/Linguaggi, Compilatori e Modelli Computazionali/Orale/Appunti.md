@@ -29,3 +29,5 @@ dove il Parse Tree è:
 ![[Pasted image 20260514212427.png]]
 #### Operazioni (task) del parser
 ![[Pasted image 20260514212550.png]]
+> Un Parser così come un Lexer può essere generato dando in input una descrizione della struttura sintattica, ovvero come le espressioni, statement e definizioni sono fatte.
+
