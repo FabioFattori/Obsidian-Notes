@@ -16,3 +16,6 @@ quando si parla di continuare a leggere nel punto  4, si intende l'implementare 
 > ![[Pasted image 20260514205255.png]]
 
 ![[Pasted image 20260514205444.png]] 
+### Generatori di lexer
+![[Pasted image 20260514205841.png]]
+Genera direttamente il FULL DECLARATIVE LEXER con anche le  priorità dei token e tutto.
