@@ -93,3 +93,9 @@ La symbol table ha:
 ##### Static Scoping
 ![[Pasted image 20260515213924.png]]
 ![[Pasted image 20260515214018.png]]
+##### Dynamic scoping
+![[Pasted image 20260515214220.png]]
+![[Pasted image 20260515214314.png]]
+#### Rules for our language
+![[Pasted image 20260515214519.png]]
+
