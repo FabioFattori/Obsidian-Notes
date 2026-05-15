@@ -104,3 +104,6 @@ La symbol table ha:
 > Una volta che TUTTE le dichiarazioni sono state visitate e tutti i  loro utilizzi linkati ai vari ID la symbol table non  sara più utile a nulla.
 #### Operazioni sulla symbol table 
 ![[Pasted image 20260515215025.png]]
+#### Possibili implementazioni della Symbol table
+![[Pasted image 20260515215520.png]]
+##### list of Hashtable  
