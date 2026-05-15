@@ -48,4 +48,9 @@ nella pratica :
 > Questo procedimento è fatto AUTOMATICAMENTE da ANTLR
 
 #### Tirando le somme
-- strategia semplice  
+- strategia semplice  che può essere automatizzata
+- è presente il backtracking => che la rende poco popolare a causa della sua inefficienza ma per linguaggi piccoli va bene 
+- inefficienza che comunque può essere eliminata tramite la restrizione delle classi della grammatica
+#### Predictive  parser
+![[Pasted image 20260515183655.png]]
+##### LL(1)
