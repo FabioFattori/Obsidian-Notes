@@ -65,3 +65,8 @@ nella pratica :
 ![[Pasted image 20260515184733.png]]
 ##### Come sistema l'ambiguità
 ![[Pasted image 20260515184806.png]]
+###### Dangling Else
+![[Pasted image 20260515184838.png]]
+![[Pasted image 20260515184924.png]]
+![[Pasted image 20260515185149.png]]
+##### Quindi?
