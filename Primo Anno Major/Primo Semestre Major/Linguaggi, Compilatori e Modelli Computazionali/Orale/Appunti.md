@@ -83,38 +83,40 @@ nella pratica :
 ## Analisi Semantica
 ### Sematic analyzer
 ![[Pasted image 20260515213325.png]]
-### Symbol Table
+#### Symbol Table
 Il Compiler fino ad ora:
 ![[Pasted image 20260515190612.png]]
 La symbol table ha:
 ![[Pasted image 20260515213406.png]]
 > Per nesting level si intende il livello di scope al quale la variabile, il metodo o la classe appartiene
 
-##### Static Scoping
+###### Static Scoping
 ![[Pasted image 20260515213924.png]]
 ![[Pasted image 20260515214018.png]]
-##### Dynamic scoping
+###### Dynamic scoping
 ![[Pasted image 20260515214220.png]]
 ![[Pasted image 20260515214314.png]]
-#### Rules for our language
+##### Rules for our language
 > static scoping alla C++
 ![[Pasted image 20260515214519.png]]
 ![[Pasted image 20260515214641.png]]
 
 > Una volta che TUTTE le dichiarazioni sono state visitate e tutti i  loro utilizzi linkati ai vari ID la symbol table non  sara più utile a nulla.
-#### Operazioni sulla symbol table 
+##### Operazioni sulla symbol table 
 ![[Pasted image 20260515215025.png]]
-#### Possibili implementazioni della Symbol table
+##### Possibili implementazioni della Symbol table
 ![[Pasted image 20260515215520.png]]
-##### list of Hashtable  
+###### list of Hashtable  
 ![[Pasted image 20260515215608.png]]
 ![[Pasted image 20260515215621.png]]
 ![[Pasted image 20260515215634.png]]
 ![[Pasted image 20260515215738.png]]
-##### Hashtable of lists
+###### Hashtable of lists
 ![[Pasted image 20260515220339.png]]
 > Il nesting level value in ogni list è IMPORTATISSIMO dato che ci permette di capire se l'id è stato definito nello scope corrente o in uno scope precedente
 
 ![[Pasted image 20260515220505.png]]
 ![[Pasted image 20260515220517.png]]
 ![[Pasted image 20260515220534.png]]
+#### Type Checking
+
