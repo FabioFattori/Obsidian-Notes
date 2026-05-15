@@ -111,3 +111,10 @@ La symbol table ha:
 ![[Pasted image 20260515215621.png]]
 ![[Pasted image 20260515215634.png]]
 ![[Pasted image 20260515215738.png]]
+##### Hashtable of lists
+![[Pasted image 20260515220339.png]]
+> Il nesting level value in ogni list è IMPORTATISSIMO dato che ci permette di capire se l'id è stato definito nello scope corrente o in uno scope precedente
+
+![[Pasted image 20260515220505.png]]
+![[Pasted image 20260515220517.png]]
+![[Pasted image 20260515220534.png]]
