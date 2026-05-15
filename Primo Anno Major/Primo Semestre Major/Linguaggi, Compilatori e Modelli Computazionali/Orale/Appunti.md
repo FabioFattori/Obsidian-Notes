@@ -70,3 +70,13 @@ nella pratica :
 ![[Pasted image 20260515184924.png]]
 ![[Pasted image 20260515185149.png]]
 ##### Quindi?
+![[Pasted image 20260515185327.png]]
+![[Pasted image 20260515185356.png]]
+> In ANTLR per di default viene utilizzata l'associazione a sinistra se 
+> ```
+> <assoc=right>
+> ```
+> non viene specificato
+
+![[Pasted image 20260515185731.png]]
+![[Pasted image 20260515185745.png]]
