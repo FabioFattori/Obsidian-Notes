@@ -119,4 +119,10 @@ La symbol table ha:
 ![[Pasted image 20260515220517.png]]
 ![[Pasted image 20260515220534.png]]
 #### Type Checking
+![[Pasted image 20260515221816.png]]
 ##### Type System
+![[Pasted image 20260515221607.png]]
+##### Type Inference
+![[Pasted image 20260515221916.png]]
+![[Pasted image 20260515222000.png]]
+> le regole logiche vengono utilizzate perchè il type checking 
