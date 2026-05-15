@@ -83,7 +83,7 @@ nella pratica :
 ## Analisi Semantica
 ### Sematic analyzer
 ![[Pasted image 20260515213325.png]]
-#### Symbol Table
+#### Symbol Table 
 Il Compiler fino ad ora:
 ![[Pasted image 20260515190612.png]]
 La symbol table ha:
@@ -106,7 +106,7 @@ La symbol table ha:
 ![[Pasted image 20260515215025.png]]
 ##### Possibili implementazioni della Symbol table
 ![[Pasted image 20260515215520.png]]
-###### list of Hashtable  
+###### list of Hashtable  (Implementazione del  nostro progetto)
 ![[Pasted image 20260515215608.png]]
 ![[Pasted image 20260515215621.png]]
 ![[Pasted image 20260515215634.png]]
@@ -119,4 +119,4 @@ La symbol table ha:
 ![[Pasted image 20260515220517.png]]
 ![[Pasted image 20260515220534.png]]
 #### Type Checking
-
+##### Type System
