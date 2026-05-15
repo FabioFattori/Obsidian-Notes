@@ -81,6 +81,10 @@ nella pratica :
 ![[Pasted image 20260515185731.png]]
 ![[Pasted image 20260515185745.png]]
 ## Analisi Semantica
+### Sematic analyzer
+![[Pasted image 20260515213325.png]]
 ### Symbol Table
 Il Compiler fino ad ora:
 ![[Pasted image 20260515190612.png]]
+La symbol table ha:
+![[Pasted image 20260515213406.png]]
