@@ -61,3 +61,7 @@ nella pratica :
 ![[Pasted image 20260515184235.png]]
 ![[Pasted image 20260515184249.png]]
 ![[Pasted image 20260515184319.png]]
+##### Definition
+![[Pasted image 20260515184733.png]]
+##### Come sistema l'ambiguità
+![[Pasted image 20260515184806.png]]
