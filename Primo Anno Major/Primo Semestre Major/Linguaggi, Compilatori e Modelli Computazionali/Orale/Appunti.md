@@ -88,3 +88,8 @@ Il Compiler fino ad ora:
 ![[Pasted image 20260515190612.png]]
 La symbol table ha:
 ![[Pasted image 20260515213406.png]]
+> Per nesting level si intende il livello di scope al quale la variabile, il metodo o la classe appartiene
+
+##### Static Scoping
+![[Pasted image 20260515213924.png]]
+![[Pasted image 20260515214018.png]]
