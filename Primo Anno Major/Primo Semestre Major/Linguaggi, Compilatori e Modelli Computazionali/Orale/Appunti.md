@@ -129,3 +129,11 @@ La symbol table ha:
 
 ![[Pasted image 20260515223014.png]]
 ![[Pasted image 20260515223043.png]]
+###### Notazione
+![[Pasted image 20260515223139.png]]
+![[Pasted image 20260515223218.png]]
+> Esempio
+> ![[Pasted image 20260515223515.png]]
+
+
+![[Pasted image 20260515223401.png]]
