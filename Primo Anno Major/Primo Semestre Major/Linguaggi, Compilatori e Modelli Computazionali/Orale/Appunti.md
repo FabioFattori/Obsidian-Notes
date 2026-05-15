@@ -1,16 +1,16 @@
-# Struttura di un compilatore
+# Struttura Di Un Compilatore
 ![[Pasted image 20260514212035.png]]
-## Analisi lessicale e sintattica
+## Analisi Lessicale E Sintattica
 ### Lexer
 Lessemi e token => obiettivo dell'analisi lessicale:
 ![[Pasted image 20260514203438.png]]
 #### Maximal Match Rule
 ![[Pasted image 20260514203529.png]]
-#### Lexer dichiarativo e lexer imperativo
+#### Lexer Dichiarativo E Lexer Imperativo
 ![[Pasted image 20260514204134.png]]
 Una volta ottenuti tutti i singoli FA dei token si mergiano per ottenere il lexer automaton:
 ![[Pasted image 20260514204642.png]]
-#### Full declarative lexer
+#### Full Declarative Lexer
 ![[Pasted image 20260514204733.png]]
 quando si parla di continuare a leggere nel punto  4, si intende l'implementare  il look ahead che in questo caso è unbounded => posso fare undo di qualsiasi numero di caratteri letti.
 ![[Pasted image 20260514204937.png]]
@@ -18,7 +18,7 @@ quando si parla di continuare a leggere nel punto  4, si intende l'implementare 
 > ![[Pasted image 20260514205255.png]]
 
 ![[Pasted image 20260514205444.png]] 
-### Generatori di lexer
+### Generatori Di Lexer
 ![[Pasted image 20260514205841.png]]
 Genera direttamente il FULL DECLARATIVE LEXER con anche le  priorità dei token e tutto.![[Pasted image 20260514210410.png]]
 ### Parser
@@ -27,17 +27,17 @@ Genera direttamente il FULL DECLARATIVE LEXER con anche le  priorità dei token 
 dove il Parse Tree è:
 ![[Pasted image 20260514212249.png]]
 ![[Pasted image 20260514212427.png]]
-#### Operazioni (task) del parser
+#### Operazioni (task) Del Parser
 ![[Pasted image 20260514212550.png]]
 > Un Parser così come un Lexer può essere generato dando in input una descrizione della struttura sintattica, ovvero come le espressioni, statement e definizioni sono fatte.
 
-#### Generare il Parser
+#### Generare Il Parser
 ![[Pasted image 20260514213730.png]]
 ![[Pasted image 20260514214111.png]]
 > Le CFG sono una notazione naturale per descrivere strutture ricorsive come la struttura sintattica dei linguaggi.
 
 ![[Pasted image 20260514214047.png]]
-#### Recursive descent (Top Down)
+#### Recursive Descent (Top Down)
 ![[Pasted image 20260515182438.png]]
 nella pratica :
 ![[Pasted image 20260515182733.png]]
@@ -47,11 +47,11 @@ nella pratica :
 ![[Pasted image 20260515182940.png]]
 > Questo procedimento è fatto AUTOMATICAMENTE da ANTLR
 
-#### Tirando le somme
+#### Tirando Le Somme
 - strategia semplice  che può essere automatizzata
 - è presente il backtracking => che la rende poco popolare a causa della sua inefficienza ma per linguaggi piccoli va bene 
 - inefficienza che comunque può essere eliminata tramite la restrizione delle classi della grammatica
-#### Predictive  parser
+#### Predictive Parser
 ![[Pasted image 20260515183655.png]]
 ##### LL(1)
 ![[Pasted image 20260515183821.png]]
@@ -63,7 +63,7 @@ nella pratica :
 ![[Pasted image 20260515184319.png]]
 ##### Definition
 ![[Pasted image 20260515184733.png]]
-##### Come sistema l'ambiguità
+##### Come Sistema L'ambiguità
 ![[Pasted image 20260515184806.png]]
 ###### Dangling Else
 ![[Pasted image 20260515184838.png]]
@@ -80,3 +80,7 @@ nella pratica :
 
 ![[Pasted image 20260515185731.png]]
 ![[Pasted image 20260515185745.png]]
+## Analisi Semantica
+### Symbol Table
+Il Compiler fino ad ora:
+![[Pasted image 20260515190612.png]]
