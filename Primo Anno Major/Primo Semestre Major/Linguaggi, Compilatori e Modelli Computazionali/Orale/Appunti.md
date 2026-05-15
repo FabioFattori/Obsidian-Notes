@@ -125,4 +125,5 @@ La symbol table ha:
 ##### Type Inference
 ![[Pasted image 20260515221916.png]]
 ![[Pasted image 20260515222000.png]]
-> le regole logiche vengono utilizzate perchè il type checking 
+> le regole logiche vengono utilizzate perchè il type checking ed la inference è strettamente logica
+
