@@ -54,3 +54,10 @@ nella pratica :
 #### Predictive  parser
 ![[Pasted image 20260515183655.png]]
 ##### LL(1)
+![[Pasted image 20260515183821.png]]
+###### Left Factoring
+![[Pasted image 20260515183851.png]]
+#### Ambiguità
+![[Pasted image 20260515184235.png]]
+![[Pasted image 20260515184249.png]]
+![[Pasted image 20260515184319.png]]
