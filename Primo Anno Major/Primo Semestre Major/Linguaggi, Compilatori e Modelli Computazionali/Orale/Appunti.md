@@ -97,5 +97,10 @@ La symbol table ha:
 ![[Pasted image 20260515214220.png]]
 ![[Pasted image 20260515214314.png]]
 #### Rules for our language
+> static scoping alla C++
 ![[Pasted image 20260515214519.png]]
+![[Pasted image 20260515214641.png]]
 
+> Una volta che TUTTE le dichiarazioni sono state visitate e tutti i  loro utilizzi linkati ai vari ID la symbol table non  sara più utile a nulla.
+#### Operazioni sulla symbol table 
+![[Pasted image 20260515215025.png]]
