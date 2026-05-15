@@ -37,10 +37,15 @@ dove il Parse Tree è:
 > Le CFG sono una notazione naturale per descrivere strutture ricorsive come la struttura sintattica dei linguaggi.
 
 ![[Pasted image 20260514214047.png]]
-#### Recursive descent
+#### Recursive descent (Top Down)
 ![[Pasted image 20260515182438.png]]
 nella pratica :
 ![[Pasted image 20260515182733.png]]
+![[Pasted image 20260515182823.png]]
+> i parser top down (ANTLR) funzionano tramite la discesa ricorsiva, ma essa non sempre funziona:![[Pasted image 20260515182304.png]]
 
-> i parser top down (ANTLR) funzionano tramite la discesa ricorsiva, ma essa non sempre funziona:
-> ![[Pasted image 20260515182304.png]]
+![[Pasted image 20260515182940.png]]
+> Questo procedimento è fatto AUTOMATICAMENTE da ANTLR
+
+#### Tirando le somme
+- strategia semplice  
