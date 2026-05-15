@@ -107,3 +107,7 @@ La symbol table ha:
 #### Possibili implementazioni della Symbol table
 ![[Pasted image 20260515215520.png]]
 ##### list of Hashtable  
+![[Pasted image 20260515215608.png]]
+![[Pasted image 20260515215621.png]]
+![[Pasted image 20260515215634.png]]
+![[Pasted image 20260515215738.png]]
