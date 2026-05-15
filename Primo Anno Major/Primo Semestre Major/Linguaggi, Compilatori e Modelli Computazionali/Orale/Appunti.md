@@ -127,3 +127,5 @@ La symbol table ha:
 ![[Pasted image 20260515222000.png]]
 > le regole logiche vengono utilizzate perchè il type checking ed la inference è strettamente logica
 
+![[Pasted image 20260515223014.png]]
+![[Pasted image 20260515223043.png]]
