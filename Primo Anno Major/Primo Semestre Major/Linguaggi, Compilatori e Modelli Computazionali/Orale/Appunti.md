@@ -233,3 +233,7 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516174717.png]]
 ##### Memory Layout con anche le variabili globali
 ![[Pasted image 20260516174818.png]]
+##### Variabili dichiarate in altri scope
+![[Pasted image 20260516175508.png]]
+> Viene introdotto il campo **access link** => il quale punta al valore PIù RECENTE della variabile definita in un outer scope (Per la regola Most Closely Nested)
+
