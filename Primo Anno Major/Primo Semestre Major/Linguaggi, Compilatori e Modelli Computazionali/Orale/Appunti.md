@@ -231,3 +231,5 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 
 ##### Variabili Globali
 ![[Pasted image 20260516174717.png]]
+##### Memory Layout con anche le variabili globali
+![[Pasted image 20260516174818.png]]
