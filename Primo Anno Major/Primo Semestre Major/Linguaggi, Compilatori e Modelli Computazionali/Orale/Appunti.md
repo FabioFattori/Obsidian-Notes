@@ -237,3 +237,7 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516175508.png]]
 > Viene introdotto il campo **access link** => il quale punta al valore PIù RECENTE della variabile definita in un outer scope (Per la regola Most Closely Nested)
 
+###### Access Link, come settare il valore
+![[Pasted image 20260516175951.png]]
+##### Heap Storage
+![[Pasted image 20260516180135.png]]
