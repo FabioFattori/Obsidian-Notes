@@ -208,4 +208,14 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516173100.png]]
 ##### Assunzioni
 ![[Pasted image 20260516173157.png]]
-##### Attivazion
+##### Attivazioni
+![[Pasted image 20260516173240.png]]
+##### Lifetime delle variabili
+![[Pasted image 20260516173310.png]]
+##### Activation Trees
+![[Pasted image 20260516173421.png]]
+![[Pasted image 20260516173432.png]]
+######  Importantissimo
+![[Pasted image 20260516173550.png]]
+##### Memory Layout Revisited con lo Stack delle attivazioni
+![[Pasted image 20260516173722.png]]
