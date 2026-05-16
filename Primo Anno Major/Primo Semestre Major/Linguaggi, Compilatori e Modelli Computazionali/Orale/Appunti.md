@@ -267,3 +267,6 @@ Esempio:
 ![[Pasted image 20260516210256.png]]
 ![[Pasted image 20260516210328.png]]
 #### Activation  Record
+![[Pasted image 20260516210416.png]]
+![[Pasted image 20260516210510.png]]
+![[Pasted image 20260516210759.png]]
