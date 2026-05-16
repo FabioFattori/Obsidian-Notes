@@ -145,3 +145,9 @@ La symbol table ha:
 ![[Pasted image 20260516102806.png]]
 ###### Not E while Loop
 ![[Pasted image 20260516102958.png]]
+![[Pasted image 20260516103053.png]]
+###### Problema  con il tipo durante l'utilizzo della variabile
+![[Pasted image 20260516103339.png]]
+###### Soluzione - Type Enviroment
+![[Pasted image 20260516103404.png]]
+![[Pasted image 20260516103517.png]]
