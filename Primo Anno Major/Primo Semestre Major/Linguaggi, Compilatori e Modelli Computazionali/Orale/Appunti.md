@@ -262,3 +262,8 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516205027.png]]
 > $\$sp$ è un registro presente nella MIPS architecture (CPU) che ha una architettura RISC, altri registri che abbiamo usato sono $\$t0,\$t1$ e $\$t2$ che sono dei registri temporanei.
 
+Esempio:
+![[Pasted image 20260516210232.png]] dove $i$ è  un intero
+![[Pasted image 20260516210256.png]]
+![[Pasted image 20260516210328.png]]
+#### Activation  Record
