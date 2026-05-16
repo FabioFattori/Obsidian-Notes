@@ -189,4 +189,6 @@ Quindi si scegli di permettere l'override dei field che però sono immutabili qu
 ###### Method Overriding
 ![[Pasted image 20260516123334.png]]
 Quindi nel metodo overridato:
-- il valore di output deve rispettare la  Covarianza, quindi la freccia rispetta la direzione del subtyping tra le classi $B<=A$ dove B   
+- il valore di output deve rispettare la  **Covarianza**, quindi la freccia rispetta la direzione del subtyping tra le classi $B<=A$ dove $B$ è  la classe che eredita ed estende $A$.
+  Quindi mettiamo caso che il tipo di ritorno del metodo nella classe $A$ sia $T$, nella classe $B$ il tipo di ritorno sarà $T'$ che è un subtype di $T$ => $T'<=T$ 
+- 
