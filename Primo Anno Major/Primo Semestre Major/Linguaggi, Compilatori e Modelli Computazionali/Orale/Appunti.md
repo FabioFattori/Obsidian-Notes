@@ -286,4 +286,10 @@ Esempio:
 ![[Pasted image 20260516220628.png]]
 #### Sottoclassi
 ![[Pasted image 20260516220715.png]]
-#### Dynamic Dispatch
+#### Dynamic Dispatch and Dispatch Table
+![[Pasted image 20260516220917.png]]
+Dato questo esempio:
+![[Pasted image 20260516221158.png]]
+La dispatch table sarebbe:
+![[Pasted image 20260516221119.png]]
+![[Pasted image 20260516221332.png]]
