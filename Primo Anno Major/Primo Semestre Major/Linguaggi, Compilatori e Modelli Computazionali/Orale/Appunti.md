@@ -241,3 +241,6 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516175951.png]]
 ##### Heap Storage
 ![[Pasted image 20260516180135.png]]
+###### Garbace Collection
+![[Pasted image 20260516180702.png]]
+###### Due algoritmi di Garbage co
