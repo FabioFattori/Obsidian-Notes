@@ -304,3 +304,5 @@ La dispatch table sarebbe:
 #### AR
 ![[Pasted image 20260516222309.png]]
 ### Generazione Enriched AST (Parser)
+#### Symbol Table che diviene Virtual Table
+![[Pasted image 20260516222649.png]]
