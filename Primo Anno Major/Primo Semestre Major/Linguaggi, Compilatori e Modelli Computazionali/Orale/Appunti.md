@@ -164,3 +164,10 @@ e  poi anche delle function:
 ![[Pasted image 20260516114837.png]]
 > è troppo restrittiva perchè la prima regola $e_0:T_0$ dice "$e_0$ DEVE essere dello TIPO $T_0$" e quindi non consente subtyping (ereditarietà)
 
+Soluzione:
+![[Pasted image 20260516115110.png]]
+![[Pasted image 20260516115143.png]]
+##### Static Types and Dynamic Types
+![[Pasted image 20260516115421.png]]
+![[Pasted image 20260516115539.png]]
+###### Soundess 
