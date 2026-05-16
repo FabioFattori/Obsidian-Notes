@@ -243,4 +243,9 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516180135.png]]
 ###### Garbace Collection
 ![[Pasted image 20260516180702.png]]
-###### Due algoritmi di Garbage co
+###### Due algoritmi di Garbage collection
+![[Pasted image 20260516180744.png]]
+![[Pasted image 20260516180758.png]]
+##### Memory Layout With Heap
+![[Pasted image 20260516180825.png]]
+### Code Generation for Stack Machine
