@@ -167,7 +167,11 @@ e  poi anche delle function:
 Soluzione:
 ![[Pasted image 20260516115110.png]]
 ![[Pasted image 20260516115143.png]]
+> la scritta $O[T_]$ 
+
+
 ##### Static Types and Dynamic Types
 ![[Pasted image 20260516115421.png]]
 ![[Pasted image 20260516115539.png]]
-###### Soundess 
+###### Soundness of the typechecking system
+![[Pasted image 20260516115638.png]]
