@@ -154,4 +154,9 @@ La symbol table ha:
 > questa cosa è folle! ma funzia quindi adesso dobbiamo modificare le regole precedenti
 > ![[Pasted image 20260516103729.png]]
 ###### Function  Invocation
-l'introduzione del Type Envir
+l'introduzione del Type Enviroment permette la definizione di una nuova regola
+![[Pasted image 20260516104118.png]]
+e  poi anche delle function:
+![[Pasted image 20260516104150.png]]
+##### Tirando le somme 
+![[Pasted image 20260516104549.png]]
