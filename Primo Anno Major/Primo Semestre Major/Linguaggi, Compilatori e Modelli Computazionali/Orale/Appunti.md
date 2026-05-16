@@ -293,3 +293,5 @@ Dato questo esempio:
 La dispatch table sarebbe:
 ![[Pasted image 20260516221119.png]]
 ![[Pasted image 20260516221332.png]]
+![[Pasted image 20260516221418.png]]
+![[Pasted image 20260516221435.png]]
