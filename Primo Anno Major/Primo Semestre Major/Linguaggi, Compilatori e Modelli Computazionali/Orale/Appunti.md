@@ -258,3 +258,7 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516204545.png]]
 ###### Possibile ottimizzazione della stack machine (Il progetto non c'è l'ha LOL)
 ![[Pasted image 20260516204831.png]]
+#### Il nostro progetto simula una  stack machine
+![[Pasted image 20260516205027.png]]
+> $\$sp$ è un registro presente nella MIPS architecture (CPU) che ha una architettura RISC, altri registri che abbiamo usato sono $\$t0,\$t1$ e $\$t2$ che sono dei registri temporanei.
+
