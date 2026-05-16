@@ -177,4 +177,5 @@ Soluzione:
 ![[Pasted image 20260516120325.png]]
 > questa regola serve appunto per prendere anche il caso in cui la variabile x sia già stata dichiarata e noi dobbiamo solo riassegnarla. 
 > Infatti manca l'aggiunta al Type Enviroment di $x$.
-
+###### Function Invocation with subtyping
+![[Pasted image 20260516120908.png]]
