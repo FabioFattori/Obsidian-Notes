@@ -196,3 +196,16 @@ Quindi nel metodo overridato:
   ![[Pasted image 20260516142556.png]]
 ## Generazione di codice
 #### Memory management
+![[Pasted image 20260516172741.png]]
+##### Memory Layout
+![[Pasted image 20260516172822.png]] 
+Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data Space.
+> Quindi il compilatore è responsabile:
+> 	=> della generazione del codice (Code Block)
+> 	=> Organizzare l'uso dell'area dei dati (Data Space)
+
+##### Obbiettivi della code generation
+![[Pasted image 20260516173100.png]]
+##### Assunzioni
+![[Pasted image 20260516173157.png]]
+##### Attivazion
