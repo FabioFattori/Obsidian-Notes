@@ -295,3 +295,12 @@ La dispatch table sarebbe:
 ![[Pasted image 20260516221332.png]]
 ![[Pasted image 20260516221418.png]]
 ![[Pasted image 20260516221435.png]]
+## Compilatore OO
+### Layouts  in Heap
+#### Oggetti 
+![[Pasted image 20260516222104.png]]
+#### Dispatch Tables
+![[Pasted image 20260516222152.png]]
+#### AR
+![[Pasted image 20260516222309.png]]
+### Generazione Enriched AST (Parser)
