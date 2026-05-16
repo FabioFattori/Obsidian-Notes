@@ -151,3 +151,7 @@ La symbol table ha:
 ###### Soluzione - Type Enviroment
 ![[Pasted image 20260516103404.png]]
 ![[Pasted image 20260516103517.png]]
+> questa cosa è folle! ma funzia quindi adesso dobbiamo modificare le regole precedenti
+> ![[Pasted image 20260516103729.png]]
+###### Function  Invocation
+l'introduzione del Type Envir
