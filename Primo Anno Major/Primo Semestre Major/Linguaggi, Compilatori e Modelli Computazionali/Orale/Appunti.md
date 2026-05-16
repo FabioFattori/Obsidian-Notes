@@ -179,3 +179,8 @@ Soluzione:
 > Infatti manca l'aggiunta al Type Enviroment di $x$.
 ###### Function Invocation with subtyping
 ![[Pasted image 20260516120908.png]]
+##### Class Subtyping
+![[Pasted image 20260516121455.png]]
+###### Field overriding
+Per overridare i field di una classe bisogna fare una distinzione: 
+- Se i field sono mutabili (quindi da fuori della classe si possono fare delle assegnazioni)
