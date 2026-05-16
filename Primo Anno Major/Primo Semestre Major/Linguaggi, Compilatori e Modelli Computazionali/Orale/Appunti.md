@@ -187,3 +187,6 @@ Per overridare i field di una classe bisogna fare una distinzione:
 	![[Pasted image 20260516121722.png]]
 Quindi si scegli di permettere l'override dei field che però sono immutabili quindi non assegnabili una volta che l'oggetto della classe è creato, questa soluzione è SOUND, ed i field prendono il nome di **Covariant Fields**.
 ###### Method Overriding
+![[Pasted image 20260516123334.png]]
+Quindi nel metodo overridato:
+- il valore di output deve rispettare la  Covarianza, quindi la freccia rispetta la direzione del subtyping tra le classi $B<=A$ dove B   
