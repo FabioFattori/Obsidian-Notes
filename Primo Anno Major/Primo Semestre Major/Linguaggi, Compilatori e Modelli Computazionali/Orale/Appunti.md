@@ -249,3 +249,8 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ##### Memory Layout With Heap
 ![[Pasted image 20260516180825.png]]
 ### Code Generation for Stack Machine
+#### Stack machine
+![[Pasted image 20260516204156.png]]
+> ogni operazione prende i valori dalle due posizioni dello stack (prima e seconda), li poppa e mette il risultato in cima
+> ![[Pasted image 20260516204352.png]]
+
