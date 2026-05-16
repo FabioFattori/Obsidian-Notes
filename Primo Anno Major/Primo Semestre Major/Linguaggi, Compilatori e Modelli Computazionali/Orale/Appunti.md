@@ -146,21 +146,21 @@ La symbol table ha:
 ###### Not E while Loop
 ![[Pasted image 20260516102958.png]]
 ![[Pasted image 20260516103053.png]]
-###### Problema  con il tipo durante l'utilizzo della variabile
+###### Problema Con Il Tipo Durante L'utilizzo Della Variabile
 ![[Pasted image 20260516103339.png]]
 ###### Soluzione - Type Enviroment
 ![[Pasted image 20260516103404.png]]
 ![[Pasted image 20260516103517.png]]
 > questa cosa è folle! ma funzia quindi adesso dobbiamo modificare le regole precedenti
 > ![[Pasted image 20260516103729.png]]
-###### Function  Invocation
+###### Function Invocation
 l'introduzione del Type Enviroment permette la definizione di una nuova regola
 ![[Pasted image 20260516104118.png]]
 e  poi anche delle function:
 ![[Pasted image 20260516104150.png]]
-##### Tirando le somme 
+##### Tirando Le Somme
 ![[Pasted image 20260516104549.png]]
-#### Subtyping  - problemi e soluzioni
+#### Subtyping - Problemi E Soluzioni
 ![[Pasted image 20260516114837.png]]
 > è troppo restrittiva perchè la prima regola $e_0:T_0$ dice "$e_0$ DEVE essere dello TIPO $T_0$" e quindi non consente subtyping (ereditarietà)
 
@@ -171,17 +171,17 @@ Soluzione:
 ##### Static Types and Dynamic Types
 ![[Pasted image 20260516115421.png]]
 ![[Pasted image 20260516115539.png]]
-###### Soundness of the typechecking system
+###### Soundness of the Typechecking System
 ![[Pasted image 20260516115638.png]]
-###### Assign Rule of already declared variable needed
+###### Assign Rule of Already Declared Variable Needed
 ![[Pasted image 20260516120325.png]]
 > questa regola serve appunto per prendere anche il caso in cui la variabile x sia già stata dichiarata e noi dobbiamo solo riassegnarla. 
 > Infatti manca l'aggiunta al Type Enviroment di $x$.
-###### Function Invocation with subtyping
+###### Function Invocation with Subtyping
 ![[Pasted image 20260516120908.png]]
 ##### Class Subtyping
 ![[Pasted image 20260516121455.png]]
-###### Field overriding
+###### Field Overriding
 Per overridare i field di una classe bisogna fare una distinzione: 
 - Se i field sono mutabili (quindi da fuori della classe si possono fare delle assegnazioni) il field subtyping NON è più SOUND
 	![[Pasted image 20260516121722.png]]
@@ -193,4 +193,5 @@ Quindi nel metodo overridato:
   Quindi mettiamo caso che il tipo di ritorno del metodo nella classe $A$ sia $T$, nella classe $B$ il tipo di ritorno sarà $T'$ che è un subtype di $T$ => $T'<=T$ 
 - i field di input devono rispettare la **Controvarianza**, quindi il metodo overridato avrà $e_1,...,e_n$ come input che saranno dei tipi $T'_1,...,T'_n$ che avranno la direzione inversa rispetto le classi: 
   Se i valori di input del metodo in $A$ hanno tipi $T_1,...,T_n$ essi saranno dei **sottotipi** rispetto i tipi $T'$  del metodo overridato.
-  
+  ![[Pasted image 20260516142556.png]]
+## Generazione di codice
