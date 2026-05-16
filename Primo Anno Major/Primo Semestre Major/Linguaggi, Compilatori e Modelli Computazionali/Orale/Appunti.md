@@ -271,3 +271,11 @@ Esempio:
 ![[Pasted image 20260516210510.png]]
 ![[Pasted image 20260516210759.png]]
 ###### Code generation for function call
+![[Pasted image 20260516212554.png]]
+###### Code generation for function definition
+![[Pasted image 20260516212630.png]]
+##### Ritorniamo agli Activation Records
+![[Pasted image 20260516212725.png]]
+##### Usage of parameters/Variables nel nostro linguaggio
+![[Pasted image 20260516212816.png]]
+![[Pasted image 20260516212848.png]]
