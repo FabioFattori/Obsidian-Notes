@@ -270,3 +270,4 @@ Esempio:
 ![[Pasted image 20260516210416.png]]
 ![[Pasted image 20260516210510.png]]
 ![[Pasted image 20260516210759.png]]
+###### Code generation for function call
