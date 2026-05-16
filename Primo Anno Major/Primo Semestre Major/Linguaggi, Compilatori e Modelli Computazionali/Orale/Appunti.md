@@ -274,8 +274,12 @@ Esempio:
 ![[Pasted image 20260516212554.png]]
 ###### Code generation for function definition
 ![[Pasted image 20260516212630.png]]
-##### Ritorniamo agli Activation Records
+#### Ritorniamo agli Activation Records
 ![[Pasted image 20260516212725.png]]
 ##### Usage of parameters/Variables nel nostro linguaggio
 ![[Pasted image 20260516212816.png]]
 ![[Pasted image 20260516212848.png]]
+![[Pasted image 20260516212917.png]]
+#### Sommario
+![[Pasted image 20260516213033.png]]
+### Code Generation for OOP
