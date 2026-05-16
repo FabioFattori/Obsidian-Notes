@@ -225,3 +225,9 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516173926.png]]
 ![[Pasted image 20260516174015.png]]
 > Esempio
+> ![[Pasted image 20260516174239.png]]
+> ![[Pasted image 20260516174253.png]]
+> dove ogni blocchetto nello stack è una valore appartenente ad un AR di $f$ o $main$ (che non viene rappresentato dato che è poco interessante ma ci dovrebbe essere anche lui)
+
+##### Variabili Globali
+![[Pasted image 20260516174717.png]]
