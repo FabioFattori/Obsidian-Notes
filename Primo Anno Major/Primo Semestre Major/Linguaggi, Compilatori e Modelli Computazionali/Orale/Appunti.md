@@ -283,3 +283,7 @@ Esempio:
 #### Sommario
 ![[Pasted image 20260516213033.png]]
 ### Code Generation for OOP
+![[Pasted image 20260516220628.png]]
+#### Sottoclassi
+![[Pasted image 20260516220715.png]]
+#### Dynamic Dispatch
