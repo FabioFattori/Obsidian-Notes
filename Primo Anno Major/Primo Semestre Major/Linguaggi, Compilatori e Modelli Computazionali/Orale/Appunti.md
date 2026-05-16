@@ -195,3 +195,4 @@ Quindi nel metodo overridato:
   Se i valori di input del metodo in $A$ hanno tipi $T_1,...,T_n$ essi saranno dei **sottotipi** rispetto i tipi $T'$  del metodo overridato.
   ![[Pasted image 20260516142556.png]]
 ## Generazione di codice
+#### Memory management
