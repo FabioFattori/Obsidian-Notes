@@ -160,18 +160,21 @@ e  poi anche delle function:
 ![[Pasted image 20260516104150.png]]
 ##### Tirando le somme 
 ![[Pasted image 20260516104549.png]]
-##### Subtyping  - problemi e soluzioni
+#### Subtyping  - problemi e soluzioni
 ![[Pasted image 20260516114837.png]]
 > è troppo restrittiva perchè la prima regola $e_0:T_0$ dice "$e_0$ DEVE essere dello TIPO $T_0$" e quindi non consente subtyping (ereditarietà)
 
 Soluzione:
 ![[Pasted image 20260516115110.png]]
 ![[Pasted image 20260516115143.png]]
-> la scritta $O[T_]$ 
-
-
+> la scritta $O[T_0 / x]$ rappresenta l'aggiunta al Type enviroment della dichiarazione della variabile $x$. 
 ##### Static Types and Dynamic Types
 ![[Pasted image 20260516115421.png]]
 ![[Pasted image 20260516115539.png]]
 ###### Soundness of the typechecking system
 ![[Pasted image 20260516115638.png]]
+###### Assign Rule of already declared variable needed
+![[Pasted image 20260516120325.png]]
+> questa regola serve appunto per prendere anche il caso in cui la variabile x sia già stata dichiarata e noi dobbiamo solo riassegnarla. 
+> Infatti manca l'aggiunta al Type Enviroment di $x$.
+
