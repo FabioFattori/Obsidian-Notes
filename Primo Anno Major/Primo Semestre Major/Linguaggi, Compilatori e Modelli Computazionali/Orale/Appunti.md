@@ -219,3 +219,9 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 ![[Pasted image 20260516173550.png]]
 ##### Memory Layout Revisited con lo Stack delle attivazioni
 ![[Pasted image 20260516173722.png]]
+##### Activation Record
+![[Pasted image 20260516173901.png]]
+###### Content of AR
+![[Pasted image 20260516173926.png]]
+![[Pasted image 20260516174015.png]]
+> Esempio
