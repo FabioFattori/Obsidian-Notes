@@ -316,3 +316,4 @@ La dispatch table sarebbe:
 - Virtual Table
   ![[Pasted image 20260517131826.png]]
 #### Posizione della dispatch table in memoria 
+> la dispatch table è salvata nell'heap e la sua posizione (address) viene salvato nell' AR globale del nostro main
