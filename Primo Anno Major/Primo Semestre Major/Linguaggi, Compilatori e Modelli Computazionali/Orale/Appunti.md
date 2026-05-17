@@ -308,3 +308,4 @@ La dispatch table sarebbe:
 ![[Pasted image 20260516222649.png]]
 #### Class Table
 ![[Pasted image 20260516223648.png]]
+riparti da ultimo pdf pagina 35
