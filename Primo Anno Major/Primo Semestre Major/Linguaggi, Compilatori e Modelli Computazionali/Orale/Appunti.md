@@ -315,3 +315,4 @@ La dispatch table sarebbe:
   ![[Pasted image 20260517131727.png]]
 - Virtual Table
   ![[Pasted image 20260517131826.png]]
+#### Posizione della dispatch table in memoria 
