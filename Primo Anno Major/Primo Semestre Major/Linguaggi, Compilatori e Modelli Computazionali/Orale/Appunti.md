@@ -194,34 +194,34 @@ Quindi nel metodo overridato:
 - i field di input devono rispettare la **Controvarianza**, quindi il metodo overridato avrà $e_1,...,e_n$ come input che saranno dei tipi $T'_1,...,T'_n$ che avranno la direzione inversa rispetto le classi: 
   Se i valori di input del metodo in $A$ hanno tipi $T_1,...,T_n$ essi saranno dei **sottotipi** rispetto i tipi $T'$  del metodo overridato.
   ![[Pasted image 20260516142556.png]]
-## Generazione di codice
-#### Memory management
+## Generazione Di Codice
+### Memory Management
 ![[Pasted image 20260516172741.png]]
-##### Memory Layout
+#### Memory Layout
 ![[Pasted image 20260516172822.png]] 
 Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data Space.
 > Quindi il compilatore è responsabile:
 > 	=> della generazione del codice (Code Block)
 > 	=> Organizzare l'uso dell'area dei dati (Data Space)
 
-##### Obbiettivi della code generation
+#### Obbiettivi Della Code Generation
 ![[Pasted image 20260516173100.png]]
-##### Assunzioni
+#### Assunzioni
 ![[Pasted image 20260516173157.png]]
-##### Attivazioni
+#### Attivazioni
 ![[Pasted image 20260516173240.png]]
-##### Lifetime delle variabili
+#### Lifetime Delle Variabili
 ![[Pasted image 20260516173310.png]]
-##### Activation Trees
+#### Activation Trees
 ![[Pasted image 20260516173421.png]]
 ![[Pasted image 20260516173432.png]]
-######  Importantissimo
+##### Importantissimo
 ![[Pasted image 20260516173550.png]]
-##### Memory Layout Revisited con lo Stack delle attivazioni
+#### Memory Layout Revisited Con Lo Stack Delle Attivazioni
 ![[Pasted image 20260516173722.png]]
-##### Activation Record
+#### Activation Record
 ![[Pasted image 20260516173901.png]]
-###### Content of AR
+##### Content of AR
 ![[Pasted image 20260516173926.png]]
 ![[Pasted image 20260516174015.png]]
 > Esempio
@@ -229,36 +229,36 @@ Dove **Other Space** è dove i dati vengono immagazzinati => Other Space = Data 
 > ![[Pasted image 20260516174253.png]]
 > dove ogni blocchetto nello stack è una valore appartenente ad un AR di $f$ o $main$ (che non viene rappresentato dato che è poco interessante ma ci dovrebbe essere anche lui)
 
-##### Variabili Globali
+#### Variabili Globali
 ![[Pasted image 20260516174717.png]]
-##### Memory Layout con anche le variabili globali
+#### Memory Layout Con Anche Le Variabili Globali
 ![[Pasted image 20260516174818.png]]
-##### Variabili dichiarate in altri scope
+#### Variabili Dichiarate in Altri Scope
 ![[Pasted image 20260516175508.png]]
 > Viene introdotto il campo **access link** => il quale punta al valore PIù RECENTE della variabile definita in un outer scope (Per la regola Most Closely Nested)
 
-###### Access Link, come settare il valore
+##### Access Link, come Settare Il Valore
 ![[Pasted image 20260516175951.png]]
-##### Heap Storage
+#### Heap Storage
 ![[Pasted image 20260516180135.png]]
-###### Garbace Collection
+##### Garbace Collection
 ![[Pasted image 20260516180702.png]]
-###### Due algoritmi di Garbage collection
+##### Due Algoritmi Di Garbage Collection
 ![[Pasted image 20260516180744.png]]
 ![[Pasted image 20260516180758.png]]
-##### Memory Layout With Heap
+#### Memory Layout With Heap
 ![[Pasted image 20260516180825.png]]
-### Code Generation for Stack Machine
-#### Stack machine
+## Code Generation for Stack Machine
+### Stack Machine
 ![[Pasted image 20260516204156.png]]
 > ogni operazione prende i valori dalle due posizioni dello stack (prima e seconda), li poppa e mette il risultato in cima
 > ![[Pasted image 20260516204352.png]]
-##### Perchè usare una stack machine
+#### Perchè Usare Una Stack Machine
 ![[Pasted image 20260516204439.png]]
 ![[Pasted image 20260516204545.png]]
-###### Possibile ottimizzazione della stack machine (Il progetto non c'è l'ha LOL)
+##### Possibile Ottimizzazione Della Stack Machine (Il Progetto Non C'è L'ha LOL)
 ![[Pasted image 20260516204831.png]]
-#### Il nostro progetto simula una  stack machine
+### Il Nostro Progetto Simula Una Stack Machine
 ![[Pasted image 20260516205027.png]]
 > $\$sp$ è un registro presente nella MIPS architecture (CPU) che ha una architettura RISC, altri registri che abbiamo usato sono $\$t0,\$t1$ e $\$t2$ che sono dei registri temporanei.
 
@@ -266,27 +266,27 @@ Esempio:
 ![[Pasted image 20260516210232.png]] dove $i$ è  un intero
 ![[Pasted image 20260516210256.png]]
 ![[Pasted image 20260516210328.png]]
-#### Activation  Record
+### Activation Record
 ![[Pasted image 20260516210416.png]]
 ![[Pasted image 20260516210510.png]]
 ![[Pasted image 20260516210759.png]]
-###### Code generation for function call
+#### Code Generation for Function Call
 ![[Pasted image 20260516212554.png]]
-###### Code generation for function definition
+#### Code Generation for Function Definition
 ![[Pasted image 20260516212630.png]]
-#### Ritorniamo agli Activation Records
+### Ritorniamo Agli Activation Records
 ![[Pasted image 20260516212725.png]]
-##### Usage of parameters/Variables nel nostro linguaggio
+#### Usage of parameters/Variables Nel Nostro Linguaggio
 ![[Pasted image 20260516212816.png]]
 ![[Pasted image 20260516212848.png]]
 ![[Pasted image 20260516212917.png]]
-#### Sommario
+### Sommario
 ![[Pasted image 20260516213033.png]]
-### Code Generation for OOP
+## Code Generation for OOP
 ![[Pasted image 20260516220628.png]]
-#### Sottoclassi
+### Sottoclassi
 ![[Pasted image 20260516220715.png]]
-#### Dynamic Dispatch and Dispatch Table
+### Dynamic Dispatch and Dispatch Table
 ![[Pasted image 20260516220917.png]]
 Dato questo esempio:
 ![[Pasted image 20260516221158.png]]
@@ -296,24 +296,24 @@ La dispatch table sarebbe:
 ![[Pasted image 20260516221418.png]]
 ![[Pasted image 20260516221435.png]]
 ## Compilatore OO
-### Layouts  in Heap
-#### Oggetti 
+### Layouts in Heap
+#### Oggetti
 ![[Pasted image 20260516222104.png]]
 #### Dispatch Tables
 ![[Pasted image 20260516222152.png]]
 #### AR
 ![[Pasted image 20260516222309.png]]
-### Generazione Enriched AST (Semantic  Analyzer)
-#### Symbol Table che diviene Virtual Table
+### Generazione Enriched AST (Semantic Analyzer)
+#### Symbol Table Che Diviene Virtual Table
 ![[Pasted image 20260516222649.png]]
 #### Class Table
 ![[Pasted image 20260516223648.png]]
-#### A cosa servono
+#### A Cosa Servono
 - Symbol table
   ![[Pasted image 20260517131709.png]]
 - Class Table
   ![[Pasted image 20260517131727.png]]
 - Virtual Table
   ![[Pasted image 20260517131826.png]]
-#### Posizione della dispatch table in memoria 
+#### Posizione Della Dispatch Table in Memoria
 > la dispatch table è salvata nell'heap e la sua posizione (address) viene salvato nell' AR globale del nostro main
