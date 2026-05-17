@@ -308,4 +308,10 @@ La dispatch table sarebbe:
 ![[Pasted image 20260516222649.png]]
 #### Class Table
 ![[Pasted image 20260516223648.png]]
-riparti da ultimo pdf pagina 35
+#### A cosa servono
+- Symbol table
+  ![[Pasted image 20260517131709.png]]
+- Class Table
+  ![[Pasted image 20260517131727.png]]
+- Virtual Table
+  ![[Pasted image 20260517131826.png]]
