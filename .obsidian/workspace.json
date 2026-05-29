@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0470441993910669",
+        "id": "88554300b7c9595d",
         "type": "tabs",
         "children": [
           {
-            "id": "763e9c3e7b29a103",
+            "id": "890f15483dc67101",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
+                "file": "ProjectWithDiegoNotes/Possible Ai Applications.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Appunti"
+              "title": "Possible Ai Applications"
             }
           }
         ]
@@ -43,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Esplora risorse"
@@ -80,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 481.5
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -144,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
+                "file": "ProjectWithDiegoNotes/Possible Ai Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Appunti"
+              "title": "Struttura di Possible Ai Applications"
             }
           },
           {
@@ -184,20 +182,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "763e9c3e7b29a103",
+  "active": "890f15483dc67101",
   "lastOpenFiles": [
-    "Pasted image 20260517131826.png",
-    "Pasted image 20260517131727.png",
-    "Pasted image 20260517131709.png",
-    "Pasted image 20260516223648.png",
-    "Pasted image 20260516222649.png",
-    "Pasted image 20260516222309.png",
-    "Pasted image 20260516222152.png",
-    "Pasted image 20260516222104.png",
-    "Pasted image 20260516221435.png",
-    "Pasted image 20260516221418.png",
-    "Pasted image 20260516221332.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516172741.png",
+    "ProjectWithDiegoNotes/Possible Ai Applications.md",
+    "ProjectWithDiegoNotes",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131826.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131727.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131709.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516223648.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222649.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222309.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222152.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222104.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516221435.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516221418.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
@@ -213,7 +213,6 @@
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done",
     "Senza nome.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
