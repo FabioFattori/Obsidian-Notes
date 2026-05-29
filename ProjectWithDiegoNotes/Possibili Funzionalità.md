@@ -12,3 +12,5 @@ quindi basterà eseguire una query per identificare quale prodotto permette di m
 anche qui basta fare delle query semplici => Nessuna AI necessaria
 #### Principio di Pareto
 ![[Pasted image 20260529152005.png]]
+## Task riservate all'AI
+### Previsione della domanda
