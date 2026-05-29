@@ -10,6 +10,7 @@
           {
             "id": "890f15483dc67101",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,8 +18,21 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Possibili Funzionalità"
+            }
+          },
+          {
+            "id": "dc8749a870b860c8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260529171735.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260529171735"
             }
           }
         ]
@@ -182,12 +196,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "890f15483dc67101",
+  "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
     "Pasted image 20260529171735.png",
-    "Pasted image 20260529152005.png",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516172741.png",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
+    "Pasted image 20260529152005.png",
+    "Pasted image 20260529171804.png",
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516172741.png",
     "ProjectWithDiegoNotes",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131826.png",
@@ -196,8 +211,6 @@
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516223648.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222649.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222309.png",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222152.png",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222104.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
