@@ -7,3 +7,7 @@ Identificare quali prodotti nel DB sono i più profittevoli:
 quindi basterà eseguire una query per identificare quale prodotto permette di massimizzare il profitto calcolato.
 ### Alta Rotazione
 > Basta calcolare l'indice di rotazione per ogni prodotto:$$Indice \ di \ Rotazione \ = \frac{Quantità \ Totale \ Venduta}{Giacenza \ Media \ in \ Magazzino}$$
+> Quindi anche qui si identifica una periodo di tempo nel quale calcolare tale indice 
+
+#### Principio di Pareto
+![[Pasted image 20260529152005.png]]
