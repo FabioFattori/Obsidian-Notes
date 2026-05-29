@@ -1,5 +1,8 @@
 # Possibili Funzionalità
 ## Funzionalità di base
+### Gestione Prodotti nel Magazzino
+Deve essere possibile gestire dei prodotti organizzati in un magazzino  
+
 ## Identificare Quali Prodotti Sono I Più Profittevoli e/o Quelli Ad Alta Rotazione
 ### Max Profitto
 Identificare quali prodotti nel DB sono i più profittevoli:
