@@ -3,7 +3,7 @@
 Deve essere possibile gestire dei prodotti organizzati in un magazzino e la loro vendita ed acquisto gestendo la loro quantità.
 ### \<Possibile\> Gestione Prodotti nel Magazzino
 Potrebbe essere possibile organizzare i settori per indicare una vicinanza tra loro e la zona di carico/scarico.
-Ciò porterebbe ampliare le possibilità di aggiunta delle funzionalità _vedi sotto_.
+Ciò porterebbe ampliare le possibilità di aggiunta delle funzionalità _vedi sotto_
 
 ## Identificare Quali Prodotti Sono I Più Profittevoli e/o Quelli Ad Alta Rotazione
 ### Max Profitto
