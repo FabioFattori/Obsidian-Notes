@@ -24,4 +24,10 @@ Fatto in python, algoritmo consigliato, da selezionare il migliore tramite magar
 > Obbiettivo => Monitorare la velocità di svuotamento del magazzino in tempo reale.
 > Se la pendenza della curva dei consumi subisce un'impennata improvvisa rispetto alla media storica di quel periodo, l'AI lancia un alert all'operatore.
 
-Esempio di al
+Esempio di alert:
+
+> [!NOTE] ATTENZIONE: Il ritmo di uscita del _Prodotto Y_ nelle ultime 48 ore è triplicato rispetto al trend normale. Le scorte si esauriranno tra 12 ore anziché tra 5 giorni. **Azione: Anticipa l'ordine al fornitore**
+
+### \<Possibile\> Associazione Prodotti per l'Ottimizzazione del Picking
+Se dei prodotti si sa anche la disposizione nel magazzino si può considerare anche la seguente applicazione per ottimizzare il carico/scarico dei prodotti.
+> NOTA BENE => se questa applicazione è possibile, è possibile inoltre estend
