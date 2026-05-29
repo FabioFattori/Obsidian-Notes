@@ -1,7 +1,8 @@
 # Possibili Funzionalità
 ## Funzionalità di base
-### Gestione Prodotti nel Magazzino
-Deve essere possibile gestire dei prodotti organizzati in un magazzino  
+Deve essere possibile gestire dei prodotti organizzati in un magazzino e la loro vendita ed acquisto gestendo la loro quantità.
+### \<Possibile\> Gestione Prodotti nel Magazzino
+Potrebbe essere possibile organizzare i settori  
 
 ## Identificare Quali Prodotti Sono I Più Profittevoli e/o Quelli Ad Alta Rotazione
 ### Max Profitto
