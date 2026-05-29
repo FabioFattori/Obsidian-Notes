@@ -9,5 +9,6 @@ quindi basterà eseguire una query per identificare quale prodotto permette di m
 > Basta calcolare l'indice di rotazione per ogni prodotto:$$Indice \ di \ Rotazione \ = \frac{Quantità \ Totale \ Venduta}{Giacenza \ Media \ in \ Magazzino}$$
 > Quindi anche qui si identifica una periodo di tempo nel quale calcolare tale indice 
 
+anche qui basta fare delle query semplici => Nessuna AI necessaria
 #### Principio di Pareto
 ![[Pasted image 20260529152005.png]]
