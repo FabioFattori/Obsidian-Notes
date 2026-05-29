@@ -14,3 +14,14 @@ anche qui basta fare delle query semplici => Nessuna AI necessaria
 ![[Pasted image 20260529152005.png]]
 ## Task riservate all'AI
 ### Previsione della domanda
+Questo rappresenta un pò il task **principale**.
+> Obbiettivo => Predirre la quantità di prodotti richiesti nei prossimi 7, 15 e/o 30 giorni
+
+Fatto in python, algoritmo consigliato, da selezionare il migliore tramite magari gridsearch:
+- Meta Prophet
+- ARIMA/SARIMAX
+### Rilevamento "Anomalie"
+> Obbiettivo => Monitorare la velocità di svuotamento del magazzino in tempo reale.
+> Se la pendenza della curva dei consumi subisce un'impennata improvvisa rispetto alla media storica di quel periodo, l'AI lancia un alert all'operatore.
+
+Esempio di al
