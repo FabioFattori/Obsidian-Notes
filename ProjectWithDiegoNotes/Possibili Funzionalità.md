@@ -30,4 +30,13 @@ Esempio di alert:
 
 ### \<Possibile\> Associazione Prodotti per l'Ottimizzazione del Picking
 Se dei prodotti si sa anche la disposizione nel magazzino si può considerare anche la seguente applicazione per ottimizzare il carico/scarico dei prodotti.
-> NOTA BENE => se questa applicazione è possibile, è possibile inoltre estend
+> NOTA BENE => se questa applicazione è possibile, è possibile inoltre estendere l'utilizzo dei prodotti più profittevoli e ad alta rotazione indicando all'operatore che è caldamente consigliato avvicinare i prodotti ad alta rotazione alla zona di carico e scarico per ottimizzare ancor di più
+
+> Obbiettivo => Analizza la composizione degli ordini storici per scoprire quali prodotti vengono **acquistati insieme più frequentemente** (es. l'80% delle volte che un cliente ordina il _Prodotto A_, ordina anche il _Prodotto B_ nello stesso carrello).
+
+quindi questo task ha lo scopo di migliorare la disposizione del magazzino per facilitare l'assemblamento ordini di ordini in arrivo ed in uscita.
+
+Modelli consigliati (2 approcci):
+- Approccio statistico <-> più semplice per iniziare
+	- ![[Pasted image 20260529171735.png]]
+- 
