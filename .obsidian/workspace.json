@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
-          },
-          {
-            "id": "105970ca41623aa2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +185,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "105970ca41623aa2",
+  "active": "c499527054461e99",
   "lastOpenFiles": [
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "ProjectWithDiegoNotes/imgs/Pasted image 20260529152005.png",
     "ProjectWithDiegoNotes/imgs",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
