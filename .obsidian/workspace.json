@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "88554300b7c9595d",
+        "id": "9efca1ee5ac2e3f5",
         "type": "tabs",
         "children": [
           {
-            "id": "890f15483dc67101",
+            "id": "c499527054461e99",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectWithDiegoNotes/Possibili Funzionalità.md",
-                "mode": "preview",
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Possibili Funzionalità"
-            }
-          },
-          {
-            "id": "dc8749a870b860c8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260529171735.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260529171735"
+              "title": "CyberSecurity"
             }
           }
         ]
@@ -92,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 264.5
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -180,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 1414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +185,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "floating": {
+    "id": "8e98cad8995f482b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "965847239e0e7549",
+        "type": "window",
+        "children": [
+          {
+            "id": "84ca0331be16b7df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "30d1539118f9cac6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 605,
+        "y": 56,
+        "width": 2251,
+        "height": 1368,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c499527054461e99",
   "lastOpenFiles": [
-    "Pasted image 20260529171735.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "ProjectWithDiegoNotes/imgs/Pasted image 20260529152005.png",
+    "ProjectWithDiegoNotes/imgs",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
-    "Pasted image 20260529152005.png",
-    "Pasted image 20260529171804.png",
+    "ProjectWithDiegoNotes/imgs/Pasted image 20260529171735.png",
+    "ProjectWithDiegoNotes/imgs/Pasted image 20260529171804.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516172741.png",
     "ProjectWithDiegoNotes",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
@@ -222,10 +251,7 @@
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done/Introduzione.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/Non confermato 920044.crdownload",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done/ClassificazioneSI.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done",
     "Senza nome.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
