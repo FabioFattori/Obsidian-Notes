@@ -45,10 +45,14 @@ A loss in any of the objective listed above has a rating based on the service it
 - **High** => those losses could be expected to have a severe and/or catastrophic adverse effect on the organization.
 ### Terminology
 ![[Screenshot 2026-06-10 alle 21.58.49.png]]
- System Resource / Asset: 
-	The asset of a computer system can be categorized as follows:
-	- Hardware => computer system, data storage, data communication and data processing devices.
-	- Software => OS, applications and utilities of a computer system.
-	- Data => files, databases and security related data such as password files.
-	- Communication Facilities and Networks => LAN and WAN links, bridges, routers exc...
-> Our concern
+System Resource / Asset: 
+The asset of a computer system can be categorized as follows:
+- Hardware => computer system, data storage, data communication and data processing devices.
+- Software => OS, applications and utilities of a computer system.
+- Data => files, databases and security related data such as password files.
+- Communication Facilities and Networks => LAN and WAN links, bridges, routers exc...
+
+> Our concern about the system resources are their **vulnerabilities**, such as:
+- Corruption, a system in this state does the wrong things or gives the wrong answers.
+- Leaky, a leaky system is a system where an unauthorized user access some or all information which are not his.
+- Unavailability or Slowness, a state in which the system or network become impractical or impossible to use.
