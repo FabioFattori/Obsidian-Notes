@@ -1,5 +1,6 @@
-## Chapter 1 
-### Definition of computer security
+# CyberSecurity
+## Chapter 1
+### Definition of Computer Security
 > **Computer Security** is a _collection_ of **measures** and **controls** that ensures confidentiality, integrity and availability of information system assets including hardware, software, firmware, and information being processed, stored, and communicated.
 
 - Confidentiality: this term actual aggregate two related concepts:
@@ -34,7 +35,7 @@ Also two more concepts need to be introduced:
 	Which means that actions made by an entity are traced and associated to that specific entity.
 	This means that system should trace and log each actions to permit to identify security breaches and trace which entity made that action.
 	This concepts supports nonrepudiation, deterrence, fault isolation, intrusion detection and prevention and after-action recovery and legal support.
-#### Loss Rating 
+#### Loss Rating
 A loss in any of the objective listed above has a rating based on the service itself:
 - **Low** => the following loss could cause some annoyance to the users of said service and could cause little to no harm to the organization business, operation, assets and/or individuals.
 - **Moderate** => those type of losses could be expected to have a serious adverse effect on the organization business, operation, assets and/or individuals.
@@ -59,4 +60,20 @@ The asset of a computer system can be categorized as follows:
 - Unavailability or Slowness, a state in which the system or network become impractical or impossible to use.
 
 In other words:
-> Corresponding to the various types of vulnerabilities to a system resource are ***threats*** that are capable of exploiting those vulnerabilities. A threat represents a potential security harm to an asset. An ***attack*** is a threat that is carried out (threat action) and, if successful, leads to an undesirable violation of security, or threat consequence. The agent carrying out the attack is referred to as an attacker or threat agent
+> Corresponding to the various types of vulnerabilities to a system resource are ***threats*** that are capable of exploiting those vulnerabilities.
+> A threat represents a potential security harm to an asset.
+> An ***attack*** is a threat that is carried out (threat action) and, if successful, leads to an undesirable violation of security, or threat consequence.
+> The agent carrying out the attack is referred to as an attacker or ***threat agent***.
+
+> Finally, a countermeasure is any means taken to deal with a security attack.
+> Ideally, a countermeasure can be devised to prevent a particular type of attack from succeeding. 
+> When prevention is not possible, or fails in some instance, the goal is to detect the attack then recover from the effects of the attack. 
+> A countermeasure may itself introduce new vulnerabilities. 
+> In any case, residual vulnerabilities may remain after the imposition of countermeasures. 
+> Such vulnerabilities may be exploited by threat agents representing a residual level of risk to the assets. 
+> Owners will seek to minimize that risk given other constraints.
+
+#### Attack Classification
+![[Screenshot 2026-06-10 alle 22.23.49.png]]
+
+Continua da pagina 26 del pdf devi iniziare il capitolo 1.2.

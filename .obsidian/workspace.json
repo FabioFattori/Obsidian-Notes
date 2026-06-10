@@ -8,24 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c499527054461e99",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "How to prepare for exam"
-            }
-          },
-          {
             "id": "ed375c4ed650da8e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +18,12 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,12 +186,13 @@
   },
   "active": "ed375c4ed650da8e",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Screenshot 2026-06-10 alle 22.23.49.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Screenshot 2026-06-10 alle 22.14.01.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Screenshot 2026-06-10 alle 21.58.49.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/cartella senza nome",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
@@ -222,8 +207,6 @@
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131826.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131727.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260517131709.png",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516223648.png",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs/Pasted image 20260516222649.png",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
