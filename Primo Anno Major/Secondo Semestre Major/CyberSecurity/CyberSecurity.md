@@ -57,3 +57,6 @@ The asset of a computer system can be categorized as follows:
 - Corruption, a system in this state does the wrong things or gives the wrong answers.
 - Leaky, a leaky system is a system where an unauthorized user access some or all information which are not his.
 - Unavailability or Slowness, a state in which the system or network become impractical or impossible to use.
+
+In other words:
+> Corresponding to the various types of vulnerabilities to a system resource are ***threats*** that are capable of exploiting those vulnerabilities. A threat represents a potential security harm to an asset. An ***attack*** is a threat that is carried out (threat action) and, if successful, leads to an undesirable violation of security, or threat consequence. The agent carrying out the attack is referred to as an attacker or threat agent
