@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
+          },
+          {
+            "id": "feef5ce3c1f4e036",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "libro toStudy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "feef5ce3c1f4e036",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "ProjectWithDiegoNotes/imgs/Pasted image 20260529152005.png",
     "ProjectWithDiegoNotes/imgs",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
@@ -213,7 +226,6 @@
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Done/Introduzione.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/Non confermato 920044.crdownload",
     "Senza nome.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
