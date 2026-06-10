@@ -37,4 +37,8 @@ Also two more concepts need to be introduced:
 #### Loss Rating 
 A loss in any of the objective listed above has a rating based on the service itself:
 - **Low** => the following loss could cause some annoyance to the users of said service and could cause little to no harm to the organization business, operation, assets and/or individuals.
-- **Moderate** => 
+- **Moderate** => those type of losses could be expected to have a serious adverse effect on the organization business, operation, assets and/or individuals.
+  1. The organization primary operation can still be continued although a severe disturbance/slowness can be felt.
+  2. A severe damage can be done to the organization assets.
+  3. Significant financial loss.
+  4. Significant harm to the individuals (NOT life threading)
