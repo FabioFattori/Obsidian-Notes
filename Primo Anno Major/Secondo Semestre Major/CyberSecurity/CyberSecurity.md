@@ -9,3 +9,4 @@
 	- Data Integrity => Assures that information and programs are changed only in a authorized and specified manner.
 	- System Integrity => Assures that a system performs its intended function in an unimpaired manner, free from any unauthorized manipulation of said system.
 - Availability => Assures that system work promptly and service is not denied to authorized users.
+These tree concepts forms what is called the CIA Triad as if those concepts are the fundamental of computer security 
