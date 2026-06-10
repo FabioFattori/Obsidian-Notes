@@ -18,8 +18,11 @@ _FIPS 199_, which is an organization who defines standards for computer security
 		Is an unauthorized disclosure of information.
 - Integrity
 	- **_What it means?_** 
-		Guarding against improper information modification or destruction,
-
-including ensuring information nonrepudiation and authenticity.
+		Guarding against improper information modification or destruction, including ensuring information nonrepudiation and authenticity.
 	- ***What is a loss?***
-		Is an unauthorized disclosure of information.
+		Is the unauthorized modification and/or destruction of an information.
+- Availability
+    - **_What it means?_**  
+        Ensuring timely and reliable access to and use of information.
+    - **_What is a loss?_**  
+        Is the disruption of access to or use of an information or an information system.
