@@ -14,25 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "CyberSecurity"
+              "title": "How to prepare for exam"
             }
           },
           {
-            "id": "feef5ce3c1f4e036",
+            "id": "ed375c4ed650da8e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf"
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "libro toStudy"
+              "icon": "lucide-file",
+              "title": "CyberSecurity"
             }
           }
         ],
@@ -198,8 +200,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "feef5ce3c1f4e036",
+  "active": "ed375c4ed650da8e",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
