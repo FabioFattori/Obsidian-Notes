@@ -32,4 +32,5 @@ Also two more concepts need to be introduced:
 	This means to be sure that a communication, message or transmission is valid and come from an authorized user which says who is he to begin with.
 - Accountability
 	Which means that actions made by an entity are traced and associated to that specific entity.
-	This means that system should trace and log each actions to 
+	This means that system should trace and log each actions to permit to identify security breaches and trace which entity made that action.
+	This concepts supports nonrepudiation, deterrence, fault isolation, intrusion detection and prevention and after-action recovery and legal support.
