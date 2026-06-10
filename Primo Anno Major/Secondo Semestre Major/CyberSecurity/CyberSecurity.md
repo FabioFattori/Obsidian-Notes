@@ -43,3 +43,4 @@ A loss in any of the objective listed above has a rating based on the service it
   3. Significant financial loss.
   4. Significant harm to the individuals (NOT life threatening)
 - **High** => those losses could be expected to have a severe and/or catastrophic adverse effect on the organization.
+### Terminology
