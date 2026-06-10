@@ -26,3 +26,10 @@ _FIPS 199_, which is an organization who defines standards for computer security
         Ensuring timely and reliable access to and use of information.
     - **_What is a loss?_**  
         Is the disruption of access to or use of an information or an information system.
+Also two more concepts need to be introduced: 
+- Authenticity
+	The property of being genuine and being able to be verified and trusted.
+	This means to be sure that a communication, message or transmission is valid and come from an authorized user which says who is he to begin with.
+- Accountability
+	Which means that actions made by an entity are traced and associated to that specific entity.
+	This means that system should trace and log each actions to 
