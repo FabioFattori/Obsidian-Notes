@@ -45,6 +45,7 @@ A loss in any of the objective listed above has a rating based on the service it
 - **High** => those losses could be expected to have a severe and/or catastrophic adverse effect on the organization.
 ### Terminology
 ![[Screenshot 2026-06-10 alle 21.58.49.png]]
+![[Screenshot 2026-06-10 alle 22.14.01.png]]
 System Resource / Asset: 
 The asset of a computer system can be categorized as follows:
 - Hardware => computer system, data storage, data communication and data processing devices.
