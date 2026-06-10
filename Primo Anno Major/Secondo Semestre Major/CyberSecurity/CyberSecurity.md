@@ -44,3 +44,6 @@ A loss in any of the objective listed above has a rating based on the service it
   4. Significant harm to the individuals (NOT life threatening)
 - **High** => those losses could be expected to have a severe and/or catastrophic adverse effect on the organization.
 ### Terminology
+![[Screenshot 2026-06-10 alle 21.58.49.png]]
+- System Resource / Asset: 
+	The 
