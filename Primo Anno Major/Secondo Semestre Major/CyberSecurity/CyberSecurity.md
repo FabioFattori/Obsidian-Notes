@@ -82,3 +82,5 @@ In other words:
 - Inference => an unauthorized entity can understand and there for come to knowing some confidential information by utilizing a database with limited access or by looking at the network traffic.
 - Incapacitation => [Availability Attack] the entire system can be incapacitated, not only a component/service of it.
 - Corruption => [System Integrity Attack] 
+- Misappropriation => DoS attacks falls in to this topic cause the attack it selfs overflows the network there for the CPU of the asset.
+- Misuse => Attacks which need another successfull attack before, such as gaining authorized login data or a back door to the asset to 
