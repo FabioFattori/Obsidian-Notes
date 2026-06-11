@@ -114,4 +114,9 @@ Two types of attacks:
 		  Consists of a capture of data unit (ex: message) and the following retransmission of it to obtain an unauthorized behavior/effect (ex: login into an account or logout of a user from his account).
 	- Masquerade
 		Takes place when an entity pretends to be another entity.
-		An example can be the man in the middle attack, to 
+		An example can be the man in the middle attack, even tho the MITM is a much more complex and elaborate attack.
+		This form of attacks usually includes one or more other forms of attacks, cause this one alone doesn't do much except create a loss of confidentiality and authenticity.
+	- Modification of messages 
+		Loss of data integrity.
+	- Denial of Service
+		This attack can have a ***specific target***, so that the victim cannot be reached by other nodes in the network, or can have an ***entire network*** so that 
