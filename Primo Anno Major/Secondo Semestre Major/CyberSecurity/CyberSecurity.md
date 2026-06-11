@@ -203,6 +203,12 @@ It's represented as a tree so it's composed of nodes and leaf which have differe
 	- OR-node => at least one node must be achieved
 	Also branches can be labeled to give some additional infos of the 'path' represented by the branch such as cost or difficulty.
 - Leafs: the end nodes, whose represent the many ways an attacker can initiate the attack, the are like paths for the attacker to follow to reach his goal.
-> Attack trees are made by analyst to document attack patterns and highlight key vulnerabilities of a system.
-> Also these trees can lead both the design of systems and applications, and the choice and
-strength of countermeasures.
+
+> Attack trees are made by analyst to document attack patterns and highlight key vulnerabilities of systems.
+> Also these trees can lead both the design of systems and applications, and the choice and strength of countermeasures.
+> Standard organizations such as CERT provide some common trees to create a basic knowledge on attack patterns.
+
+#### Example
+![[Pasted image 20260612003614.png]]
+![[Pasted image 20260612003719.png]]
+> with these knowledge the analysts can know use the principals listed before 
