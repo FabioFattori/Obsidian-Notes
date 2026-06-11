@@ -138,8 +138,12 @@ Two types of attacks:
 	Keys and password should be secret but not the way that these variables are handled.
 - Separation of privileges
 	This principal means that a service should have the privileges in order to execute ***his and only his tasks***, it shouldn't have other privileges.
-	This protects our si
+	This protects our system in way that if an attack occurs to that specific service, only it tasks are harmed (it his actually a mitigation of the potential damage that the attack actually does).
 - Least privilege
+	This principal his connected to the Separation of privileges, this one refers to the users of the system saying:
+	> A user should have the least set of privileges to operate/execute his task.
+	
+	
 - Least common mechanism 
 - Psychological acceptability
 - Isolation
