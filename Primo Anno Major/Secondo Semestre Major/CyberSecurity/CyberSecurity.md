@@ -186,4 +186,9 @@ Attack surface categories are:
 	Vulnerabilities in softwares, applications and utilities.
 - Human attack surfaces
 	Vulnerabilities created by insiders and outsiders.
-> Makin
+> Making an attack surface analysis means analyzing where and which vulnerabilities are present in the system.
+> Finding them is important for the developers and the analysts to reduce the attack surface by implementing security mechanisms making the attackers job more difficult.
+> Also this analysis is useful to prioritize testing and streghteting in specific areas of the system.
+
+![[Pasted image 20260611221941.png]]
+The use of layering, or defense in depth, and attack surface reduction complement each other in mitigating security risk.
