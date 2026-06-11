@@ -132,9 +132,13 @@ Two types of attacks:
 	This is made so that if a function in the system has a error in it a permission system tend to fail rather than consent the access to that functionality. (for example the token system of sanctum is handed precisely like that)
 - Complete mediation
 	Means that if an access action must be made, the permission of the user ***MUST*** be checked directly by the access control and not by a local cache.
-	***Example*** a user logs in and can see his files, some of them he can only read and some of them he can edit, once he tries to open one a request to the access control must be made to verify his permission towards that file in order to find if he can read it or can
+	***Example*** a user logs in and can see his files, some of them he can only read and some of them he can edit, once he tries to open one a request to the access control must be made to verify his permission towards that file in order to find if he can read it or can also edit it.
 - Open design
+	Means that the algorithms and security mechanism should be open source rather than secret, so that experts and user can see them and familiarize with them.
+	Keys and password should be secret but not the way that these variables are handled.
 - Separation of privileges
+	This principal means that a service should have the privileges in order to execute ***his and only his tasks***, it shouldn't have other privileges.
+	This protects our si
 - Least privilege
 - Least common mechanism 
 - Psychological acceptability
