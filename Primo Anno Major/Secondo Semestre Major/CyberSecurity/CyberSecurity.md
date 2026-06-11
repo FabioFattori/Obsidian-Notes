@@ -76,4 +76,6 @@ In other words:
 #### Attack Classification
 ![[Screenshot 2026-06-10 alle 22.23.49.png]]
 
-Continua da pagina 26 del pdf devi iniziare il capitolo 1.2.
+### Threads and Attacks
+![[Pasted image 20260611152416.png]]
+- Interception => this type of attack refers to the networks so that any devices in a LAN ()
