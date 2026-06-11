@@ -179,4 +179,11 @@ Two types of attacks:
 
 Examples:
 ![[Pasted image 20260611220904.png]]
-Attack sur
+Attack surface categories are:
+- Network attack surfaces
+	In this category there are vulnerabilities found in the network(WAN,LAN or/and the Internet) such as protocols vulnerabilities.
+- Software attack surfaces
+	Vulnerabilities in softwares, applications and utilities.
+- Human attack surfaces
+	Vulnerabilities created by insiders and outsiders.
+> Makin
