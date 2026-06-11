@@ -157,7 +157,10 @@ Two types of attacks:
 	This principal refer to 3 separate parts:
 	- public and critical systems
 		  Those two ***should*** be separate and isolated from each other to prevent information disclosure or tampering.
-		  Also if the information have an high sensitivity or criticality those systems can be isolated phisica
+		  Also if the information have an high sensitivity or criticality those systems can be isolated physically and/or logically:
+		  ***Physical isolation*** may include and ensure that there are no connections between public information and critical information.
+		  ***Logical Isolation*** imply that there are some layers of security services between the public system and the critical one, so that the two are isolated.
+	- Processes and files of users should be isolated from other file and processes of other users
 - Encapsulation
 - Modularity
 - Layering
