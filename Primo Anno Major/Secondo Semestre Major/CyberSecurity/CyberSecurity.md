@@ -109,3 +109,9 @@ Two types of attacks:
 	> These types of attacks are **difficult to detect** only ***based on their nature***, the asset, the information system **is not harmed or modified in any way**; even messages are not touched, making it almost impossible to the sender or the receiver to know if said message has been read by others.
 	> So the emphasis here is to ***prevent*** instead of cure the problem.
 - Active
+	These involves into the alteration of the data stream or the creation of a false data stream (message).
+	- Replay 
+		  Consists of a capture of data unit (ex: message) and the following retransmission of it to obtain an unauthorized behavior/effect (ex: login into an account or logout of a user from his account).
+	- Masquerade
+		Takes place when an entity pretends to be another entity.
+		An example can be the man in the middle attack, to 
