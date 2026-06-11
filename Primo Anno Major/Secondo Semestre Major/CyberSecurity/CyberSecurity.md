@@ -161,7 +161,11 @@ Two types of attacks:
 		  ***Physical isolation*** may include and ensure that there are no connections between public information and critical information.
 		  ***Logical Isolation*** imply that there are some layers of security services between the public system and the critical one, so that the two are isolated.
 	- Processes and files of users should be isolated from other file and processes of other users
+		  Now days the OS do this automatically, separating them in memory.
+	- Security mechanism should be isolated so that the access to them is prevented
+		  Example => in the access control service the cryptographic software (sub-service) is isolated from the rest of the access control service so that the keys are not disclosed and/or tampered. 
 - Encapsulation
+	can be viewed as a specific form of isolation based on object-oriented functionality. Protection is provided by encapsulating a collection of procedures and data objects in a domain of its own so that the internal structure of a data object is accessible only to the procedures of the protected subsystem and the procedures may be called only at designated domain entry points.
 - Modularity
 - Layering
 - Least astonishment
