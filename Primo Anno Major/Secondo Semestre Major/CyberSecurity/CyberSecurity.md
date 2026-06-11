@@ -78,4 +78,6 @@ In other words:
 
 ### Threads and Attacks
 ![[Pasted image 20260611152416.png]]
-- Interception => this type of attack refers to the networks so that any devices in a LAN ()
+- Interception => this type of attack refers to the networks so that any devices in a LAN (example) can receive a copy of a packet that needs to reach a determinate destination.
+- Inference => an unauthorized entity can understand and there for come to knowing some confidential information by utilizing a database with limited access or by looking at the network traffic.
+- 
