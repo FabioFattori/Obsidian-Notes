@@ -87,4 +87,6 @@ In other words:
 ### Assets Categories/Components related to CIA Trad
 #### Hardware
 The biggest thread to this category is Availability as the hardware is the most vulnerable to attacks and the least component protected from automated controls.
-Other threats are involuntairl
+Other threats are involuntary or deliberate damage to it, as well as theft, those harmful threads can lead to losses of confidentiality and availability.
+Physical and administrative protections and protocols need to be implemented limit the losses.
+#### Software
