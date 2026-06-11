@@ -106,5 +106,6 @@ Two types of attacks:
 	- Get the content of the message transmitted
 	- Analyze the traffic
 		  This is done when the message are encrypted thus the content is unavailable, so the opposer try to deduct the nature of the communication and maybe understand what the two hosts are saying by observing the ***length of messages*** and ***who*** is transmitting them.
-	> These types of attacks are difficult to detect only based on their nature, the asset, the information system is not harmed or modified in any way; even messages are not touched, making it almost impossible to the sender or the receiver to know i
+	> These types of attacks are **difficult to detect** only ***based on their nature***, the asset, the information system **is not harmed or modified in any way**; even messages are not touched, making it almost impossible to the sender or the receiver to know if said message has been read by others.
+	> So the emphasis here is to ***prevent*** instead of cure the problem.
 - Active
