@@ -143,8 +143,10 @@ Two types of attacks:
 	This principal his connected to the Separation of privileges, this one refers to the users of the system saying:
 	> A user should have the least set of privileges to operate/execute his task.
 	
-	
+	There is also a temporary aspect to this principal:
+	A administrator or a user with higher privileges should have a longer set of privileges in specific times to execute sporadic tasks, once those tasks are finished and therefor some privileges are not needed anymore they should be revoked from the user as them being there are a possible security flaw.  
 - Least common mechanism 
+	Means that design should minimize shared functions (software and ) between users
 - Psychological acceptability
 - Isolation
 - Encapsulation
