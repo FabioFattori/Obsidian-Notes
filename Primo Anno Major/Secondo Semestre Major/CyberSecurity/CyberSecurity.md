@@ -92,4 +92,4 @@ Other threats are involuntary or deliberate damage to it, as well as theft, thos
 Physical and administrative protections and protocols need to be implemented limit the losses.
 #### Software
 Viruses and malware are also a thread to the software whose can deny the service to the user (availability) or alter the functions and/or services of it (integrity/authenticity).
-A more severe problem which has no definitive solution now days is the protection to piracy, which means that a software is copied and used without the consent of it's makers, this thread can also lead to other
+A more severe problem which has no definitive solution now days is the protection to piracy, which means that a software is copied and used without the consent of it's makers, this thread can also lead to other thread like integrity (example: the pirate software is impersonating the legitimate software to access unauthorized information and data).
