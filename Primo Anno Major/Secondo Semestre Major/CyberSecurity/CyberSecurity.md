@@ -167,5 +167,8 @@ Two types of attacks:
 - Encapsulation
 	can be viewed as a specific form of isolation based on object-oriented functionality. Protection is provided by encapsulating a collection of procedures and data objects in a domain of its own so that the internal structure of a data object is accessible only to the procedures of the protected subsystem and the procedures may be called only at designated domain entry points.
 - Modularity
+	Refers to the development of the security functions and to the use of a modular architecture for the security mechanism.
+	In these way upgrading/changing some modules doesn't required to change ALL the mechanism but just a module of it, making the mechanism itself much more upgradable and expandable in the development time.  
 - Layering
+	
 - Least astonishment
