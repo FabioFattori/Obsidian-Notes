@@ -84,3 +84,7 @@ In other words:
 - Corruption => [System Integrity Attack] 
 - Misappropriation => DoS attacks falls in to this topic cause the attack it selfs overflows the network there for the CPU of the asset.
 - Misuse => Attacks which need another successfull attack before, such as gaining authorized login data or a back door to the asset, a Misuse attack consists in having the access to a asset and disabling all or some of their security functions.
+### Assets Categories/Components related to CIA Trad
+#### Hardware
+The biggest thread to this category is Availability as the hardware is the most vulnerable to attacks and the least component protected from automated controls.
+Other threats are involuntairl
