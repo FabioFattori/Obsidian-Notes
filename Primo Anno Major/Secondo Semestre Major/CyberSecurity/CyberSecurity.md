@@ -104,5 +104,7 @@ Two types of attacks:
 	Those types are made for understanding, analyze and extract data from a network or line.
 	Typically the objective of those attacks are:
 	- Get the content of the message transmitted
-	- Analyze the traffic => this is done when the message are encrypted thus the content is unava
+	- Analyze the traffic
+		  This is done when the message are encrypted thus the content is unavailable, so the opposer try to deduct the nature of the communication and maybe understand what the two hosts are saying by observing the ***length of messages*** and ***who*** is transmitting them.
+	> These types of attacks are difficult to detect only based on their nature, the asset, the information system is not harmed or modified in any way; even messages are not touched, making it almost impossible to the sender or the receiver to know i
 - Active
