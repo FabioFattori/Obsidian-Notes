@@ -193,3 +193,4 @@ Attack surface categories are:
 ![[Pasted image 20260611222014.png]]
 The use of layering, or defense in depth, and attack surface reduction complement each other in mitigating security risk.
 #### Attack trees
+An attack tree is a data structure that represents and collect a series of 
