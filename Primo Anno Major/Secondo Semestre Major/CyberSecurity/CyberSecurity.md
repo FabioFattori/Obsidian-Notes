@@ -154,7 +154,10 @@ Two types of attacks:
 	So the mechanism should be:
 	> Transparent and not burdensome, and also it should reflect the mental model of protection that the user has so it enhance the work of the user, making him do less errors.
 - Isolation
-	
+	This principal refer to 3 separate parts:
+	- public and critical systems
+		  Those two ***should*** be separate and isolated from each other to prevent information disclosure or tampering.
+		  Also if the information have an high sensitivity or criticality those systems can be isolated phisica
 - Encapsulation
 - Modularity
 - Layering
