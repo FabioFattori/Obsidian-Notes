@@ -146,8 +146,11 @@ Two types of attacks:
 	There is also a temporary aspect to this principal:
 	A administrator or a user with higher privileges should have a longer set of privileges in specific times to execute sporadic tasks, once those tasks are finished and therefor some privileges are not needed anymore they should be revoked from the user as them being there are a possible security flaw.  
 - Least common mechanism 
-	Means that design should minimize shared functions (software and ) between users
+	Means that design should minimize shared functions (software and hardware) between users.
+	This approach enhance mutual security and permits an easier check on undesirable security implications, making also less users depend on common software/hardware.
 - Psychological acceptability
+	This Principal implies that security mechanism and protocols should not be interfering with the users workflow.
+	The mechanism should be transparent or at best a little obscuring to the user, if 
 - Isolation
 - Encapsulation
 - Modularity
