@@ -94,3 +94,7 @@ Physical and administrative protections and protocols need to be implemented lim
 Viruses and malware are also a thread to the software whose can deny the service to the user (availability) or alter the functions and/or services of it (integrity/authenticity).
 A more severe problem which has no definitive solution now days is the protection to piracy, which means that a software is copied and used without the consent of it's makers, this thread can also lead to other thread like integrity (example: the pirate software is impersonating the legitimate software to access unauthorized information and data).
 #### Data
+For underlying data we means confidential and private data which can be retrieved or calculated from statistics databases or displayed information.
+This problem is exacerbated by the increasing desire to combine data sets.
+In many cases, matching several sets of data for consistency at different levels of aggregation requires access to individual units. 
+Thus, the individual units, which are the subject of privacy concerns, are available at various stages in the processing of data sets.
