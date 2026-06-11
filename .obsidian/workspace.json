@@ -165,12 +165,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +185,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed375c4ed650da8e",
+  "active": "ef605dff0dc83cd1",
   "lastOpenFiles": [
     "Pasted image 20260612003719.png",
     "Pasted image 20260612003614.png",
