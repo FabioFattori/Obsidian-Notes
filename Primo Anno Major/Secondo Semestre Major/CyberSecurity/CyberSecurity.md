@@ -129,8 +129,10 @@ Two types of attacks:
 	Also a complex mechanism is more likely to have security flaws and therefor to have exploitable parts that a hacker can utilize.
 - Fail-safe defaults
 	Means that access decision should be handled by permission rather than exclusion.
-	This is made so that if a function in the system has a error in it a permission system tend to fail rather than consent the access to that functionality. (for example the tok)
+	This is made so that if a function in the system has a error in it a permission system tend to fail rather than consent the access to that functionality. (for example the token system of sanctum is handed precisely like that)
 - Complete mediation
+	Means that if an access action must be made, the permission of the user ***MUST*** be checked directly by the access control and not by a local cache.
+	***Example*** a user logs in and can see his files, some of them he can only read and some of them he can edit, once he tries to open one a request to the access control must be made to verify his permission towards that file in order to find if he can read it or can
 - Open design
 - Separation of privileges
 - Least privilege
