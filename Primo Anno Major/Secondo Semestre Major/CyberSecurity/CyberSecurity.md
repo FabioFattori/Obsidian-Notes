@@ -198,4 +198,8 @@ It's represented as a tree so it's composed of nodes and leaf which have differe
 - Root Node: the security incident which is the goal of the attackers (like have access to an account)
 - Branches and subnotes: ways by which the attacker can reach his goal.
   Each subnode define a subgoal that the attacker needs to achieve to be able to attempt to reach the primary goal.
+	 Each subnote that is not a leaf is either a:
+	- AND-node => each node(goal) of the branch must be achieved/completed to be able to go to the following sets of nodes
+	- OR-node => at least one node must be achieved
+	Also branches can be labeled to give some additional infos of the 'path' represented by the branch such as cost 
 - Leafs: the end nodes, whose represent the many ways an attacker can initiate the attack, the are like paths for the attacker to follow to reach his goal.
