@@ -150,8 +150,11 @@ Two types of attacks:
 	This approach enhance mutual security and permits an easier check on undesirable security implications, making also less users depend on common software/hardware.
 - Psychological acceptability
 	This Principal implies that security mechanism and protocols should not be interfering with the users workflow.
-	The mechanism should be transparent or at best a little obscuring to the user, if 
+	The mechanism should be transparent or at best a little obscuring to the user, if these is not respected the user may be tempted to turn off the protection.
+	So the mechanism should be:
+	> Transparent and not burdensome, and also it should reflect the mental model of protection that the user has so it enhance the work of the user, making him do less errors.
 - Isolation
+	
 - Encapsulation
 - Modularity
 - Layering
