@@ -125,7 +125,8 @@ Two types of attacks:
 
 ### Fundamental Security Design Principal
 - Economy of mechanism
-	
+	This principal consists in demanding that the design of the security mechanisms of software and hardware is as simple as possible to enhance change/fixing time to the mechanism itself.
+	Also a complex mechanism is more likely to have security flaws and therefor to have ex
 - Fail-safe defaults
 - Complete mediation
 - Open design
