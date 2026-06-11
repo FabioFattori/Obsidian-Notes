@@ -119,4 +119,8 @@ Two types of attacks:
 	- Modification of messages 
 		Loss of data integrity.
 	- Denial of Service
-		This attack can have a ***specific target***, so that the victim cannot be reached by other nodes in the network, or can have an ***entire network*** so that 
+		This attack can have a ***specific target***, so that the victim cannot be reached by other nodes in the network, or can have an ***entire network***.
+	> Active attacks are quite the opposite from Passive attacks when it comes to handling them.
+	> Passive cannot be detected but there are many ways to prevent them, Active attacks cannot be prevented absolutely  but can me detected there for resolved, which act as a form of deterrent so it ALSO function as prevention.
+
+## For
