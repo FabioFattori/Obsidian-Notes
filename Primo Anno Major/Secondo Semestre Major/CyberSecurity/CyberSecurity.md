@@ -123,4 +123,18 @@ Two types of attacks:
 	> Active attacks are quite the opposite from Passive attacks when it comes to handling them.
 	> Passive cannot be detected but there are many ways to prevent them, Active attacks cannot be prevented absolutely  but can me detected there for resolved, which act as a form of deterrent so it ALSO function as prevention.
 
-## For
+### Fundamental Security Design Principal
+- Economy of mechanism
+	
+- Fail-safe defaults
+- Complete mediation
+- Open design
+- Separation of privileges
+- Least privilege
+- Least common mechanism 
+- Psychological acceptability
+- Isolation
+- Encapsulation
+- Modularity
+- Layering
+- Least astonishment
