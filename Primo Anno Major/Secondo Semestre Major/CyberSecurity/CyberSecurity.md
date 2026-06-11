@@ -84,7 +84,7 @@ In other words:
 - Corruption => [System Integrity Attack] 
 - Misappropriation => DoS attacks falls in to this topic cause the attack it selfs overflows the network there for the CPU of the asset.
 - Misuse => Attacks which need another successfull attack before, such as gaining authorized login data or a back door to the asset, a Misuse attack consists in having the access to a asset and disabling all or some of their security functions.
-### Assets Categories/Components related to CIA Trad
+### Assets Categories/Components Attacks
 ![[Pasted image 20260611161803.png]]
 #### Hardware
 The biggest thread to this category is Availability as the hardware is the most vulnerable to attacks and the least component protected from automated controls.
@@ -98,3 +98,11 @@ For underlying data we means confidential and private data which can be retrieve
 This problem is exacerbated by the increasing desire to combine data sets.
 In many cases, matching several sets of data for consistency at different levels of aggregation requires access to individual units. 
 Thus, the individual units, which are the subject of privacy concerns, are available at various stages in the processing of data sets.
+#### Communication Lines and Networks
+Two types of attacks:
+- Passive 
+	Those types are made for understanding, analyze and extract data from a network or line.
+	Typically the objective of those attacks are:
+	- Get the content of the message transmitted
+	- Analyze the traffic => this is done when the message are encrypted thus the content is unava
+- Active
