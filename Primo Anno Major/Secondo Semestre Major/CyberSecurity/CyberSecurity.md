@@ -196,4 +196,6 @@ The use of layering, or defense in depth, and attack surface reduction complemen
 An attack tree is a data structure that represents and collect a series of potential techniques for exploiting vulnerabilities of a system.
 It's represented as a tree so it's composed of nodes and leaf which have different meaning:
 - Root Node: the security incident which is the goal of the attackers (like have access to an account)
-- Branches and subnotes: ways by which the attacker ca
+- Branches and subnotes: ways by which the attacker can reach his goal.
+  Each subnode define a subgoal that the attacker needs to achieve to be able to attempt to reach the primary goal.
+- Leafs: the end nodes, whose represent the many ways an attacker can initiate the attack, the are like paths for the attacker to follow to reach his goal.
