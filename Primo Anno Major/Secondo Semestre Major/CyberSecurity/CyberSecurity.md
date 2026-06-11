@@ -85,8 +85,11 @@ In other words:
 - Misappropriation => DoS attacks falls in to this topic cause the attack it selfs overflows the network there for the CPU of the asset.
 - Misuse => Attacks which need another successfull attack before, such as gaining authorized login data or a back door to the asset, a Misuse attack consists in having the access to a asset and disabling all or some of their security functions.
 ### Assets Categories/Components related to CIA Trad
+![[Pasted image 20260611161803.png]]
 #### Hardware
 The biggest thread to this category is Availability as the hardware is the most vulnerable to attacks and the least component protected from automated controls.
 Other threats are involuntary or deliberate damage to it, as well as theft, those harmful threads can lead to losses of confidentiality and availability.
 Physical and administrative protections and protocols need to be implemented limit the losses.
 #### Software
+Viruses and malware are also a thread to the software whose can deny the service to the user (availability) or alter the functions and/or services of it (integrity/authenticity).
+A more severe problem which has no definitive solution now days is the protection to piracy, which means that a software is copied and used without the consent of it's makers, this thread can also lead to other
