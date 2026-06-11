@@ -174,3 +174,9 @@ Two types of attacks:
 - Least astonishment
 	Means that a program/user interface should responds and behave in a way that the user is less astonished as possible from the security mechanism that is acting underneath of it.
 ### Attack Surfaces and Attack Trees
+#### Attack Surfaces
+> List of the reachable and exploitable vulnerabilities of a system, so it's the points breachable by the attackers.
+
+Examples:
+![[Pasted image 20260611220904.png]]
+Attack sur
