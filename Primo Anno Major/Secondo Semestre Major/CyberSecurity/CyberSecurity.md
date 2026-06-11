@@ -169,6 +169,8 @@ Two types of attacks:
 - Modularity
 	Refers to the development of the security functions and to the use of a modular architecture for the security mechanism.
 	In these way upgrading/changing some modules doesn't required to change ALL the mechanism but just a module of it, making the mechanism itself much more upgradable and expandable in the development time.  
-- Layering
-	
+- Layering (_defense in depth_)
+	Refers to the use of multiple, overlapping procedures and mechanism of defense to access resources and assets, so that if an attacker breach one of the mechanism the entire system is not left unprotected.
 - Least astonishment
+	Means that a program/user interface should responds and behave in a way that the user is less astonished as possible from the security mechanism that is acting underneath of it.
+### Attack Surfaces and Attack Trees
