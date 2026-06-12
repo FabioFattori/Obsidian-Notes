@@ -344,8 +344,10 @@ There are many ways which a message can be authenticated using the hash function
 - Symmetric encryption for message digest
   ***IF*** it is assured that only the sender and the receiver shares the key, the authenticity is assured.![[Pasted image 20260612191241.png]]
 - public-key encryption for message digest
+  ![[Pasted image 20260612191454.png]]
   Which has ***two advantages***:
   1. it provide a digital signature and message authentication
   2. doesn't require any key transmission 
-  
-  ![[Pasted image 20260612191454.png]]
+> these two approaches are preferred instead of the ones which encrypt all the message cause they are faster.
+
+> ***BUT*** there are even 
