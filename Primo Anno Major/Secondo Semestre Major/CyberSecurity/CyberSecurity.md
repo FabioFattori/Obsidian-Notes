@@ -327,6 +327,12 @@ To overcome these vulnerability for lengthy message a number of techniques were 
 This type of cyphers operate and encrypt with a much smaller unit than blocks, in fact they can encrypt one byte at a time, even one bit at a time.
 ![[Pasted image 20260612185209.png]]
 They operate as follows:
-- 
+- the key is given to the encryptor to generate a semi-random 8-bit long number in binary which is called the ***keystream***
 - an element/unit of the plaintext is given to the encryptor
-- 
+- the XOR bit operation is done between the unit of the stream and the keystream
+- and so on until the entire stream is encrypted.
+
+|            | Blocks                 | Stream                                       |
+| ---------- | ---------------------- | -------------------------------------------- |
+| Advantages | The keys can be reused | Typically faster and has a leaner code base  |
+|            |                        |                                              |
