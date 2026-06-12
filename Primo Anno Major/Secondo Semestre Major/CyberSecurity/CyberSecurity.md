@@ -499,4 +499,10 @@ Each of them have the following generic structure:
 
 #### Public key certificates
 This approach has a major weakness/vulnerability of inpersonification:
-> Each users can broadcast their public key to make other users be able to 'speak' with him, this is convenient but an attacker can impersonificate a user, that has already communicated his public key, by communicating a new key that the attacker himself generated, so until the impersonificated user discover the forgery, the attacker can receive all of the messages directed to the victim cutted from
+> Each users can broadcast their public key to make other users be able to 'speak' with him, this is convenient but an attacker can impersonificate a user, that has already communicated his public key, by communicating a new key that the attacker himself generated, so until the impersonificated user discover the forgery, the attacker can receive all of the messages directed to the victim cutted out from the communication.
+
+This problem solution are public key certificates.
+> The certificate is essentially a public key and, a user ID and a sign of an authorized and trusted third party entity.
+> The certificate provides some additional informations about the third party entity and the duration of validity of the certificate.
+
+The trusted third entity 
