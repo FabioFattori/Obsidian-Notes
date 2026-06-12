@@ -399,3 +399,7 @@ Hash can be used in:
 > Finds use in message authentication and key distribution
 
 #### Structure
+> Public-key algorithms are based on mathematical functions rather than on simple operations on bit patterns, such as are used in symmetric encryption algorithms
+
+The main difference from symmetric cryptographic algorithms is that PKE is asymmetric, so it envolves two different keys.
+> These technique
