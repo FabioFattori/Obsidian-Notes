@@ -222,5 +222,9 @@ A comprehensive security strategy involves three aspects:
 The development of a security policy is the first step in devising and engineering security services and mechanisms.
 It may have various definition such as:
 > at the least, a security policy is an informational description of desired system behavior.
+> In that description could be referenced minimum requirements for availability, integrity and confidentiality.
 
 or 
+> a security policy is a formal statement of rules and practices that specify or regulate how a system or organization provides security services to protect sensitive and critical system resources.
+
+The first one is more light and defines a different type of security policy, the second one on the other hand define a more strict and formal policy; anyways both of them are correct, highlighting how a security policies can have the same name but represent diffr
