@@ -428,4 +428,11 @@ If we would have a system directed towards data integrity and authentication we 
 ![[Pasted image 20260612230617.png]]
 > The only change is the key used for encryption and decryption
 
-In a system like this in fact, we can assure that a message decrypted by the public key of user A was certainly sent by user A (Authentication) and also only user A would be able to edit the message that was decrypted by his public key ()
+In a system like this in fact, we can assure that a message decrypted by the public key of user A was certainly sent by user A (Authentication) and also only user A would be able to edit the message that was decrypted by his public key (data integrity).
+#### Applications for Public keys cryptosystems
+- digital signatures
+- symmetric key distribution 
+- encryption of secret keys
+Of course there are some algorithms which are the best/usable for some applications and not usable for others, here's a quick view:
+![[Pasted image 20260612231228.png]]
+#### Requirements for PKE
