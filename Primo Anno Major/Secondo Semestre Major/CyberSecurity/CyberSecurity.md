@@ -402,4 +402,12 @@ Hash can be used in:
 > Public-key algorithms are based on mathematical functions rather than on simple operations on bit patterns, such as are used in symmetric encryption algorithms
 
 The main difference from symmetric cryptographic algorithms is that PKE is asymmetric, so it envolves two different keys.
-> These technique
+> These technique is just and alternative path rather than a substitution to symmetric encryption, it's not straight up better or worse than symmetric, it has his strong point and his weak point as well as symmetric.
+
+A PKE scheme has the following structure and parts involved:
+![[Pasted image 20260612225213.png]]
+- Plaintext (equal meaning to symmetric scheme)
+- Encryption algorithm
+- Public and Private key
+	  One of which is provided as input with the plaintext to the encryption algorithm.
+	  The public key is used for encryption, cause the content is exiting the local system and is going in to the 
