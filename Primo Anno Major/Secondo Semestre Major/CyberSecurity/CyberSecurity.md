@@ -379,4 +379,8 @@ To be useful a hash function must be:
 > The same could be said for the sixth.
 
 ##### Security of the Hash Functions 
-
+As with symmetric encryption, there are two approaches to attacking a secure hash function: cryptanalysis and brute-force attack.
+![[Pasted image 20260612214822.png]]
+160 bits hash now days appears more likely to be broken by a brute force attack.
+##### Secure Has function algorithms
+NIST initially released SHA-1 (Secure Hash Algorithm) 
