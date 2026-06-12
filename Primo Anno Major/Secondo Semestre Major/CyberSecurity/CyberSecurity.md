@@ -443,4 +443,12 @@ Of course there are some algorithms which are the best/usable for some applicati
 - It must be computationally infeasible for an attacker, known the _PU_ and the cyphertext, _C_, get the message _M_.
 Now we can add a sixth requirements which, although useful, is not needed for all the applications:
 - Either of the two related keys can be used for encryption, with the other used for decryption.
-  M= D[PUb, E(PRb, M)]= D[PRb, E(PUb, M)]
+  _M_ = D(_PU_, E(_PR, M_))= D(_PR_, E(_PU, M_))
+#### Asymmetric Encryption Algorithm 
+##### RSA 
+> since invented this algorithm reigned supreme as the most widely used approach for the public key encryption
+
+> RSA is a block cipher in which the plaintext and cyphertext are integers between 0 and _n_ - 1 for some _n_.
+
+Currently, a 1024-bit key size (about 300 decimal digits) is considered strong enough for virtually all applications.
+##### Diffie-Hellman key agreement 
