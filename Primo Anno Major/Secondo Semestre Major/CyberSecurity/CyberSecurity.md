@@ -436,3 +436,6 @@ In a system like this in fact, we can assure that a message decrypted by the pub
 Of course there are some algorithms which are the best/usable for some applications and not usable for others, here's a quick view:
 ![[Pasted image 20260612231228.png]]
 #### Requirements for PKE
+- It must be computationally easy for a party(user) to generate a pair of keys (_PU_ public and _PR_ private)
+- It must be computationally easy for a sender the generation of cyphertext to send to a receiver => E(_PU,M_)
+- 
