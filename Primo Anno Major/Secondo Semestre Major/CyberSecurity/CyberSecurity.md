@@ -213,4 +213,8 @@ It's represented as a tree so it's composed of nodes and leaf which have differe
 ![[Pasted image 20260612003719.png]]
 > with these knowledge the analysts can know assess the risks of each attack and by using the principals listed before [[#Fundamental Security Design Principal]] they can plan some strategies to lower the risks of the attacks.
 
-Riparti da pagina 40 del pdf iniziando dal capitolo 1.6
+### Computer Security Strategy
+A comprehensive security strategy involves three aspects:
+- Specification/policy => what is the security scheme supposed to do?
+- Implementation/mechanism => how it does it?
+- Correctness/assurance => does it do it correct
