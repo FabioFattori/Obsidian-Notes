@@ -498,3 +498,5 @@ Each of them have the following generic structure:
 > These technique ***DOES NOT*** provide confidentiality, even if the message is encrypted, cause the message can be disclosed by simply decrypt the message using sender public key.
 
 #### Public key certificates
+This approach has a major weakness/vulnerability of inpersonification:
+> Each users can broadcast their public key to make other users be able to 'speak' with him, this is convenient but an attacker can impersonificate a user, that has already communicated his public key, by communicating a new key that the attacker himself generated, so until the impersonificated user discover the forgery, the attacker can receive all of the messages directed to the victim cutted from
