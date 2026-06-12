@@ -22,6 +22,18 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
+          },
+          {
+            "id": "f56c348af0e40038",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))"
+            }
           }
         ]
       }
@@ -80,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -188,23 +199,22 @@
   },
   "active": "ed375c4ed650da8e",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Pasted image 20260612185209.png",
     "Pasted image 20260612184115.png",
     "Pasted image 20260612163625.png",
     "Pasted image 20260612162727.png",
     "Pasted image 20260612151254.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260611152416.png",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260612003719.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260612003614.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260611222014.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260611221941.png",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260611220904.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/cartella senza nome",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
     "ProjectWithDiegoNotes/imgs",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",

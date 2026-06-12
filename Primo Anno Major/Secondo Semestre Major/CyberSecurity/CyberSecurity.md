@@ -284,7 +284,7 @@ There is two requirements to use secure Symmetric encrypt:
 	On average a brute force algorithm must try half of the number of possible keys to discover the actual key used.
 	Not only that but some type of automatic analysis/recognition must be created to make the process bearable and sustainable for the attacker (the attacker cannot "check by hand" each possible result to see if the cyphertext is turned into plaintext or garble \[random chars\]).
 	So there's more to this attack that may seems, to supplement the brute-force approach, some degree of knowledge about the expected plaintext is needed, and some means of automatically distinguishing plaintext from garble is also needed.
-#### Symmetric block encryption algorithms
+#### Symmetric Block Encryption Algorithms
 Most commonly used symmetric algorithms.
 > They divide the plaintext input into fixed length blocks and then cypher them.
 
@@ -312,7 +312,7 @@ NIST redacted a contest to find out a worthy successor to DES and 3DES by enstab
 - Block length of 128 bit
 - Key length of 128,192 or 256 bits
 - Computational efficiency and flexibility
-##### Practical Security issues (ECB)
+##### Practical Security Issues (ECB)
 To encrypt the plaintext message it must be broken up into blocks first, and each of them must be encrypted alone.
 The simplest approach to do so is called Electronic CodeBook mode (ECB)
 ![[Pasted image 20260612184115.png]]
@@ -323,7 +323,7 @@ Which:
 > The problem is that ECB for lengthy messages is not secure, a cryptanalyst can recognize and exploit regularities in the plaintext to ease, therefor be able to, decrypt messages.
 
 To overcome these vulnerability for lengthy message a number of techniques were developed called ***nodes of operations***.
-#### Stream Cyphers 
+#### Stream Cyphers
 This type of cyphers operate and encrypt with a much smaller unit than blocks, in fact they can encrypt one byte at a time, even one bit at a time.
 ![[Pasted image 20260612185209.png]]
 They operate as follows:
@@ -336,5 +336,5 @@ They operate as follows:
 | ---------- | ---------------------- | ------------------------------------------- |
 | Advantages | The keys can be reused | Typically faster and has a leaner code base |
 They are equal in terms of what they bring to the table, they shine in different contexts based on the data to encrypt and the use cases.
-### Message authentication and hash functions 
+### Message Authentication and Hash Functions
 #### One Way Hash Function
