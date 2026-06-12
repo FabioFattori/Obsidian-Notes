@@ -296,4 +296,8 @@ Most commonly used symmetric algorithms.
 ##### DES
 It's the most old algorithm and the most studied of them all.
 Two concerns:
-1. Possibility of cryptanalysis attack to 
+1. Possibility of cryptanalysis attack to DES algorithm, which is proven not possible cause over the years numerous attempt where made and not even one has succeeded.
+2. Length of the key, which for todays computer is a big problem.
+   56 bits keys just simply not cut it and can be disclosed in about an hour (see table), now days is prefered the use of triple DES or AES both of which have a key which is, at least, doubled in sized compared to DES.
+![[Pasted image 20260612163625.png]]
+##### Triple DES
