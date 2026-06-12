@@ -270,3 +270,7 @@ So this take us to:
 ### Symmetric encryption 
 Is the most common encryption in use since Giulio Cesare.
 ![[Pasted image 20260612151254.png]]
+There is two requirements to use secure Symmetric encrypt:
+- the use of a secure encryption algorithm
+	  Which means that the attacker should not be able to decrypt ciphertext or find the key even if he is in possession of a number of ciphertext associated with their respective plaintext output.
+- 
