@@ -338,3 +338,8 @@ They operate as follows:
 They are equal in terms of what they bring to the table, they shine in different contexts based on the data to encrypt and the use cases.
 ### Message Authentication and Hash Functions
 #### One Way Hash Function
+> a hash function accepts a variable-size message M as input and produces a fixed-size message digest H(M) as output.
+
+There are many ways which a message can be authenticated using the hash function, here's a few:
+- 
+  ![[Pasted image 20260612191241.png]]
