@@ -358,3 +358,6 @@ Here's one:
   >Because the secret key itself is not sent, it should not be possible for an attacker to modify an intercepted message.
   > 	As long as the secret key remains secret, it should not be possible for an attacker to generate a false message.
 #### Secure Hash Function
+> A Hash Function (***H***) is a way to produce a fingerprint of a file, message or block of data.
+##### Hash Function requirements
+To be useful
