@@ -217,4 +217,10 @@ It's represented as a tree so it's composed of nodes and leaf which have differe
 A comprehensive security strategy involves three aspects:
 - Specification/policy => what is the security scheme supposed to do?
 - Implementation/mechanism => how it does it?
-- Correctness/assurance => does it do it correct
+- Correctness/assurance => does it do it correctly?
+#### Security Policy 
+The development of a security policy is the first step in devising and engineering security services and mechanisms.
+It may have various definition such as:
+> at the least, a security policy is an informational description of desired system behavior.
+
+or 
