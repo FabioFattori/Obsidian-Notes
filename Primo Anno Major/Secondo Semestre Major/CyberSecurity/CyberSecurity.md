@@ -267,3 +267,6 @@ So this take us to:
 	Evaluation involves testing and may also involve formal analytic or mathematical techniques. 
 	> The central thrust of work in this area is the development of evaluation criteria that can be applied to any security system and that are broadly supported for making product comparisons. 
 ## Chapter 2
+### Symmetric encryption 
+Is the most common encryption in use since Giulio Cesare.
+![[Pasted image 20260612151254.png]]
