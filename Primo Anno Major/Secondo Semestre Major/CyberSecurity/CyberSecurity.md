@@ -365,5 +365,12 @@ To be useful a hash function must be:
 - it must produce an output of a fixed length
 - it's execution must be relatively light so that it makes hardware and software implementation practical
 - for any implementation _h_, given a _x_ it is true that H(_x_) = _x_.
-  Those hashing function are called one-way.
-- For any given _x_, is computationally infeasible to find y != _x_ with H(_y_) = H(_x_)
+  Those hashing function are called ***one-way*** or ***preimage resistant***.
+- For any given _x_, is computationally infeasible to find _y_ != _x_ with H(_y_) = H(_x_).
+  This property is called ***second preimage resistant*** or ***weak collision resistant***.
+- It is computationally infeasible to find any pair (x, y) such that H(x)= H(y).
+  A hash function with this property is referred to as ***collision resistant*** or ***strong collision resistant***.
+
+> The first three are requirements for a more practical and simple application of the function
+
+> The fourth is a requirements cause if the communication has a secret value 
