@@ -253,3 +253,8 @@ The implementation involves 4 different courses of action:
 - Recovery
 	An example of recovery is the use of backup systems, so if data integrity is compromised, a prior, correct copy of the data can be reloaded.
 #### Assurance and Evaluation
+Consumers of the security system wants that it works as intended(Grazie al cazzo).
+That is, security consumers want to feel that the security infrastructure of their systems meet security requirements and enforce security policies.
+So this take us to:
+- Assurance
+	
