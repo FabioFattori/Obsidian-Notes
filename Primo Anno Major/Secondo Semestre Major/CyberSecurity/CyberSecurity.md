@@ -429,7 +429,7 @@ If we would have a system directed towards data integrity and authentication we 
 > The only change is the key used for encryption and decryption
 
 In a system like this in fact, we can assure that a message decrypted by the public key of user A was certainly sent by user A (Authentication) and also only user A would be able to edit the message that was decrypted by his public key (data integrity).
-#### Applications for Public keys cryptosystems
+#### Applications for Public Keys Cryptosystems
 - digital signatures
 - symmetric key distribution 
 - encryption of secret keys
@@ -444,19 +444,19 @@ Of course there are some algorithms which are the best/usable for some applicati
 Now we can add a sixth requirements which, although useful, is not needed for all the applications:
 - Either of the two related keys can be used for encryption, with the other used for decryption.
   _M_ = D(_PU_, E(_PR, M_))= D(_PR_, E(_PU, M_))
-#### Asymmetric Encryption Algorithm 
-##### RSA 
+#### Asymmetric Encryption Algorithm
+##### RSA
 > since invented this algorithm reigned supreme as the most widely used approach for the public key encryption
 
 > RSA is a block cipher in which the plaintext and cyphertext are integers between 0 and _n_ - 1 for some _n_.
 
 Currently, a 1024-bit key size (about 300 decimal digits) is considered strong enough for virtually all applications.
-##### Diffie-Hellman key agreement/exchange
+##### Diffie-Hellman Key agreement/exchange
 > the first algorithm for public key encryption, still used today for some key exchange techniques.
 
 > The purpose of the algorithm is to enable two users to securely reach agreement about a shared secret that can be used as a secret key for subsequent symmetric encryption of messages.
    The algorithm itself is limited to the exchange of the keys.
-##### Digital signature Standard (DSA)
+##### Digital Signature Standard (DSA)
 Proposed by NIST.
 The DSS makes use of SHA-1 and presents a new digital signature technique, the Digital Signature Algorithm (DSA).
 > The DSS uses an algorithm that is designed to provide only the ­ digital signature function. Unlike RSA, it cannot be used for encryption or key exchange.
@@ -468,8 +468,8 @@ The majority of systems uses RSA, the problem is that the number of bits for the
 
 > It's only problem is that it is too new, it does not have the fame ,years and consolidation that RSA has, so people still does not trust it.
 
-### Digital Signature and Key management 
-##### Brief overview so far
+### Digital Signature and Key Management
+#### Brief Overview so far
 public-key algorithms are used in a variety of applications.
 In broad terms, these applications fall into two categories:
 - digital signatures 
@@ -478,4 +478,10 @@ In broad terms, these applications fall into two categories:
 	- the secure distribution of public keys
 	- the use of public key encryption to distribute secret keys
 	- the use of public key encryption to generate temporary keys used for message encryption
+### Digital Signatures
+> Digital Signature is a technique to authenticate user in a communication.
 
+> A digital signature is a result of cryptographic transformation of data which can authenticate a source, assure data integrity and signatory non-repudiation.
+
+So the signature is a data dependent bit pattern, generated from a file, message or any other form of block of data which an agent utilizes as an input to a function.
+Another agent can 
