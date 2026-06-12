@@ -192,7 +192,7 @@ Attack surface categories are:
 
 ![[Pasted image 20260611222014.png]]
 The use of layering, or defense in depth, and attack surface reduction complement each other in mitigating security risk.
-#### Attack trees
+#### Attack Trees
 An attack tree is a data structure that represents and collect a series of potential techniques for exploiting vulnerabilities of a system.
 It's represented as a tree so it's composed of nodes and leaf which have different meaning:
 - Root Node: the security incident which is the goal of the attackers (like have access to an account)
@@ -218,7 +218,7 @@ A comprehensive security strategy involves three aspects:
 - Specification/policy => what is the security scheme supposed to do?
 - Implementation/mechanism => how it does it?
 - Correctness/assurance => does it do it correctly?
-#### Security Policy 
+#### Security Policy
 The development of a security policy is the first step in devising and engineering security services and mechanisms.
 It may have various definition such as:
 > at the least, a security policy is an informational description of desired system behavior.
@@ -228,7 +228,7 @@ or
 > a security policy is a formal statement of rules and practices that specify or regulate how a system or organization provides security services to protect sensitive and critical system resources.
 
 The first one is more light and defines a different type of security policy, the second one on the other hand define a more strict and formal policy; anyways both of them are correct, highlighting how security policies can have the same name but represent different things.
-##### Development of a security policy
+##### Development of a Security Policy
 During the development a security manager must consider the following factors:
 - The value of the asset being protected
 - The vulnerabilities of the system
@@ -241,9 +241,15 @@ Also the manager must keep in mind the following trade-offs:
 	The security mechanisms and functions are not only a cost during development time, but are also a passive cost just to maintain them up so the managers are called to decide which is better between maintaining them or spend money after a failure occurs to recover from it.
 	The possibilities are countless and are influenced by the possible attacks that the system can suffer from, the value of the asset and the confidentiality/privacy level of the information that could possibly be exploited.
 > Those trade-offs says loud and clear how the definition and implementation of a security policy is business decision that can be influenced by the legal minimal requirements imposed by the law.
-#### Security implementation 
+#### Security Implementation
 The implementation involves 4 different courses of action:
 - Prevention
 	This is not ideal for some threads, but there is a numerous of which that prevention is a reasonable goal to resolve them, let's take for example the utilization of a secure cryptographic algorithm to encrypt transmission messages, the possible attacks on confidentiality are prevented to happen.
 - Detection
 	Absolute protection is not always possible, but the detection of an attack is a much more practical way to handle those thread that cannot be solved.
+- Response
+	This is an action which can take place when an attack is detected.
+	Let's say that a DoS is taking place, it is detected then a response is to possibly block the host/hosts whose are making the attack to prevent further damage to the assets.
+- Recovery
+	An example of recovery is the use of backup systems, so if data integrity is compromised, a prior, correct copy of the data can be reloaded.
+#### Assurance and Evaluation
