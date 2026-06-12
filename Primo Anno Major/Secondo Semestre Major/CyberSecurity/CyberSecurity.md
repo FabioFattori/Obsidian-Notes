@@ -244,4 +244,6 @@ Also the manager must keep in mind the following trade-offs:
 #### Security implementation 
 The implementation involves 4 different courses of action:
 - Prevention
-	
+	This is not ideal for some threads, but there is a numerous of which that prevention is a reasonable goal to resolve them, let's take for example the utilization of a secure cryptographic algorithm to encrypt transmission messages, the possible attacks on confidentiality are prevented to happen.
+- Detection
+	Absolute protection is not always possible, but the detection of an attack is a much more practical way to handle those thread that cannot be solved.
