@@ -484,4 +484,14 @@ In broad terms, these applications fall into two categories:
 > A digital signature is a result of cryptographic transformation of data which can authenticate a source, assure data integrity and signatory non-repudiation.
 
 So the signature is a data dependent bit pattern, generated from a file, message or any other form of block of data which an agent utilizes as an input to a function.
-Another agent can 
+Another agent can verify that:
+1. the data block has been signed by the alleged signer
+2. the data block has not been altered since the signing
+
+FIPS define the following algorithms to generate/handle digital signatures:
+- Digital Signature Algorithm (DSA)
+	Based on a logarithm so that is not feasible to brute force.
+- RSA Digital Signature Algorithm
+- ECC Digital Signature Algorithm
+Each of them have the following generic structure:
+
