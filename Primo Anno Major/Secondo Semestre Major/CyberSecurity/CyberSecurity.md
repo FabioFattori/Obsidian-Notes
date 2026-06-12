@@ -281,4 +281,6 @@ There is two requirements to use secure Symmetric encrypt:
 	
 	This attacks tries to deduce/decrypt a specific cyphertext content or the secret key used in the communication.
 - ***Brute force attack***
-	
+	On average a brute force algorithm must try half of the number of possible keys to discover the actual key used.
+	Not only that but some type of automatic analysis/recognition must be created to make the process bearable and sustainable for the attacker (the attacker cannot "check by hand" each possible result to see if the cyphertext is turned into plaintext or garble\[random chars\]).
+	So 
