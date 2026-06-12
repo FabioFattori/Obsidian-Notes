@@ -332,7 +332,9 @@ They operate as follows:
 - the XOR bit operation is done between the unit of the stream and the keystream
 - and so on until the entire stream is encrypted.
 
-|            | Blocks                 | Stream                                       |
-| ---------- | ---------------------- | -------------------------------------------- |
-| Advantages | The keys can be reused | Typically faster and has a leaner code base  |
-|            |                        |                                              |
+|            | Blocks                 | Stream                                      |
+| ---------- | ---------------------- | ------------------------------------------- |
+| Advantages | The keys can be reused | Typically faster and has a leaner code base |
+They are equal in terms of what they bring to the table, they shine in different contexts based on the data to encrypt and the use cases.
+### Message authentication and hash functions 
+#### One Way Hash Function
