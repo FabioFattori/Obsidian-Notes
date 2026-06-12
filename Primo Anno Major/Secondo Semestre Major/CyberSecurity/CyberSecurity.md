@@ -304,4 +304,6 @@ Two concerns:
 > This algorithm actually is DES but applied 3 consecutive times to the input.
 
 This simple implementation resolved the primary concern of DES, so the brute force attack is now not desirable from the attacker part and the cryptanalysis is still not possible (this was true also for DES).
-The
+A concern is resolved but it comes with two problems/drawbacks, which are:
+- ***Software implementation of the algorithm is sluggish***, the DES was made for 1970 hardware and does not produce efficient code therefor we can clearly see that reproducing 3 times the same not optimized code can be ***very time consuming***.
+- Block size, DES utilize a block size of 64 bits which, for reasons of efficiency and security, is not enough, a ***longer block is desirable***.
