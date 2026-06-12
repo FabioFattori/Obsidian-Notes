@@ -257,4 +257,6 @@ Consumers of the security system wants that it works as intended(Grazie al cazzo
 That is, security consumers want to feel that the security infrastructure of their systems meet security requirements and enforce security policies.
 So this take us to:
 - Assurance
-	
+	Attribute of a security system which indicates how a security policy is enforced by the system itself.
+	> Assurance is used to and embodies two different aspects, system design and system implementation.
+	> 
