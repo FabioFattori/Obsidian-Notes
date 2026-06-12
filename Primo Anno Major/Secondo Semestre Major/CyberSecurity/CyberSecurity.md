@@ -243,20 +243,26 @@ Also the manager must keep in mind the following trade-offs:
 > Those trade-offs says loud and clear how the definition and implementation of a security policy is business decision that can be influenced by the legal minimal requirements imposed by the law.
 #### Security Implementation
 The implementation involves 4 different courses of action:
-- Prevention
+- ***Prevention***
 	This is not ideal for some threads, but there is a numerous of which that prevention is a reasonable goal to resolve them, let's take for example the utilization of a secure cryptographic algorithm to encrypt transmission messages, the possible attacks on confidentiality are prevented to happen.
-- Detection
+- ***Detection***
 	Absolute protection is not always possible, but the detection of an attack is a much more practical way to handle those thread that cannot be solved.
-- Response
+- ***Response***
 	This is an action which can take place when an attack is detected.
 	Let's say that a DoS is taking place, it is detected then a response is to possibly block the host/hosts whose are making the attack to prevent further damage to the assets.
-- Recovery
+- ***Recovery***
 	An example of recovery is the use of backup systems, so if data integrity is compromised, a prior, correct copy of the data can be reloaded.
 #### Assurance and Evaluation
 Consumers of the security system wants that it works as intended(Grazie al cazzo).
 That is, security consumers want to feel that the security infrastructure of their systems meet security requirements and enforce security policies.
 So this take us to:
-- Assurance
+- ***Assurance***
 	Attribute of a security system which indicates how a security policy is enforced by the system itself.
 	> Assurance is used to and embodies two different aspects, system design and system implementation.
-	> 
+	> It deals with the questions, “Does the security system design meet its requirements?” and “Does the security system implementation meet its specifications?”.
+	
+	It Is expressed by a degree of confidence, so it's not that formal as it seems, but it can be pretty useful to assure the consumers.
+- ***Evaluation***
+	Is a process of examination of an application or system to evaluate it based on a specific criteria.
+	Evaluation involves testing and may also involve formal analytic or mathematical techniques. 
+	> The central thrust of work in this area is the development of evaluation criteria that can be applied to any security system and that are broadly supported for making product comparisons. 
