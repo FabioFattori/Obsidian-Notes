@@ -359,7 +359,7 @@ Here's one:
   > 	As long as the secret key remains secret, it should not be possible for an attacker to generate a false message.
 #### Secure Hash Function
 > A Hash Function (***H***) is a way to produce a fingerprint of a file, message or block of data.
-##### Hash Function requirements
+##### Hash Function Requirements
 To be useful a hash function must be:
 - applicable to a block of data of _any_ size
 - it must produce an output of a fixed length
@@ -378,14 +378,14 @@ To be useful a hash function must be:
 > The fifth, weak collision resistant, is important so that no message can have the same hash, this prevent the loss of data integrity cause an attacker could easily intercept a message and send a message with that same hash, in fact substituting the legittimate message to a fake/damaging message.
 > The same could be said for the sixth.
 
-##### Security of the Hash Functions 
+##### Security of the Hash Functions
 As with symmetric encryption, there are two approaches to attacking a secure hash function: cryptanalysis and brute-force attack.
 ![[Pasted image 20260612214822.png]]
 160 bits hash now days appears more likely to be broken by a brute force attack.
-##### Secure Has function algorithms
+##### Secure Has Function Algorithms
 NIST initially released SHA-1 (Secure Hash Algorithm), weakness were found so they had to release a new version called SHA-2 which had 3 different algorithms: SHA-256, SHA-384 and SHA-512, the numbers represent the length of the output hash.
 SHA-1 and SHA-2 have essentially the same internal structures, so in 2015 NIST decided to release SHA-3 as an alternative to SHA-2 algorithms.
-##### Hash Applications 
+##### Hash Applications
 Hash can be used in:
 - message authentication
 - creation of digital signatures of things (fingerprints)
@@ -396,3 +396,6 @@ Hash can be used in:
 	  Storing the hash of a resource can tell us if that resource has been modified cause upon edit that same file will have a different hash than the stored one.
 	  This require at least a weak collision resistance.
 ### Public Key Encryption
+> Finds use in message authentication and key distribution
+
+#### Structure
