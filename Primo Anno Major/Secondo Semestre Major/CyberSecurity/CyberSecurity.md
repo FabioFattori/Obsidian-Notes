@@ -387,4 +387,11 @@ NIST initially released SHA-1 (Secure Hash Algorithm), weakness were found so th
 SHA-1 and SHA-2 have essentially the same internal structures, so in 2015 NIST decided to release SHA-3 as an alternative to SHA-2 algorithms.
 ##### Hash Applications 
 Hash can be used in:
-- messa
+- message authentication
+- creation of digital signatures of things (fingerprints)
+- passwords
+	  So that the clear text password is not stored, and when an attempt of login occurs the stored hash and the attempt password hash are compared.
+	  This require at least the preimage resistant, and possibly the second preimage resistant
+- Intrusion detection
+	  Storing the hash of a resource can tell us if that resource has been modified cause upon edit that same file will have a different hash than the stored one.
+	  This require at least a weak collision resistance.
