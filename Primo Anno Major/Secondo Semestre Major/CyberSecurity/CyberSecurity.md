@@ -324,4 +324,9 @@ Which:
 
 To overcome these vulnerability for lengthy message a number of techniques were developed called ***nodes of operations***.
 #### Stream Cyphers 
-
+This type of cyphers operate and encrypt with a much smaller unit than blocks, in fact they can encrypt one byte at a time, even one bit at a time.
+![[Pasted image 20260612185209.png]]
+They operate as follows:
+- 
+- an element/unit of the plaintext is given to the encryptor
+- 
