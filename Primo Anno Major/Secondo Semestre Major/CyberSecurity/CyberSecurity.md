@@ -420,5 +420,12 @@ In general a communication is initialized and carried on as follows:
 2. Each user now put the public key in a public register or accessible file to permit other to communicate with him, in fact the public key of a specific receiver ***NEEDS*** to be used to _encrypt_ the message so that the designated receiver can accept and understand said message.
 3. When the receiver receive the message he utilize his private key.
    No other user can decrypt the message except the designated user.
-With these scheme confidentiality is provided as long as users keep their private key secure and local.
-At any time a user can change is 
+> With these scheme confidentiality is provided as long as users keep their private key secure and local.
+
+> At any time a user can change is key by just generating a new pair and providing the public key to others.
+
+If we would have a system directed towards data integrity and authentication we would use the following scheme:
+![[Pasted image 20260612230617.png]]
+> The only change is the key used for encryption and decryption
+
+In a system like this in fact, we can assure that a message decrypted by the public key of user A was certainly sent by user A (Authentication) and also only user A would be able to edit the message that was decrypted by his public key ()
