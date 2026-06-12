@@ -267,10 +267,14 @@ So this take us to:
 	Evaluation involves testing and may also involve formal analytic or mathematical techniques. 
 	> The central thrust of work in this area is the development of evaluation criteria that can be applied to any security system and that are broadly supported for making product comparisons. 
 ## Chapter 2
-### Symmetric encryption 
+### Symmetric Encryption
 Is the most common encryption in use since Giulio Cesare.
 ![[Pasted image 20260612151254.png]]
 There is two requirements to use secure Symmetric encrypt:
 - the use of a secure encryption algorithm
 	  Which means that the attacker should not be able to decrypt ciphertext or find the key even if he is in possession of a number of ciphertext associated with their respective plaintext output.
-- 
+- the sender and receiver must have got the key in a secure way and must keep it secure
+	If this is not respected the entire communication is readable therefor the mechanism is useless
+#### General Attacks Approaches to Symmetric Encryption
+- ***Cryptanalysis***
+	
