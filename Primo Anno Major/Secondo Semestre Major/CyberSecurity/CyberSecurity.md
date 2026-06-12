@@ -410,4 +410,11 @@ A PKE scheme has the following structure and parts involved:
 - Encryption algorithm
 - Public and Private key
 	  One of which is provided as input with the plaintext to the encryption algorithm.
-	  The public key is used for encryption, cause the content is exiting the local system and is going in to the 
+	  The public key is used for encryption, cause the content is exiting the local system and is going in to the 'public'(network).
+	  The private key is used for decryption.
+- Cyphertext
+	  Output of the Encryption algorithm which depends on the plaintext and the key provided (public and private key creates different cyphertext).
+- Decryption Algorithm.
+In general a communication is initialized and carried on as follows:
+1. Each user generates a pair of keys used for encryption and decryption of messages
+2. Each user now put the public key in a public register or accessible file to permit other to communicate with him, in fact the public 
