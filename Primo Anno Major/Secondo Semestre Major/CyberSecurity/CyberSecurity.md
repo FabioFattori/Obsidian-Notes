@@ -509,6 +509,9 @@ This problem solution are public key certificates.
 
 The creation of a certificate is initialized by a user, which presents his public key to the CA and receive a signed certificate from them.
 ![[Pasted image 20260613014400.png]]
-
+6. then the CA returns the signed certificate to the user who can start to utilize it.
+##### How a certificate is validated by other users
+![[Pasted image 20260613014537.png]]
 Here's an example of how the certificate is validated by users during communication:
 ![[Pasted image 20260613013854.png]]
+#### Symmetric key exchange using PKE
