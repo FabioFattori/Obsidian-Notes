@@ -469,4 +469,13 @@ The majority of systems uses RSA, the problem is that the number of bits for the
 > It's only problem is that it is too new, it does not have the fame ,years and consolidation that RSA has, so people still does not trust it.
 
 ### Digital Signature and Key management 
+##### Brief overview so far
+public-key algorithms are used in a variety of applications.
+In broad terms, these applications fall into two categories:
+- digital signatures 
+- key management and distribution
+	which can be divided in: 
+	- the secure distribution of public keys
+	- the use of public key encryption to distribute secret keys
+	- the use of public key encryption to generate temporary keys used for message encryption
 
