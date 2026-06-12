@@ -277,4 +277,8 @@ There is two requirements to use secure Symmetric encrypt:
 	If this is not respected the entire communication is readable therefor the mechanism is useless
 #### General Attacks Approaches to Symmetric Encryption
 - ***Cryptanalysis***
+	> Which relies on some characteristics of the algorithm being used and, could not be utilized, some knowledge of the general characteristics of the plaintext sent or some pairs of plaintext-cyphertext.
+	
+	This attacks tries to deduce/decrypt a specific cyphertext content or the secret key used in the communication.
+- ***Brute force attack***
 	
