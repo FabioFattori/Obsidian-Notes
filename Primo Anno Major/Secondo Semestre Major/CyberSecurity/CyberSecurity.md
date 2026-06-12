@@ -301,3 +301,7 @@ Two concerns:
    56 bits keys just simply not cut it and can be disclosed in about an hour (see table), now days is prefered the use of triple DES or AES both of which have a key which is, at least, doubled in sized compared to DES.
 ![[Pasted image 20260612163625.png]]
 ##### Triple DES
+> This algorithm actually is DES but applied 3 consecutive times to the input.
+
+This simple implementation resolved the primary concern of DES, so the brute force attack is now not desirable from the attacker part and the cryptanalysis is still not possible (this was true also for DES).
+The
