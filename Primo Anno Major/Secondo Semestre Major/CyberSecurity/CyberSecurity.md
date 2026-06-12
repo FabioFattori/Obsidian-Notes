@@ -514,4 +514,4 @@ The creation of a certificate is initialized by a user, which presents his publi
 ![[Pasted image 20260613014537.png]]
 Here's an example of how the certificate is validated by users during communication:
 ![[Pasted image 20260613013854.png]]
-#### Symmetric key exchange using PKE
+#### Digital Envelopes
