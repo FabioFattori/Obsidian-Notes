@@ -505,4 +505,6 @@ This problem solution are public key certificates.
 > The certificate is essentially a public key and, a user ID and a sign of an authorized and trusted third party entity.
 > The certificate provides some additional informations about the third party entity and the duration of validity of the certificate.
 
-The trusted third entity 
+The trusted third entity is a Certification Authority (CA) trusted by the users community.
+The creation of a certificate is initialized by a user, which presents his public key to the CA and receive a signed certificate from them.
+![[Pasted image 20260613013854.png]]
