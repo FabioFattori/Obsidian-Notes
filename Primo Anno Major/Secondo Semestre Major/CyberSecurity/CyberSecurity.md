@@ -464,4 +464,9 @@ The DSS makes use of SHA-1 and presents a new digital signature technique, the D
 ##### Elliptic Curve Cryptography
 The majority of systems uses RSA, the problem is that the number of bits for the secure RSA has increased over the years increasing also the computing time and processing load over the applications.
 > Elliptic Curve Cryptography is a more recent algorithm which is competing with RSA:
-> is better than RSA based on the fact that utilizes less bits so the overhead 
+> is better than RSA based on the fact that utilizes less bits so the processing overhead is far less impeding.
+
+> It's only problem is that it is too new, it does not have the fame ,years and consolidation that RSA has, so people still does not trust it.
+
+### Digital Signature and Key management 
+
