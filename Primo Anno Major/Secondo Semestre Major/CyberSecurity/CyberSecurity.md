@@ -451,4 +451,14 @@ Now we can add a sixth requirements which, although useful, is not needed for al
 > RSA is a block cipher in which the plaintext and cyphertext are integers between 0 and _n_ - 1 for some _n_.
 
 Currently, a 1024-bit key size (about 300 decimal digits) is considered strong enough for virtually all applications.
-##### Diffie-Hellman key agreement 
+##### Diffie-Hellman key agreement/exchange
+> the first algorithm for public key encryption, still used today for some key exchange techniques.
+
+> The purpose of the algorithm is to enable two users to securely reach agreement about a shared secret that can be used as a secret key for subsequent symmetric encryption of messages.
+   The algorithm itself is limited to the exchange of the keys.
+##### Digital signature Standard (DSA)
+Proposed by NIST.
+The DSS makes use of SHA-1 and presents a new digital signature technique, the Digital Signature Algorithm (DSA).
+> The DSS uses an algorithm that is designed to provide only the ­ digital signature function. Unlike RSA, it cannot be used for encryption or key exchange.
+
+##### 
