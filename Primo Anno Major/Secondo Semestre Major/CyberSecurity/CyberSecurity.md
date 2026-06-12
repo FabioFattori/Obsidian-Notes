@@ -238,4 +238,6 @@ Also the manager must keep in mind the following trade-offs:
 	Typically the introduction of security mechanisms in an application tend to lower the ease of use of said application, let's say for example the utilization of login + rechapta, the login requires that the user ***MUST*** remember the username/email and password and also the rechapta slows down the user to assert that he is not a bot.
 	Or again let's take for example virus-checking software reduces available processing power and introduces the possibility of system crashes or malfunctions due to improper interaction between the security software and the operating system.
 - Cost of security VS cost of failure and recovery
-	
+	The security mechanisms and functions are not only a cost during development time, but are also a passive cost just to maintain them up so the managers are called to decide which is better between maintaining them or spend money after a failure occurs to recover from it.
+	The possibilities are countless and are influenced by the possible attacks that the system can suffer from, the value of the asset and the confidentiality/privacy level of the information that could possibly be exploited.
+> Those trade-offs says loud and clear how the definition and implementation of a security policy is 
