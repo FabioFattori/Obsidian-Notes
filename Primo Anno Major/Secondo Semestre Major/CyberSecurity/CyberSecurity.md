@@ -461,4 +461,7 @@ Proposed by NIST.
 The DSS makes use of SHA-1 and presents a new digital signature technique, the Digital Signature Algorithm (DSA).
 > The DSS uses an algorithm that is designed to provide only the ­ digital signature function. Unlike RSA, it cannot be used for encryption or key exchange.
 
-##### 
+##### Elliptic Curve Cryptography
+The majority of systems uses RSA, the problem is that the number of bits for the secure RSA has increased over the years increasing also the computing time and processing load over the applications.
+> Elliptic Curve Cryptography is a more recent algorithm which is competing with RSA:
+> is better than RSA based on the fact that utilizes less bits so the overhead 
