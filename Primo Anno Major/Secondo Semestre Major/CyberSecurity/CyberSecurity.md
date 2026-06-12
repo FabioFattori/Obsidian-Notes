@@ -373,4 +373,6 @@ To be useful a hash function must be:
 
 > The first three are requirements for a more practical and simple application of the function
 
-> The fourth is a requirements cause if the communication has a secret value 
+> The fourth is a requirements cause if the communication has a secret value and the function utilized is not one-way an attacker can easily discover said secret value (the attacker has the message _M_ and the H(_KMK_) so he can easily invert the function and extract the value _K_).
+
+> The fifth, weak collision resistant, is important so that no message can have the same hash, this prevent the loss of data integrity cause an attacker could easily intercept a message and send a message with that same hash, in fact substituing the leg
