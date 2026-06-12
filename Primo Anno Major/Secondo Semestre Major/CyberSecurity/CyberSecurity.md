@@ -308,3 +308,6 @@ A concern is resolved but it comes with two problems/drawbacks, which are:
 - ***Software implementation of the algorithm is sluggish***, the DES was made for 1970 hardware and does not produce efficient code therefor we can clearly see that reproducing 3 times the same not optimized code can be ***very time consuming***.
 - ***Block size***, DES utilize a block size of 64 bits which, for reasons of efficiency and security, is not enough, a ***longer block is desirable***.
 ##### AES
+NIST redacted a contest to find out a worthy successor to DES and 3DES by enstablishing some minimal requirements for the algorithm:
+- Block length of 128 bit
+- Key length of 128,192 or 256 bits
