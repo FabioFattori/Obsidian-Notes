@@ -311,3 +311,5 @@ A concern is resolved but it comes with two problems/drawbacks, which are:
 NIST redacted a contest to find out a worthy successor to DES and 3DES by enstablishing some minimal requirements for the algorithm:
 - Block length of 128 bit
 - Key length of 128,192 or 256 bits
+- Computational efficiency and flexibility
+##### Practical Security issues
