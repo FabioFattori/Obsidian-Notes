@@ -293,3 +293,7 @@ Most commonly used symmetric algorithms.
 - Triple DES
 - AES (Advanced Encryption Standard)
 ![[Pasted image 20260612162727.png]]
+##### DES
+It's the most old algorithm and the most studied of them all.
+Two concerns:
+1. Possibility of cryptanalysis attack to 
