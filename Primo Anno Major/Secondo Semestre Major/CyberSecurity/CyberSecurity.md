@@ -494,4 +494,7 @@ FIPS define the following algorithms to generate/handle digital signatures:
 - RSA Digital Signature Algorithm
 - ECC Digital Signature Algorithm
 Each of them have the following generic structure:
+![[Pasted image 20260613011917.png]]
+> These technique ***DOES NOT*** provide confidentiality, even if the message is encrypted, cause the message can be disclosed by simply decrypt the message using sender public key.
 
+#### Public key certificates
