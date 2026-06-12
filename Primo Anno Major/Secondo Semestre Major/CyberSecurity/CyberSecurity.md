@@ -227,4 +227,11 @@ It may have various definition such as:
 or 
 > a security policy is a formal statement of rules and practices that specify or regulate how a system or organization provides security services to protect sensitive and critical system resources.
 
-The first one is more light and defines a different type of security policy, the second one on the other hand define a more strict and formal policy; anyways both of them are correct, highlighting how a security policies can have the same name but represent diffr
+The first one is more light and defines a different type of security policy, the second one on the other hand define a more strict and formal policy; anyways both of them are correct, highlighting how security policies can have the same name but represent different things.
+#### Development of a security policy
+During the development a security manager must consider the following factors:
+- The value of the asset being protected
+- The vulnerabilities of the system
+- The possible attacks that can be made to the asset (attack trees can be useful here)
+Also the manager must keep in mind the following trade-offs:
+- Eas
