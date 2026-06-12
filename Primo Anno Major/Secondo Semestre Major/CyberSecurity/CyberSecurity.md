@@ -285,3 +285,11 @@ There is two requirements to use secure Symmetric encrypt:
 	Not only that but some type of automatic analysis/recognition must be created to make the process bearable and sustainable for the attacker (the attacker cannot "check by hand" each possible result to see if the cyphertext is turned into plaintext or garble \[random chars\]).
 	So there's more to this attack that may seems, to supplement the brute-force approach, some degree of knowledge about the expected plaintext is needed, and some means of automatically distinguishing plaintext from garble is also needed.
 #### Symmetric block encryption algorithms
+Most commonly used symmetric algorithms.
+> They divide the plaintext input into fixed length blocks and then cypher them.
+
+3 major algorithms are provided:
+- DES (Data Encryption Standard)
+- Triple DES
+- AES (Advanced Encryption Standard)
+![[Pasted image 20260612162727.png]]
