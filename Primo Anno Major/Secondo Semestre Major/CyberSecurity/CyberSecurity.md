@@ -234,4 +234,8 @@ During the development a security manager must consider the following factors:
 - The vulnerabilities of the system
 - The possible attacks that can be made to the asset (attack trees can be useful here)
 Also the manager must keep in mind the following trade-offs:
-- Eas
+- Ease of use VS Security
+	Typically the introduction of security mechanisms in an application tend to lower the ease of use of said application, let's say for example the utilization of login + rechapta, the login requires that the user ***MUST*** remember the username/email and password and also the rechapta slows down the user to assert that he is not a bot.
+	Or again let's take for example virus-checking software reduces available processing power and introduces the possibility of system crashes or malfunctions due to improper interaction between the security software and the operating system.
+- Cost of security VS cost of failure and recovery
+	
