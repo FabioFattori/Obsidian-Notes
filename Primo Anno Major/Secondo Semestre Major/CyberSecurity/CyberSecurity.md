@@ -319,3 +319,9 @@ The simplest approach to do so is called Electronic CodeBook mode (ECB)
 Which:
 - first breaks down the message into n blocks (which are called ***P*** in the image)
 - then each of them are encrypted with the same key making the ***C*** blocks, whose can be sent in the network.
+
+> The problem is that ECB for lengthy messages is not secure, a cryptanalyst can recognize and exploit regularities in the plaintext to ease, therefor be able to, decrypt messages.
+
+To overcome these vulnerability for lengthy message a number of techniques were developed called ***nodes of operations***.
+#### Stream Cyphers 
+
