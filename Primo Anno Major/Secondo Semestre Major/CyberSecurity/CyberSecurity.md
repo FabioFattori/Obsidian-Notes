@@ -341,5 +341,11 @@ They are equal in terms of what they bring to the table, they shine in different
 > a hash function accepts a variable-size message M as input and produces a fixed-size message digest H(M) as output.
 
 There are many ways which a message can be authenticated using the hash function, here's a few:
-- 
-  ![[Pasted image 20260612191241.png]]
+- Symmetric encryption for message digest
+  ***IF*** it is assured that only the sender and the receiver shares the key, the authenticity is assured.![[Pasted image 20260612191241.png]]
+- public-key encryption for message digest
+  Which has ***two advantages***:
+  1. it provide a digital signature and message authentication
+  2. doesn't require any key transmission 
+  
+  ![[Pasted image 20260612191454.png]]
