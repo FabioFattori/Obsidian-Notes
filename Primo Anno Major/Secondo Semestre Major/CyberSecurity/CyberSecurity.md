@@ -417,4 +417,8 @@ A PKE scheme has the following structure and parts involved:
 - Decryption Algorithm.
 In general a communication is initialized and carried on as follows:
 1. Each user generates a pair of keys used for encryption and decryption of messages
-2. Each user now put the public key in a public register or accessible file to permit other to communicate with him, in fact the public 
+2. Each user now put the public key in a public register or accessible file to permit other to communicate with him, in fact the public key of a specific receiver ***NEEDS*** to be used to _encrypt_ the message so that the designated receiver can accept and understand said message.
+3. When the receiver receive the message he utilize his private key.
+   No other user can decrypt the message except the designated user.
+With these scheme confidentiality is provided as long as users keep their private key secure and local.
+At any time a user can change is 
