@@ -383,4 +383,8 @@ As with symmetric encryption, there are two approaches to attacking a secure has
 ![[Pasted image 20260612214822.png]]
 160 bits hash now days appears more likely to be broken by a brute force attack.
 ##### Secure Has function algorithms
-NIST initially released SHA-1 (Secure Hash Algorithm) 
+NIST initially released SHA-1 (Secure Hash Algorithm), weakness were found so they had to release a new version called SHA-2 which had 3 different algorithms: SHA-256, SHA-384 and SHA-512, the numbers represent the length of the output hash.
+SHA-1 and SHA-2 have essentially the same internal structures, so in 2015 NIST decided to release SHA-3 as an alternative to SHA-2 algorithms.
+##### Hash Applications 
+Hash can be used in:
+- messa
