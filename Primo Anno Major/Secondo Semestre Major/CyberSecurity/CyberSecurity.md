@@ -354,6 +354,7 @@ There are many ways which a message can be authenticated using the hash function
 
 Here's one:
 - Keyed hash function ![[Pasted image 20260612192535.png]]
-  This approach consist of the assumption that both parties have a secret value ***K*** which is incorporated in the hash function itself, the message transmitted is interpolated to this _K_ two times as shown in the picture above, this is done to make it more secure (if it was only at the start or at the en)
-  
-
+  This approach consist of the assumption that both parties have a secret value ***K*** which is incorporated in the hash function itself, the message transmitted is interpolated to this _K_ two times as shown in the picture above, this is done to make it more secure (if it was only at the start or at the end it was less secure).
+  >Because the secret key itself is not sent, it should not be possible for an attacker to modify an intercepted message.
+  > 	As long as the secret key remains secret, it should not be possible for an attacker to generate a false message.
+#### Secure Hash Function
