@@ -437,5 +437,10 @@ Of course there are some algorithms which are the best/usable for some applicati
 ![[Pasted image 20260612231228.png]]
 #### Requirements for PKE
 - It must be computationally easy for a party(user) to generate a pair of keys (_PU_ public and _PR_ private)
-- It must be computationally easy for a sender the generation of cyphertext to send to a receiver => E(_PU,M_)
-- 
+- It must be computationally easy for a sender the generation of cyphertext to send to a receiver => E(_PU,M_) = _C_
+- It must be computationally easy for a receiver decrypting a cyphertext with his private key to get the plain text message => _M_ = D(_PR, C_) = D(_PR_, E(_PU,M_))
+- It must be computationally infeasible for an attacker, known the _PU_, to derivate/extract the _PR_
+- It must be computationally infeasible for an attacker, known the _PU_ and the cyphertext, _C_, get the message _M_.
+Now we can add a sixth requirements which, although useful, is not needed for all the applications:
+- Either of the two related keys can be used for encryption, with the other used for decryption.
+  M= D[PUb, E(PRb, M)]= D[PRb, E(PUb, M)]
