@@ -360,4 +360,10 @@ Here's one:
 #### Secure Hash Function
 > A Hash Function (***H***) is a way to produce a fingerprint of a file, message or block of data.
 ##### Hash Function requirements
-To be useful
+To be useful a hash function must be:
+- applicable to a block of data of _any_ size
+- it must produce an output of a fixed length
+- it's execution must be relatively light so that it makes hardware and software implementation practical
+- for any implementation _h_, given a _x_ it is true that H(_x_) = _x_.
+  Those hashing function are called one-way.
+- For any given _x_, is computationally infeasible to find y != _x_ with H(_y_) = H(_x_)
