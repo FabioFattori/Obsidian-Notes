@@ -312,4 +312,10 @@ NIST redacted a contest to find out a worthy successor to DES and 3DES by enstab
 - Block length of 128 bit
 - Key length of 128,192 or 256 bits
 - Computational efficiency and flexibility
-##### Practical Security issues
+##### Practical Security issues (ECB)
+To encrypt the plaintext message it must be broken up into blocks first, and each of them must be encrypted alone.
+The simplest approach to do so is called Electronic CodeBook mode (ECB)
+![[Pasted image 20260612184115.png]]
+Which:
+- first breaks down the message into n blocks (which are called ***P*** in the image)
+- then each of them are encrypted with the same key making the ***C*** blocks, whose can be sent in the network.
