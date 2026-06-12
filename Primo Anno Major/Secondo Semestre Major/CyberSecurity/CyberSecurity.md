@@ -395,3 +395,4 @@ Hash can be used in:
 - Intrusion detection
 	  Storing the hash of a resource can tell us if that resource has been modified cause upon edit that same file will have a different hash than the stored one.
 	  This require at least a weak collision resistance.
+### Public Key Encryption
