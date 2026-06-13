@@ -523,5 +523,8 @@ The use of random numbers is common in security systems to generate keys.
 Those applications rise two requirements which can be incompatible from each other:
 - Randomness 
 	A number is random if it respects these two validation points:
-	- Uniform distribution => the frequency of appearance of each digit in the generated number should be approximatly the same
+	- Uniform distribution => the frequency of appearance of each digit in the generated number should be approximately the same
+	- Independence => No digits/value in the generate number can be inferred by the others digits/value.
+	There are many tests to verify that a number respects the uniform distribution, but there are none to verify independence.
+	The common strategy is to apply a number of tests such that the confidence is strong.
 - Unpredictability
