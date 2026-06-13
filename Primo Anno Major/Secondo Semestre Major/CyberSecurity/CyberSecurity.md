@@ -695,3 +695,17 @@ Here we discuss cards (che schifo porco il tuo dio)
 
 Memory cards usually store the security code, some card may have a chip which can store more than just the code.
 These type of cards can be used as a physical access control to rooms.
+> Memory card, in order to be used, must be presented with their associated password or PIN, which ensure more security than the password or PIN alone.
+
+***Drawbacks***
+- Requires special reader
+	This increases the cost of using the token and creates the requirement to maintain the security of the reader’s hardware and software
+- Token loss
+	A lost token temporarily prevents its owner from gaining ­ system access.
+	Thus, there is an administrative cost in replacing the lost token. 
+	In addition, if the token is found, stolen, or forged, then an adversary need only determine the PIN to gain unauthorized access
+- User dissatisfaction
+##### Smart cards
+A wide variety of devices qualify as smart tokens.
+These can be categorized along four dimensions that are not mutually exclusive:
+- Physical charachteristics 
