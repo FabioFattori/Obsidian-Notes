@@ -584,4 +584,5 @@ The ID, on the other hand, provides security as follows:
 	This attack consists in the attacker gaining some knowledge of the user and/or the security policy of the system whose can help him to infer the password of that specific user.
 	> The countermeasure is to enforce the password security policies to make the passwords hard to guess, for example a policy rule can be that passwords must be changed after a period of time from their initialization.
 - Workstation hijacking
-	
+	An attacker waits until a logged in workstation is inactive to jump in.
+	> A countermeasure to t
