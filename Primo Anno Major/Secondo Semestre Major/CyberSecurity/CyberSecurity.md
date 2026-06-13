@@ -539,4 +539,15 @@ For pseudorandom number we intend:
 ### Digital User Authentication Principles
 > Digital user authentication is the procedure of establishing confidence in a user identities that are presented electronically to an information system.
 
-The system, after a user identifies/authenticate himself, can determine which functions can the user do (based on the privilegies)
+The system, after a user identifies/authenticate himself, can determine which functions can the user do.
+#### Means of authentication
+There are four ways the user can utilize to authenticate himself, each of them can be used solely or combined to others:
+- Something that the individual knows
+	Like a password or pin that he  has to provide to the system.
+- Something the individual possess
+	Like electronic keycards and also smart cards:
+	This type of authenticator is called ***token***.
+- Something the individual is(static biometrics)
+	Authentication via retina or fingerprint.
+- Something the individual does(dynamic biometrics)
+	
