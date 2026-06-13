@@ -650,4 +650,11 @@ User are doing a better job at choosing their passwords, but even the attackers 
 
 > Often the hashes of the password and the IDs are in a separate file, which is called ***shadow password file***
 
-Even with all of these security measures the followin 
+Even with all of these security measures the following vulnerabilities remains:
+- Many systems, including most UNIX systems, are susceptible to unanticipated break-ins.
+	Which means that the attacker can exploit an application and break-in the system long enough to extract a copy of the password file
+- An accident of protection may render the password file visible
+- The utilization of the same password in two separate systems, if one is exploited also the other is in danger.
+- A lack of physical security
+	For example there is a recovery backup in a separated hard disk, an attacker can access it to make a copy of the password file
+- Instead of capturing the system password file, another approach to collecting user IDs and passwords is through sniffing network traffic.
