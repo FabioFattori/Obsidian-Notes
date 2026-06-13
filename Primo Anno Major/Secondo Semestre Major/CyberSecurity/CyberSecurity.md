@@ -580,4 +580,8 @@ The ID, on the other hand, provides security as follows:
 - Popular password attack
 	This one is also a brute force attack done to a number of IDs trying each popular password known to the attacker.
 	> The Countermeasure is to limit the user choice for the password to the not popular passwords known.
-- 
+- Password guessing against a specific user
+	This attack consists in the attacker gaining some knowledge of the user and/or the security policy of the system whose can help him to infer the password of that specific user.
+	> The countermeasure is to enforce the password security policies to make the passwords hard to guess, for example a policy rule can be that passwords must be changed after a period of time from their initialization.
+- Workstation hijacking
+	
