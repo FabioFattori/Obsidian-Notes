@@ -641,3 +641,6 @@ If no matches are found the program could try some variations of the words in th
 
 Attackers to mitigate this countermeasure started to guess common passwords, cause users, if given the choice, tend to use small passwords (from 6 to 8 char long) which can be easily guessed.
 ##### Modern approaches
+Now days the situation hasn't changes that much.
+User are doing a better job at choosing their passwords, but even the attackers have been doing some improvements:
+- The utilization of GPUs has boosted by a LOT the password cracking programs
