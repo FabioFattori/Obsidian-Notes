@@ -639,4 +639,5 @@ If no matches are found the program could try some variations of the words in th
 > FreeBSD and OpenBSD should be secure from this attack, windows was cracked in 14 seconds lol.
 > The countermeasure for this attack is to handle a longer sized salt and hash so that the attacker must use too much space.
 
-Attackers to mitigate this countermeasure started to guess common passwords, cause users, if given the choice, tend to 
+Attackers to mitigate this countermeasure started to guess common passwords, cause users, if given the choice, tend to use small passwords (from 6 to 8 char long) which can be easily guessed.
+##### Modern approaches
