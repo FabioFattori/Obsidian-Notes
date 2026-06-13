@@ -659,3 +659,5 @@ Even with all of these security measures the following vulnerabilities remains:
 	For example there is a recovery backup in a separated hard disk, an attacker can access it to make a copy of the password file
 - Instead of capturing the system password file, another approach to collecting user IDs and passwords is through sniffing network traffic.
 ##### password selection strategies
+Our goal is to eliminate guessable passwords while allowing the user to select a password that is memorable.
+The technique
