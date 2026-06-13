@@ -622,4 +622,6 @@ On login the provided ID is searched in the password file and the hashing functi
 	> 4. The DES is executed 25 times on the input
 	
 	Now this is shit, insecure and slow as fuck, but sometimes required (the scheme) for compatibility.
-- 
+
+Now the standard for UNIX systems is MD5:
+![[Pasted image 20260613233057.png]]
