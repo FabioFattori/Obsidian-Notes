@@ -708,4 +708,10 @@ These type of cards can be used as a physical access control to rooms.
 ##### Smart cards
 A wide variety of devices qualify as smart tokens.
 These can be categorized along four dimensions that are not mutually exclusive:
-- Physical charachteristics 
+- Physical characteristics => smart tokens comes with a microprocessor 
+- User interfaces => smart tokens comes with a manual interface, such as a keypad, or a miniscreen
+- Electronic interface 
+	Smart tokens requires an interface to communicate with the reader/writer device, it can have one or both of the following:
+	- Contactless 
+	- Contact
+- Authentication protocol => 
