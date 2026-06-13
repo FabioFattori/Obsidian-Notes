@@ -515,3 +515,7 @@ The creation of a certificate is initialized by a user, which presents his publi
 Here's an example of how the certificate is validated by users during communication:
 ![[Pasted image 20260613013854.png]]
 #### Digital Envelopes
+> This technique can be used to protect a message without needing to first arrange for sender and receiver to have the same secret key.
+
+![[Pasted image 20260613110513.png]]
+### Random and pseudorandom numbers 
