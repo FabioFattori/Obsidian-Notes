@@ -616,4 +616,7 @@ On login the provided ID is searched in the password file and the hashing functi
 ##### UNIX implementations (algorithms)
 - crypt(3)
 	> Is a encryption routine which utilizes the DES algorithm to encrypt a password of up to 8 char long.
-	> The password is converted into a 56 bit long value 
+	> 1. The password is converted into a 56 bit long value used as input to an encryption routine.
+	> 2. The salt is 12 bit long which is used to convert the DES encryption algorithm to a one-way hash function.
+	> 3. The modified DES algorithm is executed with a data input consisting of a 64-bit block of zeros.
+	> 4. 
