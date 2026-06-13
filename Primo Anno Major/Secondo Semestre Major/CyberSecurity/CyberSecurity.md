@@ -630,7 +630,7 @@ On login the provided ID is searched in the password file and the hashing functi
 	Also there is a cost value, which is a configuration parameter for the hashing algorithm, which determinate how slowdown the computation of the algorithm must be.
 	For administrators passwords this can come in handy.
 ##### Password Cracking of User-Chose Passwords
-###### Traditional approaches 
+###### Traditional Approaches
 The standard way to crack a password is to have a dictionary of possible passwords and the system password file.
 Foreach password in the dictionary it must be hashed with each available salt in the password file and then try to see if the result hash matched the file one.
 If no matches are found the program could try some variations of the words in the registry.
@@ -640,12 +640,12 @@ If no matches are found the program could try some variations of the words in th
 > The countermeasure for this attack is to handle a longer sized salt and hash so that the attacker must use too much space.
 
 Attackers to mitigate this countermeasure started to guess common passwords, cause users, if given the choice, tend to use small passwords (from 6 to 8 char long) which can be easily guessed.
-##### Modern approaches
+##### Modern Approaches
 Now days the situation hasn't changes that much.
 User are doing a better job at choosing their passwords, but even the attackers have been doing some improvements:
 - The utilization of GPUs has boosted by a LOT the password cracking programs
 - The a model for password generation using the probabilities of letters in natural language, in fact A probabilistic Context free grammar has been created boosting by a lot the password generation and cracking algorithms.
-#### Password file access control
+#### Password File Access Control
 > One way to prevent password attack is to deny the access to the password file except to a privileged user, so that the attacker must know the password of the designated user to gain access to the password file.
 
 > Often the hashes of the password and the IDs are in a separate file, which is called ***shadow password file***
@@ -658,7 +658,7 @@ Even with all of these security measures the following vulnerabilities remains:
 - A lack of physical security
 	For example there is a recovery backup in a separated hard disk, an attacker can access it to make a copy of the password file
 - Instead of capturing the system password file, another approach to collecting user IDs and passwords is through sniffing network traffic.
-##### password selection strategies
+##### Password Selection Strategies
 Our goal is to eliminate guessable passwords while allowing the user to select a password that is memorable.
 The techniques are as follows:
 - User Education
@@ -676,21 +676,21 @@ The techniques are as follows:
 	It's like the reactive password checking, except the fact that the check is done at the initialization of the password and not periodically.
 	> This enhance the entire procedure guiding the user to a more secure and memorable password.
 
-##### Rule enforcement
+##### Rule Enforcement
 ![[Pasted image 20260614011752.png]]
 The first one has been found as less guessable by password crackers and more easy to digest for users, but this rule alone is not sufficient for a strong secure policy, it's suggested to also utilize something like complex password policy technique.
-##### Password checker 
+##### Password Checker
 > Very shitty approach but okay
 
 It envolves in storing a dictionary of black listed words whose cannot be used in the password.
 - It is space consuming, VERY consuming
 - it is also time consuming, keep in mind that we are searching in an immense dictionary, and also if we want to check the combination of words the numbers of consumed space and time just go up.
-#### Token based authentication
+#### Token Based Authentication
 > Objects that a user possesses for the purpose of user authentication are called tokens.
 
 Here we discuss cards (che schifo porco il tuo dio)
 ![[Pasted image 20260614013426.png]]
-##### Memory cards
+##### Memory Cards
 > these type of cards function as mere data storage devices.
 
 Memory cards usually store the security code, some card may have a chip which can store more than just the code.
@@ -705,7 +705,7 @@ These type of cards can be used as a physical access control to rooms.
 	Thus, there is an administrative cost in replacing the lost token. 
 	In addition, if the token is found, stolen, or forged, then an adversary need only determine the PIN to gain unauthorized access
 - User dissatisfaction
-##### Smart cards
+##### Smart Cards
 A wide variety of devices qualify as smart tokens.
 These can be categorized along four dimensions that are not mutually exclusive:
 - Physical characteristics => smart tokens comes with a microprocessor 
@@ -724,4 +724,15 @@ These can be categorized along four dimensions that are not mutually exclusive:
 		   For example, public-key cryptography could be used and the token could encrypt the challenge string with the token’s private key.
 > Now, smart cards, this type of smart token has the appearance of a credit card, has an electronic interface, and may use any of the type of protocols just described.
 
-Smart cards has ROM 
+Smart cards has ROM, EEPROM and RAM
+![[Screenshot 2026-06-14 alle 01.46.56.png]]
+> Each time the card is inserted into a reader, a reset is initiated by the reader to initialize parameters such as clock value. 
+> After the reset function is performed, the card responds with answer to reset (ATR) message. This message defines the parameters and protocols that the card can use and the functions it can perform.
+> The terminal may be able to change the protocol used and other parameters via a protocol type selection (PTS) command.
+> The card’s PTS response confirms the protocols and parameters to be used.
+> The terminal and card can now execute the protocol to perform the desired application.
+
+### Biometric Authentication
+> A biometric authentication system authenticate a user via his static and dynamic biometrics, utilizing pattern recognition
+
+Compared to passwords and token is more expensive and also has yet to matu
