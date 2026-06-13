@@ -717,5 +717,11 @@ These can be categorized along four dimensions that are not mutually exclusive:
 - Authentication protocol
 	3 categories of protocols:
 	1. Static => the user must authenticate himself to the token, and then the token authenticate the user to the reader
-	2. Dynamic password generator
-	3. Challenge-Response
+	2. Dynamic password generator => the reader system and the token are syncronized and periodically they generate a random password which must be inserted manually or electronically 
+	3. Challenge-Response => 
+		   In this case, the computer system generates a challenge, such as a random string of numbers.
+		   The smart token generates a response based on the challenge.
+		   For example, public-key cryptography could be used and the token could encrypt the challenge string with the token’s private key.
+> Now, smart cards, this type of smart token has the appearance of a credit card, has an electronic interface, and may use any of the type of protocols just described.
+
+Smart cards has ROM 
