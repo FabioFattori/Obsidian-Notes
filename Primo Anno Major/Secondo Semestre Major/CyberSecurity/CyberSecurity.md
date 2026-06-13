@@ -596,7 +596,7 @@ The ID, on the other hand, provides security as follows:
 	If a password is communicated across a network to log on to a remote system, it is vulnerable to eavesdropping. Simple encryption will not fix this problem, because the encrypted password is, in effect, the password and can be observed and reused by an adversary.
 Even if the password system has all of this vulnerabilities it is still used cause smart cards cost more and are less practical to carry around and use expecialy if there is more than one.
 And further, the other mechanisms rather cost more or have major risks than the password has.
-##### The use of Hashed Passwords
+##### The Use of Hashed Passwords
 ***Initialization of the password***
 In operating systems (UNIX) the password is hashed with a salt value, which can be a pseudorandom number or a random number.
 Once the algorithm finishes execution (which is slow on purpose to prevent/thwart attacks) the hashed value and the plaintext salt value are saved in the password file:
@@ -610,10 +610,10 @@ On login the provided ID is searched in the password file and the hashing functi
 > 	2. It greatly increase the difficult of an offline dictionary attack
 > 	3. It becomes nearly impossible to find out whether a person with passwords on two or more systems has used the same password on all of them.
 
-###### Threads to the UNIX Scheme 
+###### Threads to the UNIX Scheme
 1. A password cracker (password guesser program) can be run on a logged in machine, the attacker could run thousands of tries with little resource consumption.
 2. If the attacker gains a copy of the password file, he can run the password cracker on his machine and with some reasonable time crack the password that he wants.
-##### UNIX implementations (algorithms)
+##### UNIX Implementations (algorithms)
 - crypt(3)
 	> Is a encryption routine which utilizes the DES algorithm to encrypt a password of up to 8 char long.
 	> 1. The password is converted into a 56 bit long value used as input to an encryption routine.
@@ -623,5 +623,10 @@ On login the provided ID is searched in the password file and the hashing functi
 	
 	Now this is shit, insecure and slow as fuck, but sometimes required (the scheme) for compatibility.
 
-Now the standard for UNIX systems is MD5:
+- Now the standard for UNIX systems is MD5:
 ![[Pasted image 20260613233057.png]]
+- Also there is Bcrypt:
+	![[Pasted image 20260613233247.png]]
+	Also there is a cost value, which is a configuration parameter for the hashing algorithm, which determinate how slowdown the computation of the algorithm must be.
+	For administrators passwords this can come in handy.
+##### Password Cracking of User-Chose Passwords
