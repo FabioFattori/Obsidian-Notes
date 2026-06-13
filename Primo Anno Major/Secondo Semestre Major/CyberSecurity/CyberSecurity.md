@@ -630,3 +630,8 @@ On login the provided ID is searched in the password file and the hashing functi
 	Also there is a cost value, which is a configuration parameter for the hashing algorithm, which determinate how slowdown the computation of the algorithm must be.
 	For administrators passwords this can come in handy.
 ##### Password Cracking of User-Chose Passwords
+###### Traditional approaches 
+The standard way to crack a password is to have a dictionary of possible passwords and the system password file.
+Foreach password in the dictionary it must be hashed with each available salt in the password file and then try to see if the result hash matched the file one.
+If no matches are found the program could try some variations of the words in the registry.
+> an alter
