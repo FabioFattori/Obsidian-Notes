@@ -665,5 +665,8 @@ The techniques are as follows:
 	Is the most unlikely to succeed based on the fact that the users may straight up ignore the guidelines, or it can be high turnover, whose make the technique useless.
 	Nonetheless, providing some knowledge to the users is a step forward to a more secure system.
 - Computer-generated passwords
+	Are generally the least accepted ways from the users, they could find the provided password difficult to memorize and then be tempted to write it down, making the entire process quite useless.
 - Reactive password checking
+	Consists in the run on to the system of a password cracker to discover the weak/guessable password, once one is discovered it is deleted and the associated user notified.
+	It has some drawbacks, the most important is the fact that is resource intensive to say the least, and the entire strategy is in a disadvantage compared to an at
 - Complex password policy
