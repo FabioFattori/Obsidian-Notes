@@ -634,4 +634,9 @@ On login the provided ID is searched in the password file and the hashing functi
 The standard way to crack a password is to have a dictionary of possible passwords and the system password file.
 Foreach password in the dictionary it must be hashed with each available salt in the password file and then try to see if the result hash matched the file one.
 If no matches are found the program could try some variations of the words in the registry.
-> an alter
+> an alternative way, called ***rainbow table***, is to create a file with each possible passwords, and foreach of them he generates an hash foreach possible salt value.
+> This approach is more space consuming than time consuming.
+> FreeBSD and OpenBSD should be secure from this attack, windows was cracked in 14 seconds lol.
+> The countermeasure for this attack is to handle a longer sized salt and hash so that the attacker must use too much space.
+
+Attackers to mitigate this countermeasure started to guess common passwords, cause users, if given the choice, tend to 
