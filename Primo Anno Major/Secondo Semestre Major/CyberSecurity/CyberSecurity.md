@@ -597,3 +597,10 @@ The ID, on the other hand, provides security as follows:
 Even if the password system has all of this vulnerabilities it is still used cause smart cards cost more and are less practical to carry around and use expecialy if there is more than one.
 And further, the other mechanisms rather cost more or have major risks than the password has.
 ##### The use of Hashed Passwords
+***Initialization of the password***
+In operating systems (UNIX) the password is hashed with a salt value, which can be a pseudorandom number or a random number.
+Once the algorithm finishes execution (which is slow on purpose to prevent/thwart attacks) the hashed value and the plaintext salt value are saved in the password file:
+![[Pasted image 20260613225555.png]]
+
+***Login attempt***
+On login the provided pas
