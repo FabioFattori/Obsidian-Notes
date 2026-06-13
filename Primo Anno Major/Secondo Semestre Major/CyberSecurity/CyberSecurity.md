@@ -568,3 +568,8 @@ The ID, on the other hand, provides security as follows:
 	Some systems may also have a guest user which have an even more restricted list of privileges, if it even have any.
 - The ID is used in a discretionary access control
 ##### The Vulnerability of Passwords
+> Typically, a system that uses password-based authentication maintains a password file indexed by user ID.
+> These file contain one-way hashes of the password.
+
+- Offline dictionary attack
+	
