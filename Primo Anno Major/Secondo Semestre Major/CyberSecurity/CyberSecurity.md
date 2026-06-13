@@ -555,4 +555,10 @@ There are four ways the user can utilize to authenticate himself, each of them c
 
 >  With respect to biometric authenticators, there are a variety of problems, including dealing with false positives and false negatives, user acceptance, cost, and convenience.
 
->Multifactor authentication is a term which is referred to the systems that combine two or more of the means of authentication, which makes them more secure  
+>Multifactor authentication is a term which is referred to the systems that combine two or more of the means of authentication, which makes them considered as more secure.
+
+#### Password based authentication
+Generically to authenticate a user an ID and a password is requested by the system.
+The password is compared to the stored password of the ID, if they match the user is logged in.
+The ID, on the other hand, provides security as follows:
+- 
