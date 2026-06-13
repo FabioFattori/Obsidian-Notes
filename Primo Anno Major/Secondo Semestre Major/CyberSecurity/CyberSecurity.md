@@ -519,3 +519,9 @@ Here's an example of how the certificate is validated by users during communicat
 
 ![[Pasted image 20260613110513.png]]
 ### Random and pseudorandom numbers 
+The use of random numbers is common in security systems to generate keys.
+Those applications rise two requirements which can be incompatible from each other:
+- Randomness 
+	A number is random if it respects these two validation points:
+	- Uniform distribution => the frequency of appearance of each digit in the generated number should be approximatly the same
+- Unpredictability
