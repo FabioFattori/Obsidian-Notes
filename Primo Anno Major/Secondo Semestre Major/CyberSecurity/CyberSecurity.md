@@ -613,3 +613,7 @@ On login the provided ID is searched in the password file and the hashing functi
 ###### Threads to the UNIX Scheme 
 1. A password cracker (password guesser program) can be run on a logged in machine, the attacker could run thousands of tries with little resource consumption.
 2. If the attacker gains a copy of the password file, he can run the password cracker on his machine and with some reasonable time crack the password that he wants.
+##### UNIX implementations (algorithms)
+- crypt(3)
+	> Is a encryption routine which utilizes the DES algorithm to encrypt a password of up to 8 char long.
+	> The password is converted into a 56 bit long value 
