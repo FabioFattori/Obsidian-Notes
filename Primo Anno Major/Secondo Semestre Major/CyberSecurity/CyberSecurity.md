@@ -714,4 +714,8 @@ These can be categorized along four dimensions that are not mutually exclusive:
 	Smart tokens requires an interface to communicate with the reader/writer device, it can have one or both of the following:
 	- Contactless 
 	- Contact
-- Authentication protocol => 
+- Authentication protocol
+	3 categories of protocols:
+	1. Static => the user must authenticate himself to the token, and then the token authenticate the user to the reader
+	2. Dynamic password generator
+	3. Challenge-Response
