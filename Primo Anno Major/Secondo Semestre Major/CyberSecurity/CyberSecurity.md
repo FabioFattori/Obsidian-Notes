@@ -682,4 +682,7 @@ The first one has been found as less guessable by password crackers and more eas
 ##### Password checker 
 > Very shitty approach but okay
 
-It envolves in storing a dictionary of black s
+It envolves in storing a dictionary of black listed words whose cannot be used in the password.
+- It is space consuming, VERY consuming
+- it is also time consuming, keep in mind that we are searching in an immense dictionary, and also if we want to check the combination of words the numbers of consumed space and time just go up.
+#### Token based authentication
