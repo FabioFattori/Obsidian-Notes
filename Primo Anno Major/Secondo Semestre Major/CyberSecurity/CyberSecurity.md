@@ -676,4 +676,10 @@ The techniques are as follows:
 	It's like the reactive password checking, except the fact that the check is done at the initialization of the password and not periodically.
 	> This enhance the entire procedure guiding the user to a more secure and memorable password.
 
-##### Rule enfor
+##### Rule enforcement
+![[Pasted image 20260614011752.png]]
+The first one has been found as less guessable by password crackers and more easy to digest for users, but this rule alone is not sufficient for a strong secure policy, it's suggested to also utilize something like complex password policy technique.
+##### Password checker 
+> Very shitty approach but okay
+
+It envolves in storing a dictionary of black s
