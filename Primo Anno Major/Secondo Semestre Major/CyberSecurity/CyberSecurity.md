@@ -540,7 +540,7 @@ For pseudorandom number we intend:
 > Digital user authentication is the procedure of establishing confidence in a user identities that are presented electronically to an information system.
 
 The system, after a user identifies/authenticate himself, can determine which functions can the user do.
-#### Means of authentication
+#### Means of Authentication
 There are four ways the user can utilize to authenticate himself, each of them can be used solely or combined to others:
 - Something that the individual knows
 	Like a password or pin that he  has to provide to the system.
@@ -557,8 +557,14 @@ There are four ways the user can utilize to authenticate himself, each of them c
 
 >Multifactor authentication is a term which is referred to the systems that combine two or more of the means of authentication, which makes them considered as more secure.
 
-#### Password based authentication
+#### Password Based Authentication
 Generically to authenticate a user an ID and a password is requested by the system.
 The password is compared to the stored password of the ID, if they match the user is logged in.
 The ID, on the other hand, provides security as follows:
-- 
+- The ID determines whether the user is authorized to gain access to a system.
+	In some systems, only those who already have an ID filed on the system are allowed to gain access.
+- The ID determines the privileges assigned to that ID
+	Some IDs maybe be superuser or admin which have more privileges than a normal user.
+	Some systems may also have a guest user which have an even more restricted list of privileges, if it even have any.
+- The ID is used in a discretionary access control
+##### The Vulnerability of Passwords
