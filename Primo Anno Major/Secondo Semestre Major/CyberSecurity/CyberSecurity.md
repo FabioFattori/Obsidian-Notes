@@ -585,4 +585,11 @@ The ID, on the other hand, provides security as follows:
 	> The countermeasure is to enforce the password security policies to make the passwords hard to guess, for example a policy rule can be that passwords must be changed after a period of time from their initialization.
 - Workstation hijacking
 	An attacker waits until a logged in workstation is inactive to jump in.
-	> A countermeasure to t
+	> A countermeasure is to logout the workstation after a period of time of inactivity.
+- Exploiting user mistakes
+	Such as not changing default passwords of systems.
+	> The countermeasure is to do some user training.
+- Exploiting multiple password use
+	If in a network multiple devices share the same password, the disclosure of it will cause a major damage to the system.
+	> The countermeasure could be to update the security policy to forbid the use of equal or similar already used passwords in different devices/applications
+- 
