@@ -619,4 +619,7 @@ On login the provided ID is searched in the password file and the hashing functi
 	> 1. The password is converted into a 56 bit long value used as input to an encryption routine.
 	> 2. The salt is 12 bit long which is used to convert the DES encryption algorithm to a one-way hash function.
 	> 3. The modified DES algorithm is executed with a data input consisting of a 64-bit block of zeros.
-	> 4. 
+	> 4. The DES is executed 25 times on the input
+	
+	Now this is shit, insecure and slow as fuck, but sometimes required (the scheme) for compatibility.
+- 
