@@ -646,3 +646,8 @@ User are doing a better job at choosing their passwords, but even the attackers 
 - The utilization of GPUs has boosted by a LOT the password cracking programs
 - The a model for password generation using the probabilities of letters in natural language, in fact A probabilistic Context free grammar has been created boosting by a lot the password generation and cracking algorithms.
 #### Password file access control
+> One way to prevent password attack is to deny the access to the password file except to a privileged user, so that the attacker must know the password of the designated user to gain access to the password file.
+
+> Often the hashes of the password and the IDs are in a separate file, which is called ***shadow password file***
+
+Even with all of these security measures the followin 
