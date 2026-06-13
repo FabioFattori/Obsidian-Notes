@@ -574,4 +574,10 @@ The ID, on the other hand, provides security as follows:
 - Offline dictionary attack
 	Typically the file is protected by strong access controls, but some hackers can bypass them and get the file, once the file is collected they compare each hash to hashes of common passwords and if they find a match they will have the ID and the password to gain access to the victim account.
 	> The countermeasures consists of more access controls to the file itself and/or intrusion detection mechanisms combined with a rapid reissuance of the passwords.
+- Specific account attack
+	It essentially is a brute force attack in which each possible password is tried until the correct one is discovered.
+	> The countermeasure is an account lockout mechanisms which take place after a number of tries, typically 5.
+- Popular password attack
+	This one is also a brute force attack done to a number of IDs trying each popular password known to the attacker.
+	> The Countermeasure is to limit the user choice for the password to the not popular passwords known.
 - 
