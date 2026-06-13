@@ -644,3 +644,5 @@ Attackers to mitigate this countermeasure started to guess common passwords, cau
 Now days the situation hasn't changes that much.
 User are doing a better job at choosing their passwords, but even the attackers have been doing some improvements:
 - The utilization of GPUs has boosted by a LOT the password cracking programs
+- The a model for password generation using the probabilities of letters in natural language, in fact A probabilistic Context free grammar has been created boosting by a lot the password generation and cracking algorithms.
+#### Password file access control
