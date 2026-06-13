@@ -603,4 +603,10 @@ Once the algorithm finishes execution (which is slow on purpose to prevent/thwar
 ![[Pasted image 20260613225555.png]]
 
 ***Login attempt***
-On login the provided pas
+On login the provided ID is searched in the password file and the hashing function is runned with salt retrieved from the password file and the provided password, if the hashes match the login is valid.
+![[Pasted image 20260613225805.png]]
+> The salt value serves these three purposes:
+> 	1. Just by looking at the password file, two equal password does not have the same hash.
+> 	2. It greatly increase the difficult of an offline dictionary attack
+> 	3. It becomes nearly impossible to find out whether a person with passwords on two or more systems has used the same password on all of them.
+
