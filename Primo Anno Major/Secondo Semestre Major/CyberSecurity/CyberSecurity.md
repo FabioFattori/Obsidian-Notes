@@ -660,4 +660,10 @@ Even with all of these security measures the following vulnerabilities remains:
 - Instead of capturing the system password file, another approach to collecting user IDs and passwords is through sniffing network traffic.
 ##### password selection strategies
 Our goal is to eliminate guessable passwords while allowing the user to select a password that is memorable.
-The technique
+The techniques are as follows:
+- User Education
+	Is the most unlikely to succeed based on the fact that the users may straight up ignore the guidelines, or it can be high turnover, whose make the technique useless.
+	Nonetheless, providing some knowledge to the users is a step forward to a more secure system.
+- Computer-generated passwords
+- Reactive password checking
+- Complex password policy
