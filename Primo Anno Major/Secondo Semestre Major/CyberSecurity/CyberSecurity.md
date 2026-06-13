@@ -594,3 +594,6 @@ The ID, on the other hand, provides security as follows:
 	> The countermeasure could be to update the security policy to forbid the use of equal or similar already used passwords in different devices/applications
 - Electronic monitoring
 	If a password is communicated across a network to log on to a remote system, it is vulnerable to eavesdropping. Simple encryption will not fix this problem, because the encrypted password is, in effect, the password and can be observed and reused by an adversary.
+Even if the password system has all of this vulnerabilities it is still used cause smart cards cost more and are less practical to carry around and use expecialy if there is more than one.
+And further, the other mechanisms rather cost more or have major risks than the password has.
+##### The use of Hashed Passwords
