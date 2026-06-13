@@ -550,4 +550,9 @@ There are four ways the user can utilize to authenticate himself, each of them c
 - Something the individual is(static biometrics)
 	Authentication via retina or fingerprint.
 - Something the individual does(dynamic biometrics)
-	
+	Something like handwriting recognition or also type rhythm.
+> All of these methods have problems like theft of a password or token by an attacker, or again the individual losses the password or token.
+
+>  With respect to biometric authenticators, there are a variety of problems, including dealing with false positives and false negatives, user acceptance, cost, and convenience.
+
+>Multifactor authentication is a term which is referred to the systems that combine two or more of the means of authentication, which makes them more secure  
