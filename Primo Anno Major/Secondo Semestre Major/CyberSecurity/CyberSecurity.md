@@ -592,4 +592,5 @@ The ID, on the other hand, provides security as follows:
 - Exploiting multiple password use
 	If in a network multiple devices share the same password, the disclosure of it will cause a major damage to the system.
 	> The countermeasure could be to update the security policy to forbid the use of equal or similar already used passwords in different devices/applications
-- 
+- Electronic monitoring
+	If a password is communicated across a network to log on to a remote system, it is vulnerable to eavesdropping. Simple encryption will not fix this problem, because the encrypted password is, in effect, the password and can be observed and reused by an adversary.
