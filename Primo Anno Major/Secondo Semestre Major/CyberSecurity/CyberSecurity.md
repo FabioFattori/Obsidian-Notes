@@ -668,5 +668,12 @@ The techniques are as follows:
 	Are generally the least accepted ways from the users, they could find the provided password difficult to memorize and then be tempted to write it down, making the entire process quite useless.
 - Reactive password checking
 	Consists in the run on to the system of a password cracker to discover the weak/guessable password, once one is discovered it is deleted and the associated user notified.
-	It has some drawbacks, the most important is the fact that is resource intensive to say the least, and the entire strategy is in a disadvantage compared to an at
+	It has some drawbacks:
+	>  the most important is the fact that is resource intensive to say the least, and the entire strategy is in a disadvantage compared to an attacker machine which can run at full CPU percentage the cracker.
+	
+	> And second, while doing the check, some guessable password remains in the system for an unspecified time, during which they can be cracked by an attacker.
 - Complex password policy
+	It's like the reactive password checking, except the fact that the check is done at the initialization of the password and not periodically.
+	> This enhance the entire procedure guiding the user to a more secure and memorable password.
+
+##### Rule enfor
