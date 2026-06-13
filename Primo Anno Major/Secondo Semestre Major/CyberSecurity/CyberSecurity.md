@@ -686,3 +686,12 @@ It envolves in storing a dictionary of black listed words whose cannot be used i
 - It is space consuming, VERY consuming
 - it is also time consuming, keep in mind that we are searching in an immense dictionary, and also if we want to check the combination of words the numbers of consumed space and time just go up.
 #### Token based authentication
+> Objects that a user possesses for the purpose of user authentication are called tokens.
+
+Here we discuss cards (che schifo porco il tuo dio)
+![[Pasted image 20260614013426.png]]
+##### Memory cards
+> these type of cards function as mere data storage devices.
+
+Memory cards usually store the security code, some card may have a chip which can store more than just the code.
+These type of cards can be used as a physical access control to rooms.
