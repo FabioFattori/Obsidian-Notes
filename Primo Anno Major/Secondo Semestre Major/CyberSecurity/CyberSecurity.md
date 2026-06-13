@@ -610,3 +610,6 @@ On login the provided ID is searched in the password file and the hashing functi
 > 	2. It greatly increase the difficult of an offline dictionary attack
 > 	3. It becomes nearly impossible to find out whether a person with passwords on two or more systems has used the same password on all of them.
 
+###### Threads to the UNIX Scheme 
+1. A password cracker (password guesser program) can be run on a logged in machine, the attacker could run thousands of tries with little resource consumption.
+2. If the attacker gains a copy of the password file, he can run the password cracker on his machine and with some reasonable time crack the password that he wants.
