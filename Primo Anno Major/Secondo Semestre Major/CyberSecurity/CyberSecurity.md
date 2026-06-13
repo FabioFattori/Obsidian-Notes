@@ -572,4 +572,6 @@ The ID, on the other hand, provides security as follows:
 > These file contain one-way hashes of the password.
 
 - Offline dictionary attack
-	
+	Typically the file is protected by strong access controls, but some hackers can bypass them and get the file, once the file is collected they compare each hash to hashes of common passwords and if they find a match they will have the ID and the password to gain access to the victim account.
+	> The countermeasures consists of more access controls to the file itself and/or intrusion detection mechanisms combined with a rapid reissuance of the passwords.
+- 
