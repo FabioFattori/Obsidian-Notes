@@ -903,5 +903,5 @@ Adversarial examples discovery shown and invalidated the following concepts abou
 This it's a big deals cause:
 - Blackbox attacks become feasible without knowing the target model
 - a Single attack can compromise multiple systems.
-- 
-##### 
+- This type of attack is not limited to neural networks
+##### No randomness
