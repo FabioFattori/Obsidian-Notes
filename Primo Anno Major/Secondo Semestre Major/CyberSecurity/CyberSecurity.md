@@ -797,3 +797,8 @@ Lol no, it actually creates more problems:
 ### Use cases
 #### Smart Transportation Systems
 ![[Pasted image 20260614171827.png]]
+##### Security objectives of the service
+![[Pasted image 20260614171923.png]]
+#### How objectives can be made in practice
+We have different options to choose from, each has pros and cont:
+1. 
