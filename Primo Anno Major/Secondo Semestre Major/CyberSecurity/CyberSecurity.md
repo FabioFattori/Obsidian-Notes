@@ -776,4 +776,11 @@ For ML:
 - No data poisoning => training data is not altered
 - model integrity => model parameters are not altered
 ### Confidentiality
+> Ensures that only the authorized entities can access and/or edit sensitive data
 
+### Privacy
+> is the right of individuals to exercise control on which and what data is collected, processed and shared
+
+![[Pasted image 20260614170723.png]]
+### Fairness
+> It means that information systems and algorithms must treat in an 
