@@ -918,4 +918,11 @@ Multiple factors contribute, no single explanation:
 ![[Pasted image 20260614214218.png]]
 ![[Pasted image 20260614214233.png]]
 ![[Screenshot 2026-06-14 alle 21.42.50.png]]
-#### Why transferability occurs 
+#### Why transferability occurs?
+![[Pasted image 20260614215032.png]]
+![[Pasted image 20260614215042.png]]
+![[Pasted image 20260614215105.png]]
+> XOR reveals the map of the perturbation applied to the image, it's not random noises but instead a symmetrical pattern.
+
+### Adversarial Training
+> An attacker doesn't need model access, he can train his surrogate model locally then generate and test AEs and they a
