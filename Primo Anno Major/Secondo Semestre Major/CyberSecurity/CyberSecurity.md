@@ -979,3 +979,14 @@ decompose task → invoke tools → synthesise results → generate response
 > The privacy guarantee of local inference breaks the moment the agent invokes an external tool
 
 #### The Paradox of privacy
+![[Pasted image 20260614235152.png]]
+
+So the question is:
+> Can small language models, operating under zero-shot privacy instructions, reliably filter sensitive patient information from tool invocations?
+
+#### The four stage pipeline
+![[Pasted image 20260614235330.png]]
+##### Stage 1
+> creates synthetic personas with contextual information and sensitive facts
+
+![[Pasted image 20260614235507.png]]
