@@ -990,3 +990,17 @@ So the question is:
 > creates synthetic personas with contextual information and sensitive facts
 
 ![[Pasted image 20260614235507.png]]
+##### Stage 2 
+> Attack prompt is An input query designed to elicit sensitive information from an agentic model by exploiting its tool-calling capabilities. 
+> Attacks may be intentional or unintentional.
+
+5 threats vectors:
+![[Pasted image 20260614235721.png]]
+##### Stage 3 
+> A tool is an external interface identified by a unique ID, a brief description, and a function signature (input parameters and output format)
+
+The tools can be:
+- safe <-> which are internal services
+- unsafe <-> tools than exit the local area of services
+##### Stage 4
+LLM-as-a-judge
