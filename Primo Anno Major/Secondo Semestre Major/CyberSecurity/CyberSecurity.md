@@ -944,5 +944,4 @@ This is the standard approach against attacks, but is not sufficient alone.
 ![[Pasted image 20260614221157.png]]
 #### LLMs 
 ![[Pasted image 20260614221351.png]]
-
-
+##### Few shot learning
