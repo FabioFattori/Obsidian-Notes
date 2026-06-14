@@ -1040,3 +1040,14 @@ Similar to nmap, this tool can be used to discover hosts connected to a network,
 > nmap has also some scripts which can tests and check for well known vulnerabilities in a discovered host softwares.
 
 An example of script that can be installed is the one that can do a brute force attack to an exposed service by trying a series of frequently used usernames and passwords.
+##### Privileges escalation
+If in the target machine there is a user with a weak password then the attacker will have an entrypoint to the system.
+The next step for the attacker is either:
+- try to exploit another device in the network
+- or a privilege escalation, which means trying to gain access to a user that has more privileges than the one he is exploited.
+
+###### Lynis tool 
+> The local privilege escalation is typically based on wrong configurations or unpatched software vulnerabilities.
+> Lynis does a scan searching for vulnerabilities of this kind.
+
+#### 
