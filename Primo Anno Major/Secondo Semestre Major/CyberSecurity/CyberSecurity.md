@@ -754,5 +754,15 @@ Compared to passwords and token is more expensive and also has yet to mature.
 	Same compliance here of the signature.
 ![[Pasted image 20260614021045.png]]
 ##### Operation of a biometric authentication system 
-At initialization a user must be enrolled, which means registered to the system
+At initialization a user must be ***enrolled***, which means registered to the system.
+> When the user present his biometric data (example fingerprint), the system collect that data and extract features (number or sets of numbers) that can be stored in the database representing this unique biometric characteristic which is called ***user template***.
 ![[Pasted image 20260614021424.png]]
+
+Once enrolled the system can identify or verify the user (based on the use case of the system)
+
+***Verification***
+Verification requires the PIN or password and the 
+![[Screenshot 2026-06-14 alle 02.18.30.png]]
+
+***Identification**
+Requires 
