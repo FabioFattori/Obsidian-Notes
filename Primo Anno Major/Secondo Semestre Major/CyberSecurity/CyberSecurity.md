@@ -1037,4 +1037,6 @@ Similar to nmap, this tool can be used to discover hosts connected to a network,
 > It essentially finds which services are listening to network sockets and are accessible from outside the specific host.
 
 ##### Vulnerabilities scanning 
-nmap has also some scr
+> nmap has also some scripts which can tests and check for well known vulnerabilities in a discovered host softwares.
+
+An example of script that can be installed is the one that can do a brute force attack to an exposed service by trying a series of frequently used usernames and passwords.
