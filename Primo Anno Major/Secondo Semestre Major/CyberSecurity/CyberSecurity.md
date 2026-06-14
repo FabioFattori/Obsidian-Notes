@@ -741,4 +741,14 @@ Compared to passwords and token is more expensive and also has yet to mature.
 	The most common approach is to define position and shapes of key elements of the face.
 	An alternative approach is to use an infrared camera to produce a face thermogram that correlates with the underlying vascular system in the human face.
 - Fingerprints
-	
+	In practice, automated fingerprint recognition and matching system extract a number of features from the fingerprint for storage as a numerical surrogate for the full fingerprint pattern.
+- Hand geometry 
+	This system memorize the geometry of the hand such has shape and length of the fingers
+- Retinal pattern
+	The pattern formed by veins beneath the retinal surface is unique and therefore suitable for identification
+- Iris
+	Same as the retinal but with the iris.
+- Signature
+	A hand signature is unique, the complexity here is that each signature from the same individual has some difference from each other
+- Voice
+	Same compliance here of the signature.
