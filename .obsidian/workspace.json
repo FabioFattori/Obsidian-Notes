@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
-          },
-          {
-            "id": "c3f3d2bda7f43a24",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614220937.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260614220937"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +185,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "ed375c4ed650da8e",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614220937.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615001008.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000956.png",

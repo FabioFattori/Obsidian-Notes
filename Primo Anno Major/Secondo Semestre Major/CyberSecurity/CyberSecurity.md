@@ -1021,3 +1021,8 @@ Tested prompt systems:
 
 > ***Language models are neither secure nor private***
 
+## Tutorial 1
+Every host that is connected to a network has an exposed attack surface
+#### NMAP tool
+> The network mapper (nmap) is an open-source tool that has been specifically designed for discovering the host/devices that are connected to a specific network and to probe their exposed attack surface.
+
