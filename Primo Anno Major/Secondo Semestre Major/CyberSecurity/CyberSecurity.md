@@ -842,3 +842,5 @@ We have different options to choose from, each has pros and cons:
 	
 	***But how is data persistence provided?***
 	![[Pasted image 20260614174341.png]]
+##### What really matters
+![[Pasted image 20260614174522.png]]
