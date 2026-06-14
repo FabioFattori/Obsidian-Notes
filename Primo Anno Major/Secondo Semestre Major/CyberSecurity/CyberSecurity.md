@@ -809,4 +809,14 @@ We have different options to choose from, each has pros and cons:
 		Data sovereignty is maintained
 	- cons
 		Users devices must be always reachable and it's required from them more processing power, storage and communication capabilities
-3. 
+3. use a ledger(registro) to register data
+	- pros
+		rather simple implementation which keeps data integrity and traceability 
+	- cons 
+		latency, approach only available with small sized data 
+4. use decentralized file systems 
+	Need to 
+	- ensure data integrity
+	- control who has access to data 
+	- ensure data persistence 
+	> an usable approach can be 
