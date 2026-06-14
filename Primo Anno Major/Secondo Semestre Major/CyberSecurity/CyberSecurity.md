@@ -941,5 +941,8 @@ This is the standard approach against attacks, but is not sufficient alone.
 ### Privacy Leakage & Security in Generative AI and LLM
 #### Privacy in AI Systems: Threat Models and Regulations
 ![[Pasted image 20260614220937.png]]
-###### Regulamentations 
+![[Pasted image 20260614221157.png]]
+#### LLMs 
+![[Pasted image 20260614221351.png]]
+
 
