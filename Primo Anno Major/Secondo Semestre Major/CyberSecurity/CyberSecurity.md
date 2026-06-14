@@ -893,5 +893,15 @@ Adversarial examples discovery shown and invalidated the following concepts abou
   ![[Pasted image 20260614194252.png]]
 ### FGSM: Fast Gradient Sign Method
 ![[Pasted image 20260614194456.png]]
+![[Pasted image 20260614194758.png]]
 ![[Pasted image 20260614194547.png]]
-> Regarding computational cost this
+> Regarding computational cost this method is extremely efficient cause it's a single gradient computation
+
+##### Transferability
+> Adversarial examples crafted on one model often fool other models
+
+This it's a big deals cause:
+- Blackbox attacks become feasible without knowing the target model
+- a Single attack can compromise multiple systems.
+- 
+##### 
