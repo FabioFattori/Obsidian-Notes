@@ -953,3 +953,12 @@ This is the standard approach against attacks, but is not sufficient alone.
 
 for harmless we mean that if you ask him how to build a bomb, he will not respond.
 for helpful we intend that he responds to you with useful and correct answers.
+![[Pasted image 20260614233639.png]]
+#### Agentic AI systems
+> An agent is an autonomous entity capable of perceiving its environment and acting upon it in order to achieve its objectives
+
+![[Pasted image 20260614233802.png]]
+decompose task → invoke tools → synthesise results → generate response
+#### The ReAct architecture 
+![[Pasted image 20260614234036.png]]
+![[Pasted image 20260614234049.png]]
