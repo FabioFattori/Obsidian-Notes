@@ -962,3 +962,11 @@ decompose task → invoke tools → synthesise results → generate response
 #### The ReAct architecture 
 ![[Pasted image 20260614234036.png]]
 ![[Pasted image 20260614234049.png]]
+> Each service tool invocation may contain all the data of the context window of the agent, for this reason it is considered what follows:
+> Transmitting patient data to a third-party search API — even inadvertently — may constitute a reportable data breach under both GDPR and HIPAA
+
+#### Differential Privacy
+![[Pasted image 20260614234438.png]]
+![[Pasted image 20260614234523.png]]
+![[Pasted image 20260614234538.png]]
+### Small Language Models in Healthcare 
