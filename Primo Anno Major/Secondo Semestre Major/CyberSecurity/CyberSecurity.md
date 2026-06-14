@@ -853,3 +853,18 @@ We have different options to choose from, each has pros and cons:
 ![[Screenshot 2026-06-14 alle 17.55.37.png]]
 ### Adversarial example 
 ![[Pasted image 20260614175907.png]]
+> Adversarial example are test-time inputs intentionally crafted to cause a neural network to make incorrect predictions while appearing natural to human observers.
+
+Features:
+- Modified by a legit input of the model
+- Not seeable from a human perspective 
+- Transferable across different models 
+- Efficient to compute
+Adversarial examples make ML-enabled systems unavailable or unreliable in critical applications.
+##### Malware detection evasion
+> Attack: Add bytes to Android APK to evade detection 
+   Result: Malicious app classified as benign 
+   Impact: System compromise, data theft 
+   Key Metric: 85% attack success
+
+![[Pasted image 20260614180225.png]]
