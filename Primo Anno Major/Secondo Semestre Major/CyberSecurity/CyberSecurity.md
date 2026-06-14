@@ -732,7 +732,13 @@ Smart cards has ROM, EEPROM and RAM
 > The card’s PTS response confirms the protocols and parameters to be used.
 > The terminal and card can now execute the protocol to perform the desired application.
 
-### Biometric Authentication
+#### Biometric Authentication
 > A biometric authentication system authenticate a user via his static and dynamic biometrics, utilizing pattern recognition
 
-Compared to passwords and token is more expensive and also has yet to matu
+Compared to passwords and token is more expensive and also has yet to mature.
+##### Physical Characteristics Used in Biometric Applications
+- Facial characteristics 
+	The most common approach is to define position and shapes of key elements of the face.
+	An alternative approach is to use an infrared camera to produce a face thermogram that correlates with the underlying vascular system in the human face.
+- Fingerprints
+	
