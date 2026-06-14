@@ -819,4 +819,15 @@ We have different options to choose from, each has pros and cons:
 	- ensure data integrity
 	- control who has access to data 
 	- ensure data persistence 
-	> an usable approach can be 
+	> an usable approach can be the utilization of Content based addressing instead of location based addressing, so the data are organized in separate locations based on the content of the data itself.
+
+	 Hash pointers (DLTs) are used, this approach now has the following pros:
+	 - Fast data upload to the DFS
+	 - is Possible to remove/edit data
+	 - latency is much reduced by the utilization of DLTs to upload hashes.
+	***But how do we provide access control?***
+	> by utilizing DFS (Decentralized File System) and encryption
+	
+	***But how is data decrypted?***
+	two possibilities:
+	1. Central authorizat
