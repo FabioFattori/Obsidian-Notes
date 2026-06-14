@@ -913,4 +913,5 @@ Multiple factors contribute, no single explanation:
 - Geometry of decision boundaries
 - Non-robust feature learning => models learns from any features present in the image and AEs are seen as features to the model
 - High-dimensional optimization => AEs exists in low density regions of the data, which the model during training has never seen 
-- Distribution shift
+- Distribution shift => AEs are a shift in data distribution compared to the normal data given to the model
+#### PGD (Projection Gradient Descent) Attack
