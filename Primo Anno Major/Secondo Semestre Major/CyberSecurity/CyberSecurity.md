@@ -752,3 +752,7 @@ Compared to passwords and token is more expensive and also has yet to mature.
 	A hand signature is unique, the complexity here is that each signature from the same individual has some difference from each other
 - Voice
 	Same compliance here of the signature.
+![[Pasted image 20260614021045.png]]
+##### Operation of a biometric authentication system 
+At initialization a user must be enrolled, which means registered to the system
+![[Pasted image 20260614021424.png]]
