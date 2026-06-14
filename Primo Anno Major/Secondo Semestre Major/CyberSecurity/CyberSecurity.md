@@ -887,4 +887,11 @@ So Robustness ≠ Accuracy.
 #### Adversary Goal 
 ![[Pasted image 20260614193818.png]]
 ##### Misconceptions about NNs
-Adver
+Adversarial examples discovery shown and invalidated the following concepts about NNs:
+- Individual neurons learn to detect specific semantic features
+- Small input perturbations produce small changes in predictions
+  ![[Pasted image 20260614194252.png]]
+### FGSM: Fast Gradient Sign Method
+![[Pasted image 20260614194456.png]]
+![[Pasted image 20260614194547.png]]
+> Regarding computational cost this
