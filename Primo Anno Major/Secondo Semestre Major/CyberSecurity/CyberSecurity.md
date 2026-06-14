@@ -783,4 +783,13 @@ For ML:
 
 ![[Pasted image 20260614170723.png]]
 ### Fairness
-> It means that information systems and algorithms must treat in an 
+> It means that information systems and algorithms must treat in an equal way all users and data subjects, preventing discriminatory outcomes and ensuring balanced resource allocation across the network.
+
+![[Pasted image 20260614170939.png]]
+### The trust problem
+Systems cannot be automatically trusted, therefor they must be evaluated along two axes:
+![[Pasted image 20260614171139.png]]
+![[Pasted image 20260614171313.png]]
+
+
+
