@@ -945,3 +945,11 @@ This is the standard approach against attacks, but is not sufficient alone.
 #### LLMs 
 ![[Pasted image 20260614221351.png]]
 ##### Few shot learning
+![[Pasted image 20260614222500.png]]
+##### Zero shot privacy
+![[Pasted image 20260614222700.png]]
+#### Frase della vita porcodio
+> An aligned language model is helpful and harmless
+
+for harmless we mean that if you ask him how to build a bomb, he will not respond.
+for helpful we intend that he responds to you with useful and correct answers.
