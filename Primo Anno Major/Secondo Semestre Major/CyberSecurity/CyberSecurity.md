@@ -925,4 +925,11 @@ Multiple factors contribute, no single explanation:
 > XOR reveals the map of the perturbation applied to the image, it's not random noises but instead a symmetrical pattern.
 
 ### Adversarial Training
-> An attacker doesn't need model access, he can train his surrogate model locally then generate and test AEs and they a
+> An attacker doesn't need model access, he can train his surrogate model locally then generate and test AEs and they likely will work thanks to transferability
+
+![[Pasted image 20260614215607.png]]
+> This makes the model more robust to the attack, but has a drawback: some of the accuracy on benign data is lost to gain robustness
+
+This is the standard approach against attacks, but is not sufficient alone.
+#### Randomized smoothing
+![[Pasted image 20260614215928.png]]
