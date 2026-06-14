@@ -800,5 +800,13 @@ Lol no, it actually creates more problems:
 ##### Security objectives of the service
 ![[Pasted image 20260614171923.png]]
 #### How objectives can be made in practice
-We have different options to choose from, each has pros and cont:
-1. 
+We have different options to choose from, each has pros and cons:
+1. Central entity maintains crowdsourced data
+	- cons
+		  users loss data sovereignty, in fact the data controller keeps all the users data, it can alter in any way it likes the data and users must rely on it.
+2. Keep data locally and distribute on request
+	- pros
+		Data sovereignty is maintained
+	- cons
+		Users devices must be always reachable and it's required from them more processing power, storage and communication capabilities
+3. 
