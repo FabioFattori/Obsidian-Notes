@@ -1003,4 +1003,14 @@ The tools can be:
 - safe <-> which are internal services
 - unsafe <-> tools than exit the local area of services
 ##### Stage 4
-LLM-as-a-judge
+LLM-as-a-judge approach.
+> A large, high-accuracy LLM receives the sensitive facts extracted during persona generation and the actual tool call input produced by the agent, and determines whether leakage occurred.
+
+###### Attack@1 metric
+> it measures the probability that at least one generation results in a privacy violation
+![[Pasted image 20260615000246.png]]
+
+#### The prof has run some tests (who gives a shit) but something was discovered
+![[Pasted image 20260615000515.png]]
+Tested prompt systems:
+![[Pasted image 20260615000554.png]]
