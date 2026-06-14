@@ -915,3 +915,7 @@ Multiple factors contribute, no single explanation:
 - High-dimensional optimization => AEs exists in low density regions of the data, which the model during training has never seen 
 - Distribution shift => AEs are a shift in data distribution compared to the normal data given to the model
 #### PGD (Projection Gradient Descent) Attack
+![[Pasted image 20260614214218.png]]
+![[Pasted image 20260614214233.png]]
+![[Screenshot 2026-06-14 alle 21.42.50.png]]
+#### Why transferability occurs 
