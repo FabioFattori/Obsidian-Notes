@@ -782,6 +782,7 @@ For ML:
 > is the right of individuals to exercise control on which and what data is collected, processed and shared
 
 ![[Pasted image 20260614170723.png]]
+![[Pasted image 20260614175030.png]]
 ### Fairness
 > It means that information systems and algorithms must treat in an equal way all users and data subjects, preventing discriminatory outcomes and ensuring balanced resource allocation across the network.
 
@@ -794,7 +795,7 @@ Systems cannot be automatically trusted, therefor they must be evaluated along t
 ***Does AI improve the current situation in terms of confidentiality, privacy ecc...?***
 Lol no, it actually creates more problems:
 ![[Pasted image 20260614171709.png]]
-### Use cases
+### Use cases (this shit can possibly be skipped)
 #### Smart Transportation Systems
 ![[Pasted image 20260614171827.png]]
 ##### Security objectives of the service
@@ -844,3 +845,5 @@ We have different options to choose from, each has pros and cons:
 	![[Pasted image 20260614174341.png]]
 ##### What really matters
 ![[Pasted image 20260614174522.png]]
+### Problems and techniques identified so far
+![[Pasted image 20260614175259.png]]
