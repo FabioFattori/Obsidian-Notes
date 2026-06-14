@@ -767,3 +767,13 @@ Verification requires the PIN or password and the biometric data
 ***Identification**
 Requires only the biometric data
 ![[Pasted image 20260614022005.png]]
+
+## Second module - AI Security
+### Integrity
+> Data integrity means that informations are not changed or deleted in an unauthorized or unwanted way through out their lifecycle
+
+For ML:
+- No data poisoning => training data is not altered
+- model integrity => model parameters are not altered
+### Confidentiality
+
