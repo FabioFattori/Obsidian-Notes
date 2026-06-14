@@ -884,4 +884,7 @@ So Robustness ≠ Accuracy.
 ![[Pasted image 20260614193517.png]]
 ![[Pasted image 20260614193535.png]]
 ![[Pasted image 20260614193552.png]]
-#### Goal 
+#### Adversary Goal 
+![[Pasted image 20260614193818.png]]
+##### Misconceptions about NNs
+Adver
