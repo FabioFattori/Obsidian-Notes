@@ -830,4 +830,15 @@ We have different options to choose from, each has pros and cons:
 	
 	***But how is data decrypted?***
 	two possibilities:
-	1. Central authorizat
+	1. Central authorization server that provides keys to decrypt 
+	2. secure-by-contract through a private ledger 
+		![[Pasted image 20260614174028.png]]
+		which has the following pros:
+		- decentralization of keys custidy
+			- no single point of failure
+			- mitigate privacy leakage
+		- transparency
+			auditability of access permissions to data
+	
+	***But how is data persistence provided?***
+	![[Pasted image 20260614174341.png]]
