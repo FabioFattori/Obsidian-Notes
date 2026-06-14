@@ -1023,31 +1023,31 @@ Tested prompt systems:
 
 ## Tutorial 1
 Every host that is connected to a network has an exposed attack surface
-#### NMAP tool
+### NMAP Tool
 > The network mapper (nmap) is an open-source tool that has been specifically designed for discovering the host/devices that are connected to a specific network and to probe their exposed attack surface.
 
 With it we can discover hosts connected to a networking by sending packets with a specific protocol like ICMP, TCP or UDP 
-##### netdiscover tool 
+#### Netdiscover Tool
 Similar to nmap, this tool can be used to discover hosts connected to a network, but this tool in particular can discover them in a ***passive*** way.
 > It doesn't send packets with a protocol, but it start listening to the network traffic.
 > This can be done cause many protocols, like DHCP, are based on broadcast.
 
-##### port scanner
+#### Port Scanner
 > nmap can be used to scan ports of a discovered host.
 > It essentially finds which services are listening to network sockets and are accessible from outside the specific host.
 
-##### Vulnerabilities scanning 
+#### Vulnerabilities Scanning
 > nmap has also some scripts which can tests and check for well known vulnerabilities in a discovered host softwares.
 
 An example of script that can be installed is the one that can do a brute force attack to an exposed service by trying a series of frequently used usernames and passwords.
-##### Privileges escalation
+#### Privileges Escalation
 If in the target machine there is a user with a weak password then the attacker will have an entrypoint to the system.
 The next step for the attacker is either:
 - try to exploit another device in the network
 - or a privilege escalation, which means trying to gain access to a user that has more privileges than the one he is exploited.
 
-###### Lynis tool 
+##### Lynis Tool
 > The local privilege escalation is typically based on wrong configurations or unpatched software vulnerabilities.
 > Lynis does a scan searching for vulnerabilities of this kind.
 
-#### 
+## Tutorial 2
