@@ -881,3 +881,7 @@ Adversarial examples make ML-enabled systems unavailable or unreliable in critic
 This reveals that ML models don't learn human-like features but they rely on non-robust patterns.
 So Robustness ≠ Accuracy.
 ### Type of adversarial attacks 
+![[Pasted image 20260614193517.png]]
+![[Pasted image 20260614193535.png]]
+![[Pasted image 20260614193552.png]]
+#### Goal 
