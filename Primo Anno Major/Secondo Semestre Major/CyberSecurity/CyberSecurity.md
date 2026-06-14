@@ -905,3 +905,7 @@ This it's a big deals cause:
 - a Single attack can compromise multiple systems.
 - This type of attack is not limited to neural networks
 ##### No randomness
+![[Pasted image 20260614212730.png]]
+> The vulnerability is NOT random noise tolerance, but exploitation of specific decision boundary orientations
+
+#### Why AE exists?
