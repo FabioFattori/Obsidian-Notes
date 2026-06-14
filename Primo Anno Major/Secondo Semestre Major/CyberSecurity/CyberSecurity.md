@@ -868,3 +868,7 @@ Adversarial examples make ML-enabled systems unavailable or unreliable in critic
    Key Metric: 85% attack success
 
 ![[Pasted image 20260614180225.png]]
+##### Speech (Mis)Recognition
+![[Pasted image 20260614180533.png]]
+##### Adversarial Patch to bounding box
+![[Pasted image 20260614180607.png]]
