@@ -933,3 +933,10 @@ Multiple factors contribute, no single explanation:
 This is the standard approach against attacks, but is not sufficient alone.
 #### Randomized smoothing
 ![[Pasted image 20260614215928.png]]
+![[Pasted image 20260614220053.png]]
+![[Pasted image 20260614220151.png]]
+> The training is done with noised data 
+
+![[Pasted image 20260614220415.png]]
+
+
