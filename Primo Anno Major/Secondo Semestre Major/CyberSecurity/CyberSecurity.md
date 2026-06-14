@@ -1026,3 +1026,15 @@ Every host that is connected to a network has an exposed attack surface
 #### NMAP tool
 > The network mapper (nmap) is an open-source tool that has been specifically designed for discovering the host/devices that are connected to a specific network and to probe their exposed attack surface.
 
+With it we can discover hosts connected to a networking by sending packets with a specific protocol like ICMP, TCP or UDP 
+##### netdiscover tool 
+Similar to nmap, this tool can be used to discover hosts connected to a network, but this tool in particular can discover them in a ***passive*** way.
+> It doesn't send packets with a protocol, but it start listening to the network traffic.
+> This can be done cause many protocols, like DHCP, are based on broadcast.
+
+##### port scanner
+> nmap can be used to scan ports of a discovered host.
+> It essentially finds which services are listening to network sockets and are accessible from outside the specific host.
+
+##### Vulnerabilities scanning 
+nmap has also some scr
