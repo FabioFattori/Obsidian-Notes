@@ -872,3 +872,12 @@ Adversarial examples make ML-enabled systems unavailable or unreliable in critic
 ![[Pasted image 20260614180533.png]]
 ##### Adversarial Patch to bounding box
 ![[Pasted image 20260614180607.png]]
+#### Adversarial Attacks: Domains and Impacts
+![[Pasted image 20260614181020.png]]
+> Attackers with direct or indirect model access can deliberately break system safety guarantees
+
+##### Why this attack matter
+![[Pasted image 20260614181211.png]]
+This reveals that ML models don't learn human-like features but they rely on non-robust patterns.
+So Robustness ≠ Accuracy.
+### Type of adversarial attacks 
