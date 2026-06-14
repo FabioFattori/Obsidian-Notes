@@ -942,24 +942,24 @@ This is the standard approach against attacks, but is not sufficient alone.
 #### Privacy in AI Systems: Threat Models and Regulations
 ![[Pasted image 20260614220937.png]]
 ![[Pasted image 20260614221157.png]]
-#### LLMs 
+#### LLMs
 ![[Pasted image 20260614221351.png]]
-##### Few shot learning
+##### Few Shot Learning
 ![[Pasted image 20260614222500.png]]
-##### Zero shot privacy
+##### Zero Shot Privacy
 ![[Pasted image 20260614222700.png]]
-#### Frase della vita porcodio
+#### Frase Della Vita Porcodio
 > An aligned language model is helpful and harmless
 
 for harmless we mean that if you ask him how to build a bomb, he will not respond.
 for helpful we intend that he responds to you with useful and correct answers.
 ![[Pasted image 20260614233639.png]]
-#### Agentic AI systems
+#### Agentic AI Systems
 > An agent is an autonomous entity capable of perceiving its environment and acting upon it in order to achieve its objectives
 
 ![[Pasted image 20260614233802.png]]
 decompose task → invoke tools → synthesise results → generate response
-#### The ReAct architecture 
+#### The ReAct Architecture
 ![[Pasted image 20260614234036.png]]
 ![[Pasted image 20260614234049.png]]
 > Each service tool invocation may contain all the data of the context window of the agent, for this reason it is considered what follows:
@@ -969,7 +969,7 @@ decompose task → invoke tools → synthesise results → generate response
 ![[Pasted image 20260614234438.png]]
 ![[Pasted image 20260614234523.png]]
 ![[Pasted image 20260614234538.png]]
-### Small Language Models in Healthcare 
+### Small Language Models in Healthcare
 > SLMs are Language models with parameter counts typically ranging from ~100M to ~7B, deployable on consumer-grade hardware
 
 ![[Pasted image 20260614234655.png]]
@@ -978,25 +978,25 @@ decompose task → invoke tools → synthesise results → generate response
 ![[Pasted image 20260614234737.png]]
 > The privacy guarantee of local inference breaks the moment the agent invokes an external tool
 
-#### The Paradox of privacy
+#### The Paradox of Privacy
 ![[Pasted image 20260614235152.png]]
 
 So the question is:
 > Can small language models, operating under zero-shot privacy instructions, reliably filter sensitive patient information from tool invocations?
 
-#### The four stage pipeline
+#### The Four Stage Pipeline
 ![[Pasted image 20260614235330.png]]
 ##### Stage 1
 > creates synthetic personas with contextual information and sensitive facts
 
 ![[Pasted image 20260614235507.png]]
-##### Stage 2 
+##### Stage 2
 > Attack prompt is An input query designed to elicit sensitive information from an agentic model by exploiting its tool-calling capabilities. 
 > Attacks may be intentional or unintentional.
 
 5 threats vectors:
 ![[Pasted image 20260614235721.png]]
-##### Stage 3 
+##### Stage 3
 > A tool is an external interface identified by a unique ID, a brief description, and a function signature (input parameters and output format)
 
 The tools can be:
@@ -1006,11 +1006,18 @@ The tools can be:
 LLM-as-a-judge approach.
 > A large, high-accuracy LLM receives the sensitive facts extracted during persona generation and the actual tool call input produced by the agent, and determines whether leakage occurred.
 
-###### Attack@1 metric
+###### Attack@1 Metric
 > it measures the probability that at least one generation results in a privacy violation
 ![[Pasted image 20260615000246.png]]
 
-#### The prof has run some tests (who gives a shit) but something was discovered
+#### The Prof Has Run Some Tests (who Gives a shit) but Something Was Discovered
 ![[Pasted image 20260615000515.png]]
 Tested prompt systems:
 ![[Pasted image 20260615000554.png]]
+![[Pasted image 20260615000656.png]]
+#### Quindi per Concludere Dio Cane
+![[Pasted image 20260615000948.png]]
+![[Pasted image 20260615000956.png]]![[Pasted image 20260615001008.png]]
+
+> ***Language models are neither secure nor private***
+

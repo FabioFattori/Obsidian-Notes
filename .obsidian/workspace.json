@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
+          },
+          {
+            "id": "c3f3d2bda7f43a24",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614220937.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260614220937"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -186,20 +198,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed375c4ed650da8e",
+  "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
-    "Pasted image 20260615000554.png",
-    "Pasted image 20260615000515.png",
-    "Pasted image 20260615000246.png",
-    "Pasted image 20260614235721.png",
-    "Pasted image 20260614235507.png",
-    "Pasted image 20260614235330.png",
-    "Pasted image 20260614235152.png",
-    "Pasted image 20260614234737.png",
-    "Pasted image 20260614234655.png",
-    "Pasted image 20260614234538.png",
-    "Pasted image 20260614234523.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615001008.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000956.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000948.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000656.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000554.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000515.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000246.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614235721.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614235507.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614235330.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs",
