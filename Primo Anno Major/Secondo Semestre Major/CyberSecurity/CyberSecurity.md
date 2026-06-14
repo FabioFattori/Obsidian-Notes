@@ -768,7 +768,7 @@ Verification requires the PIN or password and the biometric data
 Requires only the biometric data
 ![[Pasted image 20260614022005.png]]
 
-## Second module - AI Security
+## Second Module - AI Security
 ### Integrity
 > Data integrity means that informations are not changed or deleted in an unauthorized or unwanted way through out their lifecycle
 
@@ -787,7 +787,7 @@ For ML:
 > It means that information systems and algorithms must treat in an equal way all users and data subjects, preventing discriminatory outcomes and ensuring balanced resource allocation across the network.
 
 ![[Pasted image 20260614170939.png]]
-### The trust problem
+### The Trust Problem
 Systems cannot be automatically trusted, therefor they must be evaluated along two axes:
 ![[Pasted image 20260614171139.png]]
 ![[Pasted image 20260614171313.png]]
@@ -795,12 +795,12 @@ Systems cannot be automatically trusted, therefor they must be evaluated along t
 ***Does AI improve the current situation in terms of confidentiality, privacy ecc...?***
 Lol no, it actually creates more problems:
 ![[Pasted image 20260614171709.png]]
-### Use cases (this shit can possibly be skipped)
+### Use Cases (this Shit Can Possibly Be skipped)
 #### Smart Transportation Systems
 ![[Pasted image 20260614171827.png]]
-##### Security objectives of the service
+##### Security Objectives of the Service
 ![[Pasted image 20260614171923.png]]
-#### How objectives can be made in practice
+#### How Objectives Can Be Made in Practice
 We have different options to choose from, each has pros and cons:
 1. Central entity maintains crowdsourced data
 	- cons
@@ -843,15 +843,15 @@ We have different options to choose from, each has pros and cons:
 	
 	***But how is data persistence provided?***
 	![[Pasted image 20260614174341.png]]
-##### What really matters
+##### What Really Matters
 ![[Pasted image 20260614174522.png]]
-### Problems and techniques identified so far
+### Problems and Techniques Identified so far
 ![[Pasted image 20260614175259.png]]
-#### Threads and actors 
+#### Threads and Actors
 ![[Screenshot 2026-06-14 alle 17.54.47.png]]
-#### AI as a tool for security
+#### AI as a Tool for Security
 ![[Screenshot 2026-06-14 alle 17.55.37.png]]
-### Adversarial example 
+### Adversarial Example
 ![[Pasted image 20260614175907.png]]
 > Adversarial example are test-time inputs intentionally crafted to cause a neural network to make incorrect predictions while appearing natural to human observers.
 
@@ -861,37 +861,37 @@ Features:
 - Transferable across different models 
 - Efficient to compute
 Adversarial examples make ML-enabled systems unavailable or unreliable in critical applications.
-##### Malware detection evasion
+#### Malware Detection Evasion
 > Attack: Add bytes to Android APK to evade detection 
    Result: Malicious app classified as benign 
    Impact: System compromise, data theft 
    Key Metric: 85% attack success
 
 ![[Pasted image 20260614180225.png]]
-##### Speech (Mis)Recognition
+#### Speech (Mis)Recognition
 ![[Pasted image 20260614180533.png]]
-##### Adversarial Patch to bounding box
+#### Adversarial Patch to Bounding Box
 ![[Pasted image 20260614180607.png]]
-#### Adversarial Attacks: Domains and Impacts
+### Adversarial Attacks: Domains and Impacts
 ![[Pasted image 20260614181020.png]]
 > Attackers with direct or indirect model access can deliberately break system safety guarantees
 
-##### Why this attack matter
+#### Why This Attack Matter
 ![[Pasted image 20260614181211.png]]
 This reveals that ML models don't learn human-like features but they rely on non-robust patterns.
 So Robustness ≠ Accuracy.
-### Type of adversarial attacks 
+### Type of Adversarial Attacks
 ![[Pasted image 20260614193517.png]]
 ![[Pasted image 20260614193535.png]]
 ![[Pasted image 20260614193552.png]]
-#### Adversary Goal 
+#### Adversary Goal
 ![[Pasted image 20260614193818.png]]
 ##### Misconceptions about NNs
 Adversarial examples discovery shown and invalidated the following concepts about NNs:
 - Individual neurons learn to detect specific semantic features
 - Small input perturbations produce small changes in predictions
   ![[Pasted image 20260614194252.png]]
-### FGSM: Fast Gradient Sign Method
+#### FGSM: Fast Gradient Sign Method
 ![[Pasted image 20260614194456.png]]
 ![[Pasted image 20260614194758.png]]
 ![[Pasted image 20260614194547.png]]
@@ -904,11 +904,11 @@ This it's a big deals cause:
 - Blackbox attacks become feasible without knowing the target model
 - a Single attack can compromise multiple systems.
 - This type of attack is not limited to neural networks
-##### No randomness
+##### No Randomness
 ![[Pasted image 20260614212730.png]]
 > The vulnerability is NOT random noise tolerance, but exploitation of specific decision boundary orientations
 
-#### Why AE exists?
+#### Why AE Exists?
 Multiple factors contribute, no single explanation:
 - Geometry of decision boundaries
 - Non-robust feature learning => models learns from any features present in the image and AEs are seen as features to the model
@@ -918,25 +918,28 @@ Multiple factors contribute, no single explanation:
 ![[Pasted image 20260614214218.png]]
 ![[Pasted image 20260614214233.png]]
 ![[Screenshot 2026-06-14 alle 21.42.50.png]]
-#### Why transferability occurs?
+#### Why Transferability Occurs?
 ![[Pasted image 20260614215032.png]]
 ![[Pasted image 20260614215042.png]]
 ![[Pasted image 20260614215105.png]]
 > XOR reveals the map of the perturbation applied to the image, it's not random noises but instead a symmetrical pattern.
 
-### Adversarial Training
+#### Adversarial Training
 > An attacker doesn't need model access, he can train his surrogate model locally then generate and test AEs and they likely will work thanks to transferability
 
 ![[Pasted image 20260614215607.png]]
 > This makes the model more robust to the attack, but has a drawback: some of the accuracy on benign data is lost to gain robustness
 
 This is the standard approach against attacks, but is not sufficient alone.
-#### Randomized smoothing
+##### Randomized Smoothing
 ![[Pasted image 20260614215928.png]]
 ![[Pasted image 20260614220053.png]]
 ![[Pasted image 20260614220151.png]]
 > The training is done with noised data 
 
 ![[Pasted image 20260614220415.png]]
-
+### Privacy Leakage & Security in Generative AI and LLM
+#### Privacy in AI Systems: Threat Models and Regulations
+![[Pasted image 20260614220937.png]]
+###### Regulamentations 
 
