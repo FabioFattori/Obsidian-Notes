@@ -847,3 +847,9 @@ We have different options to choose from, each has pros and cons:
 ![[Pasted image 20260614174522.png]]
 ### Problems and techniques identified so far
 ![[Pasted image 20260614175259.png]]
+#### Threads and actors 
+![[Screenshot 2026-06-14 alle 17.54.47.png]]
+#### AI as a tool for security
+![[Screenshot 2026-06-14 alle 17.55.37.png]]
+### Adversarial example 
+![[Pasted image 20260614175907.png]]
