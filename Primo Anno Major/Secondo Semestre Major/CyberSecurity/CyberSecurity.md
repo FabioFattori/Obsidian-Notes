@@ -970,3 +970,12 @@ decompose task → invoke tools → synthesise results → generate response
 ![[Pasted image 20260614234523.png]]
 ![[Pasted image 20260614234538.png]]
 ### Small Language Models in Healthcare 
+> SLMs are Language models with parameter counts typically ranging from ~100M to ~7B, deployable on consumer-grade hardware
+
+![[Pasted image 20260614234655.png]]
+
+***Why there is this need?***
+![[Pasted image 20260614234737.png]]
+> The privacy guarantee of local inference breaks the moment the agent invokes an external tool
+
+#### The Paradox of privacy
