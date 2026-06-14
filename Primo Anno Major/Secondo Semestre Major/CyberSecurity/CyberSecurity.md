@@ -909,3 +909,8 @@ This it's a big deals cause:
 > The vulnerability is NOT random noise tolerance, but exploitation of specific decision boundary orientations
 
 #### Why AE exists?
+Multiple factors contribute, no single explanation:
+- Geometry of decision boundaries
+- Non-robust feature learning => models learns from any features present in the image and AEs are seen as features to the model
+- High-dimensional optimization => AEs exists in low density regions of the data, which the model during training has never seen 
+- Distribution shift
