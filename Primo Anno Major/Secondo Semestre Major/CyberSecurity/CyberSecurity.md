@@ -1055,3 +1055,9 @@ The next step for the attacker is either:
 > is a tool that cypher files with an algorithm and can benchmark the CPU by showing foreach cypher it's computational speed, very useful to find the most optimized algorithm for our hardware
 
 It's show with the DES algorithm with is ***obsolete***.
+It's also shown with the AES algorithm.
+## Tutorial 3
+> Let’s suppose that the attacker has been able to intercept and record a specific message encrypted using a well-known symmetric block cipher. We assume that the attacker knows the specific cipher used for encrypting the message and the different encryption parameters that have been selected by the sender.
+
+> The process of which the key used for the cypher is obtained from a password is called ***derivation***
+
