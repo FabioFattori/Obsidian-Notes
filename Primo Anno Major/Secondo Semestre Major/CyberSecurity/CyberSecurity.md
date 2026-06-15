@@ -1077,4 +1077,11 @@ Other boost to speed can be done by utilizing GPU AES computation.
 ## Tutorial 4
 ### GnuGPG tool
 > software tool based on public key encryption, it contains implementations of symmetric and asymmetric algorithms.
-> 
+> It is an implementation of OpenPGP standard to send and receive secure emails.
+
+#### Usages 
+> it is typically used to encrypt emails but can also be used for encrypting specific files (ex. backups).
+
+#### Setup
+a user wants to setup GPG to communicate with others, he has to:
+1. generate a new key pair
