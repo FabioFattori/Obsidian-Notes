@@ -1051,3 +1051,7 @@ The next step for the attacker is either:
 > Lynis does a scan searching for vulnerabilities of this kind.
 
 ## Tutorial 2
+###### OpenSSL 
+> is a tool that cypher files with an algorithm and can benchmark the CPU by showing foreach cypher it's computational speed, very useful to find the most optimized algorithm for our hardware
+
+It's show with the DES algorithm with is ***obsolete***.
