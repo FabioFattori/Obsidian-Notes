@@ -1061,3 +1061,6 @@ It's also shown with the AES algorithm.
 
 > The process of which the key used for the cypher is obtained from a password is called ***derivation***
 
+So the attacker will have to do a dictionary attack by trying each words as fast as possible taking in count that:
+- avoid false negatives: a specific word is tried but not detected as the correct key for decrypting the message;
+- minimize or avoid false positives: a word that is unable to decrypt the message into the correct plaintext is reported as correct.
