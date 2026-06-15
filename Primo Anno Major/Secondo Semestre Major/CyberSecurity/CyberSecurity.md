@@ -1093,3 +1093,6 @@ a user wants to setup GPG to communicate with others, he has to:
 	- publish it in a web page that has https protocol active (otherwise the content of the page is in plaintext which enables attacks like Man In The Middle)
 	- Another approach for making my public-key available to my friends is to use a key server. That is an infrastructure that is specifically dedicated to the publication of public keys and their management.
 #### Web of trust
+GnuGPG resolved the problems of authenticity as follows, which is different from what browsers do:
+> The basic idea of the web-of-trust is that after carefully checking the identity of the people that we know (in real life) and their matching with their corresponding public-key, then we can validate this match by signing their public-key (using our private-key)
+
