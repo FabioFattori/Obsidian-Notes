@@ -1116,4 +1116,9 @@ The redirect can happen for a specific host level or to a network level:
 	- Edit the /etc/hosts of the victim machine which has higher priority to the router informations
 	![[Pasted image 20260615183802.png]]
 ##### HTTPS Attack
-for https the steps above are not enough 
+for https the steps above are not enough anymore cause the TLS protocol is added to HTTP to make it HTTPS which ensures confidentiality, integrity and authentication.
+If the attacks stays the same the attacker site will be blocked by the browser cause it doesn't have the SSL/TLS certificate signed by the CA.
+
+So what is really done is a local attack to the victim browser:
+![[Pasted image 20260615184837.png]]
+
