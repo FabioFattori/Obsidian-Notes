@@ -1064,3 +1064,17 @@ It's also shown with the AES algorithm.
 So the attacker will have to do a dictionary attack by trying each words as fast as possible taking in count that:
 - avoid false negatives: a specific word is tried but not detected as the correct key for decrypting the message;
 - minimize or avoid false positives: a word that is unable to decrypt the message into the correct plaintext is reported as correct.
+
+***How is it possible to mitigate the problem of false positives without introducing false negatives?*** 
+
+A straightforward possibility is to use a simple heuristic function that is based on yet another assumption: the message contains at least a given number of consecutive letters.
+
+###### GNU parallel tool
+> The attacker would want to be as fast as possible, a boost in speed is done by implementing parallel execution of the brute force.
+> This can be done by utilizing the GNU parallel tool.
+
+Other boost to speed can be done by utilizing GPU AES computation.
+## Tutorial 4
+### GnuGPG tool
+> software tool based on public key encryption, it contains implementations of symmetric and asymmetric algorithms.
+> 
