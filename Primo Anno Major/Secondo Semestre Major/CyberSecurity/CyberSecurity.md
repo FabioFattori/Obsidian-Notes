@@ -1104,4 +1104,8 @@ GnuGPG resolved the problems of authenticity as follows, which is different from
 
 ## Tutorial 5
 #### Pharming attack
+##### Attacking HTTP
 ![[Pasted image 20260615182548.png]]
+The redirect can happen for a specific host level or to a network level:
+- network level 
+	To do this the information that the router sends to devices must be changed, and to do so, 
