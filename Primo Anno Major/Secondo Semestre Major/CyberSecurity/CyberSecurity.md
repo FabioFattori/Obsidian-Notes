@@ -1096,3 +1096,8 @@ a user wants to setup GPG to communicate with others, he has to:
 GnuGPG resolved the problems of authenticity as follows, which is different from what browsers do:
 > The basic idea of the web-of-trust is that after carefully checking the identity of the people that we know (in real life) and their matching with their corresponding public-key, then we can validate this match by signing their public-key (using our private-key)
 
+### GPG and symmetric encryption
+> GPG can also be used for encrypting a file to be kept locally or shared with a password
+
+### AGE substitution to GPG
+> The attack surface of GPG it too large so many tools where implemented, one of them is AGE.
