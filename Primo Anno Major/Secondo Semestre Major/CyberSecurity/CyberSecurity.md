@@ -1103,3 +1103,5 @@ GnuGPG resolved the problems of authenticity as follows, which is different from
 > The attack surface of GPG it too large so many tools where implemented, one of them is AGE.
 
 ## Tutorial 5
+#### Pharming attack
+![[Pasted image 20260615182548.png]]
