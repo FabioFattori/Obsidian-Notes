@@ -1108,4 +1108,10 @@ GnuGPG resolved the problems of authenticity as follows, which is different from
 ![[Pasted image 20260615182548.png]]
 The redirect can happen for a specific host level or to a network level:
 - network level 
-	To do this the information that the router sends to devices must be changed, and to do so, 
+	To do this the information that the router, typically handled by the DHCP protocol, sends to devices must be changed and this can be done in several ways:
+	- Edit the DNS information so that the searched site actually point to the local device of the attacker which has the site exposed
+	- In a similar way the edit of the default gateway
+	- Rogue DHCP server which the attacker has to install in the network
+- Specific host level
+	- Edit the /etc/hosts of the victim machine which has higher priority to the router informations
+	![[Pasted image 20260615183802.png]]
