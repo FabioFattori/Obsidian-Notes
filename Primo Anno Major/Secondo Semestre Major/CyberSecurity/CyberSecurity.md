@@ -1088,5 +1088,8 @@ a user wants to setup GPG to communicate with others, he has to:
 2. generate a ***revocation certificate*** for the new keys
 	This is very important cause it permits the user to "kill" the key, making them invalid for the system, this is used in case the private key gets compromised, lost or the user forget the password.
 3. Now the public key must be delivered to the other users
+	![[Pasted image 20260615123835.png]]
 	We could do the following:
-	- publish it in a web page that has https protocol active 
+	- publish it in a web page that has https protocol active (otherwise the content of the page is in plaintext which enables attacks like Man In The Middle)
+	- Another approach for making my public-key available to my friends is to use a key server. That is an infrastructure that is specifically dedicated to the publication of public keys and their management.
+#### Web of trust
