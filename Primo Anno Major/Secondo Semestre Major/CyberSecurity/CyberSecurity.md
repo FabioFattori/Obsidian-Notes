@@ -1051,7 +1051,7 @@ The next step for the attacker is either:
 > Lynis does a scan searching for vulnerabilities of this kind.
 
 ## Tutorial 2
-###### OpenSSL 
+### OpenSSL
 > is a tool that cypher files with an algorithm and can benchmark the CPU by showing foreach cypher it's computational speed, very useful to find the most optimized algorithm for our hardware
 
 It's show with the DES algorithm with is ***obsolete***.
@@ -1069,17 +1069,17 @@ So the attacker will have to do a dictionary attack by trying each words as fast
 
 A straightforward possibility is to use a simple heuristic function that is based on yet another assumption: the message contains at least a given number of consecutive letters.
 
-###### GNU parallel tool
+### GNU Parallel Tool
 > The attacker would want to be as fast as possible, a boost in speed is done by implementing parallel execution of the brute force.
 > This can be done by utilizing the GNU parallel tool.
 
 Other boost to speed can be done by utilizing GPU AES computation.
 ## Tutorial 4
-### GnuGPG tool
+### GnuGPG Tool
 > software tool based on public key encryption, it contains implementations of symmetric and asymmetric algorithms.
 > It is an implementation of OpenPGP standard to send and receive secure emails.
 
-#### Usages 
+#### Usages
 > it is typically used to encrypt emails but can also be used for encrypting specific files (ex. backups).
 
 #### Setup
@@ -1092,19 +1092,19 @@ a user wants to setup GPG to communicate with others, he has to:
 	We could do the following:
 	- publish it in a web page that has https protocol active (otherwise the content of the page is in plaintext which enables attacks like Man In The Middle)
 	- Another approach for making my public-key available to my friends is to use a key server. That is an infrastructure that is specifically dedicated to the publication of public keys and their management.
-#### Web of trust
+#### Web of Trust
 GnuGPG resolved the problems of authenticity as follows, which is different from what browsers do:
 > The basic idea of the web-of-trust is that after carefully checking the identity of the people that we know (in real life) and their matching with their corresponding public-key, then we can validate this match by signing their public-key (using our private-key)
 
-### GPG and symmetric encryption
+### GPG and Symmetric Encryption
 > GPG can also be used for encrypting a file to be kept locally or shared with a password
 
-### AGE substitution to GPG
+### AGE Substitution to GPG
 > The attack surface of GPG it too large so many tools where implemented, one of them is AGE.
 
 ## Tutorial 5
-#### Pharming attack
-##### Attacking HTTP
+### Pharming Attack
+#### Attacking HTTP
 ![[Pasted image 20260615182548.png]]
 The redirect can happen for a specific host level or to a network level:
 - network level 
@@ -1115,11 +1115,13 @@ The redirect can happen for a specific host level or to a network level:
 - Specific host level
 	- Edit the /etc/hosts of the victim machine which has higher priority to the router informations
 	![[Pasted image 20260615183802.png]]
-##### HTTPS Attack
+#### HTTPS Attack
 for https the steps above are not enough anymore cause the TLS protocol is added to HTTP to make it HTTPS which ensures confidentiality, integrity and authentication.
 If the attacks stays the same the attacker site will be blocked by the browser cause it doesn't have the SSL/TLS certificate signed by the CA.
 
 So what is really done is a local attack to the victim browser:
 ![[Pasted image 20260615184837.png]]
 ## Tutorial 6
-
+![[Pasted image 20260615212525.png]]
+![[Pasted image 20260615212614.png]]
+![[Pasted image 20260615212650.png]]
