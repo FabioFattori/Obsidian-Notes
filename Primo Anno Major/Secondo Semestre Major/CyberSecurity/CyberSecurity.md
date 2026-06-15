@@ -1121,4 +1121,5 @@ If the attacks stays the same the attacker site will be blocked by the browser c
 
 So what is really done is a local attack to the victim browser:
 ![[Pasted image 20260615184837.png]]
+## Tutorial 6
 
