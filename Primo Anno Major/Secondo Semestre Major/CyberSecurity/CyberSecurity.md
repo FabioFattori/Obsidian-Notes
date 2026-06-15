@@ -1115,3 +1115,5 @@ The redirect can happen for a specific host level or to a network level:
 - Specific host level
 	- Edit the /etc/hosts of the victim machine which has higher priority to the router informations
 	![[Pasted image 20260615183802.png]]
+##### HTTPS Attack
+for https the steps above are not enough 
