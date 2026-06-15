@@ -1085,3 +1085,8 @@ Other boost to speed can be done by utilizing GPU AES computation.
 #### Setup
 a user wants to setup GPG to communicate with others, he has to:
 1. generate a new key pair
+2. generate a ***revocation certificate*** for the new keys
+	This is very important cause it permits the user to "kill" the key, making them invalid for the system, this is used in case the private key gets compromised, lost or the user forget the password.
+3. Now the public key must be delivered to the other users
+	We could do the following:
+	- publish it in a web page that has https protocol active 
