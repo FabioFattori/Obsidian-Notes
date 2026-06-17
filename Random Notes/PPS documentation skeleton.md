@@ -32,4 +32,4 @@ descrizione finale dettagliata dell'andamento dello sviluppo, del backlog, delle
 
 >Se gli [studenti](https://virtuale.unibo.it/mod/forum/view.php?id=2237535 "Studenti") decideranno (come auspicato) di utilizzare un product backlog e/o dei backlog delle varie iterazioni/sprint, è opportuno che questi siano file testuali tenuti in versione in una cartella "process", così che sia ri-verificabile a posteriori la storia del progetto. Si noti anche che la sezione di "Requisiti e Analisi" deve in modo completo e rigoroso descrivere il funzionamento "esterno" del sistema: da solo questa sezione, team diversi produrrebbero sistemi di fatto equivalenti.
 
-> La relazione è da mettere NELLA REPOSITORY del progetto e deve essere suddivisa in file singoli per sezioni 
+> La relazione è da mettere NELLA REPOSITORY del progetto e deve essere suddivisa in file singoli per sezione, ogni volta che una feature viene sviluppata la relativa parte della relazione deve essere aggiornata/scritta.
