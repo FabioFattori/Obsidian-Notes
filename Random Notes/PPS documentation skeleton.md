@@ -1,4 +1,5 @@
 # PPS Documentation Skeleton
+Implementazione# PPS Documentation Skeleton
 ## 1) Processo Di Sviluppo Adottato
 modalità di divisione in itinere dei task, meeting/interazioni pianificate, modalità di revisione in itinere dei task, scelta degli strumenti di test/build/continuous integration
 ## 2) Requirements Specification
@@ -20,4 +21,5 @@ modalità di divisione in itinere dei task, meeting/interazioni pianificate, mod
 architettura complessiva, descrizione di pattern architetturali usati, eventuali componenti del sistema distribuito, scelte tecnologiche cruciali ai fini architetturali -- corredato da pochi ma efficaci diagrammi
 ## 4) Design Di Dettaglio
 scelte rilevanti di design, pattern di progettazione, organizzazione del codice -- corredato da pochi ma efficaci diagrammi
-## 5)
+## 5) Implementazione
+per ogni studente, una sotto-sezione descrittiva di cosa fatto/co-fatto e con chi, e descrizione di aspetti implementativi importanti non già presenti nel design, come ad esempio relativamente all'uso di meccanismi avanzati di Scala
