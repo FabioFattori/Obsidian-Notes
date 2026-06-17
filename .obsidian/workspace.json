@@ -35,7 +35,8 @@
               "title": "PPS documentation skeleton"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5b4385e046c3cbd5",
+  "active": "0b02ef98f1e3d465",
   "lastOpenFiles": [
-    "Random Notes/PPS documentation skeleton.md",
     "Random Notes/Drawing 2026-06-17 22.44.10.excalidraw.md",
+    "Random Notes/PPS documentation skeleton.md",
     "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Random Notes/Distributed project proposal.md",
