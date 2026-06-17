@@ -1,5 +1,5 @@
 # PPS Documentation Skeleton
-Implementazione# PPS Documentation Skeleton
+## 0) Descrizione Anche Sommaria Dell'applicazione
 ## 1) Processo Di Sviluppo Adottato
 modalità di divisione in itinere dei task, meeting/interazioni pianificate, modalità di revisione in itinere dei task, scelta degli strumenti di test/build/continuous integration
 ## 2) Requirements Specification
