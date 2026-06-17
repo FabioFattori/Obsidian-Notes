@@ -23,3 +23,10 @@ architettura complessiva, descrizione di pattern architetturali usati, eventuali
 scelte rilevanti di design, pattern di progettazione, organizzazione del codice -- corredato da pochi ma efficaci diagrammi
 ## 5) Implementazione
 per ogni studente, una sotto-sezione descrittiva di cosa fatto/co-fatto e con chi, e descrizione di aspetti implementativi importanti non già presenti nel design, come ad esempio relativamente all'uso di meccanismi avanzati di Scala
+## 6) Testing
+tecnologie usate, grado di copertura, metodologia usata, esempi rilevanti, altri elementi utili
+## 7) Restrospettiva
+descrizione finale dettagliata dell'andamento dello sviluppo, del backlog, delle iterazioni; commenti finali
+
+> Si noti che la retrospettiva è l'unica sezione che può citare aneddoti di cosa è successo in itinere, mentre le altre sezioni (anche i requisiti) fotografino il risultato finale
+
