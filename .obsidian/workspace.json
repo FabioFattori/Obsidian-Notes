@@ -11,10 +11,14 @@
             "id": "5b4385e046c3cbd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Random Notes/PPS documentation skeleton.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "PPS documentation skeleton"
             }
           }
         ]
@@ -181,6 +185,8 @@
   },
   "active": "5b4385e046c3cbd5",
   "lastOpenFiles": [
+    "Random Notes/Drawing 2026-06-17 22.44.10.excalidraw.md",
+    "Random Notes/PPS documentation skeleton.md",
     "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Random Notes/Distributed project proposal.md",
@@ -225,7 +231,6 @@
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-27 21.04.32.excalidraw.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/AAA.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Esame del porcodio.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md"
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md"
   ]
 }
