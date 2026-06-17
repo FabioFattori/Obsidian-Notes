@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9efca1ee5ac2e3f5",
+        "id": "bb52756b94318f49",
         "type": "tabs",
         "children": [
           {
-            "id": "ed375c4ed650da8e",
+            "id": "5b4385e046c3cbd5",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CyberSecurity"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -185,10 +179,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed375c4ed650da8e",
+  "active": "5b4385e046c3cbd5",
   "lastOpenFiles": [
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615123835.png",
+    "Code Interviews Concepts/HTML/Data Attributes.pdf",
+    "Random Notes/Preventivo Soul Pida.md",
+    "Random Notes/Distributed project proposal.md",
+    "Code Interviews Concepts/HTML/268114229-7a218dd4-2575-41e8-b615-01f97c0a9bdb.mov",
+    "Code Interviews Concepts/Infrastructure/DDD schema.jpg",
+    "Code Interviews Concepts/OOP/SOLID Principles.pdf",
+    "Code Interviews Concepts/OOP/Principi OOP.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615123835.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615212650.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615212614.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615212525.png",
@@ -197,7 +199,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615182548.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260614220937.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615001008.png",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615000956.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs",
@@ -208,15 +209,11 @@
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
     "ProjectWithDiegoNotes",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
     "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Senza nome.md",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
@@ -229,7 +226,6 @@
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/AAA.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Esame del porcodio.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md"
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md"
   ]
 }
