@@ -795,7 +795,7 @@ Systems cannot be automatically trusted, therefor they must be evaluated along t
 ***Does AI improve the current situation in terms of confidentiality, privacy ecc...?***
 Lol no, it actually creates more problems:
 ![[Pasted image 20260614171709.png]]
-### Use Cases (this Shit Can Possibly Be skipped)
+### Use Cases
 #### Smart Transportation Systems
 ![[Pasted image 20260614171827.png]]
 ##### Security Objectives of the Service
