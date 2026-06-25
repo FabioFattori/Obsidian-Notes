@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bb52756b94318f49",
+        "id": "08b253945796e96a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4385e046c3cbd5",
+            "id": "e092990bc8662318",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Random Notes/PPS notes and \"mockup\".md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "PPS notes and \"mockup\""
-            }
-          },
-          {
-            "id": "0b02ef98f1e3d465",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Notes/PPS documentation skeleton.md",
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "PPS documentation skeleton"
+              "title": "CyberSecurity"
             }
           }
         ]
@@ -197,7 +185,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5b4385e046c3cbd5",
+  "active": "e092990bc8662318",
   "lastOpenFiles": [
     "Random Notes/PPS notes and \"mockup\".md",
     "Random Notes/PPS documentation skeleton.md",
