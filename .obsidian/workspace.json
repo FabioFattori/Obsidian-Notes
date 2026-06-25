@@ -29,14 +29,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Random Notes/PPS notes and \"mockup\".md"
+                "file": "Random Notes/pps/PPS notes and \"mockup\".md"
               },
               "icon": "excalidraw-icon",
               "title": "PPS notes and \"mockup\""
             }
+          },
+          {
+            "id": "ff1271ddd6f4c37b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Random Notes/pps/scene-engineering-thinking-board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "scene-engineering-thinking-board"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +210,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a0f4d1870995da7b",
+  "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
-    "Random Notes/PPS notes and \"mockup\".md",
-    "Random Notes/PPS documentation skeleton.md",
+    "Random Notes/pps/PPS notes and \"mockup\".md",
+    "Random Notes/pps/scene-engineering-thinking-board.md",
+    "Random Notes/pps",
+    "Random Notes/pps/PPS documentation skeleton.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Random Notes/Preventivo Soul Pida.md",
@@ -228,7 +242,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
     "ProjectWithDiegoNotes/imgs",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
-    "ProjectWithDiegoNotes",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
@@ -244,8 +257,6 @@
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-27 21.04.32.excalidraw.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/AAA.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Esame del porcodio.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md"
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/AAA.md"
   ]
 }
