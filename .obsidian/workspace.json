@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
+          },
+          {
+            "id": "a0f4d1870995da7b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Random Notes/PPS notes and \"mockup\".md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PPS notes and \"mockup\""
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +198,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e092990bc8662318",
+  "active": "a0f4d1870995da7b",
   "lastOpenFiles": [
     "Random Notes/PPS notes and \"mockup\".md",
     "Random Notes/PPS documentation skeleton.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Random Notes/Distributed project proposal.md",
@@ -197,7 +211,6 @@
     "Code Interviews Concepts/OOP/SOLID Principles.pdf",
     "Code Interviews Concepts/OOP/Principi OOP.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615123835.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615212650.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260615212614.png",
