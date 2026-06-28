@@ -22,33 +22,8 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
-          },
-          {
-            "id": "a0f4d1870995da7b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Random Notes/pps/PPS notes and \"mockup\".md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PPS notes and \"mockup\""
-            }
-          },
-          {
-            "id": "ff1271ddd6f4c37b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Random Notes/pps/scene-engineering-thinking-board.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "scene-engineering-thinking-board"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +185,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ff1271ddd6f4c37b",
+  "active": "e092990bc8662318",
   "lastOpenFiles": [
-    "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps/PPS notes and \"mockup\".md",
+    "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps",
     "Random Notes/pps/PPS documentation skeleton.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
