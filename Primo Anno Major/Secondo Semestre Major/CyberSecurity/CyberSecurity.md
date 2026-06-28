@@ -847,6 +847,10 @@ We have different options to choose from, each has pros and cons:
 ![[Pasted image 20260614174522.png]]
 #### Federated Learning (FL)
 ![[Pasted image 20260628163606.png]]
+##### Threads
+###### Data Poisoning
+![[Pasted image 20260628164154.png]]
+![[Pasted image 20260628164225.png]]
 
 ### Problems and Techniques Identified so far
 ![[Pasted image 20260614175259.png]]
