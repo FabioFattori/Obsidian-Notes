@@ -613,7 +613,7 @@ On login the provided ID is searched in the password file and the hashing functi
 ###### Threads to the UNIX Scheme
 1. A password cracker (password guesser program) can be run on a logged in machine, the attacker could run thousands of tries with little resource consumption.
 2. If the attacker gains a copy of the password file, he can run the password cracker on his machine and with some reasonable time crack the password that he wants.
-##### UNIX Implementations (algorithms)
+##### UNIX Implementations (Algorithms)
 - crypt(3)
 	> Is a encryption routine which utilizes the DES algorithm to encrypt a password of up to 8 char long.
 	> 1. The password is converted into a 56 bit long value used as input to an encryption routine.
@@ -852,16 +852,25 @@ We have different options to choose from, each has pros and cons:
 	- Data Poisoning
 	- Poison Federated Updates
 - Privacy:
-	- 
+	- Membership inference 
+- Availability:
+	- Differential Privacy
 ###### Data Poisoning
 ![[Pasted image 20260628164154.png]]
 ![[Pasted image 20260628164225.png]]
-###### Poison federated updates
+###### Poison Federated Updates
 A compromised participant sends adversarial gradients to bias the global model Effects may include:
 - Targeted backdoor behavior
 - Systematic degradation of specific predictions
 ![[Pasted image 20260628173333.png]]
 ![[Pasted image 20260628173416.png]]![[Pasted image 20260628173427.png]]
+###### Membership Inference
+![[Pasted image 20260628173716.png]]
+![[Pasted image 20260628173826.png]]
+###### Adversarial DoS
+![[Pasted image 20260628173911.png]]
+![[Pasted image 20260628173922.png]]
+![[Pasted image 20260628173931.png]]
 
 ### Problems and Techniques Identified so far
 ![[Pasted image 20260614175259.png]]
@@ -1028,7 +1037,7 @@ LLM-as-a-judge approach.
 > it measures the probability that at least one generation results in a privacy violation
 ![[Pasted image 20260615000246.png]]
 
-#### The Prof Has Run Some Tests (who Gives a shit) but Something Was Discovered
+#### The Prof Has Run Some Tests (Who Gives a sHit) but Something Was Discovered
 ![[Pasted image 20260615000515.png]]
 Tested prompt systems:
 ![[Pasted image 20260615000554.png]]
