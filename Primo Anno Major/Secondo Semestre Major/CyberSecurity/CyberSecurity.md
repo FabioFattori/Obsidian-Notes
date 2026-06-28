@@ -846,6 +846,7 @@ We have different options to choose from, each has pros and cons:
 ##### What Really Matters
 ![[Pasted image 20260614174522.png]]
 #### Federated Learning (FL)
+![[Pasted image 20260628163606.png]]
 
 ### Problems and Techniques Identified so far
 ![[Pasted image 20260614175259.png]]
