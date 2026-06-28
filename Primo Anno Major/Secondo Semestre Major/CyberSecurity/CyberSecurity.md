@@ -845,6 +845,8 @@ We have different options to choose from, each has pros and cons:
 	![[Pasted image 20260614174341.png]]
 ##### What Really Matters
 ![[Pasted image 20260614174522.png]]
+#### Federated Learning (FL)
+
 ### Problems and Techniques Identified so far
 ![[Pasted image 20260614175259.png]]
 #### Threads and Actors
