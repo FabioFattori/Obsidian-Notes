@@ -1149,6 +1149,8 @@ If the attacks stays the same the attacker site will be blocked by the browser c
 So what is really done is a local attack to the victim browser:
 ![[Pasted image 20260615184837.png]]
 ## Tutorial 6
-![[Pasted image 20260615212525.png]]
-![[Pasted image 20260615212614.png]]
-![[Pasted image 20260615212650.png]]
+- - **Cos'è:** Software open-source per il password cracking offline.
+- **Hardware:** Lavora principalmente su CPU. Ha un supporto limitato per le GPU, per le quali è preferibile usare tool come _Hashcat_.
+
+![[Pasted image 20260628202059.png]]
+![[Pasted image 20260628202139.png]]
