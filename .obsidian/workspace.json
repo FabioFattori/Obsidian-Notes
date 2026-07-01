@@ -24,12 +24,16 @@
             }
           },
           {
-            "id": "217adf025b3dca16",
+            "id": "518ee3df26ee0058",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf"
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
+                "page": 89,
+                "left": -4,
+                "top": 105,
+                "zoom": 1.7160119034680863
               },
               "icon": "lucide-file-text",
               "title": "CyberSecurity_merged"
@@ -195,10 +199,13 @@
       "markdown-importer:Apri importazione Markdown": false,
       "bases:Crea nuova Base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "217adf025b3dca16",
+  "active": "518ee3df26ee0058",
   "lastOpenFiles": [
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
