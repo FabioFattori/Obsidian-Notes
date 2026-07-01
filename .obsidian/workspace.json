@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "CyberSecurity"
             }
+          },
+          {
+            "id": "217adf025b3dca16",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CyberSecurity_merged"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +198,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e092990bc8662318",
+  "active": "217adf025b3dca16",
   "lastOpenFiles": [
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
     "Pasted image 20260628202139.png",
     "Pasted image 20260628202059.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628163606.png",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173931.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173922.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173911.png",
@@ -198,7 +212,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173716.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173427.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173416.png",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173333.png",
     "Random Notes/pps/PPS notes and \"mockup\".md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps",
@@ -216,7 +229,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/cartella senza nome",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
-    "ProjectWithDiegoNotes/imgs",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
