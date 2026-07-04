@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "08b253945796e96a",
+        "id": "1eac30cd450f7e87",
         "type": "tabs",
         "children": [
           {
-            "id": "e092990bc8662318",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "CyberSecurity"
-            }
-          },
-          {
-            "id": "0a8b7de5be1c3214",
+            "id": "0ee292ac53967636",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf"
+                "file": "Random Notes/pps/scene-engineering-thinking-board.md"
               },
-              "icon": "lucide-file-text",
-              "title": "CyberSecurity_merged"
+              "icon": "excalidraw-icon",
+              "title": "scene-engineering-thinking-board"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +181,17 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "0a8b7de5be1c3214",
+  "active": "ef605dff0dc83cd1",
   "lastOpenFiles": [
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628202139.png",
+    "Random Notes/pps/event-system-engineering-notes.md",
+    "Random Notes/pps/scene-engineering-thinking-board.md",
+    "Random Notes/pps/Senza nome.md",
+    "Random Notes/pps/PPS documentation skeleton.md",
+    "Random Notes/pps/PPS notes and \"mockup\".md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
-    "Pasted image 20260628202139.png",
-    "Pasted image 20260628202059.png",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628202059.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628163606.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173931.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173922.png",
@@ -213,10 +200,7 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173716.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173427.png",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628173416.png",
-    "Random Notes/pps/PPS notes and \"mockup\".md",
-    "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps",
-    "Random Notes/pps/PPS documentation skeleton.md",
     "Code Interviews Concepts/HTML/Data Attributes.pdf",
     "Random Notes/Preventivo Soul Pida.md",
     "Random Notes/Distributed project proposal.md",
@@ -244,8 +228,6 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-27 21.04.32.excalidraw.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/AAA.md"
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md"
   ]
 }
