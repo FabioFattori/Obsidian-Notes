@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notes for project"
             }
+          },
+          {
+            "id": "874e01fc96fc2b5b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Random Notes/pps/Drawing 2026-07-21 00.44.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-21 00.44.34.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +196,11 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "0ee292ac53967636",
+  "active": "874e01fc96fc2b5b",
   "lastOpenFiles": [
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Notes for project.md",
+    "Random Notes/pps/Drawing 2026-07-21 00.44.34.excalidraw.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs/Pasted image 20260628202139.png",
     "Random Notes/pps/event-system-engineering-notes.md",
@@ -230,7 +244,6 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
     "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md"
+    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md"
   ]
 }
