@@ -30,5 +30,8 @@ search_anytwo (X , cons (X , cons (_ , cons(X, _)))) .
 search_anytwo (X , cons (X , cons (X , _))) .
 search_anytwo (X , cons (_ , Xs )) :- search_anytwo (X , Xs ).
 ```
-
-
+![[Pasted image 20260917221702.png]]
+```prolog
+size(nil, zero).
+size(cons(_, T), s(Size)) :- size(T, Size).
+```
