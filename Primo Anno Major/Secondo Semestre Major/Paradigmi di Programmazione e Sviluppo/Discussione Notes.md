@@ -7,3 +7,4 @@
 ![[Pasted image 20260916232240.png]]
 ### Real Syntax 
 ![[Pasted image 20260916232953.png]]
+![[Pasted image 20260917145508.png]]
