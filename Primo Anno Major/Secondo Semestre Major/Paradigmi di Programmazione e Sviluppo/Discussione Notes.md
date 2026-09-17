@@ -9,22 +9,22 @@
 ![[Pasted image 20260916232953.png]]
 ![[Pasted image 20260917145508.png]]
 ### Es Solutions 
-
+![[Pasted image 20260917205559.png]]
 ```prolog
 search(X,cons(X,_)).
 search(X,cons(_,Xs)) :-search(X,Xs).
 ```
-
+![[Pasted image 20260917205634.png]]
 ```prolog
 search2 (X , cons (X , cons (X , _))) .
 search2 (X , cons (_ , Xs )) :- search2 (X , Xs ).
 ```
-
+![[Pasted image 20260917205648.png]]
 ```prolog
 search_two (X , cons (X , cons (_ , cons(X, _)))) .
 search_two (X , cons (_ , Xs )) :- search_two (X , Xs ).
 ```
-
+![[Pasted image 20260917205701.png]]
 ```prolog
 search_anytwo (X , cons (X , cons (_ , cons(X, _)))) .
 search_anytwo (X , cons (X , cons (X , _))) .
