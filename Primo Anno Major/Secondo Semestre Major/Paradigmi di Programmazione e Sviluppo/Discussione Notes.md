@@ -45,3 +45,17 @@ sum_list(cons(H,T), Sum) :-
 	sum_list(T, SumT),
 	add(H, SumT, Sum).
 ```
+![[Pasted image 20260922161219.png]]
+![[Pasted image 20260922161239.png]]
+```prolog
+max(List, Max) :- max(List, 0, Max).
+
+max(nil, Max, Max).
+
+max(cons(H, T), TempMax, Max) :- 
+	H > TempMax,
+	max(T, H, Max).
+max(cons(H, T), TempMax, Max) :- 
+	H =< TempMax,
+	max(T, TempMax, Max).
+```
