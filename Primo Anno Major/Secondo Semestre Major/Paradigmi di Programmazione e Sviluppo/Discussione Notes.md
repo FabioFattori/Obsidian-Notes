@@ -35,3 +35,13 @@ search_anytwo (X , cons (_ , Xs )) :- search_anytwo (X , Xs ).
 size(nil, zero).
 size(cons(_, T), s(Size)) :- size(T, Size).
 ```
+![[Pasted image 20260922155407.png]]
+```prolog
+add(zero, Y, Y).
+add(s(X), Y, s(Z)) :- add(X, Y, Z).
+
+sum_list(nil, zero).
+sum_list(cons(H,T), Sum) :-
+	sum_list(T, SumT),
+	add(H, SumT, Sum).
+```
