@@ -76,3 +76,9 @@ min_max(cons(H, T), TempMin, TempMax, Min, Max) :-
 	H >= TempMin,
 	min_max(T, TempMin, TempMax, Min, Max).
 ```
+![[Pasted image 20260922172544.png]]
+```prolog
+same(nil, nil).
+
+same(cons(X,T1), cons(X, T2)) :- same(T1, T2).
+```
