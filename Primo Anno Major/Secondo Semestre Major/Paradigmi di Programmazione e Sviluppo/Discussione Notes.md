@@ -59,3 +59,20 @@ max(cons(H, T), TempMax, Max) :-
 	H =< TempMax,
 	max(T, TempMax, Max).
 ```
+![[Pasted image 20260922172227.png]]
+```prolog
+min_max(cons(H,L), Min, Max) :- min_max(cons(H,L), H, H, Min, Max).
+
+min_max(nil, Min, Max, Min, Max).
+
+min_max(cons(H, T), TempMin, TempMax, Min, Max) :- 
+	H > TempMax,
+	min_max(T, TempMin, H, Min, Max).
+min_max(cons(H, T), TempMin, TempMax, Min, Max) :- 
+	H < TempMin,
+	min_max(T, H, TempMax, Min, Max).
+min_max(cons(H, T), TempMin, TempMax, Min, Max) :- 
+	H =< TempMax,
+	H >= TempMin,
+	min_max(T, TempMin, TempMax, Min, Max).
+```
