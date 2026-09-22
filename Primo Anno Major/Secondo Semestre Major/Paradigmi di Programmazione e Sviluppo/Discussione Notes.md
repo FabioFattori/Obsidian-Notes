@@ -2,13 +2,13 @@
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
 ![[Pasted image 20260916231932.png]]
-### Abstract Syntax 
+### Abstract Syntax
 ![[Pasted image 20260916232028.png]]
 ![[Pasted image 20260916232240.png]]
-### Real Syntax 
+### Real Syntax
 ![[Pasted image 20260916232953.png]]
 ![[Pasted image 20260917145508.png]]
-### Es Solutions 
+### Es Solutions
 ![[Pasted image 20260917205559.png]]
 ```prolog
 search(X,cons(X,_)).
@@ -81,4 +81,12 @@ min_max(cons(H, T), TempMin, TempMax, Min, Max) :-
 same(nil, nil).
 
 same(cons(X,T1), cons(X, T2)) :- same(T1, T2).
+```
+![[Pasted image 20260922173238.png]]
+```prolog
+all_bigger(nil, nil).
+
+all_bigger(cons(H1, T1), cons(H2, T2)) :- 
+	H1 > H2,
+	all_bigger(T1, T2).
 ```

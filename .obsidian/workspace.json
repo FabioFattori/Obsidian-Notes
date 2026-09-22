@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "85b746594102878b",
+        "id": "f17c8bd6d701feea",
         "type": "tabs",
         "children": [
           {
-            "id": "5d52ff78119db0d1",
+            "id": "d8d8273a0dfe2ebd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Discussione Notes"
             }
@@ -185,21 +187,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d52ff78119db0d1",
+  "active": "d8d8273a0dfe2ebd",
   "lastOpenFiles": [
-    "Pasted image 20260922172549.png",
-    "Pasted image 20260922172544.png",
-    "Pasted image 20260922172227.png",
-    "Pasted image 20260922161239.png",
-    "Pasted image 20260922161219.png",
-    "Pasted image 20260922155407.png",
-    "Pasted image 20260917221702.png",
-    "Pasted image 20260917205701.png",
-    "Pasted image 20260917205648.png",
-    "Pasted image 20260917205634.png",
-    "Pasted image 20260917205559.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260916231808.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922173238.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172549.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172544.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172227.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922161239.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922161219.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922155407.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260917221702.png",
+    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260917205701.png",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Notes for project.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
