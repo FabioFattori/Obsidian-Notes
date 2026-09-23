@@ -101,3 +101,8 @@ sublist(cons(H1, T1), List2) :-
 	sublist(T1, List2).
 ```
 ![[Pasted image 20260923191718.png]]
+![[Pasted image 20260923193332.png]]
+```prolog
+seqR (zero, nil).
+seqR (s(X), cons(X,T)) :-  seqR(X, T).
+```
