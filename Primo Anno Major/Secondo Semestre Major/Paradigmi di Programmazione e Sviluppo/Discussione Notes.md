@@ -90,3 +90,14 @@ all_bigger(cons(H1, T1), cons(H2, T2)) :-
 	H1 > H2,
 	all_bigger(T1, T2).
 ```
+![[Pasted image 20260923191445.png]]
+```prolog
+search(X, cons(X,_)).
+search(X, cons(_, Xs)) :- search(X, Xs).
+
+sublist(nil, _).
+sublist(cons(H1, T1), List2) :- 
+	search(H1, List2),
+	sublist(T1, List2).
+```
+![[Pasted image 20260923191718.png]]
