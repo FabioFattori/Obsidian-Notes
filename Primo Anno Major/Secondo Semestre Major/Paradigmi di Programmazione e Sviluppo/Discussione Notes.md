@@ -90,4 +90,3 @@ all_bigger(cons(H1, T1), cons(H2, T2)) :-
 	H1 > H2,
 	all_bigger(T1, T2).
 ```
-# PORCO DIO - SONO DA RIFARE ALCUNI ESERCIZI PERCHè BISOGNA USARE LA NOTAZIONE DI PEANO
