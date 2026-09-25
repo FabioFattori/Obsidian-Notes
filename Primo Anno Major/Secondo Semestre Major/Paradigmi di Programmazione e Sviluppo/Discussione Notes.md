@@ -7,7 +7,8 @@ Punti da sottolineare:
 - Utilizzo di Value Objects coerenti e significativi come return types 
 ## Gestione del Rendering 
 Qui si parla di più file, nello specifico di:
-- RendererMana
+- RendererManager
+- Painter (interfaccia) con implementazione concreta
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
