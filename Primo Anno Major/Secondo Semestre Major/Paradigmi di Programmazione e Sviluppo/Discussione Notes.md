@@ -1,3 +1,5 @@
+# File da Portare a far vedere
+
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
@@ -105,4 +107,14 @@ sublist(cons(H1, T1), List2) :-
 ```prolog
 seqR (zero, nil).
 seqR (s(X), cons(X,T)) :-  seqR(X, T).
+```
+![[Pasted image 20260925111422.png]]
+```prolog
+last(nil,X, cons(X, nil)).
+last(cons(H1, T1),X, cons(H1, T2)) :- last(T1, X, T2).
+
+seqR2(zero, nil).
+seqR2(s(X), List) :- 
+    seqR2(X, T),
+    last(T, X, List).
 ```
