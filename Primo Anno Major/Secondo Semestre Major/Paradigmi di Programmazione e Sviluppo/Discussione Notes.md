@@ -14,9 +14,10 @@ Cosa dire di buono:
 Questo flusso applica il pattern functional core / imperative shell al rendering: la generazione del piano di disegno è pura, completamente testabile, mentre l'unico punto di mutazione (l'interprete ScalaFX) è isolato e sostituibile senza toccare la logica di dominio.
 Da sottolineare come i colori siano estratti in maniera deterministica partendo dal TeamId della entity.
 **Alla domanda: poteva essere fatto meglio? / cosa miglioreresti?**
-Rispondo con due miglioramenti:
-1. i nomi portano il 
-# Prolog
+Rispondo con due miglioramenti alla soluzione attuale:
+1. i nomi portano il flusso (principalmente la parte di dominio) ad essere ambigua, potevano essere scelti dei nomi migliori
+2. è possibile un refactoring nella classe PaintArchitect creando una funzione privata che si occupi di fare il match sulla shape del locatable passato, ed in base ad essa eseguire due callback passate alla funzione stessa per eliminare la "duplicazione" strutturale presente nei due metodi `drawCircle` e `drawRectangle`.
+# Prolog 
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
 ![[Pasted image 20260916231932.png]]
