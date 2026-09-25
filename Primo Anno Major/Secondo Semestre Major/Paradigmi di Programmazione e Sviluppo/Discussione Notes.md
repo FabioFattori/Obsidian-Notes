@@ -10,6 +10,12 @@ Qui si parla di più file, nello specifico di:
 - (Logica di conversione da model a comando) RendererManager
 - (Generatore di comandi) Painter (interfaccia) con implementazione concreta PaintArchitect
 - (colui che effettivamente disegna su canvas) ShapePainter 
+Cosa dire di buono:
+Questo flusso applica il pattern functional core / imperative shell al rendering: la generazione del piano di disegno è pura, completamente testabile, mentre l'unico punto di mutazione (l'interprete ScalaFX) è isolato e sostituibile senza toccare la logica di dominio.
+Da sottolineare come i colori siano estratti in maniera deterministica partendo dal TeamId della entity.
+**Alla domanda: poteva essere fatto meglio? / cosa miglioreresti?**
+Rispondo con due miglioramenti:
+1. i nomi portano il 
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
