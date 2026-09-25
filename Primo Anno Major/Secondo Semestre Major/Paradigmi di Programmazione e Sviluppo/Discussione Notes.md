@@ -7,8 +7,9 @@ Punti da sottolineare:
 - Utilizzo di Value Objects coerenti e significativi come return types 
 ## Gestione del Rendering 
 Qui si parla di più file, nello specifico di:
-- RendererManager
-- Painter (interfaccia) con implementazione concreta PaintArchitect
+- (Logica di conversione da model a comando) RendererManager
+- (Generatore di comandi) Painter (interfaccia) con implementazione concreta PaintArchitect
+- (colui che effettivamente disegna su canvas) ShapePainter 
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
