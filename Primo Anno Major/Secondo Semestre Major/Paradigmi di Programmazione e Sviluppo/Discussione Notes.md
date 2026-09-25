@@ -1,6 +1,9 @@
 # File da Portare a far vedere
 ## EngineFacade
-
+Punti da sottolineare:
+- Purezza funzionale data dall'assenza di uno stato globale e side/hidden effects
+- Opaque type Session usato per incapsulare e non rendere disponibile un'implementazione concreta ai "client" che chiameranno l'api
+- 
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
