@@ -8,7 +8,7 @@ Punti da sottolineare:
 ## Gestione del Rendering 
 Qui si parla di più file, nello specifico di:
 - RendererManager
-- Painter (interfaccia) con implementazione concreta
+- Painter (interfaccia) con implementazione concreta PaintArchitect
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
