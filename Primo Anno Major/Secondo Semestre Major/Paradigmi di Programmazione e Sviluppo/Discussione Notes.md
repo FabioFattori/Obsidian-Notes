@@ -3,7 +3,11 @@
 Punti da sottolineare:
 - Purezza funzionale data dall'assenza di uno stato globale e side/hidden effects
 - Opaque type Session usato per incapsulare e non rendere disponibile un'implementazione concreta ai "client" che chiameranno l'api
-- 
+- Consistenza e coerenza con il resto del progetto tramite l'utilizzo di Either 
+- Utilizzo di Value Objects coerenti e significativi come return types 
+## Gestione del Rendering 
+Qui si parla di più file, nello specifico di:
+- RendererMana
 # Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
