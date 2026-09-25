@@ -1,11 +1,11 @@
-# File da Portare a far vedere
+# File Da Portare a far Vedere
 ## EngineFacade
 Punti da sottolineare:
 - Purezza funzionale data dall'assenza di uno stato globale e side/hidden effects
 - Opaque type Session usato per incapsulare e non rendere disponibile un'implementazione concreta ai "client" che chiameranno l'api
 - Consistenza e coerenza con il resto del progetto tramite l'utilizzo di Either 
 - Utilizzo di Value Objects coerenti e significativi come return types 
-## Gestione del Rendering 
+## Gestione Del Rendering
 Qui si parla di più file, nello specifico di:
 - (Logica di conversione da model a comando) RendererManager
 - (Generatore di comandi) Painter (interfaccia) con implementazione concreta PaintArchitect
@@ -17,11 +17,11 @@ Da sottolineare come i colori siano estratti in maniera deterministica partendo 
 Rispondo con due miglioramenti alla soluzione attuale:
 1. i nomi portano il flusso (principalmente la parte di dominio) ad essere ambigua, potevano essere scelti dei nomi migliori
 2. è possibile un refactoring nella classe PaintArchitect creando una funzione privata che si occupi di fare il match sulla shape del locatable passato, ed in base ad essa eseguire due callback passate alla funzione stessa per eliminare la "duplicazione" strutturale presente nei due metodi `drawCircle` e `drawRectangle`.
-## Unit ed Integration Tests di SaveTeamFormDialog
+## Unit Ed Integration Tests Di SaveTeamFormDialog
 Gli unit evidenziano come ho/abbiamo sfruttato gli `scoped access modifier` di scala per testare delle funzioni private dei form (ma anche di altri object) per realizzare gli unit in AAA.
 Mentre gli integration evidenziano il nostro approccio filosofico al testing della grafica, ovvero come per noi tutto ciò che deve interagire con il thread scalaFX (come mostrare un dialog) è integration dato che ha delle dipendenze esterne.
 Inoltre negli integration sono presenti anche gli snapshot test visuali e architetturali del dialog.
-# Prolog 
+# Prolog
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
 ![[Pasted image 20260916231932.png]]
