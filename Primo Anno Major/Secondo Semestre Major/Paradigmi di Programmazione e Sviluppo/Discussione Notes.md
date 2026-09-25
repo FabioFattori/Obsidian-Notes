@@ -18,7 +18,9 @@ Rispondo con due miglioramenti alla soluzione attuale:
 1. i nomi portano il flusso (principalmente la parte di dominio) ad essere ambigua, potevano essere scelti dei nomi migliori
 2. è possibile un refactoring nella classe PaintArchitect creando una funzione privata che si occupi di fare il match sulla shape del locatable passato, ed in base ad essa eseguire due callback passate alla funzione stessa per eliminare la "duplicazione" strutturale presente nei due metodi `drawCircle` e `drawRectangle`.
 ## Unit ed Integration Tests di SaveTeamFormDialog
-Gli unit evidenziano come ho sfruttato gli  
+Gli unit evidenziano come ho/abbiamo sfruttato gli `scoped access modifier` di scala per testare delle funzioni private dei form (ma anche di altri object) per realizzare gli unit in AAA.
+Mentre gli integration evidenziano il nostro approccio filosofico al testing della grafica, ovvero come per noi tutto ciò che deve interagire con il thread scalaFX (come mostrare un dialog) è integration dato che ha delle dipendenze esterne.
+Inoltre negli integration sono presenti anche gli snapshot test visuali e architetturali del dialog.
 # Prolog 
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
