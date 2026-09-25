@@ -17,6 +17,8 @@ Da sottolineare come i colori siano estratti in maniera deterministica partendo 
 Rispondo con due miglioramenti alla soluzione attuale:
 1. i nomi portano il flusso (principalmente la parte di dominio) ad essere ambigua, potevano essere scelti dei nomi migliori
 2. è possibile un refactoring nella classe PaintArchitect creando una funzione privata che si occupi di fare il match sulla shape del locatable passato, ed in base ad essa eseguire due callback passate alla funzione stessa per eliminare la "duplicazione" strutturale presente nei due metodi `drawCircle` e `drawRectangle`.
+## Unit ed Integration Tests di SaveTeamFormDialog
+Gli unit evidenziano come ho sfruttato gli  
 # Prolog 
 ## General Concepts
 ![[Pasted image 20260916231808.png]]
