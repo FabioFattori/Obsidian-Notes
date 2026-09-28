@@ -22,12 +22,6 @@ Gli unit evidenziano come ho/abbiamo sfruttato gli `scoped access modifier` di s
 Mentre gli integration evidenziano il nostro approccio filosofico al testing della grafica, ovvero come per noi tutto ciò che deve interagire con il thread scalaFX (come mostrare un dialog) è integration dato che ha delle dipendenze esterne.
 Inoltre negli integration sono presenti anche gli snapshot test visuali e architetturali del dialog.
 # Prolog
-## General Concepts
-![[Pasted image 20260916231808.png]]
-![[Pasted image 20260916231932.png]]
-### Abstract Syntax
-![[Pasted image 20260916232028.png]]
-![[Pasted image 20260916232240.png]]
 ### Real Syntax
 ![[Pasted image 20260916232953.png]]
 ![[Pasted image 20260917145508.png]]
