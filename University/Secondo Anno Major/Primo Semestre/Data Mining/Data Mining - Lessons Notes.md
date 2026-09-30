@@ -18,3 +18,4 @@
 ![[Pasted image 20260930170657.png]]
 ![[Pasted image 20260930170707.png]]
 Il prossimo stato è influenzato dallo stato precedete (caratteristica delle reti ricorrenti).
+![[Drawing 2026-09-30 17.14.49.excalidraw|1500]]![[Pasted image 20260930171755.png]]
