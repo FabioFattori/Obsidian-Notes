@@ -14,3 +14,7 @@
 ![[Pasted image 20260930162629.png]]
 ![[Pasted image 20260930163011.png]]
 ![[Pasted image 20260930163215.png]]
+![[Pasted image 20260930170649.png]]
+![[Pasted image 20260930170657.png]]
+![[Pasted image 20260930170707.png]]
+Il prossimo stato è influenzato dallo stato precedete (caratteristica delle reti ricorrenti).
