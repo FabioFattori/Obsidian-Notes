@@ -1,0 +1,83 @@
+---
+excalidraw-plugin: parsed
+tags: [excalidraw]
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+Esercizio 1. Realizzare (direttamente, senza fare trasformazioni) una espressione regolare che
+riconosca il seguente linguaggio L su alfabeto {0,1,a}. L contiene le stringhe xay con x e y
+stringhe non vuote su {0,1} che, interpretate come numero binario, danno lo stesso resto della
+divisione per 2 (cioè x e y sono entrambe pari o entrambe dispari). Ad esempio 1a1, 0a0, 0a00,
+0110a0, 10010a00110, 111a01101 appartengono al linguaggio, mentre ε, 0, 1, 1010, a, 0a, a0,
+1a, 1a0, 00a1, 00110a10011 non vi appartengono ^de1OFbZX
+
+Sono accettate le stringhe della forma di xay ^RfUqZEjo
+
+x ed y sono entrambi pari o entrambi dispari
+
+in binario per essere pari basta che il numero finisca con 0
+e dispari con 1
+
+quindi x ed y hanno la seguente forma:
+
+pari = (0+1)*0
+dispari = (0+1)*1
+
+quindi avremo che quando x ed y sono pari l'espressione sarà:
+
+E_pari = (0+1)*0 a (0+1)*0
+
+mentre la dispari sarà
+
+E_dispari = (0+1)*1 a (0+1)*1
+
+ora per ottenere l'espressione finale avremo che E_pari ∪ E_dispari
+
+E = ((0+1)*0 a (0+1)*0) | ((0+1)*1 a (0+1)*1) ^o1By29bX
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGAE5tHho6IIR9BA4oZm4AbXAwUDBSiBJuCGIEeIB5ADFNAC0ADTTSyFhESqgsKHayzG5nHgAOAHZtAGZxgFZ+MphhqdGA
+
+NhTZ8dH4nnmiyAoSdW4AFnH11cTE+M3x+JPRk5m9jqkEQmVpbh45hchrZTBbgABj+EGYUFIbAA1ggAMJsfBsUiVADE8RqmIGkE0uGw0OUUKEHGICKRKIkkOszDguECOWxEAAZoR8PgAMqwIESQQeRkQqGwgDqR0k3zBAphCE5MG56F5FTBRM+HHCeTQ8TBbFp2DUSw1wNB+wghOEcAAksR1ah8gBdMFM8hZS3cDhCNlgwgkrCVXCrRlEkmq5jWt0
+
+e41hBDEbjXeL3O6zRJgxgsdhcNA8M7JpisTgAOU4Ym4U0zUxmTymnuYABEMr1o2gmQQwmDNMISQBRYJZHKh934MFCODEXD17jxc6JH7A3bjKarUZgpH4qPcJv4FvG3qYfoSDthUSESxsVDxbSoABKISIRiMdIQqAAFI5AjJcD3etRUGEOHfUE3AgAHRychmCZZF9FwY8OEIABKVBiVwVBwjgQIQzTB9AmURF71QbBJAQYDSHMTg2GYPBUFZb8EGU
+
+IRsl6VAiA4WjolUE8ABlvyEVACCbTQECgNhgOAUFNVwABfc9OL0HJCGyB9gm/SEvU+B9MFwGA8M4VBMGQ1AYGAgUVII1AOG0+ghDYBjmG4kTqHicS8IIr8vV6UhUIE0dCI4PQslMoQsihVBNC9Ol2C/EcODMxiTwhNUTzQwTUGqNlcGAxwzFzVVUEQUheCfXU2AAC50vTNMEaL6KdficrC1AhNVED3xqxwaTC2DzwAQWIZCwn0OB2FPXBNVQYFcF
+
+BUbxtBYDgTjMaJviQ1FqmuavzjeJxrm+IeLgWlSF6ZjSJ4/BgKYljlDYr8P0CVBAFbgL8FrW2aJtwB7Xp46aOA2tbxoesaRqW5bFtm7azI4VAzB2vaDuwsyA0oAAVPpKn3JhdWPU9zyvAgjzvG7n0IV8og/BAvx/P8AIfKkwIgqC0zghCOCQlC0KyzCaJwm78O84iZLIiiqLCWj6IUlShFYwbOJs46+IEk87LEyTUGkzgoDk7LFKM5iTPUzSZNKh
+
+8DI4LXVNM8zLOs2zRMc7mXJyJgPKiBjfIfN1ApPEKmeItgIusaKkSU+LUESk8UvwNKSUITKMJyph8sfQqSt0w3vyOqrmofPbCHq5Cmv0FrCDa4iOtQbresyAaTw2gHfsmw1qBmuba+B5bAYWuNNsW7bcF2ukYaOghGLFiWfdQa6H3u0a1qexav3esa58+76homw1hr+puW9B8zs576HslhthGXAnJ2SPcReCNV4T6gep31ZfVUBeMptygTqiGUdN
+
+0GCJl+mzfbzAEHfh8L+0BtSMhklEL0TAXRoDDAOY0yIPihXwEjHcKMDzo0GmeS815ca4QJkTd8IsybZAprham4FSCQWggzRCvUPLoU4OzbC4cuYESIiRMy5EkKCxonRe2Q9mLiwupLLiMtcD8SSgragEkpJaVkvJRiD4TY6w0gog2+lDLKW1q7c2VkVFW3sjbZylF7buVfF5LSfk3ZMA9qFb2vsoongDnFEMCVwhJTDhHDKhcY65XjonTR5U055x
+
+qlnHO6d84PlalnEuZdwgV2wevOub166N1bk9Z6K1Z6ng7iDWaUM+4HwHvgIR51LpjyqhPB609TzPTnm9ReDcvrvQ2qvf6G8gaAzNuDSGe9imHThmCXAQhBJXlYEYC+65NyvCYggAAEu8T4u5Ma7DBJIUIaCoDsS9NCNczYEBFHEgsEoZQKgSAvEyAAqgARyaB2AAVkfMEXQL7QGRmCIYaARijFGNMX4xpH7OFmCcDYWwdjPwOKKU4JwwXAimIkVY
+
+cZtirBOMCVY6zjQEQ+F8DMUKIAAjlFfMokpYRkmRGiDE1KkCtjxASQMpJESUspOQY2e16LH1ZByLk7yFTRglJCKUIpiDHAzIKwU0peWVH5QGYQKo1Tji1DqPU4567GlNEOS01o7QOidAgWB/lwyvC9NUb56BcDjDlcSYgwY+zGtJQgVcGZDQnB4FMGciQCUpiytwBc/8soFh8hfJImxkXxFWIiqstZghjkbIc1s7ZiBdkyPRe1CDXhDhHHG08k5p
+
+wlgRVMAly5YQNn/AmrcyMJDsgHtgMQb4GKax0abbx/5abJWzrreGFBtmVBrdFPE9anYKRUc2kyraqGQQ7TpDSx9VZnymd8ElkAb5330A/bgBLX7AM/pUH+f9jQpjVu4HdoDBJwAgarXA0DSCGvgVqYi/gCC9urbWodVim3EV0clII4c23UKQo4GdSwRljLYBM8+3BIR0SXNApZuLVlnixa8TZzBtm7I4Ps+NG4jmlBOUUM5kALnoDYPEAAQjAHgi
+
+RNBtFefAd5r9GTmpGIkYEAKCWP3ddocYbr4gTAJYcUVYo0CrFmOsXY2wJyrDmBCvg2Lll4qfshsoRKL7LvBEK8lzKKToHRJiDEjJcT4k1SSClOnoBsqLpyh03KZRynBIiRUEZNMIBFWK3gEqpR2b5Y5gVxplSSDtUqxBKrYBqvU5qi0VoCj2mNI6Yhd7+yem9OawloxrVBkVXApLEYnVlqSJik4NwivjADWmTdmYyv5kLBfWYoxgRbFWNJpMxpC4
+
+xoEs68tOHE02pTR+dNg5hxeXy3m8YPAdhIuuEuNgK4y0zNJpW9BEhk49RCZVMJ2cIkniiSFDtRdCDAWAl6YKDjBoBLVEwTOdVcQQiQtzSiZTbFBRZDBHhGjgTARiYXCJ+t4iHY4LcoQprO3IVW6gTZzjGJISFgIhik7cDIH+xEgAvE+YEABqeIsEABUH3I77dQKjx8GOsfY7+xwYCgPgc8XoIEfQJ57uA+sMQE8K39Kp2ihE/AAByFmaoY7MDpAA
+
+A8RxTjgHYAD6KO0eY5x8CHiMvSd4+AuPKHe2ImC9IEL/7kvYl1SJyTnH3dFdG/+8iJCASrIHUu4xXnNJWYxxewQB8uBaeZAZyZSXETABURKgXX32wo68J0+YnsvccK9D0r+CAAfEPhuycR/j1j7tL70Bs7W9tjbtViKRKz3r4i/3juezCiec7IYbcRJu1EJyD4qJPZPC9wuFF9Z46+wT37/2qeRwNmDiH/tof8JFv+yCovgLS8j3L9KAec8G7D+T
+
+ynQPu+u7px7h8TOSSs9B+ziqpe6o8750w7KmuRc66l/rk34ekIT9x/91Xf78/Z2P6fh/wfr/G7f2b8gsc8pW/kjdff9u/OzC/4KCLubu9ONefuZ+Oevu/u+2QeRO1+8uV+8ewIMecec+iec+sEc6p8kGLqDoqsa6G6aAW6fQp6e6CAv8jIR6gC+AFBlI4CYIkC16qot6Za96iCj6KCqeEA6eHOmeVI+cm2dUgh1U2cD+he4Mxe3s3+vUB4V2OeVe
+
+d2JkdeAUdiIBr2ze2kre6udUHeYuXeQG/BfeLiA+wsgi8Oo+HA4+qBU+BOs+pO8+AOi+QGy+7ukB6+LOPe2+R0XOdujCbM34wu1hXu5+SBWBSut+1SauL+T+YucBthmBKBc+n+Fuccv+bBCkARDuwBTuik7hEB92YRMBUBkhCRr+ERKRUeqAsej4b+kRRuOBoG4y4Q+BqA0GC2cycGCmiGGwGyWyfQGGWGXWYQxy4AsW/wu0nIXk3AZy0ABEWQe6
+
+CGAwDAckFAZG9KJmTK5IaITI+xBxqx2AIg9IUA5ovQ+gnIkqZmVK+mtKRQEAxxpApx5xmQmxxmjKNxrK1IHKDICwjxJx9Erx+g9Qtm0qPIvmRxgJOQwJVxwqMK4qDxTxLxFxcJsI3mMqkJ/xyJQJFxF48qgWWWp42J0JZxFxtQoWj8wMJJzxuJmQ9QRB98+Aj8z8AJtJMJFxDJeBi6BBSJpJwJ2yDB38VBB6ZQOJHJmQMx+0nUzxbAFABEuAHBOW
+
+Yp/JFxHYJIMpUI8pIQZahKspVANJKJmQmpcpCM9GlQjKUJ7JZJ9J+q+JconBpK2AUIbIbQaARWbGmKrJ5ELp+AAAmt8HCtxrxvxv8UYGwAYHMYegQHROOMcoaXSfoPiTakFhIJaf8YSCQAuhfDwCSiaMRMQJyAgBeqQRmQWQALJsDVDqmSLBBzYVplCZk7EsqoCEYQBkaIi6mkDKC4iPjjala8AThfj9kPTaCzDNHGhXi0RsIWk9m4B9kerDmLm8
+
+DLlsbjkQDxl8nWlokIAUlqycADYPHxZZBXjehfrKBRmvDZC1mdadHMFEAlkdGkAwbGhMxLFoB3mIJjLzJQbPldFlCQSkCwikB5jEK/kvmvCAXAU1maB1ngW4ZgD4ZlB2CPIIDYC5DshMxwCVnVlMywWdbzb/F4hqyMAIwRn4CXkvzmk8gZDoXlbMFCAQgGBmndDZYOqQAloEUNllCOgGDsi0X7lfyEXGjhwQidR0WkXkWuj9ibllCtQ3kIj2w7jl
+
+nZBCAHI4bgBIXMisjhBzHiQgDiRAA===
+```
+%%

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥗",
       "⛏",
       "LiPickaxe",
       "🌕",
-      "LiImages",
-      "LiWarehouse"
+      "LiImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -53,37 +53,37 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Terzo anno Triennale": {
-    "iconName": "LiGraduationCap",
-    "iconColor": "#00e1ff"
-  },
-  "Terzo anno Triennale/Tesi Shit": "LiNewspaper",
-  "Terzo anno Triennale/Data Intensive Notes": "LiDatabase",
   "Code Interviews Concepts": "🗣",
   "Code Interviews Concepts/OOP": "🔱",
   "Random Notes": "☔",
-  "Primo Anno Major/Primo Semestre Major": "📚",
-  "Primo Anno Major/Primo Semestre Major/Distributed System": "🌳",
-  "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": {
+  "ProjectWithDiegoNotes": "LiWarehouse",
+  "University/Terzo anno Triennale": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "#00e1ff"
+  },
+  "University/Terzo anno Triennale/Data Intensive Notes": "LiDatabase",
+  "University/Terzo anno Triennale/Tesi Shit": "LiNewspaper",
+  "University/Secondo Anno Major": "🌕",
+  "University/Secondo Anno Major/Primo Semestre": "🥗",
+  "University/Secondo Anno Major/Primo Semestre/Data Mining": {
+    "iconName": "LiPickaxe",
+    "iconColor": "#fba004"
+  },
+  "University/Primo Anno Major": "🌓",
+  "University/Primo Anno Major/Secondo Semestre Major": "🥙",
+  "University/Primo Anno Major/Primo Semestre Major": "📚",
+  "University/Primo Anno Major/Secondo Semestre Major/CyberSecurity": "LiShieldCheck",
+  "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita": "LiGitCompareArrows",
+  "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo": "LiCode",
+  "University/Primo Anno Major/Primo Semestre Major/Distributed System": "🌳",
+  "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali": {
     "iconName": "LiAtom",
     "iconColor": "#44ff00"
   },
-  "Primo Anno Major/Primo Semestre Major/Machine Learning": {
+  "University/Primo Anno Major/Primo Semestre Major/Sistemi Informativi": "LiInfo",
+  "University/Primo Anno Major/Primo Semestre Major/Machine Learning": {
     "iconName": "LiWashingMachine",
     "iconColor": "#00ff00"
   },
-  "Primo Anno Major/Primo Semestre Major/Sistemi Informativi": "LiInfo",
-  "Primo Anno Major/Secondo Semestre Major": "🥙",
-  "Primo Anno Major": "🌓",
-  "Primo Anno Major/Secondo Semestre Major/CyberSecurity": "LiShieldCheck",
-  "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo": "LiCode",
-  "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita": "LiGitCompareArrows",
-  "ProjectWithDiegoNotes": "LiWarehouse",
-  "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs": "LiImages",
-  "Secondo Anno Major": "🌕",
-  "Secondo Anno Major/Primo Semestre": "LiPickaxe",
-  "Secondo Anno Major/Primo Semestre/Data Mining": {
-    "iconName": "LiPickaxe",
-    "iconColor": "#fba004"
-  }
+  "University/Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs": "LiImages"
 }
