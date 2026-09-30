@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "19e38d58ddb47e35",
+            "id": "81473369694e15db",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -34,8 +34,21 @@
               "icon": "lucide-file-text",
               "title": "1"
             }
+          },
+          {
+            "id": "f4cc9017cbf7a8d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 17.14.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-30 17.14.49.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,10 +210,12 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "6fb810d0891581a4",
+  "active": "f4cc9017cbf7a8d5",
   "lastOpenFiles": [
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 17.14.49.excalidraw.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 15.49.03.excalidraw.md",
     "Pasted image 20260930170707.png",
     "Pasted image 20260930170657.png",
     "Pasted image 20260930170649.png",
@@ -211,7 +226,6 @@
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930162629.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930162215.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930161607.png",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 15.49.03.excalidraw.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Non confermato 92486.crdownload",
     "University",
@@ -244,7 +258,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
     "University/Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
     "University/Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Senza nome.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
