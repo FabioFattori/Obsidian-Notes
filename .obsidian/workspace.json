@@ -11,10 +11,14 @@
             "id": "6fb810d0891581a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Data Mining - Lessons Notes"
             }
           }
         ]
@@ -179,8 +183,14 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "active": "6fb810d0891581a4",
   "lastOpenFiles": [
+    "Secondo Anno Major/Primo Semestre/Senza nome.canvas",
+    "Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
+    "Secondo Anno Major/Primo Semestre/Data Mining",
+    "Secondo Anno Major/Senza nome.md",
+    "Secondo Anno Major/Primo Semestre",
+    "Secondo Anno Major",
     "conflict-files-obsidian-git.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Notes for project.md",
     "Random Notes/pps/Drawing 2026-07-21 00.44.34.excalidraw.md",
@@ -202,9 +212,6 @@
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
     "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Studio di Fattibilità.pdf",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Integrazione.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps/event-system-engineering-notes.md",
@@ -224,8 +231,6 @@
     "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
     "Senza nome.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
