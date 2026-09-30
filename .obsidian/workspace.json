@@ -24,15 +24,15 @@
             }
           },
           {
-            "id": "cffda7e56e80a9a3",
+            "id": "19e38d58ddb47e35",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf"
+                "file": "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Module III"
+              "title": "1"
             }
           }
         ],
@@ -198,10 +198,13 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "cffda7e56e80a9a3",
+  "active": "19e38d58ddb47e35",
   "lastOpenFiles": [
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Non confermato 92486.crdownload",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930153747.png",
     "University",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides",
@@ -222,11 +225,8 @@
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172549.png",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172544.png",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172227.png",
-    "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922161239.png",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.1] Concurrent Programming - Introduction.pdf",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps/event-system-engineering-notes.md",
