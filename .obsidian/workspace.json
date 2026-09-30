@@ -10,6 +10,7 @@
           {
             "id": "6fb810d0891581a4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Data Mining - Lessons Notes"
             }
+          },
+          {
+            "id": "cffda7e56e80a9a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Module III"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +198,14 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "cffda7e56e80a9a3",
   "lastOpenFiles": [
-    "University",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf",
+    "University",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides",
     "Secondo Anno Major/Primo Semestre/Senza nome.canvas",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining",
     "Secondo Anno Major/Senza nome.md",
     "University/Secondo Anno Major/Primo Semestre",
@@ -212,7 +227,6 @@
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.1] Concurrent Programming - Introduction.pdf",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/slides/01-quality.pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/slides/00-DISI_Cyber-2526_Course_introduction.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps/event-system-engineering-notes.md",
