@@ -7,6 +7,16 @@
 ![[Drawing 2026-10-05 13.31.38.excalidraw|1500]]
 ### MapReduce with combiners
 > Un combiner è una funzione che pre-aggrega i dati prima di fare l'aggregazione fra macchine diverse (pre-aggregazione fatta su una singola macchina)
+
 ![[Pasted image 20261005133443.png]]
 ![[Pasted image 20261005133612.png]]
-
+Un altro vantaggio è il fatto che, dato che i dati intermedi vengono salvati su disco della macchina, si risparmia dello spazio.
+#### Problemi
+##### Non Associatività
+![[Pasted image 20261005133909.png]]
+![[Pasted image 20261005133919.png]]
+##### Non Commutatività
+![[Pasted image 20261005134011.png]]
+![[Pasted image 20261005134020.png]]
+#### Partioning map output
+![[Pasted image 20261005134111.png]]
