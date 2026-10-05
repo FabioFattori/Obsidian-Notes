@@ -49,3 +49,7 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 ![[Pasted image 20261005142325.png]]
 ## Yarn - Yet Another Resource Negotiator
 ![[Pasted image 20261005142414.png]]
+### Main Deamons 
+![[Pasted image 20261005142609.png]]
+![[Pasted image 20261005142800.png]]
+> L'RM non gestisce effettivamente un'applicazione ma bensì la gestisce l'AMP 
