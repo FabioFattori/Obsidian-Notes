@@ -66,4 +66,14 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 
 ![[Pasted image 20261005144445.png]]
 ### Execution
-![[Pasted image 20261005145024.png]]
+> Chill l'importante è sapere a grandi linee cosa succede, è andato veloce su ste slide
+![[Pasted image 20261005145024.png]]![[Pasted image 20261005145036.png]]
+![[Pasted image 20261005145044.png]]
+![[Pasted image 20261005145052.png]]
+![[Pasted image 20261005145104.png]]![[Pasted image 20261005145111.png]]
+![[Pasted image 20261005145214.png]]
+#### Failures
+![[Pasted image 20261005145154.png]]
+#### Runtime
+![[Pasted image 20261005145227.png]]
+## Now the State of the Art is Spark (Standard DeFacto)
