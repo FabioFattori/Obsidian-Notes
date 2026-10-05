@@ -52,4 +52,7 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 ### Main Deamons 
 ![[Pasted image 20261005142609.png]]
 ![[Pasted image 20261005142800.png]]
-> L'RM non gestisce effettivamente un'applicazione ma bensì la gestisce l'AMP 
+> L'RM non gestisce effettivamente un'applicazione ma bensì la gestisce l'AMP. 
+> L'RM manda il CODICE all'AMP dell'applicazione che deve runnare, così che poi l'AMP possa autogestirsi, se ha bisogno di risorse chiede ad RM mandando il codice 
+
+![[Pasted image 20261005143429.png]]
