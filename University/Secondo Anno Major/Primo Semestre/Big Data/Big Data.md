@@ -30,4 +30,5 @@ Un altro vantaggio è il fatto che, dato che i dati intermedi vengono salvati su
 > La more reasonable solution funziona meglio proprio quando c'è la skewness.
 
 QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la situa, in ogni caso vale quello che viene detto sopra dopo il titolo arancione.
-### 
+### Final Picture
+![[Pasted image 20261005140147.png]]
