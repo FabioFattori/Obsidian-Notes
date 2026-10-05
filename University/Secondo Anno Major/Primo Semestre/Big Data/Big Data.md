@@ -61,5 +61,8 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 #### Scheduler
 ![[Pasted image 20261005143806.png]]
 ## Hadoop's Map Reduce
-> The implementation of MapReduce in the Hadoop framework
+> The implementation of MapReduce in the Hadoop framework.
+> Hadoop MapReduce is an open-source implementation of the MapReduce programming model.
+
+![[Pasted image 20261005144445.png]]
 
