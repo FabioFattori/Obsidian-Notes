@@ -49,10 +49,17 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 ![[Pasted image 20261005142325.png]]
 ## Yarn - Yet Another Resource Negotiator
 ![[Pasted image 20261005142414.png]]
-### Main Deamons 
+### Main Deamons
 ![[Pasted image 20261005142609.png]]
 ![[Pasted image 20261005142800.png]]
 > L'RM non gestisce effettivamente un'applicazione ma bensì la gestisce l'AMP. 
-> L'RM manda il CODICE all'AMP dell'applicazione che deve runnare, così che poi l'AMP possa autogestirsi, se ha bisogno di risorse chiede ad RM mandando il codice 
+> L'RM manda il CODICE all'AMP dell'applicazione che deve runnare, così che poi l'AMP possa autogestirsi, se ha bisogno di risorse chiede ad RM mandando il codice da eseguire e l'RM lo instraderà verso delle macchine available.
 
+![[Pasted image 20261005143706.png]]
+![[Pasted image 20261005143715.png]]
 ![[Pasted image 20261005143429.png]]
+#### Scheduler
+![[Pasted image 20261005143806.png]]
+## Hadoop's Map Reduce
+> The implementation of MapReduce in the Hadoop framework
+
