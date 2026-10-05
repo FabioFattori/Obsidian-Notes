@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -202,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +221,10 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "7a4b52b313f2a11b",
+  "active": "4d87698ad783eb80",
   "lastOpenFiles": [
+    "Pasted image 20261005134609.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 4 MapReduce.pdf",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005132716.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Drawing 2026-10-05 13.31.38.excalidraw.md",
@@ -233,8 +237,6 @@
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005133612.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005133443.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted Image 20261005133139_825.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005132836.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 4 MapReduce.pdf",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides/Non confermato 428081.crdownload",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs",
