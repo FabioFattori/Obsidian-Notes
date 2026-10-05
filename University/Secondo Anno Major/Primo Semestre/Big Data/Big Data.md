@@ -32,3 +32,15 @@ Un altro vantaggio è il fatto che, dato che i dati intermedi vengono salvati su
 QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la situa, in ogni caso vale quello che viene detto sopra dopo il titolo arancione.
 ### Final Picture
 ![[Pasted image 20261005140147.png]]
+### MapReduce Algorithms
+![[Pasted image 20261005141640.png]]
+#### Filtering Algorithms
+![[Pasted image 20261005141651.png]]
+![[Pasted image 20261005141831.png]]
+#### Summarization Algorithms
+![[Pasted image 20261005141711.png]]
+![[Pasted image 20261005141823.png]]
+#### Join
+![[Pasted image 20261005141744.png]]![[Pasted image 20261005141758.png]]
+##### Sort
+![[Pasted image 20261005141813.png]]
