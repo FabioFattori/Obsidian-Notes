@@ -22,7 +22,8 @@ Un altro vantaggio è il fatto che, dato che i dati intermedi vengono salvati su
 ![[Pasted image 20261005134111.png]]
 ![[Pasted image 20261005134318.png]]
 ![[Pasted image 20261005134609.png]]
-> Uno sbilancio tra il numero di chiavi presenti nei DB può accadere 
+> Uno sbilancio tra il numero di chiavi presenti nei DB può accadere.
+> Questa situazione prende il nome di **[Skewness](https://search.brave.com/search?q=skewness&source=desktop&conversation=09a5cf475c0e10f01ad11b0a5d530cc409bd)**.
 
 ### Number of Reduce Tasks
 ![[Pasted image 20261005134931.png]]
