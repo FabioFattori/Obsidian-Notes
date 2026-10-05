@@ -65,4 +65,5 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 > Hadoop MapReduce is an open-source implementation of the MapReduce programming model.
 
 ![[Pasted image 20261005144445.png]]
-
+### Execution
+![[Pasted image 20261005145024.png]]
