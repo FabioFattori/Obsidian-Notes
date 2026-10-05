@@ -44,11 +44,13 @@
           {
             "id": "7a4b52b313f2a11b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 4 MapReduce.pdf"
               },
+              "pinned": true,
               "icon": "lucide-file-text",
               "title": "BigData 4 MapReduce"
             }
@@ -200,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,25 +219,25 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "4d87698ad783eb80",
+  "active": "7a4b52b313f2a11b",
   "lastOpenFiles": [
-    "Pasted image 20261005134111.png",
-    "Pasted image 20261005134020.png",
-    "Pasted image 20261005134011.png",
-    "Pasted image 20261005133919.png",
-    "Pasted image 20261005133909.png",
-    "Pasted image 20261005133612.png",
-    "Pasted image 20261005133443.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Drawing 2026-10-05 13.31.38.excalidraw.md",
-    "Pasted Image 20261005133139_825.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005132716.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
-    "Pasted image 20261005132836.png",
-    "Pasted image 20261005132716.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Drawing 2026-10-05 13.31.38.excalidraw.md",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005134318.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005134111.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005134020.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005134011.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005133919.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005133909.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005133612.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005133443.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted Image 20261005133139_825.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005132836.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 4 MapReduce.pdf",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides/Non confermato 428081.crdownload",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930163011.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
