@@ -44,3 +44,8 @@ QUINDI come lo scelgo sto numero? a cazzo di cane bel, vai a tentoni e vedi la s
 ![[Pasted image 20261005141744.png]]![[Pasted image 20261005141758.png]]
 ##### Sort
 ![[Pasted image 20261005141813.png]]
+### Two Stage MapReduce
+![[Pasted image 20261005142317.png]]
+![[Pasted image 20261005142325.png]]
+## Yarn - Yet Another Resource Negotiator
+![[Pasted image 20261005142414.png]]
