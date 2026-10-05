@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabaseZap",
       "🏫",
       "🥗",
       "⛏",
-      "LiPickaxe",
-      "🌕"
+      "LiPickaxe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -86,5 +86,9 @@
     "iconColor": "#00ff00"
   },
   "University/Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs": "LiImages",
-  "University": "🏫"
+  "University": "🏫",
+  "University/Secondo Anno Major/Primo Semestre/Big Data": {
+    "iconName": "LiDatabaseZap",
+    "iconColor": "#9900ff"
+  }
 }

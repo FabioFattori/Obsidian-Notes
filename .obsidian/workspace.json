@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a37b00e0cf7c0c02",
+        "id": "9752e157f0939749",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb810d0891581a4",
+            "id": "4d87698ad783eb80",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
+                "file": "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Data Mining - Lessons Notes"
-            }
-          },
-          {
-            "id": "81473369694e15db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1"
+              "title": "Big Data"
             }
           }
         ]
@@ -199,23 +185,26 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "6fb810d0891581a4",
+  "active": "4d87698ad783eb80",
   "lastOpenFiles": [
-    "Pasted image 20260930173826.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/slides",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930163011.png",
+    "University/Secondo Anno Major/Primo Semestre/Big Data",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
-    "Pasted image 20260930172622.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930173826.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930172622.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 17.14.49.excalidraw.md",
-    "Pasted image 20260930171755.png",
-    "Pasted Image 20260930171547_635.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930171755.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted Image 20260930171547_635.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 15.49.03.excalidraw.md",
-    "Pasted image 20260930170707.png",
-    "Pasted image 20260930170657.png",
-    "Pasted image 20260930170649.png",
-    "Pasted image 20260930163215.png",
-    "Pasted image 20260930163011.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930170707.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930170657.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930170649.png",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930163215.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930160304.png",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Pasted image 20260930162618.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Non confermato 92486.crdownload",
     "University",
@@ -224,13 +213,10 @@
     "Secondo Anno Major/Primo Semestre/Senza nome.canvas",
     "University/Secondo Anno Major/Primo Semestre/Data Mining",
     "Secondo Anno Major/Senza nome.md",
-    "University/Secondo Anno Major/Primo Semestre",
-    "University/Secondo Anno Major",
     "conflict-files-obsidian-git.md",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Notes for project.md",
     "Random Notes/pps/Drawing 2026-07-21 00.44.34.excalidraw.md",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps/event-system-engineering-notes.md",
