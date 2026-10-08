@@ -26,3 +26,7 @@
 ## DSL Engineering
 ### Semantics
 ![[Pasted image 20261008110517.png]]
+### Converting DSL into runnable code
+![[Pasted image 20261008111555.png]]
+### External vs. internal DSL
+![[Pasted image 20261008111628.png]]
