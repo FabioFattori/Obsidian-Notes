@@ -200,7 +200,6 @@
       "canvas:Crea nuova lavagna": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "markdown-importer:Apri importazione Markdown": false,
       "bases:Crea nuova Base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
