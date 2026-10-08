@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🥖",
       "LiDatabaseZap",
       "🏫",
       "🥗",
-      "⛏",
-      "LiPickaxe"
+      "⛏"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -90,5 +90,6 @@
   "University/Secondo Anno Major/Primo Semestre/Big Data": {
     "iconName": "LiDatabaseZap",
     "iconColor": "#9900ff"
-  }
+  },
+  "University/Secondo Anno Major/Primo Semestre/Software Process Engineering": "🥖"
 }

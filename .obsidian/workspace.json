@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9752e157f0939749",
+        "id": "3cf99f7b99e6e58a",
         "type": "tabs",
         "children": [
           {
-            "id": "4d87698ad783eb80",
+            "id": "70354b8bf8c05520",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Big Data"
-            }
-          }
-        ]
-      },
-      {
-        "id": "411e1676ddb33aa2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48c9a479db7a2c17",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 6 Batch applications.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "BigData 6 Batch applications"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -206,33 +180,34 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145024.png",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/web-shed.png",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/sheduler-metamodel.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/metamodelling-architecture.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/metamodelling-architecture-example.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/dot-example.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/book-metamodel.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/Software Process Engineering.md",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/zoom.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/xtext-pipeline.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/tex-svg.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reveal.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reveal.css",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reset.css",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/plantuml.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/object-assign.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/notes.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/mermaid.min.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/lsp.svg",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/ecore-core.svg",
     "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145227.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145214.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145154.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145111.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145104.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145052.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145044.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145036.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005142414.png",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 6 Batch applications.pdf",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/Non confermato 228589.crdownload",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 4 MapReduce.pdf",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Pasted image 20261005145024.png",
     "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Drawing 2026-10-05 13.31.38.excalidraw.md",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/Non confermato 428081.crdownload",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs",
-    "University/Secondo Anno Major/Primo Semestre/Big Data",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 17.14.49.excalidraw.md",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 15.49.03.excalidraw.md",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Module III.pdf",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/Non confermato 92486.crdownload",
     "Secondo Anno Major/Primo Semestre/Senza nome.canvas",
     "Secondo Anno Major/Senza nome.md",
     "conflict-files-obsidian-git.md",
@@ -253,7 +228,6 @@
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
     "University/Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
