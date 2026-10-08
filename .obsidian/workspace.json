@@ -11,10 +11,14 @@
             "id": "70354b8bf8c05520",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/Software Process Engineering.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Software Process Engineering"
             }
           }
         ]
@@ -180,8 +184,10 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "70354b8bf8c05520",
   "lastOpenFiles": [
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Where The Slides Are.md",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/xtext-pipeline.svg",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/web-shed.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/sheduler-metamodel.svg",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/metamodelling-architecture.svg",
@@ -191,7 +197,6 @@
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/Software Process Engineering.md",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/zoom.js",
-    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/xtext-pipeline.svg",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/tex-svg.js",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reveal.js",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reveal.css",
@@ -227,7 +232,6 @@
     "University/Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
-    "University/Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
