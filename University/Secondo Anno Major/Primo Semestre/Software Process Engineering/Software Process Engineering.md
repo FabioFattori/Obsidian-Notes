@@ -37,3 +37,4 @@
 ![[Pasted image 20261008111955.png]]
 ### So the LLMs can substitute the DSL? io di solito faccio un mix
 ![[Pasted image 20261008112631.png]]
+![[Pasted image 20261008113139.png]]
