@@ -11,15 +11,18 @@
 
 ## Why Are Meta-models so Important?
 ![[Pasted image 20261008102852.png]]
-### Meta-model hierarchy
+### Meta-model Hierarchy
 ![[Pasted image 20261008103312.png]]
 ![[Pasted image 20261008103324.png]]
 ![[Pasted image 20261008103505.png]]
-### Static Semantics, what a meta model cannot say
+### Static Semantics, what a Meta Model Cannot Say
 ![[Pasted image 20261008103854.png]]
-### About code generation from models
+### About Code Generation from Models
 ![[Pasted image 20261008104632.png]]
-#### Domain Specific Languages examples
+#### Domain Specific Languages Examples
 ![[Pasted image 20261008104706.png]]
 ##### Benefits of DSL
 ![[Pasted image 20261008104724.png]]
+## DSL Engineering
+### Semantics
+![[Pasted image 20261008110517.png]]
