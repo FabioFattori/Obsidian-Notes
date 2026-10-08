@@ -17,3 +17,9 @@
 ![[Pasted image 20261008103505.png]]
 ### Static Semantics, what a meta model cannot say
 ![[Pasted image 20261008103854.png]]
+### About code generation from models
+![[Pasted image 20261008104632.png]]
+#### Domain Specific Languages examples
+![[Pasted image 20261008104706.png]]
+##### Benefits of DSL
+![[Pasted image 20261008104724.png]]
