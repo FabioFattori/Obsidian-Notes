@@ -30,3 +30,8 @@
 ![[Pasted image 20261008111555.png]]
 ### External vs. internal DSL
 ![[Pasted image 20261008111628.png]]
+#### Key aspects of internal
+![[Pasted image 20261008111840.png]]
+![[Pasted image 20261008111929.png]]
+## DSL in LLM era 
+![[Pasted image 20261008111955.png]]
