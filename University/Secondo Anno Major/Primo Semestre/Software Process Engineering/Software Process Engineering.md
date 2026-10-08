@@ -15,3 +15,5 @@
 ![[Pasted image 20261008103312.png]]
 ![[Pasted image 20261008103324.png]]
 ![[Pasted image 20261008103505.png]]
+### Static Semantics, what a meta model cannot say
+![[Pasted image 20261008103854.png]]
