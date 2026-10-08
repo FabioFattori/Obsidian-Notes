@@ -11,3 +11,7 @@
 
 ## Why Are Meta-models so Important?
 ![[Pasted image 20261008102852.png]]
+### Meta-model hierarchy
+![[Pasted image 20261008103312.png]]
+![[Pasted image 20261008103324.png]]
+![[Pasted image 20261008103505.png]]
