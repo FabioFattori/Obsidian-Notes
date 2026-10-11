@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f17c8bd6d701feea",
+        "id": "3cf99f7b99e6e58a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d8273a0dfe2ebd",
+            "id": "70354b8bf8c05520",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
+                "file": "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/Software Process Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Discussione Notes"
+              "title": "Software Process Engineering"
             }
           }
         ]
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectWithDiegoNotes/Possibili Funzionalità.md",
+                "file": "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Possibili Funzionalità"
+              "title": "Struttura di CyberSecurity"
             }
           },
           {
@@ -170,11 +170,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markitdown:Convert to Markdown": false,
       "switcher:Apri selettore rapido": false,
       "daily-notes:Apri nota giornaliera": false,
       "graph:Apri vista grafo": false,
@@ -183,56 +183,59 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markitdown:Convert to Markdown": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "active": "70354b8bf8c05520",
   "lastOpenFiles": [
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260923191445.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260925111422.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260925111407.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260923193332.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260923191718.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260916231808.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922173238.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172549.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172544.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/imgs/Pasted image 20260922172227.png",
-    "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Notes for project.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity_merged.pdf",
+    "Pasted image 20261008114714.png",
+    "Pasted image 20261008113139.png",
+    "Pasted image 20261008112631.png",
+    "Pasted image 20261008111955.png",
+    "Pasted image 20261008111929.png",
+    "Pasted image 20261008111859.png",
+    "Pasted image 20261008111840.png",
+    "Pasted image 20261008111628.png",
+    "Pasted image 20261008111555.png",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103312.png",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/Software Process Engineering.md",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008110517.png",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Drawing 2026-10-08 10.25.07.excalidraw.md",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Where The Slides Are.md",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/zoom.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/tex-svg.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reveal.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reveal.css",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/reset.css",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/plantuml.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/object-assign.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/notes.js",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development_files/mermaid.min.js",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/Big Data.md",
+    "University/Secondo Anno Major/Primo Semestre/Big Data/imgs/Drawing 2026-10-05 13.31.38.excalidraw.md",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/Data Mining - Lessons Notes.md",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 17.14.49.excalidraw.md",
+    "University/Secondo Anno Major/Primo Semestre/Data Mining/imgs/Drawing 2026-09-30 15.49.03.excalidraw.md",
+    "Secondo Anno Major/Primo Semestre/Senza nome.canvas",
+    "Secondo Anno Major/Senza nome.md",
+    "conflict-files-obsidian-git.md",
+    "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Notes for project.md",
+    "Random Notes/pps/Drawing 2026-07-21 00.44.34.excalidraw.md",
+    "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
+    "University/Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Paradigmi di Programmazione e Sviluppo.md",
     "Random Notes/pps/scene-engineering-thinking-board.md",
     "Random Notes/pps/event-system-engineering-notes.md",
-    "Random Notes/pps/PPS notes and \"mockup\".md",
+    "Random Notes/pps/Senza nome.md",
     "Random Notes/pps/PPS documentation skeleton.md",
-    "Random Notes/pps/Drawing 2026-07-21 00.44.34.excalidraw.md",
-    "Random Notes/pps",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/imgs",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/libro toStudy.pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018)).pdf",
-    "Primo Anno Major/Secondo Semestre Major/CyberSecurity/Theory/er Libro aka er mattone (Stallings, William_ Brown, Lawrie - Computer Security_ Principles and Practice-Pearson Education Limited (2018))-1-170.pdf",
-    "ProjectWithDiegoNotes/imgs",
+    "Random Notes/pps/PPS notes and \"mockup\".md",
+    "University/Primo Anno Major/Secondo Semestre Major/CyberSecurity/CyberSecurity.md",
+    "Random Notes/Preventivo Soul Pida.md",
+    "Random Notes/Distributed project proposal.md",
+    "Code Interviews Concepts/OOP/Principi OOP.md",
+    "University/Primo Anno Major/Secondo Semestre Major/CyberSecurity/How to prepare for exam.md",
     "ProjectWithDiegoNotes/Possibili Funzionalità.md",
-    "ProjectWithDiegoNotes",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/Appunti.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/imgs",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Appunti X Esame.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Orale/ToStudy.md",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/slides/Todo/IngegneriadeiProcessi.pdf",
-    "Primo Anno Major/Primo Semestre Major/Modalità d'esame.md",
-    "Primo Anno Major/Primo Semestre Major/Sistemi Informativi/Sistemi Informativi Notes.md",
-    "Senza nome.md",
-    "conflict-files-obsidian-git.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 1.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Drawings/drawing 2.md",
-    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/Concetti.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONFA2.md",
-    "Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/Drawing 2026-01-27 21.04.32.excalidraw.md"
+    "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
