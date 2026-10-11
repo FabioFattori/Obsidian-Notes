@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc3539f73840ec3",
+        "id": "2b05113da96305d6",
         "type": "tabs",
         "children": [
           {
-            "id": "8c5de0238997ac5e",
+            "id": "d358e3ece3e2cf1f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Random Notes/Piano Secondo Anno Major.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Piano Secondo Anno Major"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -182,11 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8c5de0238997ac5e",
+  "active": "ef605dff0dc83cd1",
   "lastOpenFiles": [
-    "Random Notes/Senza nome.md",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008111555.png",
+    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008111859.png",
     "Random Notes/Piano Secondo Anno Major.md",
-    "Pasted image 20261008111555.png",
+    "Random Notes/Senza nome.md",
     "Primo Anno Major/Secondo Semestre Major/Paradigmi di Programmazione e Sviluppo/Discussione Notes.md",
     "University/Primo Anno Major/Primo Semestre Major/Machine Learning/imgs/27_10_2025/reti feed and ricorrenti.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/esRandom/ltsTONfa.md",
@@ -210,7 +209,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es1.md",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008110517.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104724.png",
