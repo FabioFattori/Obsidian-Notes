@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +182,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "8c5de0238997ac5e",
   "lastOpenFiles": [
     "Random Notes/Senza nome.md",
     "Random Notes/Piano Secondo Anno Major.md",
