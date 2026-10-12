@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b05113da96305d6",
+        "id": "97636914bfe8a894",
         "type": "tabs",
         "children": [
           {
-            "id": "d358e3ece3e2cf1f",
+            "id": "97849bd6d1c24df9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Modulo 1"
             }
           }
         ]
@@ -180,8 +184,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "active": "97849bd6d1c24df9",
   "lastOpenFiles": [
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1",
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008111555.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008111859.png",
     "Random Notes/Piano Secondo Anno Major.md",
@@ -208,7 +215,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es2.md",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008110517.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104724.png",
@@ -218,7 +224,6 @@
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103854.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103505.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103324.png",
-    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103312.png",
     "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 6 Batch applications.pdf",
     "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 4 MapReduce.pdf",
@@ -227,7 +232,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es2",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/LL1",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }

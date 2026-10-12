@@ -23,7 +23,7 @@ A livello rigoroso per Speed independence assumption si intende:
 ![[Screenshot 2026-02-20 alle 10.48.52.png]]
 ![[Screenshot 2026-02-20 alle 10.47.55.png]]
 
-### Come Calcolare Il Numero Di Scenari in Base Al Numero Di Processi Ed Il Numero Di Azioni Che Essi Hanno (Poco importante)
+### Come Calcolare Il Numero Di Scenari in Base Al Numero Di Processi Ed Il Numero Di Azioni Che Essi Hanno (Poco iMportante)
 ![[Screenshot 2026-02-20 alle 10.52.32.png]]
 ## Strutture Non Atomiche
 La parola "atomico" può essere definito sia alle **azioni** ma anche alle **strutture dati**.
