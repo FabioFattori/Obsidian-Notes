@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97636914bfe8a894",
+        "id": "717a9461dd7fa051",
         "type": "tabs",
         "children": [
           {
-            "id": "97849bd6d1c24df9",
+            "id": "9dbbf706b4439690",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Modulo 1"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -184,8 +180,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "97849bd6d1c24df9",
+  "active": "9dbbf706b4439690",
   "lastOpenFiles": [
+    "file:/home/fabio/Scaricati/PCD-assigment-v2/doc/documentation.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
@@ -214,7 +211,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es4.md",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2017-01-13/es3.md",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008110517.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104724.png",
