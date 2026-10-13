@@ -32,4 +32,4 @@
 	- the flow of the program is designed around data flows and the propagation of change
 ### Multi-Core CPU Architecture - Core Types
 ![[Pasted image 20261013123311.png]]
-> Riparti da pagina 23 del primo PDF
+## Flynn's 
