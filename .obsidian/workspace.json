@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +211,7 @@
   "lastOpenFiles": [
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.1] Concurrent Programming - Introduction.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
+    "Pasted image 20261013123311.png",
     "Pasted image 20261013122146.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "file:/Users/fabio/Downloads/FoodRescue_Markdown_v0.1/FoodRescue_Specifiche_Progetto_v0.1.md",
@@ -254,7 +254,6 @@
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104632.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104605.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103854.png",
-    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103505.png",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
