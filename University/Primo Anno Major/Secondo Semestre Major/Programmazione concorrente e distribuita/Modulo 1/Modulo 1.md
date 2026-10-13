@@ -113,7 +113,15 @@ Two basic class of problems:
 such as:
 #### Deadlock
 ![[Pasted image 20261013223912.png]]
-#### Starvation (or unfairness)
+#### Starvation (Or uNfairness)
 ![[Pasted image 20261013223924.png]]
 #### Livelock
 ![[Pasted image 20261013223941.png]]
+### Concurrent Languages And Concurrent Machines
+> A ***concurrent language*** is a programming language that enables programmers to write down programs as set of instructions to be executed concurrently
+
+> A ***concurrent machine*** is a machine that can run the concurrent language, so is a machine (which can be abstract) designed to handle the execution of multiple sequential processes, by exploiting multiple processors (physical or virtual)
+
+#### Concurrent Machines
+![[Pasted image 20261013224531.png]]
+#### Basic Mechanisms
