@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "244ddf3fd7f8c5a9",
+        "id": "4a61eb77a3fa220c",
         "type": "tabs",
         "children": [
           {
-            "id": "0173b1f18c92cd70",
+            "id": "eac90dc9dbb4b0c0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/Users/fabio/Downloads/FoodRescue_Markdown_v0.1/FoodRescue_Specifiche_Progetto_v0.1.md",
+                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "FoodRescue_Specifiche_Progetto_v0.1"
+              "title": "Modulo 1"
             }
           }
         ]
@@ -184,8 +186,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0173b1f18c92cd70",
+  "active": "0c68e30dac42d4ee",
   "lastOpenFiles": [
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
+    "file:/Users/fabio/Downloads/FoodRescue_Markdown_v0.1/FoodRescue_Specifiche_Progetto_v0.1.md",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/Project Proposal.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.1] Concurrent Programming - Introduction.pdf",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/slides",
@@ -199,7 +203,6 @@
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides",
     "file:/home/fabio/Scaricati/PCD-assigment-v2/doc/documentation.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008111555.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008111859.png",
     "Random Notes/Piano Secondo Anno Major.md",
