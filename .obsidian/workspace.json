@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -206,11 +205,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9dbbf706b4439690",
+  "active": "0173b1f18c92cd70",
   "lastOpenFiles": [
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
+    "Pasted image 20261013214147.png",
     "Pasted image 20261013214106.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.1] Concurrent Programming - Introduction.pdf",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "Pasted image 20261013214005.png",
     "Pasted image 20261013213528.png",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/media/image4.png",
@@ -219,12 +219,10 @@
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/media/image1.png",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/media/799277799_18469818388115959_3563788787123411252_n.jpg",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/media/768679815_18464671318115959_7398180066008208696_n.jpg",
-    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/media/505443202_18396467926115959_2074978408196801276_n.jpg",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/media",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/FoodRescue_Specifiche_Progetto_v0.1.md",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261013123311.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.5] Visual Formalisms.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.4] Elements of Concurrent Programs Design.pdf",

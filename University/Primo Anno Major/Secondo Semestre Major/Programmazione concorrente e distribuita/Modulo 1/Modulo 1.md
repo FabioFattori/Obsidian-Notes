@@ -64,3 +64,7 @@ This category can also be subdivided based on the memory organization:
 ![[Pasted image 20261013214005.png]]
 ### Amdahl's Law
 ![[Pasted image 20261013214106.png]]
+![[Pasted image 20261013214147.png]]
+- We can improve performances by adding processors only for those parts that can run in parallel, not for sequential parts => strong impact on performances of sequential parts
+
+> But sequential parts are often needed for correctness
