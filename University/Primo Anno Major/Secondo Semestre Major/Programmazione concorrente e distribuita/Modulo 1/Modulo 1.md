@@ -55,4 +55,7 @@ This category can also be subdivided based on the memory organization:
 - **Distributed Memory**
 	each process (processor) has its own address space and communicate with other process by message passing (sending and receiving messages)
 	- Massively Parallel Processors (**MPP**)
-		
+		![[Pasted image 20261013213528.png]]
+	- **Clusters**
+		Distributed-memory
+	- **Grid**
