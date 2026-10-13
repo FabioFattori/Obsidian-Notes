@@ -72,4 +72,18 @@ This category can also be subdivided based on the memory organization:
 ![[Pasted image 20261013214703.png]]
 ### Memory Bottleneck
 ![[Pasted image 20261013214750.png]]
-# Concurrent Programming as a paradigm
+# Concurrent Programming as a Paradigm
+![[Pasted image 20261013222713.png]]
+![[Pasted image 20261013222647.png]]
+## Process Interaction
+![[Pasted image 20261013222746.png]]
+### Cooperation
+> Refers to interactions which are both expected and wanted, they are part of the semantics of the concurrent program
+
+Two kinds:
+- ***Communication***
+	![[Pasted image 20261013223007.png]]
+- ***Synchronisation***
+	![[Pasted image 20261013223022.png]]
+### Contention/Competition
+> 
