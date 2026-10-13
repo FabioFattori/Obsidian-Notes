@@ -57,5 +57,10 @@ This category can also be subdivided based on the memory organization:
 	- Massively Parallel Processors (**MPP**)
 		![[Pasted image 20261013213528.png]]
 	- **Clusters**
-		Distributed-memory
+		Distributed-memory systems composed of off-the-shelf computers connected by off-the-shelfs network
 	- **Grid**
+		Systems that use distributed, heterogeneous resources connected by LAN and/or by WAN, without a common point of administration
+## Why Concurrent Programming => PERFORMANCE
+![[Pasted image 20261013214005.png]]
+### Amdahl's Law
+![[Pasted image 20261013214106.png]]
