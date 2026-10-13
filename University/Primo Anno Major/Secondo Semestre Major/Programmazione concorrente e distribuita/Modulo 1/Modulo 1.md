@@ -32,4 +32,16 @@
 	- the flow of the program is designed around data flows and the propagation of change
 ### Multi-Core CPU Architecture - Core Types
 ![[Pasted image 20261013123311.png]]
-## Flynn's 
+## Flynn's Taxonomy (Categorization system)
+> Computer systems are categorized according to the number of instruction stream and data stream on whose they can operate with. 
+
+There are 4 possibilities:
+### Single Instruction, Single Data (SISD)
+Von-Neumann model, single processor computers 
+### Single Instruction, Multiple Data (SIMD)
+Single instraction stream concurrently broadcasted to multiple processors, each with its own data stream.
+Fine grained parallelism, vector processors
+### Multiple Instruction, Single Data (MISD)
+No well known system fit this Category, lol.
+### Multiple Instruction, Multiple Data (MIMD)
+Each processor has it's own data stream 
