@@ -103,3 +103,17 @@ Two basic class of problems:
 > Mutual-exclusion is meaningless if no shared data is involved
 
 ![[Pasted image 20261013223525.png]]
+### Interferences
+![[Pasted image 20261013223643.png]]
+#### Race Conditions
+![[Pasted image 20261013223737.png]]
+### Critical Situations
+> Interferences and errors in concurrent programs can lead to critical situations for the concurrent system in the overall
+
+such as:
+#### Deadlock
+![[Pasted image 20261013223912.png]]
+#### Starvation (or unfairness)
+![[Pasted image 20261013223924.png]]
+#### Livelock
+![[Pasted image 20261013223941.png]]
