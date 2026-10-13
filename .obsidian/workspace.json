@@ -24,6 +24,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "c1099e3a2a92a32e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9605dac64b4f1ceb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.1] Concurrent Programming - Introduction.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "[module-1.1] Concurrent Programming - Introduction"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -170,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +208,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c68e30dac42d4ee",
+  "active": "9605dac64b4f1ceb",
   "lastOpenFiles": [
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Programmazione concorrente e distribuita.md",
     "file:/Users/fabio/Downloads/FoodRescue_Markdown_v0.1/FoodRescue_Specifiche_Progetto_v0.1.md",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/Project Proposal.md",
@@ -195,7 +218,6 @@
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/slides",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/imgs",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.5] Visual Formalisms.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.4] Elements of Concurrent Programs Design.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.3] Process Interaction and Coordination.pdf",
