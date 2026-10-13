@@ -16,3 +16,17 @@
 - a concurrent program specifies two or more sequential programs that may be executed concurrently as parallel processes
 ### Terminology
 ![[Pasted image 20261013122146.png]]
+## Concurrency Paradigms/Architectures
+- Multi-threaded programming
+	- shared state
+	- need of a synchronisation mechanism such as semaphores, monitors ecc...
+- Message-based programming
+	- no shared state
+	- interaction by means of message exchange
+- Event-driven programming
+	- An action generates an event which will be dispatched, so the execution of the program is dictated by the events themselfs 
+- Asynchronous programming 
+	- A synchronous program with some asynchronous actions and requests, which will be handled by future mechanisms and/or callbacks
+	- never blocking dogma
+- Reactive programming
+	- 
