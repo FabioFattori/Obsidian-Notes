@@ -29,4 +29,5 @@
 	- A synchronous program with some asynchronous actions and requests, which will be handled by future mechanisms and/or callbacks
 	- never blocking dogma
 - Reactive programming
-	- 
+	- the flow of the program is designed around data flows and the propagation of change
+#### Multi-Core CPU architecture and 
