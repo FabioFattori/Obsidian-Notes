@@ -1,5 +1,6 @@
 {
   "hiddenProperties": [],
+  "markdownProperties": [],
   "propertyPillColors": {},
   "propertyLongtextColors": {},
   "tagColors": {},
@@ -8,8 +9,14 @@
   "enableCover": true,
   "bannerProperty": "banner",
   "iconProperty": "icon",
-  "coverProperty": "cover",
-  "extraCoverProperties": [],
+  "coverProperties": [
+    {
+      "property": "cover",
+      "format": ""
+    }
+  ],
+  "coverShapeProperty": "cover_shape",
+  "coverPositionProperty": "cover_position",
   "bannerHeight": 150,
   "bannerHeightMobile": 100,
   "bannerHeightPopover": 100,
@@ -20,26 +27,24 @@
   "coverDefaultWidth2": 250,
   "coverDefaultWidth3": 300,
   "coverMaxHeight": 500,
+  "coverMaxHeightTopBottom": 400,
+  "coverMaxHeightMobile": 200,
+  "coverMaxHeightTopBottomCanvas": 200,
   "coverVerticalWidth": 200,
   "coverHorizontalWidth": 300,
   "coverSquareWidth": 250,
   "coverCircleWidth": 250,
   "coverMaxWidthPopover": 150,
+  "coverMaxWidthCanvas": 150,
   "progressProperties": {},
-  "allTasksCount": "tasks",
-  "completedTasksCount": "tasks_completed",
-  "uncompletedTasksCount": "tasks_uncompleted",
-  "completedTasksStatuses": [
-    "x"
-  ],
-  "uncompletedTasksStatuses": [
-    " "
-  ],
   "bannersFolder": "",
   "coversFolder": "",
   "showColorSettings": false,
   "showTextColorSettings": false,
   "showHiddenSettings": false,
+  "showHiddenEmptySettings": false,
+  "showExtraFormattings": false,
+  "showMdProperties": false,
   "iconsFolder": "",
   "iconSize": 70,
   "iconTopMargin": 70,
@@ -52,11 +57,8 @@
   "iconColor": "",
   "iconColorDark": "",
   "iconBackground": false,
-  "enableBases": false,
   "bannerPositionProperty": "banner_position",
   "addPillPadding": "all",
-  "addBaseTagColor": true,
-  "enableTasksCount": true,
   "enableColorButtonInBases": false,
   "customDateFormat": "",
   "customDateTimeFormat": "",
@@ -64,21 +66,8 @@
   "enableCustomDateFormatInBases": false,
   "enableRelativeDateColors": false,
   "settingsTab": "BANNERS",
-  "enableTaskNotesCount": false,
-  "allTNTasksCount": "tn_tasks",
-  "completedTNTasksCount": "tn_tasks_completed",
-  "uncompletedTNTasksCount": "tn_tasks_uncompleted",
-  "allTNProjectTasksCount": "tn_project_tasks",
-  "completedTNProjectTasksCount": "tn_project_tasks_completed",
-  "uncompletedTNProjectTasksCount": "tn_project_tasks_uncompleted",
-  "allTNInlineTasksCount": "tn_inline_tasks",
-  "completedTNInlineTasksCount": "tn_inline_tasks_completed",
-  "uncompletedTNInlineTasksCount": "tn_inline_tasks_uncompleted",
-  "allTNAndCheckboxTasksCount": "tn_and_checkbox_tasks",
-  "completedTNAndCheckboxTasksCount": "tn_and_checkbox_tasks_completed",
-  "uncompletedTNAndCheckboxTasksCount": "tn_and_checkbox_tasks_uncompleted",
+  "propertyFormats": {},
   "enableColoredProperties": true,
-  "enableColoredInlineTags": false,
   "nonLatinTagsSupport": false,
   "enableColorButton": true,
   "propertySearchKey": "Ctrl",
@@ -86,11 +75,8 @@
   "iconSizeMobile": 70,
   "iconSizePopover": 50,
   "hidePropertiesInPropTab": false,
-  "autoTasksCount": true,
-  "enableColoredTagsInTagPane": false,
   "mathProperties": [],
   "enableMath": false,
-  "dataVersion": 1,
   "dateColors": {
     "past": {
       "pillColor": "default",
@@ -108,5 +94,98 @@
   "coverPosition": "left",
   "enableBannersInPopover": false,
   "enableIconsInPopover": false,
-  "enableCoversInPopover": false
+  "enableCoversInPopover": false,
+  "hideAllEmptyProperties": false,
+  "hiddenWhenEmptyProperties": [],
+  "iconInTitle": false,
+  "titleIconSize": 30,
+  "titleTextIconMatchTitleSize": true,
+  "imageLinkFormat": "link",
+  "hideMetadataContainerIfAllPropertiesHiddenEditing": false,
+  "hideMetadataContainerIfAllPropertiesHiddenReading": false,
+  "autoHidePropertiesWithBanner": false,
+  "hideCoverCollapsed": false,
+  "hidePropTitle": false,
+  "hideAddPropertyButton": false,
+  "dontShowColorMigrationMessage": false,
+  "propertyColors": {},
+  "propertyColorSettingRevealed": "",
+  "coverClassesMigrated2": true,
+  "propertySelectOptions": {},
+  "enablePropertySearch": true,
+  "enableSetNNColors": false,
+  "enableSetPPColorsFromNN": false,
+  "extraColors": [],
+  "themeColors": [
+    {
+      "name": "red",
+      "enabled": true
+    },
+    {
+      "name": "orange",
+      "enabled": true
+    },
+    {
+      "name": "yellow",
+      "enabled": true
+    },
+    {
+      "name": "green",
+      "enabled": true
+    },
+    {
+      "name": "cyan",
+      "enabled": true
+    },
+    {
+      "name": "blue",
+      "enabled": true
+    },
+    {
+      "name": "purple",
+      "enabled": true
+    },
+    {
+      "name": "pink",
+      "enabled": true
+    },
+    {
+      "name": "accent",
+      "enabled": true
+    }
+  ],
+  "showThemeColors": false,
+  "showExtraColors": false,
+  "showProgressBars": false,
+  "showSelectionButtons": false,
+  "propertySelectSettingRevealed": "",
+  "allTasksCount": "tasks",
+  "completedTasksCount": "tasks_completed",
+  "uncompletedTasksCount": "tasks_uncompleted",
+  "completedTasksStatuses": [
+    "x"
+  ],
+  "uncompletedTasksStatuses": [
+    " "
+  ],
+  "enableBases": false,
+  "addBaseTagColor": true,
+  "enableTasksCount": true,
+  "enableTaskNotesCount": false,
+  "allTNTasksCount": "tn_tasks",
+  "completedTNTasksCount": "tn_tasks_completed",
+  "uncompletedTNTasksCount": "tn_tasks_uncompleted",
+  "allTNProjectTasksCount": "tn_project_tasks",
+  "completedTNProjectTasksCount": "tn_project_tasks_completed",
+  "uncompletedTNProjectTasksCount": "tn_project_tasks_uncompleted",
+  "allTNInlineTasksCount": "tn_inline_tasks",
+  "completedTNInlineTasksCount": "tn_inline_tasks_completed",
+  "uncompletedTNInlineTasksCount": "tn_inline_tasks_uncompleted",
+  "allTNAndCheckboxTasksCount": "tn_and_checkbox_tasks",
+  "completedTNAndCheckboxTasksCount": "tn_and_checkbox_tasks_completed",
+  "uncompletedTNAndCheckboxTasksCount": "tn_and_checkbox_tasks_uncompleted",
+  "enableColoredInlineTags": false,
+  "autoTasksCount": true,
+  "enableColoredTagsInTagPane": false,
+  "dataVersion": 1
 }

@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "717a9461dd7fa051",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9dbbf706b4439690",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Modulo 1"
-            }
-          }
-        ]
-      },
-      {
         "id": "244ddf3fd7f8c5a9",
         "type": "tabs",
         "children": [
@@ -33,12 +11,14 @@
             "id": "0173b1f18c92cd70",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.1] Concurrent Programming - Introduction.pdf"
+                "file": "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/Project Proposal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "[module-1.1] Concurrent Programming - Introduction"
+              "icon": "lucide-file",
+              "title": "Project Proposal"
             }
           }
         ]
@@ -206,8 +186,12 @@
   },
   "active": "0173b1f18c92cd70",
   "lastOpenFiles": [
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.1] Concurrent Programming - Introduction.pdf",
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/Project Proposal.md",
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/slides",
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/imgs",
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction",
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.5] Visual Formalisms.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.4] Elements of Concurrent Programs Design.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.3] Process Interaction and Coordination.pdf",
@@ -239,8 +223,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es4.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es3.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es2.md",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/2025-2-11/es1.md",
-    "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/slides/Model Driven Development.html",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008110517.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104724.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008104706.png",
@@ -249,8 +231,6 @@
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103854.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103505.png",
     "University/Secondo Anno Major/Primo Semestre/Software Process Engineering/imgs/Pasted image 20261008103324.png",
-    "University/Secondo Anno Major/Primo Semestre/Data Mining/slides/1.pdf",
-    "University/Secondo Anno Major/Primo Semestre/Big Data/slides/BigData 6 Batch applications.pdf",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
