@@ -86,4 +86,20 @@ Two kinds:
 - ***Synchronisation***
 	![[Pasted image 20261013223022.png]]
 ### Contention/Competition
-> 
+> Refers to interactions which are expected and necessary, but not wanted.
+> Typically concerns the need of coordinating the access by multiple processes to shared resources.
+
+Two basic class of problems:
+- ***Mutual Exclusion***
+	>ruling the access to shared resources by distinct processes
+- ***Critical Sections***
+	> ruling the concurrent execution of blocks of actions by distinct processes
+
+#### Mutual Exclusion VS Synchronisation
+> ***synchronisation*** defines a timing relationship among processes.
+> 	Maintaining time-relationships which includes actions happening at the same time or happening at the same relative rate or simply some action having to occur before another (precedence relationships).
+
+> ***mutual-exclusion*** defines a restriction on access to shared data.
+> Mutual-exclusion is meaningless if no shared data is involved
+
+![[Pasted image 20261013223525.png]]
