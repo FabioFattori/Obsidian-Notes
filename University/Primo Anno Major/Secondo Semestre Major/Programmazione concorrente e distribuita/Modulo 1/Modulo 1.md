@@ -125,3 +125,7 @@ such as:
 #### Concurrent Machines
 ![[Pasted image 20261013224531.png]]
 #### Basic Mechanisms
+![[Pasted image 20261013224623.png]]
+##### Concurrent Programming Languages - Design Approaches
+![[Pasted image 20261013224723.png]]
+> continua dal secondo PDF, PRIMO PDF FINITO!!!
