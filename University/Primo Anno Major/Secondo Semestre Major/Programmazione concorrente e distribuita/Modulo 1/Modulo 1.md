@@ -32,7 +32,7 @@
 	- the flow of the program is designed around data flows and the propagation of change
 ### Multi-Core CPU Architecture - Core Types
 ![[Pasted image 20261013123311.png]]
-## Flynn's Taxonomy (Categorization system)
+## Flynn's Taxonomy (Categorization sYstem)
 > Computer systems are categorized according to the number of instruction stream and data stream on whose they can operate with. 
 
 There are 4 possibilities:
@@ -44,4 +44,15 @@ Fine grained parallelism, vector processors
 ### Multiple Instruction, Single Data (MISD)
 No well known system fit this Category, lol.
 ### Multiple Instruction, Multiple Data (MIMD)
-Each processor has it's own data stream 
+Each processor has it's own stream of instructions operating on its own data.
+This category can also be subdivided based on the memory organization:
+- **Shared Memory**
+	all processes (processors) share a single address space and communicate each other by writing and reading shared variables
+	- Symmetric Multi-processing Architecture (**SMP**)
+		All processors share a connection to a common memory and access all location memories at equal speed
+	- Non-Uniform Memory Access (**NUMA**)
+		The memory is shared, some blocks of memory may be physically more closely associated with some processors than others. 
+- **Distributed Memory**
+	each process (processor) has its own address space and communicate with other process by message passing (sending and receiving messages)
+	- Massively Parallel Processors (**MPP**)
+		
