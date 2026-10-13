@@ -8,4 +8,11 @@
 ## Concurrent Programming
 > Building programs in which multiple computational activities overlap in time and tipically interact in some way.
 ### Concurrent Program
-> finite set of sequential programs 
+> Finite set of sequential programs that can execute in parallel.
+> The execution of a concurrent program is called concurrent computation or elaboration.
+
+- A sequential program specifies sequential execution of a list of statements
+- The execution of a sequential program is called **process**
+- a concurrent program specifies two or more sequential programs that may be executed concurrently as parallel processes
+### Terminology
+![[Pasted image 20261013122146.png]]
