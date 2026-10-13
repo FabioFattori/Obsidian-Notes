@@ -68,3 +68,8 @@ This category can also be subdivided based on the memory organization:
 - We can improve performances by adding processors only for those parts that can run in parallel, not for sequential parts => strong impact on performances of sequential parts
 
 > But sequential parts are often needed for correctness
+## Efficiency
+![[Pasted image 20261013214703.png]]
+### Memory Bottleneck
+![[Pasted image 20261013214750.png]]
+# Concurrent Programming as a paradigm
