@@ -293,3 +293,15 @@ Nel trasferimento sincrono devono essere pronti entrambi; la comunicazione asinc
 ![[Pasted image 20261014170457.png]]
 ![[Pasted image 20261014170612.png]]
 ## Monitor
+> Livello più altro dei semafori:
+> incapsulano stato condiviso, procedure di accesso e politica di coordinamento.
+> Le variabili interne sono protette e i processi esterni usano le procedure pubbliche.
+> Al massimo una procedura per monitor è attiva alla volta, quindi la mutua esclusione è implicita; monitor differenti possono procedere contemporaneamente
+
+![[Pasted image 20261014171137.png]]
+### Condition Variables
+![[Pasted image 20261014171305.png]]
+#### Semaforo VS Condition Variable
+> il semaforo può conservare segnali come permessi.
+> una condition variable non memorizza una segnalazione emessa in assenza di sospesi, La ripresa richiede anche di poter eseguire nel monitor.
+
