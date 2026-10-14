@@ -227,3 +227,7 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014114718.png]]
 ### Next Operator
 ![[Pasted image 20261014114816.png]]
+### Binary Operators
+![[Pasted image 20261014115642.png]]
+![[Pasted image 20261014115655.png]]
+### Overtaking
