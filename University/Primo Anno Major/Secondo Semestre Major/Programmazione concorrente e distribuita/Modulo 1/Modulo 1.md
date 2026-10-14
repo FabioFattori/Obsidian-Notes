@@ -260,3 +260,4 @@ A formal specification language, based on simple discrete math (set theory and p
 Used to specify and verify complex real-world systems.
 ##### TLA+ Spec
 ![[Pasted image 20261014135014.png]]
+> Continua dal riassuntone.
