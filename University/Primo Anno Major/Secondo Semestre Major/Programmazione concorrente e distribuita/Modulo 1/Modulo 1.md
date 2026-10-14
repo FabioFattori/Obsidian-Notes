@@ -198,37 +198,40 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014110359.png]]
 #### Bakery Algorithm
 ![[Pasted image 20261014110509.png]]
-### About Correctness: Verification VS Testing
+## About Correctness: Verification VS Testing
 ![[Pasted image 20261014110653.png]]
-#### Tests: Liveness and Safety
+### Tests: Liveness and Safety
 ![[Pasted image 20261014110757.png]]
-##### Problems of Testing
+#### Problems of Testing
 > Typically checking only a subset of the scenarios.
 > "heisenbugs" phenomenon => test code can introduce timing or synchronisation artefacts that can mask bugs.
 
 ![[Pasted image 20261014111019.png]]
-##### Formal Methods
+#### Formal Methods
 ![[Pasted image 20261014111147.png]]
-###### CORRECTNESS PROPERTIES IN PROPOSITION CALCULUS
+##### CORRECTNESS PROPERTIES IN PROPOSITION CALCULUS
 ![[Drawing 2026-10-14 11.37.13.excalidraw|1500|2000]]
 ![[Pasted image 20261014113241.png]]
-### Temporal Logic
+#### Temporal Logic
 > Processes and systems change their state over the time, and then also the interpretation of formulae about their state can change over the time
 
 ![[Pasted image 20261014114201.png]]
-#### LTL: Temporal Operators
+##### LTL: Temporal Operators
 ![[Pasted image 20261014114417.png]]
 ##### Basic Properties
 ![[Pasted image 20261014114434.png]]
 ![[Pasted image 20261014114552.png]]
 #### Specifying Safety Properties
 ![[Pasted image 20261014114651.png]]
-#### Specifying Safety Properties
+#### Specifying Liveness Properties
 ![[Pasted image 20261014114718.png]]
-### Next Operator
+#### Next Operator
 ![[Pasted image 20261014114816.png]]
-### Binary Operators
+#### Binary Operators
 ![[Pasted image 20261014115642.png]]
 ![[Pasted image 20261014115655.png]]
-### Overtaking
+#### Overtaking
 ![[Pasted image 20261014115817.png]]
+##### K-Boundend Overtaking Property
+> from the time a process p attempts to enter its critical section, another process can enter at most k times before p does.
+## Verification Tecniques: Model checking 

@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.89453125,
-    "collapsed": true
+    "width": 550.89453125
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -224,9 +223,9 @@
   },
   "active": "9dbbf706b4439690",
   "lastOpenFiles": [
-    "Pasted image 20261014115817.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
+    "Pasted image 20261014115817.png",
     "Pasted image 20261014115655.png",
     "Pasted image 20261014115642.png",
     "Pasted image 20261014114816.png",
@@ -238,7 +237,6 @@
     "Pasted image 20261014114201.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Drawing 2026-10-14 11.37.13.excalidraw.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Calcolo_proposizionale_Excalidraw.excalidraw",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261014110103.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Drawing 2026-10-14 11.33.36.excalidraw.md",
     "file:/Users/fabio/Downloads/Riassunto_Programmazione_Concorrente_Moduli_1_3_1_4_1_5.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.5] Visual Formalisms.pdf",
