@@ -370,5 +370,7 @@ Può impiegare un bag of tasks o strutture di creazione e attesa.
 > Sono strumenti per requisiti, analisi, design e, se formalizzati, verifica.
 
 ## Petri's Net
-### Struttura 
+### Struttura
 ![[Pasted image 20261014230303.png]]
+### Regole di Firing e non determinismo
+![[Pasted image 20261014230602.png]]
