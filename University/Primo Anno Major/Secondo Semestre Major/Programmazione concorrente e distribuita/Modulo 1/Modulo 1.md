@@ -242,4 +242,10 @@ Another way is by using algorithms using solely basic atomic statements.
 - Spin
 	> Widely used model-checker, extremely efficient, used in modelling and designing concurrent and distribuited systems in general
 - Promela
-	> 
+	> is the language used in Spin to write concurrent programs modelling, it has a limited number of constructs intended to be used to build models of concurrent systems.
+##### JPF
+Is a special JVM executing programs theoretically along all possible scenarios (execution paths), checking for property violations.
+### Verification Techniques: Inductive Proof of Invariants
+![[Pasted image 20261014134442.png]]
+#### Safety and Liveness Property Verification
+> A Safety property must be true at all states
