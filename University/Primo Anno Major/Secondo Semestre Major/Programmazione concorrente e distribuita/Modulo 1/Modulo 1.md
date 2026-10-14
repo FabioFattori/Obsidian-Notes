@@ -133,3 +133,5 @@ such as:
 
 The Model can be visualized in a diagrammatical way for program design, formal models for program analysis and verification.
 ![[Pasted image 20261014094437.png]]
+## A Model for concurrent program execution
+![[Pasted image 20261014094933.png]]
