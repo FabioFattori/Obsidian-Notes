@@ -226,3 +226,4 @@ Another way is by using algorithms using solely basic atomic statements.
 #### Specifying Safety Properties
 ![[Pasted image 20261014114718.png]]
 ### Next Operator
+![[Pasted image 20261014114816.png]]
