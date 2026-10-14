@@ -210,5 +210,10 @@ Another way is by using algorithms using solely basic atomic statements.
 ##### Formal Methods
 ![[Pasted image 20261014111147.png]]
 ###### CORRECTNESS PROPERTIES IN PROPOSITION CALCULUS
-![[Drawing 2026-10-14 11.37.13.excalidraw|1500]]
+![[Drawing 2026-10-14 11.37.13.excalidraw|1500|2000]]
 ![[Pasted image 20261014113241.png]]
+### Temporal Logic
+> Processes and systems change their state over the time, and then also the interpretation of formulae about their state can change over the time
+
+![[Pasted image 20261014114201.png]]
+#### LTL: Temporal Operators

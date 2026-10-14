@@ -22,18 +22,6 @@
               "icon": "lucide-file",
               "title": "Modulo 1"
             }
-          },
-          {
-            "id": "37cf73e44332b9dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Drawing 2026-10-14 11.37.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-14 11.37.13.excalidraw"
-            }
           }
         ]
       },
@@ -128,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.89453125
+    "width": 550.89453125,
+    "collapsed": true
   },
   "right": {
     "id": "874a710f4c55ca53",
@@ -235,13 +224,14 @@
   },
   "active": "9dbbf706b4439690",
   "lastOpenFiles": [
+    "Pasted image 20261014114201.png",
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
+    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Drawing 2026-10-14 11.37.13.excalidraw.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Calcolo_proposizionale_Excalidraw.excalidraw",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/Modulo 1.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261014110103.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Drawing 2026-10-14 11.33.36.excalidraw.md",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261014113241.png",
-    "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/slides/[module-1.2] Modeling Concurrent Program Execution.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261014111147.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261014111019.png",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 1/imgs/Pasted image 20261014110757.png",
