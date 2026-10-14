@@ -145,7 +145,7 @@ The Model can be visualized in a diagrammatical way for program design, formal m
 ![[Pasted image 20261014095548.png]]
 ![[Pasted image 20261014101636.png]]
 ![[Pasted image 20261014101722.png]]
-#### Arbitrary Interleaving
+### Arbitrary Interleaving
 > This means that we ignore time in our analysis of concurrent programs.
 > So we focus only on:
 > - partial orders related to action sequences
@@ -153,3 +153,14 @@ The Model can be visualized in a diagrammatical way for program design, formal m
 > We also seek robustness with respect to both hardware and software changes.
 
 ![[Pasted image 20261014102255.png]]
+#### Correctness of Programs
+![[Pasted image 20261014102353.png]]
+> The ***correctness*** of concurrent programs is defined in terms of properties of computations.
+> A ***property*** is a condition that must be verified in every possible scenario.
+
+##### Safety Properties
+![[Pasted image 20261014102611.png]]
+##### Liveness (Or Progress) Properties
+![[Pasted image 20261014102646.png]]
+###### Fairness
+> A liveness property which holds that something good happens infinitely often.
