@@ -194,3 +194,11 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014110103.png]]
 ### Locks
 ![[Pasted image 20261014110239.png]]
+#### Atomic Statement: Synchronized
+![[Pasted image 20261014110359.png]]
+#### Bakery Algorithm
+![[Pasted image 20261014110509.png]]
+### About Correctness: Verification VS Testing
+![[Pasted image 20261014110653.png]]
+#### Tests: Liveness and Safety
+![[Pasted image 20261014110757.png]]
