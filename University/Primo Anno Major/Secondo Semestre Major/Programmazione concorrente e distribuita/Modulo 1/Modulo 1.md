@@ -348,4 +348,18 @@ Gli agenti ***NON*** espongono un'interfaccia pubblica usata direttamente da alt
 ![[Pasted image 20261014175012.png]]
 ### Virtual Threads E Structured Concurrency
 > I thread leggeri (user-level threads, fibers, green threads) danno una vista logica disaccoppiata dai thread del sistema operativo.
-> 
+> I thread che si usano nella programmazione concorrente prendono il nome di ***virtual threads*** per questo motivo.
+
+> La ***structured concurrency*** tratta gruppi di task correlati in thread differenti come una sola unità logica, facilitando gestione errori, cancellazione, affidabilità e osservabilità.
+
+#### Fork-Join
+Variante ricorsiva Master–Workers: un task si divide (fork) in sottotask che possono operare in parallelo; una fase join ne raccoglie e combina i risultati. 
+Può impiegare un bag of tasks o strutture di creazione e attesa.
+#### Filter-Pipeline
+![[Pasted image 20261014175453.png]]
+#### Shared-Space/Blackboard
+> Gli agenti interagiscono indirettamente tramite uno spazio condiviso con operazioni di inserimento, ricerca e prelievo. 
+> Il comportamento è data-driven e offre temporal uncoupling: produttore e consumatore non devono essere attivi simultaneamente.
+
+#### Announcer-Listeners
+![[Pasted image 20261014175658.png]]
