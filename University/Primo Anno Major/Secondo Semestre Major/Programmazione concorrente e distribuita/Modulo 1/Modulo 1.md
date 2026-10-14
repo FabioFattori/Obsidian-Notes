@@ -141,4 +141,5 @@ The Model can be visualized in a diagrammatical way for program design, formal m
 > $n$ Scenarios is a number of possible outcomes of a concurrent program:
 	![[Pasted image 20261014095222.png]]
 ![[Pasted image 20261014095439.png]]
-### Non-A
+### Non-Atomic Structures
+![[Pasted image 20261014095548.png]]
