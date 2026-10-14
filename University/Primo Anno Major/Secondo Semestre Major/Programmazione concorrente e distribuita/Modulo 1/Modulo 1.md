@@ -184,5 +184,4 @@ The NCS need not to progress when the policy demands that the CS cannot be execu
 #### CS Solutions: Algorithms VS Mechanisms
 CS problems can easily be solved by basic mechanisms provided by the concurrent machine such as ***lock and semaphores***.
 Another way is by using algorithms using solely basic atomic statements.
-
-
+#### Dekker's Algorithm
