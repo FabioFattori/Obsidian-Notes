@@ -289,4 +289,7 @@ Nel trasferimento sincrono devono essere pronti entrambi; la comunicazione asinc
 ##### Buffer Illimitato
 ![[Pasted image 20261014170303.png]]
 ![[Pasted image 20261014170310.png]]
-
+### Dining Phylosophers
+![[Pasted image 20261014170457.png]]
+![[Pasted image 20261014170612.png]]
+## Monitor
