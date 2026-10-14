@@ -275,3 +275,9 @@ Used to specify and verify complex real-world systems.
 Se $k$ è il valore iniziale, $\#signal(S)$ il numero di signal eseguiti e $\#wait(S)$ il numero di wait completati con successo, valgono:
 $S.V >= 0$ e $S.V = k + \#signal(S) - \#wait(S)$.
 Un wait bloccato non è ancora considerato completato.
+#### Varianti
+![[Pasted image 20261014165536.png]]
+#### Sezione Critica Con I Semafori
+> un semaforo weak non garantisce generalmente assenza di starvation.
+
+#### Producers-Consumer E Bounded Buffer
