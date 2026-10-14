@@ -266,5 +266,12 @@ Used to specify and verify complex real-world systems.
 
 ### Semafori
 > $$S = S(S.V,S.L)$$
-> 
-> 
+> $S.V$ è un intero maggiore o uguale a zero; 
+> $S.L$ è l’insieme degli identificativi dei processi bloccati.
+> L’inizializzazione è $S = (k, \{\})$, con $k >= 0$. 
+
+![[Pasted image 20261014165012.png|1500]]
+#### Invarianti
+Se $k$ è il valore iniziale, $\#signal(S)$ il numero di signal eseguiti e $\#wait(S)$ il numero di wait completati con successo, valgono:
+$S.V >= 0$ e $S.V = k + \#signal(S) - \#wait(S)$.
+Un wait bloccato non è ancora considerato completato.
