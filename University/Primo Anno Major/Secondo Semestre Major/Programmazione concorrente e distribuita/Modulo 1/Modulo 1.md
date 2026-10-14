@@ -145,3 +145,11 @@ The Model can be visualized in a diagrammatical way for program design, formal m
 ![[Pasted image 20261014095548.png]]
 ![[Pasted image 20261014101636.png]]
 ![[Pasted image 20261014101722.png]]
+#### Arbitrary Interleaving
+> This means that we ignore time in our analysis of concurrent programs.
+> So we focus only on:
+> - partial orders related to action sequences
+> - atomicity of the individual action 
+> We also seek robustness with respect to both hardware and software changes.
+
+![[Pasted image 20261014102255.png]]
