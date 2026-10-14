@@ -304,4 +304,6 @@ Nel trasferimento sincrono devono essere pronti entrambi; la comunicazione asinc
 #### Semaforo VS Condition Variable
 > il semaforo può conservare segnali come permessi.
 > una condition variable non memorizza una segnalazione emessa in assenza di sospesi, La ripresa richiede anche di poter eseguire nel monitor.
-
+#### Discipline di segnalazione
+![[Pasted image 20261014173021.png]]
+### Monitor Applicativi
