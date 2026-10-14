@@ -260,4 +260,11 @@ A formal specification language, based on simple discrete math (set theory and p
 Used to specify and verify complex real-world systems.
 ##### TLA+ Spec
 ![[Pasted image 20261014135014.png]]
-> Continua dal riassuntone.
+# Modulo 1.3
+## Synchronization Mechanisms
+> semafori e monitor (così come altri meccanismi) inseriti perchè gli algoritmi realizzati esclusivamente con istruzioni macchina sono possibili, ma di livello troppo basso e difficili da programmare correttamente.
+
+### Semafori
+> $$S = S(S.V,S.L)$$
+> 
+> 
