@@ -170,3 +170,8 @@ So programs can have different liveness behavior depending on precisely how thei
 > how instructions are interleaved is a result of a scheduling policy.
 
 ![[Pasted image 20261014102939.png]]
+###### Unconditionally Fair Scenario
+> a scenario is (unconditionally) fair if at any state in the scenario a statement that is continually enabled eventually appears in the scenario.
+
+###### Critical Section Problem
+![[Pasted image 20261014103740.png]]
