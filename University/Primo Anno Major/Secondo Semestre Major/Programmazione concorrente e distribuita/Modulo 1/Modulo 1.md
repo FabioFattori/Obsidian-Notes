@@ -281,3 +281,12 @@ Un wait bloccato non è ancora considerato completato.
 > un semaforo weak non garantisce generalmente assenza di starvation.
 
 #### Producers-Consumer E Bounded Buffer
+>  Il producer crea dati e il consumer li utilizza. 
+
+Nel trasferimento sincrono devono essere pronti entrambi; la comunicazione asincrona ***<span style="color:rgb(255, 0, 0)">impiega un buffer</span>*** per disaccoppiare temporalmente le attività, consentendo velocità diverse e un numero variabile di agenti.
+##### Buffer Illimitato
+![[Pasted image 20261014170119.png]]
+##### Buffer Illimitato
+![[Pasted image 20261014170303.png]]
+![[Pasted image 20261014170310.png]]
+
