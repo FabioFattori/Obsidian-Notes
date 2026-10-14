@@ -190,3 +190,7 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014105436.png]]
 #### Peterson's Algorithm
 ![[Pasted image 20261014105522.png]]
+### Introducing More Atomic Statements
+![[Pasted image 20261014110103.png]]
+### Locks
+![[Pasted image 20261014110239.png]]
