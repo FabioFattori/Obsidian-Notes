@@ -336,3 +336,16 @@ Gli agenti ***NON*** espongono un'interfaccia pubblica usata direttamente da alt
 	>![[Pasted image 20261014174436.png]]
 - Agenda Parallelism
 	> Organizza la concorrenza attorno a una sequenza o workflow di attività: molti worker possono contribuire alla stessa fase, e in alcune condizioni fasi differenti procedono contemporaneamente. Le strutture condivise gestiscono i dati tra le fasi.
+
+> Le tre classi sono modi distinti di ragionare sul problema ma non sono esclusive: si possono mescolare e applicare ricorsivamente. Si consiglia di iniziare con la classe più naturale e ottimizzare metodicamente se le prestazioni non sono soddisfacenti.
+
+### Architettura Master-Workers
+![[Pasted image 20261014174824.png]]
+### Task, Executor E Programmazione Asincrona
+> Nei framework Java Executor, il master invia un task con execute/submit e prosegue senza attendere; un thread dell’executor lo esegue in base alla politica del framework. Il recupero del risultato può usare un bag, un collector o un Future.
+
+#### Future
+![[Pasted image 20261014175012.png]]
+### Virtual Threads E Structured Concurrency
+> I thread leggeri (user-level threads, fibers, green threads) danno una vista logica disaccoppiata dai thread del sistema operativo.
+> 
