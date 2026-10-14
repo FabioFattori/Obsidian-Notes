@@ -365,4 +365,10 @@ Può impiegare un bag of tasks o strutture di creazione e attesa.
 ![[Pasted image 20261014175658.png]]
 ### MVC E Concorrenza
 ![[Pasted image 20261014175925.png]]
-> Riparti dal module 1.5!!!!
+# Module 1.5 - Visual Formalisms
+> I formalismi visuali descrivono rigorosamente comportamenti dinamici, struttura dei task e dipendenze nei sistemi concorrenti.
+> Sono strumenti per requisiti, analisi, design e, se formalizzati, verifica.
+
+## Petri's Net
+### Struttura 
+![[Pasted image 20261014230303.png]]
