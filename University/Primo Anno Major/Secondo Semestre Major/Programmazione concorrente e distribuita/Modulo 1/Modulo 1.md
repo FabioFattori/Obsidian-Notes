@@ -164,3 +164,9 @@ The Model can be visualized in a diagrammatical way for program design, formal m
 ![[Pasted image 20261014102646.png]]
 ###### Fairness
 > A liveness property which holds that something good happens infinitely often.
+
+So programs can have different liveness behavior depending on precisely how their instructions are interleaved.
+###### Scheduling Policies
+> how instructions are interleaved is a result of a scheduling policy.
+
+![[Pasted image 20261014102939.png]]
