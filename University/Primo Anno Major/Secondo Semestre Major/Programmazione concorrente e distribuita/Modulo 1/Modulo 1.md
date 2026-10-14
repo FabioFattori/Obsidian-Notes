@@ -202,3 +202,10 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014110653.png]]
 #### Tests: Liveness and Safety
 ![[Pasted image 20261014110757.png]]
+##### Problems of Testing
+> Typically checking only a subset of the scenarios.
+> "heisenbugs" phenomenon => test code can introduce timing or synchronisation artefacts that can mask bugs.
+
+![[Pasted image 20261014111019.png]]
+##### Formal Methods
+![[Pasted image 20261014111147.png]]
