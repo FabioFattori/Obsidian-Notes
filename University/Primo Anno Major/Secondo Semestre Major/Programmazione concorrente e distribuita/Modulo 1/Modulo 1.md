@@ -376,5 +376,21 @@ Può impiegare un bag of tasks o strutture di creazione e attesa.
 ![[Pasted image 20261014230602.png]]
 ### Concorrenza, Conflitto, Confusion
 ![[Pasted image 20261014233345.png]]
-### Tempo, località, attività complesse e gerarchie
+### Tempo, Località, Attività Complesse E Gerarchie
 ![[Pasted image 20261014233437.png]]
+### Modelli Di Problemi Concorrenti
+![[Pasted image 20261014233542.png]]
+### Inhibitor Arcs E Limiti Di Decidibilità
+![[Pasted image 20261014233641.png]]
+### Modello Formale
+![[Pasted image 20261014233658.png]]
+### Semantica E Reachability
+![[Pasted image 20261014233722.png]]
+### Matrici Delle Reti Di Petri
+![[Pasted image 20261014233755.png]]
+#### Proprietà Delle Reti
+![[Pasted image 20261014233815.png]]
+#### Estensioni E Strumenti
+![[Pasted image 20261014233833.png]]
+## Statecharts
+> Continua da pagina 12 del riassuntone!
