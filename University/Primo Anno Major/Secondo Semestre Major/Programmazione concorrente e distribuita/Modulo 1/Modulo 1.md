@@ -143,3 +143,5 @@ The Model can be visualized in a diagrammatical way for program design, formal m
 ![[Pasted image 20261014095439.png]]
 ### Non-Atomic Structures
 ![[Pasted image 20261014095548.png]]
+![[Pasted image 20261014101636.png]]
+![[Pasted image 20261014101722.png]]
