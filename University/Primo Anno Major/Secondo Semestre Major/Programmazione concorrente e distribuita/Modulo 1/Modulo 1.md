@@ -307,3 +307,10 @@ Nel trasferimento sincrono devono essere pronti entrambi; la comunicazione asinc
 #### Discipline di segnalazione
 ![[Pasted image 20261014173021.png]]
 ### Monitor Applicativi
+![[Pasted image 20261014173347.png]]
+# Modulo 1.4 - Elements of concurrent program design
+La progettazione è composta da 2 fasi:
+- ***Analysis***
+	Individuare Task, scomposizione di dati e dipendenze 
+- ***Design ***
+	
