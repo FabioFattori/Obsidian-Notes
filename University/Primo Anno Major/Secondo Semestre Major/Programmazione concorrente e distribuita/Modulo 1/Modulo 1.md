@@ -133,5 +133,12 @@ such as:
 
 The Model can be visualized in a diagrammatical way for program design, formal models for program analysis and verification.
 ![[Pasted image 20261014094437.png]]
-## A Model for concurrent program execution
+## A Model for Concurrent Program Execution
 ![[Pasted image 20261014094933.png]]
+### State Diagram
+![[Pasted image 20261014095052.png]]
+### N Scenarios
+> $n$ Scenarios is a number of possible outcomes of a concurrent program:
+	![[Pasted image 20261014095222.png]]
+![[Pasted image 20261014095439.png]]
+### Non-A
