@@ -173,7 +173,7 @@ So programs can have different liveness behavior depending on precisely how thei
 ###### Unconditionally Fair Scenario
 > a scenario is (unconditionally) fair if at any state in the scenario a statement that is continually enabled eventually appears in the scenario.
 
-###### Critical Section Problem
+### Critical Section Problem
 ![[Pasted image 20261014103740.png]]
 > ![[Pasted image 20261014103856.png]]
 
@@ -181,5 +181,8 @@ Any proposed solution must satisfy also the progress property for the CS:
 > once a process starts to execute the statements of its critical section, it must eventually finish.
 
 The NCS need not to progress when the policy demands that the CS cannot be executed.
-###### CS solutions: Algorithms VS mechanisms
-CS problems can easily be solved by basic mechanisms provided by the concurrent machine such as *_lock and semaphores_*.
+#### CS Solutions: Algorithms VS Mechanisms
+CS problems can easily be solved by basic mechanisms provided by the concurrent machine such as ***lock and semaphores***.
+Another way is by using algorithms using solely basic atomic statements.
+
+
