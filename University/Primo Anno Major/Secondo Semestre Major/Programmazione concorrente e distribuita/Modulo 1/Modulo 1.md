@@ -185,3 +185,8 @@ The NCS need not to progress when the policy demands that the CS cannot be execu
 CS problems can easily be solved by basic mechanisms provided by the concurrent machine such as ***lock and semaphores***.
 Another way is by using algorithms using solely basic atomic statements.
 #### Dekker's Algorithm
+> The problem can be solved with a simple variation of the 4th algorithm, requiring that ***the right to insist*** on entering - instead of the right to enter - is explicitly passed between the processes by means of the variable turn.
+
+![[Pasted image 20261014105436.png]]
+#### Peterson's Algorithm
+![[Pasted image 20261014105522.png]]
