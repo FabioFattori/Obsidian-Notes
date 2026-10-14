@@ -217,3 +217,12 @@ Another way is by using algorithms using solely basic atomic statements.
 
 ![[Pasted image 20261014114201.png]]
 #### LTL: Temporal Operators
+![[Pasted image 20261014114417.png]]
+##### Basic Properties
+![[Pasted image 20261014114434.png]]
+![[Pasted image 20261014114552.png]]
+#### Specifying Safety Properties
+![[Pasted image 20261014114651.png]]
+#### Specifying Safety Properties
+![[Pasted image 20261014114718.png]]
+### Next Operator
