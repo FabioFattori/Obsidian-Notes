@@ -128,3 +128,8 @@ such as:
 ![[Pasted image 20261013224623.png]]
 ##### Concurrent Programming Languages - Design Approaches
 ![[Pasted image 20261013224723.png]]
+# From Programs to Models and back
+> A model is a rigorous description / representation of program (system) structure and behaviour at a proper level of abstraction, including relevant information, abstracting from non-relevant aspects.
+
+The Model can be visualized in a diagrammatical way for program design, formal models for program analysis and verification.
+![[Pasted image 20261014094437.png]]
