@@ -248,4 +248,15 @@ Is a special JVM executing programs theoretically along all possible scenarios (
 ### Verification Techniques: Inductive Proof of Invariants
 ![[Pasted image 20261014134442.png]]
 #### Safety and Liveness Property Verification
-> A Safety property must be true at all states
+> A ***<span style="color:rgb(255, 0, 0)">Safety</span> <span style="color:rgb(255, 0, 0)">property</span>*** must be true at all states.
+> It is sufficient to find a state not verifying the property to complete the verification.
+
+> A ***<span style="color:rgb(255, 0, 0)">Liveness property</span>*** claims that a state satisfying a property will inevitably occur.
+> it is not sufficient to check states one by one, it is necessary to check all possible scenarios.
+> it requires more complex theory and software techniques.
+
+#### TLA/TLA+ (Temporal Logic of Actions)
+A formal specification language, based on simple discrete math (set theory and predicates).
+Used to specify and verify complex real-world systems.
+##### TLA+ Spec
+![[Pasted image 20261014135014.png]]
