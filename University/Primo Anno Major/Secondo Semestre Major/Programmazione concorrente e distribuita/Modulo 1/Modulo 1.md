@@ -218,7 +218,7 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014114201.png]]
 ##### LTL: Temporal Operators
 ![[Pasted image 20261014114417.png]]
-##### Basic Properties
+###### Basic Properties
 ![[Pasted image 20261014114434.png]]
 ![[Pasted image 20261014114552.png]]
 #### Specifying Safety Properties
@@ -234,4 +234,12 @@ Another way is by using algorithms using solely basic atomic statements.
 ![[Pasted image 20261014115817.png]]
 ##### K-Boundend Overtaking Property
 > from the time a process p attempts to enter its critical section, another process can enter at most k times before p does.
-## Verification Tecniques: Model checking 
+### Verification Tecniques: Model Checking
+![[Pasted image 20261014133640.png]]
+#### State-Space Explosion Problem
+![[Pasted image 20261014133830.png]]
+##### Spin & Promela
+- Spin
+	> Widely used model-checker, extremely efficient, used in modelling and designing concurrent and distribuited systems in general
+- Promela
+	> 
