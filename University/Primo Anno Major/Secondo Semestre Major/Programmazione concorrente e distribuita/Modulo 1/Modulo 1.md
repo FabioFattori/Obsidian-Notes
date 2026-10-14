@@ -319,9 +319,20 @@ La progettazione è composta da 2 fasi:
 ### Task
 > Un task è una sequenza coerente di istruzioni o, a un livello più astratto, un’unità di lavoro/responsabilità assegnata a un agente.
 
-## Decomposizione del problema
+## Decomposizione Del Problema
 ![[Pasted image 20261014174010.png]]
-### Componenti attivi e passivi
+### Componenti Attivi E Passivi
 > Gli agenti sono componenti attivi con un thread di controllo e logica d'esecuzione.
 
 > I componenti passivi (Monitor) incapsulano risultati, risorse condivise e media di coordinamento.
+
+Gli agenti ***NON*** espongono un'interfaccia pubblica usata direttamente da altri agenti.
+> Entità ibride vanno suddivise in componenti attive e passive.
+
+### Classi Concettuali Di Parallelismo
+- Result Parallelism
+	>![[Pasted image 20261014174419.png]]
+- Specialist Parallelism
+	>![[Pasted image 20261014174436.png]]
+- Agenda Parallelism
+	> Organizza la concorrenza attorno a una sequenza o workflow di attività: molti worker possono contribuire alla stessa fase, e in alcune condizioni fasi differenti procedono contemporaneamente. Le strutture condivise gestiscono i dati tra le fasi.
