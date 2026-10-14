@@ -363,3 +363,6 @@ Può impiegare un bag of tasks o strutture di creazione e attesa.
 
 #### Announcer-Listeners
 ![[Pasted image 20261014175658.png]]
+### MVC E Concorrenza
+![[Pasted image 20261014175925.png]]
+> Riparti dal module 1.5!!!!
