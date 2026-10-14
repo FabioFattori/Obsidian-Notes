@@ -304,13 +304,24 @@ Nel trasferimento sincrono devono essere pronti entrambi; la comunicazione asinc
 #### Semaforo VS Condition Variable
 > il semaforo può conservare segnali come permessi.
 > una condition variable non memorizza una segnalazione emessa in assenza di sospesi, La ripresa richiede anche di poter eseguire nel monitor.
-#### Discipline di segnalazione
+#### Discipline Di Segnalazione
 ![[Pasted image 20261014173021.png]]
 ### Monitor Applicativi
 ![[Pasted image 20261014173347.png]]
-# Modulo 1.4 - Elements of concurrent program design
+# Modulo 1.4 - Elements of Concurrent Program Design
+## Analisi E Design
 La progettazione è composta da 2 fasi:
 - ***Analysis***
 	Individuare Task, scomposizione di dati e dipendenze 
-- ***Design ***
-	
+- ***Design***
+	Selezionare una architettura concorrente, assegnare task agli agenti e progettare risorse condivise e mezzi di coordinamento
+> Le dipendenze possono essere temporali o relative a dati e risorse; la loro analisi permette di aumentare il parallelismo ed evitare costi eccessivi di coordinamento.
+### Task
+> Un task è una sequenza coerente di istruzioni o, a un livello più astratto, un’unità di lavoro/responsabilità assegnata a un agente.
+
+## Decomposizione del problema
+![[Pasted image 20261014174010.png]]
+### Componenti attivi e passivi
+> Gli agenti sono componenti attivi con un thread di controllo e logica d'esecuzione.
+
+> I componenti passivi (Monitor) incapsulano risultati, risorse condivise e media di coordinamento.
