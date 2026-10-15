@@ -393,4 +393,11 @@ Può impiegare un bag of tasks o strutture di creazione e attesa.
 #### Estensioni E Strumenti
 ![[Pasted image 20261014233833.png]]
 ## Statecharts
-> Continua da pagina 12 del riassuntone!
+![[Pasted image 20261015120047.png]]
+### Rappresentazione Stati E Transizioni
+![[Pasted image 20261015120118.png]]
+#### XOR
+![[Pasted image 20261015120155.png]]
+![[Pasted image 20261015120210.png]]
+## Activity Diagrams
+![[Pasted image 20261015120251.png]]
