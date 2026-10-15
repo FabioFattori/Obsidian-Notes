@@ -365,4 +365,32 @@ Può impiegare un bag of tasks o strutture di creazione e attesa.
 ![[Pasted image 20261014175658.png]]
 ### MVC E Concorrenza
 ![[Pasted image 20261014175925.png]]
-> Riparti dal module 1.5!!!!
+# Module 1.5 - Visual Formalisms (Questa Parte È Meglio Riguardarla Prima Di Dare L'orale Dalle Slides)
+> I formalismi visuali descrivono rigorosamente comportamenti dinamici, struttura dei task e dipendenze nei sistemi concorrenti.
+> Sono strumenti per requisiti, analisi, design e, se formalizzati, verifica.
+
+## Petri's Net
+### Struttura
+![[Pasted image 20261014230303.png]]
+### Regole Di Firing E Non Determinismo
+![[Pasted image 20261014230602.png]]
+### Concorrenza, Conflitto, Confusion
+![[Pasted image 20261014233345.png]]
+### Tempo, Località, Attività Complesse E Gerarchie
+![[Pasted image 20261014233437.png]]
+### Modelli Di Problemi Concorrenti
+![[Pasted image 20261014233542.png]]
+### Inhibitor Arcs E Limiti Di Decidibilità
+![[Pasted image 20261014233641.png]]
+### Modello Formale
+![[Pasted image 20261014233658.png]]
+### Semantica E Reachability
+![[Pasted image 20261014233722.png]]
+### Matrici Delle Reti Di Petri
+![[Pasted image 20261014233755.png]]
+#### Proprietà Delle Reti
+![[Pasted image 20261014233815.png]]
+#### Estensioni E Strumenti
+![[Pasted image 20261014233833.png]]
+## Statecharts
+> Continua da pagina 12 del riassuntone!
