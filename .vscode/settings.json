@@ -1,3 +1,6 @@
 {
-  "dotnet.defaultSolution": "testASP.sln"
+  "dotnet.defaultSolution": "testASP.sln",
+  "files.watcherExclude": {
+    "**/target/**": true
+  }
 }
