@@ -1,28 +1,14 @@
 # FoodRescue --- Proposta per Assignment 1: Needfinding
 
-**Corso:** Human Computer Interaction (2026/2027)\
-**Documento:** proposta preliminare da discutere con la docente\
-**Stato:** bozza; la ricerca con gli utenti non è ancora stata svolta\
-**Tema:** Environmental Sustainability\
+**Corso:** Human Computer Interaction (2026/2027)
+**Tema:** Environmental Sustainability
 **Nome di progetto:** FoodRescue *(provvisorio)*
 
 ------------------------------------------------------------------------
-
-## 1. Scopo Del Documento
-
-Questo documento organizza la proposta di FoodRescue secondo la
-struttura dell'**Assignment 1 -- Needfinding**. Definisce il dominio da
-esplorare e un piano iniziale di ricerca. Non presenta come risultati
-attività che devono ancora essere svolte: interviste, osservazioni e
-sintesi dovranno fornire le evidenze per identificare bisogni reali e
-selezionare una soluzione.
-
-## 2. Dominio Di Interesse
-
-### 2.1 Dominio Proposto
-
+## 1. Dominio Di Interesse
+### 1.1 Dominio Proposto
 **Gestione quotidiana degli alimenti in casa e prevenzione degli sprechi
-alimentari, con particolare attenzione agli studenti fuori sede.**
+alimentari.**
 
 Il dominio riguarda come le persone gestiscono gli alimenti acquistati e
 conservati, decidono cosa cucinare, si accorgono che alcuni prodotti
