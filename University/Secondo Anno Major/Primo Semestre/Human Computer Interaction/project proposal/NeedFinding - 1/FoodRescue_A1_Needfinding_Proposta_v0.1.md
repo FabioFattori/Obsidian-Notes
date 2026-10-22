@@ -1,0 +1,498 @@
+# FoodRescue --- Proposta per Assignment 1: Needfinding
+
+**Corso:** Human Computer Interaction (2026/2027)\
+**Documento:** proposta preliminare da discutere con la docente\
+**Stato:** bozza; la ricerca con gli utenti non è ancora stata svolta\
+**Tema:** Environmental Sustainability\
+**Nome di progetto:** FoodRescue *(provvisorio)*
+
+------------------------------------------------------------------------
+
+## 1. Scopo Del Documento
+
+Questo documento organizza la proposta di FoodRescue secondo la
+struttura dell'**Assignment 1 -- Needfinding**. Definisce il dominio da
+esplorare e un piano iniziale di ricerca. Non presenta come risultati
+attività che devono ancora essere svolte: interviste, osservazioni e
+sintesi dovranno fornire le evidenze per identificare bisogni reali e
+selezionare una soluzione.
+
+## 2. Dominio Di Interesse
+
+### 2.1 Dominio Proposto
+
+**Gestione quotidiana degli alimenti in casa e prevenzione degli sprechi
+alimentari, con particolare attenzione agli studenti fuori sede.**
+
+Il dominio riguarda come le persone gestiscono gli alimenti acquistati e
+conservati, decidono cosa cucinare, si accorgono che alcuni prodotti
+rischiano di non essere consumati e pianificano gli acquisti successivi.
+
+Gli studenti fuori sede sono il gruppo iniziale che si propone di
+esplorare. La ricerca dovrà verificare se questo gruppo presenta bisogni
+rilevanti e specifici; non si assume in anticipo che tutte le persone
+del gruppo abbiano le stesse difficoltà.
+
+### 2.2 Perché Esplorare Questo Dominio
+
+La proposta nasce dall'interesse per la sostenibilità ambientale e per
+il problema pratico degli alimenti acquistati ma non consumati. La
+gestione del frigorifero, la scelta dei pasti e l'organizzazione della
+spesa sono attività quotidiane nelle quali potrebbero emergere
+difficoltà, strategie personali e opportunità di miglioramento.
+
+Queste sono **motivazioni iniziali da esplorare**, non risultati della
+ricerca. Le interviste dovranno chiarire quali problemi si verificano
+realmente, in quali circostanze e come le persone cercano oggi di
+affrontarli.
+
+### 2.3 Confini Del Dominio
+
+Il focus iniziale è la **prevenzione degli sprechi alimentari nella vita
+quotidiana**.
+
+Fuori dal focus iniziale: - conteggio delle calorie e obiettivi
+nutrizionali; - Health & Wellbeing come tema progettuale autonomo; - una
+mappa generale dei produttori locali; - valutazione dell'accessibilità
+dei punti vendita; - funzionalità non direttamente collegate al dominio,
+se non giustificate dalla ricerca.
+
+Questi confini aiutano a mantenere un tema coerente. Potranno essere
+rivalutati solo se la ricerca o il feedback della docente suggeriranno
+di modificare il perimetro.
+
+## 3. Collegamento Preliminare Con FoodRescue
+
+FoodRescue è il nome provvisorio della possibile soluzione da esplorare,
+non la definizione del dominio di ricerca.
+
+### 3.1 Ipotesi Progettuale Iniziale
+
+L'ipotesi da verificare è che alcune persone possano avere difficoltà a
+tenere traccia degli alimenti disponibili, ricordare quali prodotti
+consumare per primi e decidere come utilizzarli prima che vadano
+sprecati.
+
+Se la ricerca confermerà bisogni di questo tipo, una possibile direzione
+progettuale potrebbe aiutare le persone a: - tenere traccia degli
+alimenti presenti in casa; - individuare gli alimenti che rischiano di
+essere dimenticati o non consumati; - trovare modi pratici per
+utilizzare gli ingredienti già disponibili; - riflettere sulle proprie
+abitudini per prevenire sprechi futuri.
+
+Queste sono possibilità da verificare, non funzionalità già approvate.
+
+### 3.2 Idee Da Esplorare, Non Ancora Decisioni
+
+Le idee emerse finora sono: - un frigorifero virtuale in cui registrare
+gli alimenti; - inserimento manuale degli alimenti o supporto AI per
+riconoscerli da una foto; - suggerimenti di ricette che utilizzino
+ingredienti già disponibili; - sfide e progressi legati alle azioni di
+prevenzione degli sprechi; - informazioni che aiutino a riconoscere
+abitudini ricorrenti di spreco.
+
+La ricerca dovrà aiutare a capire quali direzioni rispondano a bisogni
+reali e quali non siano necessarie.
+
+### 3.3 Tecnologie Previste
+
+La direzione tecnica ipotizzata è: - **Frontend:** React / JavaScript; -
+**Backend:** Node.js.
+
+In questa fase le tecnologie sono un vincolo progettuale indicativo.
+L'Assignment 1 richiede prima di tutto di esplorare il dominio e i
+bisogni delle persone; non si sceglieranno i bisogni sulla base delle
+funzionalità più facili da implementare.
+
+------------------------------------------------------------------------
+
+## 4. Piano Di Ricerca
+
+### 4.1 Obiettivo
+
+Comprendere come le persone gestiscono gli alimenti in casa, decidono
+cosa consumare e cosa acquistare, quali situazioni contribuiscono agli
+sprechi e quali strategie usano già per prevenirli.
+
+Le interviste dovranno concentrarsi su esperienze concrete e recenti,
+anziché soltanto su opinioni generiche o reazioni all'idea di
+FoodRescue.
+
+### 4.2 Partecipanti
+
+Il numero minimo di interviste richiesto dall'assignment è **due volte
+il numero dei componenti del gruppo**, con un minimo di **quattro
+persone se il progetto è individuale**.
+
+Il reclutamento dovrà rispettare anche le indicazioni dell'assignment: -
+includere prospettive diverse, non soltanto utenti immediati; -
+idealmente, includere al massimo uno studente UniBo; - includere al
+massimo un esperto del dominio, facoltativo; - includere almeno un
+lead/extreme user; - se vengono intervistate esattamente quattro
+persone, includere almeno due utenti immediati.
+
+**Numero definitivo di partecipanti:** da stabilire in base alla
+dimensione del gruppo.
+
+  -----------------------------------------------------------------------
+  Profilo da considerare  Motivo                  Stato
+  ----------------------- ----------------------- -----------------------
+  Persona che vive fuori  Utente immediato        Da reclutare
+  casa e gestisce         rispetto al dominio     
+  autonomamente spesa e   proposto                
+  pasti                                           
+
+  Persona che acquista e  Può descrivere routine, Da reclutare
+  cucina regolarmente per pianificazione e        
+  sé o per altre persone  gestione degli alimenti 
+
+  Lead/extreme user       Può offrire una         Da identificare e
+  pertinente al dominio   prospettiva             reclutare
+                          approfondita o diversa  
+
+  Eventuale partecipante  Amplia la varietà dei   Da definire
+  con una prospettiva     punti di vista          
+  differente                                      
+  -----------------------------------------------------------------------
+
+Questi sono profili proposti, non partecipanti già individuati. Il
+profilo dell'utente estremo dovrà essere motivato in relazione al
+dominio e alle esperienze effettive della persona scelta.
+
+### 4.3 Reclutamento
+
+Canali da valutare, in linea con l'assignment: - reti personali,
+evitando di limitarsi ad amici e familiari stretti; - amici di amici; -
+social media e comunità online; - reclutamento in luoghi pertinenti al
+dominio, se appropriato e rispettoso.
+
+Per ogni partecipante si registreranno le caratteristiche utili a
+spiegare perché sia stato scelto e quale prospettiva possa offrire. Non
+verranno attribuite caratteristiche ai partecipanti prima del
+reclutamento.
+
+### 4.4 Modalità E Contesto
+
+Le interviste dovranno essere svolte **di persona e nel contesto dei
+partecipanti, quando possibile**. Se non è possibile incontrarsi in
+presenza, l'assignment consente di utilizzare una videochiamata.
+
+È prevista anche una piccola attività di osservazione o contextual
+inquiry, quando possibile, per osservare alcune attività nel contesto
+reale. Un esempio coerente con il dominio è osservare, con il consenso
+della persona, come organizza gli alimenti o pianifica cosa consumare;
+l'attività specifica andrà concordata con il partecipante.
+
+La durata attesa per ciascuna intervista è di **30--60 minuti**.
+
+### 4.5 Ruoli Del Gruppo
+
+Per ogni intervista: - una persona conduce l'intervista; - un'altra
+persona prende appunti; - non devono essere presenti più di tre membri
+del gruppo.
+
+I ruoli effettivi saranno registrati per ogni sessione. Se il progetto è
+individuale, la gestione pratica dovrà essere concordata con la docente,
+perché l'assignment descrive il lavoro in gruppo e indica i ruoli per
+intervista.
+
+### 4.6 Consenso E Materiali
+
+Prima di iniziare ciascuna intervista, si dovrà ottenere il consenso
+esplicito del partecipante **su carta e con firma**, come richiesto
+dall'assignment. Senza tale consenso, l'intervista non verrà svolta.
+
+Materiali previsti: - modulo di consenso; - traccia delle domande; -
+appunti delle domande poste e delle risposte principali; - registrazione
+audio, se prevista e autorizzata; - fotografie dei partecipanti e degli
+artefatti rilevanti, solo con il consenso necessario; - eventuali note e
+materiali prodotti durante l'osservazione.
+
+I materiali dovranno documentare cosa la persona dice e fa, come lo fa e
+perché, per quanto sia possibile comprenderlo attraverso l'intervista e
+l'osservazione.
+
+------------------------------------------------------------------------
+
+## 5. Traccia Preliminare Delle Interviste
+
+Le domande seguenti sono una traccia iniziale da adattare al
+partecipante e al contesto. Durante l'intervista sarà possibile saltare
+domande non pertinenti e porre domande di approfondimento.
+
+1.  Mi racconti come gestisci normalmente la spesa alimentare?
+2.  Mi descrivi l'ultima volta che hai fatto la spesa: come hai deciso
+    cosa comprare?
+3.  Come decidi cosa cucinare durante la settimana?
+4.  Come tieni traccia degli alimenti che hai già in casa?
+5.  Mi racconti l'ultima volta in cui ti sei accorto di avere un
+    alimento che rischiava di non essere consumato?
+6.  Che cosa hai fatto in quella situazione?
+7.  Ti è capitato recentemente di buttare del cibo? Mi racconti
+    l'episodio?
+8.  Secondo te, che cosa ha portato a quello spreco?
+9.  Ci sono alimenti che dimentichi più spesso o che fai fatica a
+    consumare? Puoi raccontarmi un esempio?
+10. Come ti accorgi che un prodotto dovrebbe essere consumato presto?
+11. Che cosa fai quando vuoi cucinare, ma non sai come utilizzare gli
+    ingredienti che hai a disposizione?
+12. Usi già strumenti, liste, promemoria o altre strategie per
+    organizzare gli alimenti e i pasti? Come funzionano per te?
+13. Hai provato una soluzione o un metodo che poi hai smesso di usare?
+    Perché?
+14. Quali sono le situazioni in cui è più difficile organizzare la spesa
+    o consumare ciò che hai acquistato?
+15. Quando ti capita di non seguire il piano che avevi previsto per i
+    pasti o per la spesa, che cosa succede?
+16. Mi puoi mostrare, se ti va, come organizzi oggi gli alimenti o come
+    decidi cosa consumare per primo?
+17. C'è qualcosa che fai per evitare gli sprechi che richiede più tempo
+    o attenzione di quanto vorresti?
+18. C'è un episodio recente relativo alla gestione degli alimenti che
+    non ti ho chiesto e che ritieni importante raccontare?
+
+### Domande Di Approfondimento
+
+Da usare quando pertinenti: - Che cosa è successo subito prima? - Che
+cosa hai fatto dopo? - Perché hai scelto proprio questo comportamento? -
+Che alternative avevi considerato? - Mi puoi mostrare un esempio? -
+Succede spesso o è stato un caso particolare?
+
+Le domande sono orientate a episodi e pratiche reali. Non si presenterà
+FoodRescue come soluzione durante la prima parte dell'intervista, per
+evitare di guidare le risposte verso le funzionalità già immaginate.
+
+------------------------------------------------------------------------
+
+## 6. Svolgimento E Documentazione Delle Interviste
+
+Per ciascuna sessione verrà compilata una scheda con i campi seguenti.
+
+### Scheda Intervista
+
+  Campo                                             Da compilare
+  ------------------------------------------------- --------------
+  ID partecipante                                   
+  Data e luogo/modalità                             
+  Profilo pertinente al dominio                     
+  Motivo della selezione                            
+  Lead/extreme user? Perché?                        
+  Consenso ottenuto prima dell'intervista?          
+  Membri del gruppo presenti e ruoli                
+  Domande effettivamente poste                      
+  Episodi e comportamenti osservati                 
+  Citazioni testuali rilevanti                      
+  Artefatti o fotografie pertinenti e autorizzati   
+  Prime osservazioni, ancora da verificare          
+
+Non si inseriranno citazioni ricostruite a memoria come se fossero
+testuali. Citazioni e risultati saranno compilati a partire dai
+materiali effettivamente raccolti.
+
+------------------------------------------------------------------------
+
+## 7. Sintesi Dei Risultati --- Da Completare Dopo la Ricerca
+
+Questa sezione è intenzionalmente incompleta: l'assignment richiede che
+i bisogni derivino dalle interviste e siano collegati a una o più
+risposte.
+
+### 7.1 Risultati, Fotografie E Citazioni
+
+Da aggiungere dopo le interviste: - fotografie e artefatti rilevanti,
+con le autorizzazioni necessarie; - citazioni testuali significative; -
+episodi e comportamenti ricorrenti; - differenze o contraddizioni tra
+quanto raccontato e quanto osservato.
+
+**Stato:** non ancora disponibile.
+
+### 7.2 Elenco Iniziale Dei Bisogni Emersi
+
+Dopo ogni intervista, raccogliere i possibili bisogni in una lista ampia
+e collegare ciascuno a uno o più partecipanti e alle relative risposte.
+
+  -----------------------------------------------------------------------------
+  ID                Bisogno formulato Evidenza                Stato
+                    come attività o   (intervista/risposta)   
+                    desiderio                                 
+  ----------------- ----------------- ----------------------- -----------------
+  N-01              Da ricavare dai   Da compilare            Non validato
+                    dati                                      
+
+  N-02              Da ricavare dai   Da compilare            Non validato
+                    dati                                      
+
+  N-03              Da ricavare dai   Da compilare            Non validato
+                    dati                                      
+  -----------------------------------------------------------------------------
+
+I bisogni dovranno descrivere ciò che le persone hanno bisogno di
+riuscire a fare, non una funzionalità o una soluzione tecnica. Non sono
+ancora definiti.
+
+### 7.3 Tre O Quattro Deep User Needs
+
+Dalla lista complessiva saranno selezionati **3--4 bisogni profondi**,
+ciascuno collegato esplicitamente a una o più interviste e risposte.
+
+  Deep need   Formulazione                                 Interviste e risposte a supporto
+  ----------- -------------------------------------------- ----------------------------------
+  DN-01       Da definire dopo la sintesi                  Da compilare
+  DN-02       Da definire dopo la sintesi                  Da compilare
+  DN-03       Da definire dopo la sintesi                  Da compilare
+  DN-04       Da definire dopo la sintesi, se pertinente   Da compilare
+
+La selezione non va anticipata sulla base delle funzionalità desiderate:
+i bisogni dovranno emergere dai dati.
+
+------------------------------------------------------------------------
+
+## 8. Brainstorming Delle Possibili Soluzioni --- Fase Successiva
+
+L'assignment richiede almeno **cinque possibili soluzioni per ciascun
+deep user need**. Per ogni bisogno, ciascun componente del gruppo dovrà
+generare individualmente idee durante una sessione di cinque minuti;
+successivamente il gruppo confronterà le proposte.
+
+Le soluzioni dovranno descrivere modi diversi di affrontare il bisogno,
+senza limitarsi a proporre un'app o una specifica funzionalità tecnica.
+In questa fase non si dovrà scartare un'idea soltanto perché sembra
+difficile da realizzare.
+
+### Scheda Brainstorming Da Replicare per Ogni Deep Need
+
+**Deep need di riferimento:** DN-\_\_\
+**Evidenze dalle interviste:** da compilare
+
+  \#   Possibile soluzione             Idea emersa da / note
+  ---- ------------------------------- -----------------------
+  1    Da generare nel brainstorming   
+  2    Da generare nel brainstorming   
+  3    Da generare nel brainstorming   
+  4    Da generare nel brainstorming   
+  5    Da generare nel brainstorming   
+
+La tabella è un modello vuoto, non un brainstorming già svolto.
+
+### Selezione Della Soluzione
+
+Dopo il brainstorming, il gruppo sceglierà la soluzione complessiva
+preferita. L'assignment suggerisce due metodi: - **Post-it voting:**
+ogni componente dispone di tre voti; - **Four-category method:** scelta
+di una o due idee per ciascuna categoria --- rational choice, most
+likely to delight, darling e long shot.
+
+**Metodo scelto e motivazione:** da decidere con il gruppo.\
+**Soluzione selezionata e collegamento ai bisogni:** da completare dopo
+il brainstorming e la selezione.
+
+------------------------------------------------------------------------
+
+## 9. Nome Del Progetto E Value Proposition
+
+### Nome Provvisorio
+
+**FoodRescue** *(da confermare dopo la selezione della soluzione)*.
+
+### Value Proposition Provvisoria
+
+> Aiutare le persone a ridurre gli sprechi alimentari nella vita
+> quotidiana, utilizzando meglio gli alimenti che hanno già a
+> disposizione.
+
+Questa frase riassume l'intenzione attuale del progetto, ma non è ancora
+la value proposition definitiva richiesta dall'assignment. La
+formulazione finale dovrà riflettere la soluzione selezionata e i
+bisogni effettivamente emersi. Il processo con cui il gruppo ha scelto
+il nome dovrà essere documentato nella versione finale.
+
+------------------------------------------------------------------------
+
+## 10. Deliverable Previsti Dall'assignment
+
+La presentazione finale dell'Assignment 1 dovrà essere organizzata
+secondo i punti indicati dalla docente:
+
+1.  **Intro**
+    -   componenti del gruppo;
+    -   dominio di interesse e perché/come è stato scelto.
+2.  **Methodology**
+    -   partecipanti, motivazioni della selezione e reclutamento;
+    -   luogo delle interviste;
+    -   osservazioni e domande;
+    -   ruoli dei componenti per ogni intervista;
+    -   materiali utilizzati.
+3.  **Results**
+    -   fotografie e artefatti pertinenti;
+    -   citazioni chiave.
+4.  **User needs**
+    -   elenco completo dei bisogni emersi;
+    -   3--4 deep user needs collegati a interviste e risposte.
+5.  **Solutions**
+    -   materiale del brainstorming;
+    -   descrizione della soluzione scelta in 1--3 frasi;
+    -   collegamento con i bisogni e motivazione della selezione.
+6.  **Project name and value proposition**
+    -   come è stato scelto il nome;
+    -   value proposition in una frase.
+
+L'assignment richiede inoltre di creare nel repository GitHub una
+directory `A1`, contenente le slide in PDF e i materiali grezzi che si
+desidera condividere.
+
+### Criteri Di Valutazione Indicati Nell'assignment
+
+-   **5%** --- definizione del dominio;
+-   **10%** --- partecipanti;
+-   **40%** --- metodologia ed esecuzione;
+-   **45%** --- qualità della sintesi.
+
+La ricerca sul campo, la qualità delle interviste e la sintesi dei
+bisogni hanno quindi un peso sostanziale. La proposta iniziale non
+sostituisce queste attività.
+
+------------------------------------------------------------------------
+
+## 11. Decisioni Attuali E Questioni Aperte
+
+### Decisioni Attuali
+
+-   Tema verticale scelto: **Environmental Sustainability**.
+-   Dominio proposto: gestione degli alimenti in casa e prevenzione
+    degli sprechi.
+-   Gruppo iniziale da esplorare: studenti fuori sede.
+-   FoodRescue è un nome provvisorio per la possibile soluzione, non il
+    dominio di ricerca.
+-   Frigorifero virtuale, riconoscimento AI, ricette e sfide restano
+    ipotesi da verificare.
+-   Healthcare & Wellbeing, conteggio calorie e obiettivi nutrizionali
+    non fanno parte del focus attuale.
+
+### Questioni Aperte
+
+-   La docente approva il dominio proposto?
+-   Il dominio è sufficientemente circoscritto o va ristretto
+    ulteriormente?
+-   Qual è la composizione del gruppo e quindi il numero minimo di
+    interviste?
+-   Quale lead/extreme user è pertinente e realistico da reclutare?
+-   Quali attività possono essere osservate direttamente e con il
+    consenso delle persone?
+-   Quali bisogni emergeranno dalle interviste?
+-   Quale soluzione risulterà più promettente dopo il brainstorming?
+
+Queste questioni dovranno essere risolte prima di considerare il
+progetto definito.
+
+------------------------------------------------------------------------
+
+## Riferimento
+
+Documento preparato sulla base di **Human Computer Interaction
+(2026/2027), Assignment 1 -- Needfinding**, e del concept preliminare di
+FoodRescue discusso nel progetto.
+
+**Nota sullo stato:** questo documento è una proposta di dominio e un
+piano di ricerca. Non presenta come svolte attività che devono ancora
+essere effettuate e non dichiara validati bisogni o soluzioni prima
+della raccolta delle evidenze.
