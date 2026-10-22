@@ -18,11 +18,9 @@ La proposta nasce dall'interesse per la sostenibilità ambientale e per il probl
 La gestione del frigorifero, la scelta dei pasti e l'organizzazione della spesa sono attività quotidiane nelle quali potrebbero emergere difficoltà, strategie personali e opportunità di miglioramento.
 
 Queste sono **motivazioni iniziali da esplorare**, non risultati della ricerca. Le interviste dovranno chiarire quali problemi si verificano realmente, in quali circostanze e come le persone cercano oggi di affrontarli.
+## 3. Piano Di Ricerca
 
-
-## 4. Piano Di Ricerca
-
-### 4.1 Obiettivo
+### 3.1 Obiettivo
 
 Comprendere come le persone gestiscono gli alimenti in casa, decidono
 cosa consumare e cosa acquistare, quali situazioni contribuiscono agli
@@ -32,7 +30,7 @@ Le interviste dovranno concentrarsi su esperienze concrete e recenti,
 anziché soltanto su opinioni generiche o reazioni all'idea di
 FoodRescue.
 
-### 4.2 Partecipanti
+### 3.2 Partecipanti E Numero Di Interviste
 
 Il numero minimo di interviste richiesto dall'assignment è **due volte
 il numero dei componenti del gruppo**, con un minimo di **quattro
@@ -73,7 +71,7 @@ Questi sono profili proposti, non partecipanti già individuati. Il
 profilo dell'utente estremo dovrà essere motivato in relazione al
 dominio e alle esperienze effettive della persona scelta.
 
-### 4.3 Reclutamento
+### 3.3 Reclutamento
 
 Canali da valutare, in linea con l'assignment: - reti personali,
 evitando di limitarsi ad amici e familiari stretti; - amici di amici; -
@@ -85,7 +83,7 @@ spiegare perché sia stato scelto e quale prospettiva possa offrire. Non
 verranno attribuite caratteristiche ai partecipanti prima del
 reclutamento.
 
-### 4.4 Modalità E Contesto
+### 3.4 Modalità E Contesto
 
 Le interviste dovranno essere svolte **di persona e nel contesto dei
 partecipanti, quando possibile**. Se non è possibile incontrarsi in
@@ -99,7 +97,7 @@ l'attività specifica andrà concordata con il partecipante.
 
 La durata attesa per ciascuna intervista è di **30--60 minuti**.
 
-### 4.5 Ruoli Del Gruppo
+### 3.5 Ruoli Del Gruppo
 
 Per ogni intervista: - una persona conduce l'intervista; - un'altra
 persona prende appunti; - non devono essere presenti più di tre membri
@@ -110,7 +108,7 @@ individuale, la gestione pratica dovrà essere concordata con la docente,
 perché l'assignment descrive il lavoro in gruppo e indica i ruoli per
 intervista.
 
-### 4.6 Consenso E Materiali
+### 3.6 Consenso E Materiali
 
 Prima di iniziare ciascuna intervista, si dovrà ottenere il consenso
 esplicito del partecipante **su carta e con firma**, come richiesto
@@ -128,11 +126,13 @@ l'osservazione.
 
 ------------------------------------------------------------------------
 
-## 5. Traccia Preliminare Delle Interviste
+## 4. Traccia Preliminare Delle Interviste
 
 Le domande seguenti sono una traccia iniziale da adattare al
 partecipante e al contesto. Durante l'intervista sarà possibile saltare
 domande non pertinenti e porre domande di approfondimento.
+
+### 4.1 Domande Principali
 
 1.  Mi racconti come gestisci normalmente la spesa alimentare?
 2.  Mi descrivi l'ultima volta che hai fatto la spesa: come hai deciso
@@ -165,51 +165,152 @@ domande non pertinenti e porre domande di approfondimento.
 18. C'è un episodio recente relativo alla gestione degli alimenti che
     non ti ho chiesto e che ritieni importante raccontare?
 
-### Domande Di Approfondimento
+### 4.2 Domande Di Approfondimento
 
 Da usare quando pertinenti: - Che cosa è successo subito prima? - Che
 cosa hai fatto dopo? - Perché hai scelto proprio questo comportamento? -
 Che alternative avevi considerato? - Mi puoi mostrare un esempio? -
 Succede spesso o è stato un caso particolare?
 
-Le domande sono orientate a episodi e pratiche reali. Non si presenterà
-FoodRescue come soluzione durante la prima parte dell'intervista, per
-evitare di guidare le risposte verso le funzionalità già immaginate.
+### 4.3 Indicazioni per Chi Conduce L'intervista
+
+-   Chiedere esempi concreti e recenti, evitando di fermarsi a opinioni
+    generiche.
+-   Approfondire cosa è successo, cosa ha fatto la persona e perché.
+-   Non suggerire la risposta e non anticipare una possibile soluzione.
+-   Non presentare FoodRescue o le funzionalità ipotizzate nella prima
+    parte dell'intervista.
+-   Se la persona è d'accordo, chiedere di mostrare come gestisce oggi
+    gli alimenti o come decide cosa consumare per primo.
+-   Annotare anche strategie già utilizzate, eccezioni e difficoltà
+    incontrate, senza interpretarli subito come bisogni confermati.
 
 ------------------------------------------------------------------------
 
-## 6. Svolgimento E Documentazione Delle Interviste
+## 5. Blueprint Operativo per Ogni Intervista
 
-Per ciascuna sessione verrà compilata una scheda con i campi seguenti.
+Questa sequenza è una guida pratica per preparare e documentare le
+sessioni; non sostituisce la traccia delle domande né i requisiti
+dell'assignment.
 
-### Scheda Intervista
+  -----------------------------------------------------------------------
+  Fase                    Cosa fare               Cosa documentare
+  ----------------------- ----------------------- -----------------------
+  Prima dell'incontro     Confermare              ID partecipante, data,
+                          luogo/modalità,         modalità, profilo
+                          preparare traccia,      previsto, ruoli
+                          appunti e modulo di     
+                          consenso                
 
-  Campo                                             Da compilare
-  ------------------------------------------------- --------------
-  ID partecipante                                   
-  Data e luogo/modalità                             
-  Profilo pertinente al dominio                     
-  Motivo della selezione                            
-  Lead/extreme user? Perché?                        
-  Consenso ottenuto prima dell'intervista?          
-  Membri del gruppo presenti e ruoli                
-  Domande effettivamente poste                      
-  Episodi e comportamenti osservati                 
-  Citazioni testuali rilevanti                      
-  Artefatti o fotografie pertinenti e autorizzati   
-  Prime osservazioni, ancora da verificare          
+  Consenso                Spiegare l'attività e   Conferma che il
+                          ottenere il consenso    consenso è stato
+                          cartaceo firmato prima  ottenuto
+                          di iniziare             
 
-Non si inseriranno citazioni ricostruite a memoria come se fossero
-testuali. Citazioni e risultati saranno compilati a partire dai
-materiali effettivamente raccolti.
+  Apertura                Spiegare in modo neutro Eventuali note di
+                          lo scopo della          contesto
+                          conversazione, senza    
+                          presentare una          
+                          soluzione               
+
+  Racconto delle pratiche Porre domande su spesa, Esempi concreti,
+                          conservazione,          sequenze di attività,
+                          pianificazione e scelta strumenti usati
+                          dei pasti               
+
+  Episodi di possibile    Chiedere di raccontare  Contesto,
+  spreco                  episodi recenti,        comportamento,
+                          incluse cause e azioni  conseguenze e citazioni
+                          successive              testuali
+
+  Osservazione, se        Chiedere alla persona   Cosa viene osservato
+  possibile               di mostrare una pratica direttamente, artefatti
+                          o un artefatto          e foto autorizzati
+                          pertinente, senza       
+                          forzare l'attività      
+
+  Approfondimento         Chiedere perché, quali  Motivazioni espresse
+                          alternative erano       dalla persona e punti
+                          disponibili e se        da verificare
+                          l'episodio è ricorrente 
+
+  Chiusura                Chiedere se c'è altro   Ultime osservazioni e
+                          che ritiene importante  temi da riprendere
+                          aggiungere              
+
+  Subito dopo             Completare gli appunti  Scheda completa e
+                          distinguendo citazioni  riferimenti ai
+                          testuali, parafrasi e   materiali raccolti
+                          osservazioni            
+  -----------------------------------------------------------------------
+
+**Nota:** il blueprint non presuppone che tutte le fasi di osservazione
+siano possibili. L'attività va concordata con la persona e svolta nel
+rispetto del consenso.
+
+------------------------------------------------------------------------
+
+## 6. Schede per la Documentazione
+
+Compilare una scheda per ciascun partecipante. Se un campo non è
+pertinente, indicarlo; non completarlo con supposizioni.
+
+### 6.1 Scheda Anagrafica E Organizzativa Dell'intervista
+
+  Campo                                                       Da compilare
+  ----------------------------------------------------------- --------------
+  ID partecipante                                             
+  Data e luogo/modalità                                       
+  Profilo pertinente al dominio                               
+  Motivo della selezione                                      
+  Lead/extreme user? Perché?                                  
+  Consenso cartaceo firmato ottenuto prima dell'intervista?   
+  Membri del gruppo presenti e ruoli                          
+  Durata effettiva                                            
+  Domande effettivamente poste / domande saltate              
+  Osservazione o contextual inquiry svolta? Descrizione       
+  Materiali raccolti e autorizzazioni pertinenti              
+
+### 6.2 Scheda Episodio / Evidenza
+
+Duplicare questa scheda per ogni episodio o osservazione significativa.
+
+  Campo                                                           Da compilare
+  --------------------------------------------------------------- --------------
+  ID partecipante                                                 
+  ID episodio/evidenza                                            
+  Domanda o contesto in cui è emerso                              
+  Situazione: cosa stava succedendo?                              
+  Azione: cosa ha fatto la persona?                               
+  Motivazione: perché, secondo quanto raccontato dalla persona?   
+  Conseguenza o esito dell'episodio                               
+  Citazione testuale esatta (se disponibile)                      
+  Parafrasi / sintesi della risposta                              
+  Osservazione diretta (se presente, distinta dal racconto)       
+  Artefatto/foto associato e consenso pertinente                  
+  Possibile bisogno da verificare, non ancora validato            
+
+### 6.3 Riepilogo a Fine Intervista
+
+-   **Pratiche e strategie descritte:**
+-   **Difficoltà o episodi raccontati:**
+-   **Aspetti inattesi:**
+-   **Differenze tra ciò che è stato raccontato e ciò che è stato
+    osservato, se applicabile:**
+-   **Possibili bisogni da confrontare con le altre interviste:**
+-   **Domande da approfondire in interviste successive:**
+
+Non inserire citazioni ricostruite a memoria come se fossero testuali.
+Le citazioni e i risultati dovranno derivare dai materiali
+effettivamente raccolti.
 
 ------------------------------------------------------------------------
 
 ## 7. Sintesi Dei Risultati --- Da Completare Dopo la Ricerca
 
-Questa sezione è intenzionalmente incompleta: l'assignment richiede che
-i bisogni derivino dalle interviste e siano collegati a una o più
-risposte.
+Questa sezione è intenzionalmente incompleta: i risultati e i bisogni
+dovranno derivare dalle interviste e collegarsi a risposte o
+osservazioni effettivamente raccolte.
 
 ### 7.1 Risultati, Fotografie E Citazioni
 
@@ -218,43 +319,62 @@ con le autorizzazioni necessarie; - citazioni testuali significative; -
 episodi e comportamenti ricorrenti; - differenze o contraddizioni tra
 quanto raccontato e quanto osservato.
 
-**Stato:** non ancora disponibile.
+**Stato:** da completare dopo la raccolta dei dati.
 
 ### 7.2 Elenco Iniziale Dei Bisogni Emersi
 
-Dopo ogni intervista, raccogliere i possibili bisogni in una lista ampia
-e collegare ciascuno a uno o più partecipanti e alle relative risposte.
+Raccogliere i possibili bisogni emersi dalle interviste. Formulare
+ciascun bisogno come attività o desiderio della persona, non come
+funzionalità tecnica o nome di un prodotto.
 
-  -----------------------------------------------------------------------------
-  ID                Bisogno formulato Evidenza                Stato
-                    come attività o   (intervista/risposta)   
-                    desiderio                                 
-  ----------------- ----------------- ----------------------- -----------------
-  N-01              Da ricavare dai   Da compilare            Non validato
-                    dati                                      
+  --------------------------------------------------------------------------
+  ID                Bisogno formulato Evidenza (ID         Stato / note
+                    come attività o   intervista e         
+                    desiderio         risposta/episodio)   
+  ----------------- ----------------- -------------------- -----------------
+  N-01              Da ricavare dai                        Da verificare
+                    dati                                   
 
-  N-02              Da ricavare dai   Da compilare            Non validato
-                    dati                                      
+  N-02              Da ricavare dai                        Da verificare
+                    dati                                   
 
-  N-03              Da ricavare dai   Da compilare            Non validato
-                    dati                                      
-  -----------------------------------------------------------------------------
+  N-03              Da ricavare dai                        Da verificare
+                    dati                                   
 
-I bisogni dovranno descrivere ciò che le persone hanno bisogno di
-riuscire a fare, non una funzionalità o una soluzione tecnica. Non sono
-ancora definiti.
+  N-04              Da ricavare dai                        Da verificare
+                    dati                                   
 
-### 7.3 Tre O Quattro Deep User Needs
+  N-05              Da ricavare dai                        Da verificare
+                    dati                                   
+  --------------------------------------------------------------------------
+
+Aggiungere righe se necessario. I bisogni non sono ancora definiti e non
+vanno anticipati sulla base delle funzionalità desiderate.
+
+### 7.3 Selezione Di 3--4 Deep User Needs
 
 Dalla lista complessiva saranno selezionati **3--4 bisogni profondi**,
 ciascuno collegato esplicitamente a una o più interviste e risposte.
 
-  Deep need   Formulazione                                 Interviste e risposte a supporto
-  ----------- -------------------------------------------- ----------------------------------
-  DN-01       Da definire dopo la sintesi                  Da compilare
-  DN-02       Da definire dopo la sintesi                  Da compilare
-  DN-03       Da definire dopo la sintesi                  Da compilare
-  DN-04       Da definire dopo la sintesi, se pertinente   Da compilare
+  -----------------------------------------------------------------------
+  ID                Formulazione del  Interviste ed     Perché è
+                    deep user need    evidenze a        rilevante
+                                      supporto          rispetto al
+                                                        dominio
+  ----------------- ----------------- ----------------- -----------------
+  DN-01             Da definire dopo                    
+                    la sintesi                          
+
+  DN-02             Da definire dopo                    
+                    la sintesi                          
+
+  DN-03             Da definire dopo                    
+                    la sintesi                          
+
+  DN-04             Da definire dopo                    
+                    la sintesi, se                      
+                    pertinente                          
+  -----------------------------------------------------------------------
 
 La selezione non va anticipata sulla base delle funzionalità desiderate:
 i bisogni dovranno emergere dai dati.
@@ -273,13 +393,13 @@ senza limitarsi a proporre un'app o una specifica funzionalità tecnica.
 In questa fase non si dovrà scartare un'idea soltanto perché sembra
 difficile da realizzare.
 
-### Scheda Brainstorming Da Replicare per Ogni Deep Need
+### 8.1 Scheda Brainstorming Da Replicare per Ogni Deep Need
 
 **Deep need di riferimento:** DN-\_\_\
 **Evidenze dalle interviste:** da compilare
 
-  \#   Possibile soluzione             Idea emersa da / note
-  ---- ------------------------------- -----------------------
+  \#   Possibile soluzione             Chi ha proposto l'idea / note
+  ---- ------------------------------- -------------------------------
   1    Da generare nel brainstorming   
   2    Da generare nel brainstorming   
   3    Da generare nel brainstorming   
@@ -288,44 +408,48 @@ difficile da realizzare.
 
 La tabella è un modello vuoto, non un brainstorming già svolto.
 
-### Selezione Della Soluzione
+### 8.2 Selezione Della Soluzione
 
 Dopo il brainstorming, il gruppo sceglierà la soluzione complessiva
 preferita. L'assignment suggerisce due metodi: - **Post-it voting:**
 ogni componente dispone di tre voti; - **Four-category method:** scelta
-di una o due idee per ciascuna categoria --- rational choice, most
-likely to delight, darling e long shot.
+di una o due idee per ciascuna categoria --- *rational choice*, *most
+likely to delight*, *darling* e *long shot*.
 
-**Metodo scelto e motivazione:** da decidere con il gruppo.\
-**Soluzione selezionata e collegamento ai bisogni:** da completare dopo
-il brainstorming e la selezione.
+**Metodo scelto e motivazione:** da completare.\
+**Soluzione selezionata (1--3 frasi):** da completare.\
+**Deep needs a cui risponde:** da completare.\
+**Motivazione della selezione:** da completare.
 
 ------------------------------------------------------------------------
 
 ## 9. Nome Del Progetto E Value Proposition
 
-### Nome Provvisorio
+### 9.1 Nome Del Progetto
 
-**FoodRescue** *(da confermare dopo la selezione della soluzione)*.
+**Nome:** FoodRescue *(provvisorio; da confermare dopo la selezione
+della soluzione)*.
 
-### Value Proposition Provvisoria
+**Come è stato scelto il nome:** da documentare quando la scelta sarà
+stata effettuata.
 
-> Aiutare le persone a ridurre gli sprechi alimentari nella vita
-> quotidiana, utilizzando meglio gli alimenti che hanno già a
-> disposizione.
+### 9.2 Value Proposition
+
+**Value proposition provvisoria:**\
+\> Aiutare le persone a ridurre gli sprechi alimentari nella vita
+quotidiana, utilizzando meglio gli alimenti che hanno già a
+disposizione.
 
 Questa frase riassume l'intenzione attuale del progetto, ma non è ancora
-la value proposition definitiva richiesta dall'assignment. La
-formulazione finale dovrà riflettere la soluzione selezionata e i
-bisogni effettivamente emersi. Il processo con cui il gruppo ha scelto
-il nome dovrà essere documentato nella versione finale.
+la value proposition definitiva. La formulazione finale dovrà riflettere
+la soluzione selezionata e i bisogni effettivamente emersi.
 
 ------------------------------------------------------------------------
 
-## 10. Deliverable Previsti Dall'assignment
+## 10. Struttura Del Deliverable Finale
 
-La presentazione finale dell'Assignment 1 dovrà essere organizzata
-secondo i punti indicati dalla docente:
+La presentazione finale dell'Assignment 1 dovrà coprire i punti indicati
+nell'assignment.
 
 1.  **Intro**
     -   componenti del gruppo;
@@ -353,42 +477,3 @@ secondo i punti indicati dalla docente:
 L'assignment richiede inoltre di creare nel repository GitHub una
 directory `A1`, contenente le slide in PDF e i materiali grezzi che si
 desidera condividere.
-
-### Criteri Di Valutazione Indicati Nell'assignment
-
--   **5%** --- definizione del dominio;
--   **10%** --- partecipanti;
--   **40%** --- metodologia ed esecuzione;
--   **45%** --- qualità della sintesi.
-
-La ricerca sul campo, la qualità delle interviste e la sintesi dei
-bisogni hanno quindi un peso sostanziale. La proposta iniziale non
-sostituisce queste attività.
-
-------------------------------------------------------------------------
-
-## 11. Decisioni Attuali E Questioni Aperte
-
-### Decisioni Attuali
-
--   Tema verticale scelto: **Environmental Sustainability**.
--   Dominio proposto: gestione degli alimenti in casa e prevenzione
-    degli sprechi.
--   Gruppo iniziale da esplorare: studenti fuori sede.
--   FoodRescue è un nome provvisorio per la possibile soluzione, non il
-    dominio di ricerca.
--   Frigorifero virtuale, riconoscimento AI, ricette e sfide restano
-    ipotesi da verificare.
--   Healthcare & Wellbeing, conteggio calorie e obiettivi nutrizionali
-    non fanno parte del focus attuale.
-
-### Questioni Aperte
-
--   Quale lead/extreme user è pertinente e realistico da reclutare?
--   Quali attività possono essere osservate direttamente e con il
-    consenso delle persone?
--   Quali bisogni emergeranno dalle interviste?
--   Quale soluzione risulterà più promettente dopo il brainstorming?
-
-Queste questioni dovranno essere risolte prima di considerare il
-progetto definito.
