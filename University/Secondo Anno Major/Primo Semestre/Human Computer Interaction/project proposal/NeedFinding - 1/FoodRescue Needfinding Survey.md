@@ -1,4 +1,4 @@
-# FoodRescue --- Proposta per Assignment 1: Needfinding
+# FoodRescue - Proposta per Assignment 1: Needfinding
 
 **Corso:** Human Computer Interaction (2026/2027)
 **Tema:** Environmental Sustainability
@@ -14,13 +14,8 @@ Il dominio riguarda come le persone gestiscono gli alimenti acquistati e
 conservati, decidono cosa cucinare, si accorgono che alcuni prodotti
 rischiano di non essere consumati e pianificano gli acquisti successivi.
 
-Gli studenti fuori sede sono il gruppo iniziale che si propone di
-esplorare. La ricerca dovrà verificare se questo gruppo presenta bisogni
-rilevanti e specifici; non si assume in anticipo che tutte le persone
-del gruppo abbiano le stesse difficoltà.
-
-### 2.2 Perché Esplorare Questo Dominio
-
+Gli attori di dominio principali da esplorare identificati sono soggetti come studenti universitari fuori sede oppure lavoratori d'ufficio, ovvero persone che hanno uno stile di vita che li porta a passare diverso tempo fuori casa, ma che comunque gli consente di cucinare e quindi sprecare del cibo.   
+### 1.2 Perché Esplorare Questo Dominio
 La proposta nasce dall'interesse per la sostenibilità ambientale e per
 il problema pratico degli alimenti acquistati ma non consumati. La
 gestione del frigorifero, la scelta dei pasti e l'organizzazione della
