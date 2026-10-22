@@ -7,42 +7,17 @@
 ------------------------------------------------------------------------
 ## 1. Dominio Di Interesse
 ### 1.1 Dominio Proposto
-**Gestione quotidiana degli alimenti in casa e prevenzione degli sprechi
-alimentari.**
+**Gestione quotidiana degli alimenti in casa e prevenzione degli sprechi alimentari.**
 
-Il dominio riguarda come le persone gestiscono gli alimenti acquistati e
-conservati, decidono cosa cucinare, si accorgono che alcuni prodotti
-rischiano di non essere consumati e pianificano gli acquisti successivi.
+Il dominio riguarda come le persone gestiscono gli alimenti acquistati e conservati, decidono cosa cucinare, si accorgono che alcuni prodotti rischiano di non essere consumati e pianificano gli acquisti successivi.
 
 Gli attori di dominio principali da esplorare identificati sono soggetti come studenti universitari fuori sede oppure lavoratori d'ufficio, ovvero persone che hanno uno stile di vita che li porta a passare diverso tempo fuori casa, ma che comunque gli consente di cucinare e quindi sprecare del cibo.   
 ### 1.2 Perché Esplorare Questo Dominio
-La proposta nasce dall'interesse per la sostenibilità ambientale e per
-il problema pratico degli alimenti acquistati ma non consumati. La
-gestione del frigorifero, la scelta dei pasti e l'organizzazione della
-spesa sono attività quotidiane nelle quali potrebbero emergere
-difficoltà, strategie personali e opportunità di miglioramento.
+La proposta nasce dall'interesse per la sostenibilità ambientale e per il problema pratico degli alimenti acquistati ma non consumati.
+La gestione del frigorifero, la scelta dei pasti e l'organizzazione della spesa sono attività quotidiane nelle quali potrebbero emergere difficoltà, strategie personali e opportunità di miglioramento.
 
-Queste sono **motivazioni iniziali da esplorare**, non risultati della
-ricerca. Le interviste dovranno chiarire quali problemi si verificano
-realmente, in quali circostanze e come le persone cercano oggi di
-affrontarli.
-
-### 2.3 Confini Del Dominio
-
-Il focus iniziale è la **prevenzione degli sprechi alimentari nella vita
-quotidiana**.
-
-Fuori dal focus iniziale: - conteggio delle calorie e obiettivi
-nutrizionali; - Health & Wellbeing come tema progettuale autonomo; - una
-mappa generale dei produttori locali; - valutazione dell'accessibilità
-dei punti vendita; - funzionalità non direttamente collegate al dominio,
-se non giustificate dalla ricerca.
-
-Questi confini aiutano a mantenere un tema coerente. Potranno essere
-rivalutati solo se la ricerca o il feedback della docente suggeriranno
-di modificare il perimetro.
-
-## 3. Collegamento Preliminare Con FoodRescue
+Queste sono **motivazioni iniziali da esplorare**, non risultati della ricerca. Le interviste dovranno chiarire quali problemi si verificano realmente, in quali circostanze e come le persone cercano oggi di affrontarli.
+## 2. Collegamento Preliminare Con FoodRescue
 
 FoodRescue è il nome provvisorio della possibile soluzione da esplorare,
 non la definizione del dominio di ricerca.
