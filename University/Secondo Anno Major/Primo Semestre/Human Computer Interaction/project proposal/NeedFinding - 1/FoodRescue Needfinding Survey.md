@@ -6,161 +6,91 @@
 - **Team:** Fabio Fattori, Tonelli Francesco
 
 ## 1. Dominio di interesse
-
 ### 1.1 Dominio proposto
+**Gestione quotidiana degli alimenti in casa e prevenzione degli sprechi alimentari.**
 
-**Gestione quotidiana degli alimenti in casa e prevenzione degli sprechi
-alimentari.**
+Il dominio riguarda come le persone gestiscono gli alimenti acquistati e conservati, decidono cosa cucinare, si accorgono che alcuni prodotti rischiano di non essere consumati e pianificano gli acquisti successivi.
 
-Il dominio riguarda come le persone gestiscono gli alimenti acquistati e
-conservati, decidono cosa cucinare, si accorgono che alcuni prodotti
-rischiano di non essere consumati e pianificano gli acquisti successivi.
-
-Gli attori di dominio principali da esplorare identificati sono soggetti
-come studenti universitari fuori sede oppure lavoratori d'ufficio,
-ovvero persone che hanno uno stile di vita che li porta a passare
-diverso tempo fuori casa, ma che comunque gli consente di cucinare e
-quindi sprecare del cibo.
-
+Gli attori di dominio principali da esplorare identificati sono soggetti come studenti universitari fuori sede oppure lavoratori d'ufficio, ovvero persone che hanno uno stile di vita che li porta a passare diverso tempo fuori casa, ma che comunque gli consente di cucinare e quindi sprecare del cibo.
 ### 1.2 Perché esplorare questo dominio
+La proposta nasce dall'interesse per la sostenibilità ambientale e per il problema pratico degli alimenti acquistati ma non consumati. La gestione del frigorifero, la scelta dei pasti e l'organizzazione della spesa sono attività quotidiane nelle quali potrebbero emergere difficoltà, strategie personali e opportunità di miglioramento.
 
-La proposta nasce dall'interesse per la sostenibilità ambientale e per
-il problema pratico degli alimenti acquistati ma non consumati. La
-gestione del frigorifero, la scelta dei pasti e l'organizzazione della
-spesa sono attività quotidiane nelle quali potrebbero emergere
-difficoltà, strategie personali e opportunità di miglioramento.
-
-Queste sono **motivazioni iniziali da esplorare**, non risultati della
-ricerca. Le interviste dovranno chiarire quali problemi si verificano
-realmente, in quali circostanze e come le persone cercano oggi di
-affrontarli.
-
+Queste sono **motivazioni iniziali da esplorare**, non risultati della ricerca. Le interviste dovranno chiarire quali problemi si verificano realmente, in quali circostanze e come le persone cercano oggi di affrontarli.
 ## 2. Piano di ricerca
-
 ### 2.1 Obiettivo
+Comprendere come le persone gestiscono gli alimenti in casa, decidono cosa consumare e cosa acquistare, quali situazioni contribuiscono agli sprechi e quali strategie usano già per prevenirli.
 
-Comprendere come le persone gestiscono gli alimenti in casa, decidono
-cosa consumare e cosa acquistare, quali situazioni contribuiscono agli
-sprechi e quali strategie usano già per prevenirli.
-
-Le interviste dovranno concentrarsi su esperienze concrete e recenti,
-anziché soltanto su opinioni generiche o reazioni all'idea di
-FoodRescue.
-
+Le interviste dovranno concentrarsi su esperienze concrete e recenti, anziché soltanto su opinioni generiche o reazioni all'idea di FoodRescue.
 ### 2.2 Partecipanti e numero di interviste
-
-Il numero minimo di interviste richiesto dall'assignment è **due volte
-il numero dei componenti del gruppo**, con un minimo di **quattro
-persone se il progetto è individuale**.
+Il numero minimo di interviste richiesto dall'assignment è **due volte il numero dei componenti del gruppo**, con un minimo di **quattro persone se il progetto è individuale**.
 
 Il reclutamento dovrà rispettare anche le indicazioni dell'assignment:
-
 - Includere prospettive diverse, non soltanto utenti immediati.
 - Idealmente, includere al massimo uno studente UniBo.
 - Includere al massimo un esperto del dominio (facoltativo).
 - Includere almeno un lead/extreme user.
 - Se vengono intervistate esattamente quattro persone, includere almeno due utenti immediati.
 
-**Numero definitivo di partecipanti:** da stabilire in base alla
-dimensione del gruppo.
+**Numero definitivo di partecipanti:** 5.
 
-| Profilo da considerare | Motivo | Stato |
-| --- | --- | --- |
-| Persona che vive fuori casa e gestisce autonomamente spesa e pasti | Utente immediato rispetto al dominio proposto | Da reclutare |
-| Persona che acquista e cucina regolarmente per sé o per altre persone | Può descrivere routine, pianificazione e gestione degli alimenti | Da reclutare |
-| Lead/extreme user pertinente al dominio | Può offrire una prospettiva approfondita o diversa | Da identificare e reclutare |
-| Eventuale partecipante con una prospettiva differente | Amplia la varietà dei punti di vista | Da definire |
+| Profilo da considerare                                                | Motivo                                                           | Stato                       |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------- |
+| Persona che vive fuori casa e gestisce autonomamente spesa e pasti    | Utente immediato rispetto al dominio proposto                    | Da reclutare                |
+| Persona che acquista e cucina regolarmente per sé o per altre persone | Può descrivere routine, pianificazione e gestione degli alimenti | Da reclutare                |
+| Lead/extreme user pertinente al dominio                               | Può offrire una prospettiva approfondita o diversa               | Da identificare e reclutare |
+| Eventuale partecipante con una prospettiva differente                 | Amplia la varietà dei punti di vista                             | Da definire                 |
 
-Questi sono profili proposti, non partecipanti già individuati. Il
-profilo dell'utente estremo dovrà essere motivato in relazione al
-dominio e alle esperienze effettive della persona scelta.
+Questi sono profili proposti, non partecipanti già individuati. Il profilo dell'utente estremo dovrà essere motivato in relazione al dominio e alle esperienze effettive della persona scelta.
 
 ### 2.3 Reclutamento
-
 Canali da valutare, in linea con l'assignment:
-
 - Reti personali, evitando di limitarsi ad amici e familiari stretti.
 - Amici di amici.
 - Social media e comunità online.
 - Reclutamento in luoghi pertinenti al dominio, se appropriato e rispettoso.
 
-Per ogni partecipante si registreranno le caratteristiche utili a
-spiegare perché sia stato scelto e quale prospettiva possa offrire. Non
-verranno attribuite caratteristiche ai partecipanti prima del
-reclutamento.
-
+Per ogni partecipante si registreranno le caratteristiche utili a spiegare perché sia stato scelto e quale prospettiva possa offrire. Non verranno attribuite caratteristiche ai partecipanti prima del reclutamento.
 ### 2.4 Modalità e contesto
+Le interviste dovranno essere svolte **di persona e nel contesto dei partecipanti, quando possibile**. Se non è possibile incontrarsi in presenza, l'assignment consente di utilizzare una videochiamata.
 
-Le interviste dovranno essere svolte **di persona e nel contesto dei
-partecipanti, quando possibile**. Se non è possibile incontrarsi in
-presenza, l'assignment consente di utilizzare una videochiamata.
-
-È prevista anche una piccola attività di osservazione o contextual
-inquiry, quando possibile, per osservare alcune attività nel contesto
-reale. Un esempio coerente con il dominio è osservare, con il consenso
-della persona, come organizza gli alimenti o pianifica cosa consumare;
-l'attività specifica andrà concordata con il partecipante.
+È prevista anche una piccola attività di osservazione o contextual inquiry, quando possibile, per osservare alcune attività nel contesto reale. Un esempio coerente con il dominio è osservare, con il consenso della persona, come organizza gli alimenti o pianifica cosa consumare; l'attività specifica andrà concordata con il partecipante.
 
 La durata attesa per ciascuna intervista è di **30–60 minuti**.
-
 ### 2.5 Ruoli del gruppo
-
 Per ogni intervista:
-
 - Una persona conduce l'intervista.
 - Un'altra persona prende appunti.
 - Non devono essere presenti più di tre membri del gruppo.
 
-I ruoli effettivi saranno registrati per ogni sessione. Se il progetto è
-individuale, la gestione pratica dovrà essere concordata con la docente,
-perché l'assignment descrive il lavoro in gruppo e indica i ruoli per
-intervista.
-
+I ruoli effettivi saranno registrati per ogni sessione. Se il progetto è individuale, la gestione pratica dovrà essere concordata con la docente, perché l'assignment descrive il lavoro in gruppo e indica i ruoli per intervista.
 ### 2.6 Consenso e materiali
-
-Prima di iniziare ciascuna intervista, si dovrà ottenere il consenso
-esplicito del partecipante **su carta e con firma**, come richiesto
-dall'assignment. Senza tale consenso, l'intervista non verrà svolta.
+Prima di iniziare ciascuna intervista, si dovrà ottenere il consenso esplicito del partecipante **su carta e con firma**, come richiesto dall'assignment. Senza tale consenso, l'intervista non verrà svolta.
 
 Materiali previsti:
-
 - Modulo di consenso.
 - Traccia delle domande.
 - Appunti delle domande poste e delle risposte principali.
 - Registrazione audio, se prevista e autorizzata.
 - Fotografie dei partecipanti e degli artefatti rilevanti, solo con il consenso necessario.
 - Eventuali note e materiali prodotti durante l'osservazione.
-
-I materiali dovranno documentare cosa la persona dice e fa, come lo fa e
-perché, per quanto sia possibile comprenderlo attraverso l'intervista e
-l'osservazione.
+I materiali dovranno documentare cosa la persona dice e fa, come lo fa e perché, per quanto sia possibile comprenderlo attraverso l'intervista e l'osservazione.
 
 ---
-
 ## 3. Traccia preliminare delle interviste
-
-Le domande seguenti sono una traccia iniziale da adattare al
-partecipante e al contesto. Durante l'intervista sarà possibile saltare
-domande non pertinenti e porre domande di approfondimento.
-
+Le domande seguenti sono una traccia iniziale da adattare al partecipante e al contesto. Durante l'intervista sarà possibile saltare domande non pertinenti e porre domande di approfondimento.
 ### 3.1 Domande principali
-
 1.  Mi racconti come gestisci normalmente la spesa alimentare?
-2.  Mi descrivi l'ultima volta che hai fatto la spesa: come hai deciso
-    cosa comprare?
+2.  Mi descrivi l'ultima volta che hai fatto la spesa: come hai deciso cosa comprare?
 3.  Come decidi cosa cucinare durante la settimana?
 4.  Come tieni traccia degli alimenti che hai già in casa?
 5.  Mi racconti l'ultima volta in cui ti sei accorto di avere un
     alimento che rischiava di non essere consumato?
 6.  Che cosa hai fatto in quella situazione?
-7.  Ti è capitato recentemente di buttare del cibo? Mi racconti
-    l'episodio?
+7.  Ti è capitato recentemente di buttare del cibo? Mi racconti l'episodio?
 8.  Secondo te, che cosa ha portato a quello spreco?
-9.  Ci sono alimenti che dimentichi più spesso o che fai fatica a
-    consumare? Puoi raccontarmi un esempio?
+9.  Ci sono alimenti che dimentichi più spesso o che fai fatica a consumare? Puoi raccontarmi un esempio?
 10. Come ti accorgi che un prodotto dovrebbe essere consumato presto?
-11. Che cosa fai quando vuoi cucinare, ma non sai come utilizzare gli
-    ingredienti che hai a disposizione?
+11. Che cosa fai quando vuoi cucinare, ma non sai come utilizzare gli ingredienti che hai a disposizione?
 12. Usi già strumenti, liste, promemoria o altre strategie per organizzare gli alimenti e i pasti? Come funzionano per te?
 13. Hai provato una soluzione o un metodo che poi hai smesso di usare?
     Perché?
