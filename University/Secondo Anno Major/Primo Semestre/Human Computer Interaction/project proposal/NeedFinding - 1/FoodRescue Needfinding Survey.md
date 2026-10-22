@@ -3,7 +3,7 @@
 **Corso:** Human Computer Interaction (2026/2027)
 **Tema:** Environmental Sustainability
 **Nome di progetto:** FoodRescue *(provvisorio)*
-**Componenti**: Fabio Fattori, Tonelli Francesco
+**Team**: Fabio Fattori, Tonelli Francesco
 
 ------------------------------------------------------------------------
 ## 1. Dominio Di Interesse
@@ -18,50 +18,7 @@ La proposta nasce dall'interesse per la sostenibilità ambientale e per il probl
 La gestione del frigorifero, la scelta dei pasti e l'organizzazione della spesa sono attività quotidiane nelle quali potrebbero emergere difficoltà, strategie personali e opportunità di miglioramento.
 
 Queste sono **motivazioni iniziali da esplorare**, non risultati della ricerca. Le interviste dovranno chiarire quali problemi si verificano realmente, in quali circostanze e come le persone cercano oggi di affrontarli.
-## 2. Collegamento Preliminare Con FoodRescue
 
-FoodRescue è il nome provvisorio della possibile soluzione da esplorare,
-non la definizione del dominio di ricerca.
-
-### 3.1 Ipotesi Progettuale Iniziale
-
-L'ipotesi da verificare è che alcune persone possano avere difficoltà a
-tenere traccia degli alimenti disponibili, ricordare quali prodotti
-consumare per primi e decidere come utilizzarli prima che vadano
-sprecati.
-
-Se la ricerca confermerà bisogni di questo tipo, una possibile direzione
-progettuale potrebbe aiutare le persone a: - tenere traccia degli
-alimenti presenti in casa; - individuare gli alimenti che rischiano di
-essere dimenticati o non consumati; - trovare modi pratici per
-utilizzare gli ingredienti già disponibili; - riflettere sulle proprie
-abitudini per prevenire sprechi futuri.
-
-Queste sono possibilità da verificare, non funzionalità già approvate.
-
-### 3.2 Idee Da Esplorare, Non Ancora Decisioni
-
-Le idee emerse finora sono: - un frigorifero virtuale in cui registrare
-gli alimenti; - inserimento manuale degli alimenti o supporto AI per
-riconoscerli da una foto; - suggerimenti di ricette che utilizzino
-ingredienti già disponibili; - sfide e progressi legati alle azioni di
-prevenzione degli sprechi; - informazioni che aiutino a riconoscere
-abitudini ricorrenti di spreco.
-
-La ricerca dovrà aiutare a capire quali direzioni rispondano a bisogni
-reali e quali non siano necessarie.
-
-### 3.3 Tecnologie Previste
-
-La direzione tecnica ipotizzata è: - **Frontend:** React / JavaScript; -
-**Backend:** Node.js.
-
-In questa fase le tecnologie sono un vincolo progettuale indicativo.
-L'Assignment 1 richiede prima di tutto di esplorare il dominio e i
-bisogni delle persone; non si sceglieranno i bisogni sulla base delle
-funzionalità più facili da implementare.
-
-------------------------------------------------------------------------
 
 ## 4. Piano Di Ricerca
 
