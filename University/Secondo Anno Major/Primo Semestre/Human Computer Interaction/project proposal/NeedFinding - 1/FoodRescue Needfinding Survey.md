@@ -384,11 +384,6 @@ sostituisce queste attività.
 
 ### Questioni Aperte
 
--   La docente approva il dominio proposto?
--   Il dominio è sufficientemente circoscritto o va ristretto
-    ulteriormente?
--   Qual è la composizione del gruppo e quindi il numero minimo di
-    interviste?
 -   Quale lead/extreme user è pertinente e realistico da reclutare?
 -   Quali attività possono essere osservate direttamente e con il
     consenso delle persone?
@@ -397,16 +392,3 @@ sostituisce queste attività.
 
 Queste questioni dovranno essere risolte prima di considerare il
 progetto definito.
-
-------------------------------------------------------------------------
-
-## Riferimento
-
-Documento preparato sulla base di **Human Computer Interaction
-(2026/2027), Assignment 1 -- Needfinding**, e del concept preliminare di
-FoodRescue discusso nel progetto.
-
-**Nota sullo stato:** questo documento è una proposta di dominio e un
-piano di ricerca. Non presenta come svolte attività che devono ancora
-essere effettuate e non dichiara validati bisogni o soluzioni prima
-della raccolta delle evidenze.
