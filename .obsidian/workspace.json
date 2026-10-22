@@ -11,10 +11,14 @@
             "id": "02f3ead75038cf7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/FoodRescue_Specifiche_Progetto_v0.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "FoodRescue_Specifiche_Progetto_v0.1"
             }
           }
         ]
@@ -180,7 +184,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef605dff0dc83cd1",
+  "active": "02f3ead75038cf7b",
   "lastOpenFiles": [
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 2/slides/[module-2.2] Reactive Programming.pdf",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 2/slides/Riassunto_Async_Reactive_Programming.pdf",
