@@ -3,6 +3,7 @@
 **Corso:** Human Computer Interaction (2026/2027)
 **Tema:** Environmental Sustainability
 **Nome di progetto:** FoodRescue *(provvisorio)*
+**Componenti**: Fabio Fattori, Tonelli Francesco
 
 ------------------------------------------------------------------------
 ## 1. Dominio Di Interesse
