@@ -60,7 +60,6 @@ La durata attesa per ciascuna intervista è di **30–60 minuti**.
 Per ogni intervista:
 - Una persona conduce l'intervista.
 - Un'altra persona prende appunti.
-- Non devono essere presenti più di tre membri del gruppo.
 
 I ruoli effettivi saranno registrati per ogni sessione. Se il progetto è individuale, la gestione pratica dovrà essere concordata con la docente, perché l'assignment descrive il lavoro in gruppo e indica i ruoli per intervista.
 ### 2.6 Consenso e materiali
