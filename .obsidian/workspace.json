@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "FoodRescue Needfinding Survey"
             }
+          },
+          {
+            "id": "40b456478951c325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/interviews/intervista_giuliana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intervista_giuliana"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,15 +202,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02f3ead75038cf7b",
+  "active": "40b456478951c325",
   "lastOpenFiles": [
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/FoodRescue Needfinding Survey.md",
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/interviews/intervista_giuliana.md",
+    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/interviews",
     "file:/home/fabio/Scaricati/FoodRescue_A1_Needfinding_v0.4.md",
     "file:/home/fabio/Scaricati/FoodRescue_A1_Needfinding_v0.3.md",
-    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/FoodRescue Needfinding Survey.md",
     "file:/home/fabio/Scaricati/FoodRescue_A1_Needfinding_v0.2.md",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/FoodRescue_Specifiche_Progetto_v0.1.md",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/A1-needfinding.pdf",
-    "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/Senza nome",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1/imgs",
     "University/Secondo Anno Major/Primo Semestre/Human Computer Interaction/project proposal/NeedFinding - 1",
     "University/Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Modulo 2/slides/[module-2.2] Reactive Programming.pdf",
@@ -234,7 +250,6 @@
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es5.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es4.md",
     "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es3.md",
-    "University/Primo Anno Major/Primo Semestre Major/Linguaggi, Compilatori e Modelli Computazionali/Esercizi/es1/es2.md",
     "Primo Anno Major/Secondo Semestre Major/Programmazione concorrente e distribuita/Senza nome.canvas"
   ]
 }
