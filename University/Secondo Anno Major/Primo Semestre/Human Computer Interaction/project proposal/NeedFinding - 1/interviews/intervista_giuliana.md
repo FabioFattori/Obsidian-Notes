@@ -2,19 +2,19 @@
 
 ## Scheda anagrafica e organizzativa dell'intervista
 
-| Campo | Risposta / note |
-|---|---|
-| ID partecipante | P01 |
-| Data dell'intervista | 23/10/2026 |
-| Luogo / modalità | Contesto domestico, intervista individuale |
-| Profilo pertinente al dominio | Madre di due figli a carico, lavoratrice part-time, responsabile della spesa alimentare e dell'organizzazione dei pasti familiari |
-| Motivo della selezione | Esperienza quotidiana nella gestione della spesa, nella pianificazione dei pasti e nel tentativo di ridurre gli sprechi alimentari |
-| Lead/extreme user? Motivazione | Utente con esperienza pratica nella gestione domestica, ma non necessariamente estrema |
-| Consenso cartaceo firmato ottenuto prima dell'intervista? | Da compilare |
-| Membri del gruppo presenti e ruoli | Giuliana (partecipante), intervistatore |
-| Durata effettiva | 35 minuti |
-| Osservazione / contextual inquiry svolta? | Non documentata |
-| Materiali raccolti e autorizzazioni pertinenti | Nessun materiale registrato nella scheda |
+| Campo                                                     | Risposta / note                                                                                                                    |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ID partecipante                                           | P01                                                                                                                                |
+| Data dell'intervista                                      | 23/10/2026                                                                                                                         |
+| Luogo / modalità                                          | Contesto domestico, intervista individuale                                                                                         |
+| Profilo pertinente al dominio                             | Madre di due figli a carico, lavoratrice part-time, responsabile della spesa alimentare e dell'organizzazione dei pasti familiari  |
+| Motivo della selezione                                    | Esperienza quotidiana nella gestione della spesa, nella pianificazione dei pasti e nel tentativo di ridurre gli sprechi alimentari |
+| Lead/extreme user? Motivazione                            | Utente con esperienza pratica nella gestione domestica, ma non necessariamente estrema                                             |
+| Consenso cartaceo firmato ottenuto prima dell'intervista? | Da compilare                                                                                                                       |
+| Membri del gruppo presenti e ruoli                        | Giuliana (partecipante), intervistatore                                                                                            |
+| Durata effettiva                                          | 35 minuti                                                                                                                          |
+| Osservazione / contextual inquiry svolta?                 | Non documentata                                                                                                                    |
+| Materiali raccolti e autorizzazioni pertinenti            | Nessun materiale registrato nella scheda                                                                                           |
 
 ## Scheda risposte alle domande
 
