@@ -1,4 +1,5 @@
 {
   "cssTheme": "",
-  "theme": "system"
+  "theme": "system",
+  "showRibbon": true
 }
